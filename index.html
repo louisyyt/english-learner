@@ -1,0 +1,1383 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TED Talks Daily 深度英语精学系统 · Louis Yu</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎙️</text></svg>">
+  <style>
+    :root {
+      --bg-main: #0b0f17;
+      --panel-bg: #111823;
+      --card-bg: #16202e;
+      --card-hover: #1c2a3d;
+      --accent: #e62b1e; /* TED Red */
+      --accent-hover: #ff3b30;
+      --accent-orange: #f0883e;
+      --text-main: #e2e8f0;
+      --text-muted: #8b9bb4;
+      --text-white: #ffffff;
+      --border: #233044;
+      --font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg-main);
+      color: var(--text-main);
+      font-family: var(--font-stack);
+      min-height: 100vh;
+      overflow-x: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Top Navigation */
+    header.site-header {
+      background: rgba(17, 24, 35, 0.92);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      padding: 14px 28px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .brand-area {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      cursor: pointer;
+    }
+
+    .ted-pill {
+      background: var(--accent);
+      color: #fff;
+      font-weight: 900;
+      padding: 4px 10px;
+      border-radius: 4px;
+      font-size: 0.95rem;
+      letter-spacing: 0.5px;
+    }
+
+    .brand-title {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--text-white);
+      letter-spacing: -0.3px;
+    }
+
+    .brand-sub {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      border-left: 1px solid var(--border);
+      padding-left: 12px;
+      margin-left: 4px;
+    }
+
+    .nav-actions {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+
+    .btn-back-home {
+      display: none;
+      align-items: center;
+      gap: 6px;
+      background: #1c2a3d;
+      border: 1px solid var(--border);
+      color: #fff;
+      padding: 6px 14px;
+      border-radius: 20px;
+      font-size: 0.82rem;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .btn-back-home:hover {
+      background: var(--accent);
+      border-color: var(--accent);
+    }
+
+    .site-nav-link {
+      color: var(--text-muted);
+      text-decoration: none;
+      font-size: 0.85rem;
+      transition: color 0.2s;
+    }
+
+    .site-nav-link:hover {
+      color: var(--text-white);
+    }
+
+    /* VIEW 1: Showcase Waterfall Gallery */
+    #galleryView {
+      max-width: 1360px;
+      margin: 0 auto;
+      padding: 32px 24px 60px;
+      width: 100%;
+      transition: opacity 0.3s;
+    }
+
+    .hero-banner {
+      background: linear-gradient(135deg, #182030 0%, #0e141f 100%);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 36px 40px;
+      margin-bottom: 36px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero-banner::after {
+      content: "TED";
+      position: absolute;
+      right: -20px;
+      bottom: -35px;
+      font-size: 11rem;
+      font-weight: 900;
+      color: rgba(255, 255, 255, 0.025);
+      pointer-events: none;
+      line-height: 1;
+    }
+
+    .hero-text h2 {
+      font-size: 1.8rem;
+      color: var(--text-white);
+      margin-bottom: 10px;
+      font-weight: 700;
+    }
+
+    .hero-text p {
+      font-size: 0.95rem;
+      color: var(--text-muted);
+      line-height: 1.6;
+      max-width: 680px;
+    }
+
+    .hero-stats {
+      display: flex;
+      gap: 24px;
+      flex-shrink: 0;
+    }
+
+    .stat-box {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 10px;
+      padding: 12px 18px;
+      text-align: center;
+    }
+
+    .stat-val {
+      font-size: 1.4rem;
+      font-weight: 700;
+      color: var(--accent-orange);
+    }
+
+    .stat-label {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      margin-top: 2px;
+    }
+
+    /* Filter Bar */
+    .filter-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 24px;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .filter-tabs {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .filter-btn {
+      background: #141b26;
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      padding: 6px 14px;
+      border-radius: 20px;
+      font-size: 0.8rem;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .filter-btn:hover {
+      background: #1f2b3d;
+      color: var(--text-white);
+    }
+
+    .filter-btn.active {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+      font-weight: 600;
+    }
+
+    /* Waterfall Grid */
+    .waterfall-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 26px;
+    }
+
+    .waterfall-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      overflow: hidden;
+      cursor: pointer;
+      transition: all 0.28s ease;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+    }
+
+    .waterfall-card:hover {
+      transform: translateY(-6px);
+      border-color: #3b506e;
+      box-shadow: 0 14px 30px rgba(0, 0, 0, 0.45);
+    }
+
+    .card-cover-wrap {
+      position: relative;
+      width: 100%;
+      height: 200px;
+      overflow: hidden;
+      background: #101620;
+    }
+
+    .card-cover-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.4s ease;
+    }
+
+    .waterfall-card:hover .card-cover-img {
+      transform: scale(1.04);
+    }
+
+    .card-badge-dur {
+      position: absolute;
+      top: 12px;
+      right: 12px;
+      background: rgba(0, 0, 0, 0.75);
+      backdrop-filter: blur(6px);
+      color: #fff;
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 4px 8px;
+      border-radius: 6px;
+      font-family: monospace;
+    }
+
+    .card-badge-clean {
+      position: absolute;
+      top: 12px;
+      left: 12px;
+      background: rgba(35, 134, 54, 0.85);
+      backdrop-filter: blur(6px);
+      color: #fff;
+      font-size: 0.72rem;
+      font-weight: 600;
+      padding: 3px 8px;
+      border-radius: 6px;
+    }
+
+    .card-body {
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+    }
+
+    .card-category {
+      font-size: 0.74rem;
+      color: var(--accent-orange);
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 6px;
+    }
+
+    .card-title-en {
+      font-size: 1.08rem;
+      font-weight: 700;
+      color: var(--text-white);
+      line-height: 1.4;
+      margin-bottom: 6px;
+    }
+
+    .card-title-cn {
+      font-size: 0.88rem;
+      color: var(--text-muted);
+      line-height: 1.45;
+      margin-bottom: 12px;
+    }
+
+    .card-quote-box {
+      background: rgba(255, 255, 255, 0.03);
+      border-left: 2px solid var(--accent);
+      padding: 8px 12px;
+      border-radius: 0 6px 6px 0;
+      font-size: 0.78rem;
+      color: #c9d1d9;
+      line-height: 1.5;
+      margin-bottom: 16px;
+      flex: 1;
+    }
+
+    .card-meta-foot {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-top: 1px solid rgba(255, 255, 255, 0.06);
+      padding-top: 12px;
+      margin-top: auto;
+    }
+
+    .speaker-name {
+      font-size: 0.82rem;
+      color: #cbd5e1;
+      font-weight: 500;
+    }
+
+    .btn-enter-study {
+      background: #1b2636;
+      border: 1px solid var(--border);
+      color: #fff;
+      padding: 5px 12px;
+      border-radius: 6px;
+      font-size: 0.76rem;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      transition: all 0.2s;
+    }
+
+    .waterfall-card:hover .btn-enter-study {
+      background: var(--accent);
+      border-color: var(--accent);
+    }
+
+    /* VIEW 2: Study Gym (Embedded SPA Mode) */
+    #studyView {
+      display: none;
+      flex: 1;
+      height: calc(100vh - 61px);
+      overflow: hidden;
+    }
+
+    .study-layout {
+      display: grid;
+      grid-template-columns: 1.25fr 1fr;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    /* Study Left Panel */
+    .study-left {
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      background: var(--panel-bg);
+      overflow: hidden;
+    }
+
+    .audio-player-bar {
+      padding: 14px 22px;
+      background: #0f1622;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      flex-shrink: 0;
+    }
+
+    audio {
+      width: 100%;
+      height: 38px;
+      outline: none;
+    }
+
+    .player-controls {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 0.82rem;
+    }
+
+    .toggle-group {
+      display: flex;
+      gap: 8px;
+    }
+
+    .btn-toggle {
+      background: #1b2636;
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      padding: 5px 12px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 0.76rem;
+      transition: all 0.2s;
+    }
+
+    .btn-toggle:hover {
+      background: #26354a;
+      color: var(--text-main);
+    }
+
+    .btn-toggle.active {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
+
+    .transcript-scroll {
+      flex: 1;
+      overflow-y: auto;
+      padding: 18px 22px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+
+    .sentence-block {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 14px 16px;
+      cursor: pointer;
+      transition: all 0.2s;
+      position: relative;
+    }
+
+    .sentence-block:hover {
+      border-color: #3b506e;
+      background: var(--card-hover);
+    }
+
+    .sentence-block.playing {
+      border-color: var(--accent);
+      background: #1b1c2b;
+      box-shadow: 0 0 12px rgba(230, 43, 30, 0.15);
+    }
+
+    .block-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 8px;
+    }
+
+    .time-chip {
+      font-size: 0.74rem;
+      font-family: monospace;
+      color: var(--accent-orange);
+      background: #f0883e15;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-weight: 600;
+    }
+
+    .block-title {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      margin-left: 8px;
+      flex: 1;
+    }
+
+    .btn-loop {
+      background: transparent;
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 0.72rem;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .btn-loop:hover {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
+
+    .original-text {
+      font-size: 0.95rem;
+      line-height: 1.55;
+      color: var(--text-white);
+      margin-bottom: 6px;
+    }
+
+    .trans-text {
+      font-size: 0.85rem;
+      line-height: 1.45;
+      color: var(--text-muted);
+      transition: opacity 0.2s;
+    }
+
+    .hide-chinese .trans-text {
+      display: none;
+    }
+
+    /* Study Right Panel */
+    .study-right {
+      display: flex;
+      flex-direction: column;
+      overflow-y: auto;
+      padding: 22px;
+      gap: 18px;
+      background: #0d121a;
+    }
+
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 18px;
+    }
+
+    .card h3 {
+      font-size: 0.95rem;
+      color: var(--text-white);
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .tag {
+      font-size: 0.7rem;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-weight: normal;
+    }
+
+    .tag-spoken { background: #8957e533; color: #d2a8ff; border: 1px solid #8957e566; }
+    .tag-grammar { background: #1f6feb33; color: #79c0ff; border: 1px solid #1f6feb66; }
+    .tag-vocab { background: #23863633; color: #7ee787; border: 1px solid #23863666; }
+
+    .gym-steps {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 8px;
+      margin-bottom: 12px;
+    }
+
+    .gym-step-item {
+      background: #1b2636;
+      border-radius: 6px;
+      padding: 10px 6px;
+      text-align: center;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      border: 1px solid transparent;
+      cursor: pointer;
+      user-select: none;
+      transition: all 0.2s;
+    }
+
+    .gym-step-item:hover {
+      border-color: var(--accent-orange);
+      color: #fff;
+    }
+
+    .gym-step-item.active {
+      border-color: var(--accent-orange);
+      color: var(--accent-orange);
+      background: #f0883e15;
+      font-weight: bold;
+    }
+
+    .step-guidance {
+      background: #141c28;
+      border-left: 3px solid var(--accent-orange);
+      padding: 10px 12px;
+      border-radius: 0 6px 6px 0;
+      font-size: 0.78rem;
+      color: #c9d1d9;
+      margin-bottom: 12px;
+      line-height: 1.5;
+    }
+
+    .quote-selector {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 12px;
+    }
+
+    .quote-pill {
+      background: #1b2636;
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      padding: 4px 10px;
+      border-radius: 14px;
+      font-size: 0.74rem;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .quote-pill:hover {
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    .quote-pill.active {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+      font-weight: bold;
+    }
+
+    .shadowing-box {
+      background: #101620;
+      border: 1px dashed var(--border);
+      border-radius: 6px;
+      padding: 14px;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      align-items: center;
+    }
+
+    .quote-action-bar {
+      display: flex;
+      gap: 8px;
+      width: 100%;
+      margin-top: 4px;
+    }
+
+    .btn-action-listen {
+      flex: 1;
+      padding: 8px 12px;
+      border-radius: 6px;
+      background: #1c283a;
+      border: 1px solid var(--border);
+      color: #f0f6fc;
+      font-size: 0.78rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      transition: all 0.2s;
+    }
+
+    .btn-action-listen:hover {
+      background: #2b3b52;
+      border-color: var(--accent);
+    }
+
+    .btn-action-listen.looping {
+      background: #e62b1e25;
+      border-color: var(--accent);
+      color: #ff6b6b;
+    }
+
+    .record-btn {
+      background: #da3633;
+      border: none;
+      color: #fff;
+      padding: 8px 20px;
+      border-radius: 20px;
+      font-weight: 500;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      transition: transform 0.1s, background 0.2s;
+      font-size: 0.82rem;
+    }
+
+    .record-playback {
+      width: 100%;
+      display: none;
+      margin-top: 6px;
+    }
+
+    .key-points-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .point-item {
+      font-size: 0.85rem;
+      line-height: 1.45;
+    }
+
+    .point-item strong {
+      color: #f0f6fc;
+    }
+
+    .interactive-point {
+      cursor: pointer;
+      transition: all 0.2s;
+      border-radius: 4px;
+      padding: 4px 6px;
+      margin: -4px -6px;
+    }
+
+    .interactive-point:hover {
+      background: rgba(255, 255, 255, 0.06);
+      color: #ff8080;
+    }
+
+    .phonetic-guide {
+      font-size: 0.78rem;
+      color: var(--accent-orange);
+      background: #f0883e10;
+      padding: 3px 8px;
+      border-radius: 4px;
+      display: inline-block;
+      font-family: monospace;
+    }
+
+    /* Modal for unreleased episodes */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.7);
+      backdrop-filter: blur(6px);
+      z-index: 1000;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .modal-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 24px;
+      max-width: 440px;
+      width: 90%;
+      text-align: center;
+    }
+
+    .modal-card h4 {
+      font-size: 1.1rem;
+      color: #fff;
+      margin-bottom: 8px;
+    }
+
+    .modal-card p {
+      font-size: 0.86rem;
+      color: var(--text-muted);
+      line-height: 1.5;
+      margin-bottom: 18px;
+    }
+
+    .modal-btn {
+      background: var(--accent);
+      color: #fff;
+      border: none;
+      padding: 8px 20px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 0.85rem;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Site Navigation Header -->
+  <header class="site-header">
+    <div class="brand-area" onclick="showGalleryView()">
+      <span class="ted-pill">TED</span>
+      <div class="brand-title">Talks Daily</div>
+      <div class="brand-sub">全篇深度口语精学舱 · english.louisyu.top</div>
+    </div>
+    <div class="nav-actions">
+      <button class="btn-back-home" id="btnBackHome" onclick="showGalleryView()">
+        <span>← 返回瀑布流大厅</span>
+      </button>
+      <a href="https://louisyu.top" class="site-nav-link" target="_blank">主站</a>
+      <a href="https://jp.louisyu.top" class="site-nav-link" target="_blank">日语学习</a>
+    </div>
+  </header>
+
+  <!-- VIEW 1: Waterfall Gallery Showcase -->
+  <main id="galleryView">
+    <div class="hero-banner">
+      <div class="hero-text">
+        <h2>TED Talks Daily 口语全篇精学大厅</h2>
+        <p>彻底剔除播客原音频开头的商业广告与片尾杂音，保留 100% 纯净现场演讲正文。配合毫秒级双语时间戳对照、地道口语拆解与 Echo Loop 4步刻意练习舱，带你真正吃透每一期原声思想。</p>
+      </div>
+      <div class="hero-stats">
+        <div class="stat-box">
+          <div class="stat-val">100%</div>
+          <div class="stat-label">无广告纯正文</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-val">0ms</div>
+          <div class="stat-label">毫秒级跳转</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-val">Echo</div>
+          <div class="stat-label">4步刻意练习</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Filter Buttons -->
+    <div class="filter-bar">
+      <div class="filter-tabs">
+        <button class="filter-btn active" onclick="filterCategory('all', this)">全部精选 (All)</button>
+        <button class="filter-btn" onclick="filterCategory('艺术与科技', this)">艺术与科技</button>
+        <button class="filter-btn" onclick="filterCategory('领导力与社会', this)">领导力与社会</button>
+        <button class="filter-btn" onclick="filterCategory('心理与健康', this)">心理与健康</button>
+        <button class="filter-btn" onclick="filterCategory('沟通与会话', this)">沟通与会话</button>
+        <button class="filter-btn" onclick="filterCategory('前沿科学', this)">前沿科学</button>
+      </div>
+      <div style="font-size: 0.8rem; color: var(--text-muted);">
+        点击任意剧集封面直接进入全篇精学舱
+      </div>
+    </div>
+
+    <!-- Waterfall Cards Grid -->
+    <div class="waterfall-grid" id="waterfallGrid">
+      <!-- Injected via JS -->
+    </div>
+  </main>
+
+  <!-- VIEW 2: Interactive Study Gym (SPA) -->
+  <section id="studyView">
+    <div class="study-layout">
+      <!-- Left Column: Audio + Transcript -->
+      <div class="study-left">
+        <div class="audio-player-bar">
+          <audio id="mainAudio" controls preload="auto">
+            <source src="audio/gabriella-clean.mp3" type="audio/mpeg" />
+            您的浏览器不支持音频播放。
+          </audio>
+          <div class="player-controls">
+            <div class="toggle-group">
+              <button class="btn-toggle" id="btnToggleTrans">中英双语 / 仅英文</button>
+              <button class="btn-toggle" id="btnToggleLoop">单句循环 [关]</button>
+            </div>
+            <div style="color: var(--text-muted);" id="playbackTip">
+              点击文稿任意段落可精确跳转播放
+            </div>
+          </div>
+        </div>
+
+        <div class="transcript-scroll" id="transcriptContainer">
+          <!-- Populated by JS with calibrated segments -->
+        </div>
+      </div>
+
+      <!-- Right Column: Echo Loop Gym + Language Teaching -->
+      <div class="study-right">
+        <!-- Echo Loop Step Box -->
+        <div class="card">
+          <h3>🔁 Echo Loop 口语刻意练习舱</h3>
+          <div class="gym-steps" id="gymSteps">
+            <div class="gym-step-item active" data-step="1">1. 盲听捕捉</div>
+            <div class="gym-step-item" data-step="2">2. 声学精听</div>
+            <div class="gym-step-item" data-step="3">3. 影子跟读</div>
+            <div class="gym-step-item" data-step="4">4. 自主复述</div>
+          </div>
+
+          <div class="step-guidance" id="stepGuidance">
+            🎧 <strong>步骤 1：盲听捕捉 (Blind Listening)</strong><br/>
+            不看文字，点击下方金句循环聆听 2-3 遍，在大脑中建立纯粹的听觉回声。
+          </div>
+
+          <div style="font-size: 0.75rem; color: var(--text-muted); margin-bottom: 6px;">选择训练金句：</div>
+          <div class="quote-selector" id="quoteSelector">
+            <!-- Populated by JS -->
+          </div>
+
+          <div class="shadowing-box">
+            <div style="font-size: 0.86rem; color: var(--text-white); font-weight: 500;" id="activeShadowSentence">
+              "I kid you not, I would not shut up."
+            </div>
+            <div class="phonetic-guide" id="activePhonetic">
+              连读注音: [aɪ-kɪdʒu-nɑt] ➔ [wʊd-nɑt-ʃʌ-tʌp]
+            </div>
+
+            <div class="quote-action-bar">
+              <button class="btn-action-listen" id="btnPlayTarget">
+                <span>▶ 播放原句</span>
+              </button>
+              <button class="btn-action-listen" id="btnLoopTarget">
+                <span>🔁 循环单句</span>
+              </button>
+            </div>
+
+            <button class="record-btn" id="btnRecord">
+              <span>🔴 开始录音跟读</span>
+            </button>
+            <audio id="recordPlayback" class="record-playback" controls></audio>
+          </div>
+        </div>
+
+        <!-- Spoken English Expressions -->
+        <div class="card">
+          <h3>💬 黄金口语表达 <span class="tag tag-spoken">Spoken Fluency</span></h3>
+          <ul class="key-points-list">
+            <li class="point-item interactive-point" onclick="selectTrainingSentence(1)">
+              <strong>I kid you not (01:10)</strong>：真的不骗你、绝无虚言。<br />
+              <span style="color: var(--text-muted);">例：I started reading and, I kid you not, finished it in one sitting.</span>
+            </li>
+            <li class="point-item interactive-point" onclick="selectTrainingSentence(2)">
+              <strong>Fair enough (02:45)</strong>：有道理、说得在理。<br />
+              <span style="color: var(--text-muted);">例："We need to prepare before jumping in." — "Fair enough."</span>
+            </li>
+            <li class="point-item interactive-point" onclick="selectTrainingSentence(3)">
+              <strong>... makes absolutely no sense (03:28)</strong>：完全讲不通、毫无逻辑。
+            </li>
+            <li class="point-item interactive-point" onclick="selectTrainingSentence(4)">
+              <strong>... is here to stay (05:02)</strong>：已成定局、大势所趋。<br />
+              <span style="color: var(--text-muted);">例：AI technology is here to stay; we must adapt to it.</span>
+            </li>
+            <li class="point-item interactive-point" onclick="selectTrainingSentence(2)">
+              <strong>... or what? (02:42)</strong>：到底做不做 / 怎样？（催促口语）
+            </li>
+          </ul>
+        </div>
+
+        <!-- Grammar in Context -->
+        <div class="card">
+          <h3>📐 语境语法拆解 <span class="tag tag-grammar">Grammar in Context</span></h3>
+          <ul class="key-points-list">
+            <li class="point-item interactive-point" onclick="selectTrainingSentence(0)">
+              <strong>时间转折与叙事引出 (00:50)</strong><br />
+              <code>I never really thought about that until ..., when I was ...</code><br />
+              <span style="color: var(--text-muted);">核心考点：not/never ... until ...（直到……才……）衔接非限制定语从句讲述人生转折点。</span>
+            </li>
+            <li class="point-item interactive-point" onclick="selectTrainingSentence(5)">
+              <strong>设想号召与虚拟语气 (05:36)</strong><br />
+              <code>What if every tech company making AI music would invest in ...?</code><br />
+              <span style="color: var(--text-muted);">核心考点：What if + 假想情况，用于倡议与震撼性设问。</span>
+            </li>
+            <li class="point-item interactive-point" onclick="selectTrainingSentence(6)">
+              <strong>被动动量表达 (05:49)</strong><br />
+              <code>What gets heard is chosen, and those choices will shape ...</code><br />
+              <span style="color: var(--text-muted);">核心考点：get + done 在口语中比 be + done 更有动态挑选感。</span>
+            </li>
+          </ul>
+        </div>
+
+        <!-- Collocations & Nuance -->
+        <div class="card">
+          <h3>📚 词汇与地道搭配 <span class="tag tag-vocab">Collocations</span></h3>
+          <ul class="key-points-list">
+            <li class="point-item">
+              <strong>uncover over 18,000 composers</strong>：发掘出尘封的音乐家（不用孤立的 discover）
+            </li>
+            <li class="point-item">
+              <strong>across genres</strong>：跨越各个艺术流派
+            </li>
+            <li class="point-item">
+              <strong>proper remuneration</strong>：合理的酬金与回报（法律与商务高级词）
+            </li>
+            <li class="point-item">
+              <strong>learn from that same silence</strong>：从同样的沉默中吸收学习
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Modal for Coming Soon episodes -->
+  <div class="modal-overlay" id="comingSoonModal" onclick="closeModal()">
+    <div class="modal-card" onclick="event.stopPropagation()">
+      <h4 id="modalTitle">剧集正在精编中</h4>
+      <p id="modalDesc">本期剧集音频正在自动化去广告处理与文稿校准中，请先体验第一期《The Missing Half of Music History》！</p>
+      <button class="modal-btn" onclick="closeModal()">我知道了</button>
+    </div>
+  </div>
+
+  <script>
+    const episodes = [{"id": "gabriella-di-laccio", "slug": "gabriella-di-laccio-the-missing-half-of-music-history", "title": "The Missing Half of Music History", "chineseTitle": "音乐史上缺失的另一半：被遗忘的女性旋律与 AI 偏见", "speaker": "Gabriella Di Laccio", "speakerTitle": "女高音歌唱家 · DONNE 基金会创始人", "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_181354/450999ec-9bb2-4142-b5be-4439c36604ef/GabriellaDiLaccio_2026-embed.jpg?quality=85&w=800", "duration": "07:43", "fullDuration": "10:29", "rawAdTrimmed": "✂️ 已剔除 4分12秒广告", "category": "艺术与科技", "difficulty": "B2 中高阶", "tags": ["AI 伦理", "古典音乐", "女性历史", "Ted Talk"], "date": "2026-08-30", "quote": "What gets heard is chosen, and those choices will shape what the future will remember.", "quoteTranslation": "能被听到的声音是经过选择的，而那些选择将决定未来会记住什么。", "hasFullStudy": true, "audioUrl": "audio/gabriella-clean.mp3"}, {"id": "ryosuke-takashima", "slug": "meet-the-youngest-ever-mayor-in-japans-history", "title": "Meet the Youngest-Ever Mayor in Japan's History", "chineseTitle": "对话日本史上最年轻市长：青年治城与公共创新", "speaker": "Ryosuke Takashima", "speakerTitle": "日本芦屋市市长 · 哈佛毕业生", "cover": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=800&q=80", "duration": "12:15", "fullDuration": "34:44", "rawAdTrimmed": "✂️ 纯演讲版待解锁", "category": "领导力与社会", "difficulty": "B2 进阶", "tags": ["公共治理", "青年变革", "跨文化交流"], "date": "2026-09-02", "quote": "Leadership is not about knowing all the answers, but about asking the questions that bring people together.", "quoteTranslation": "领导力不是掌握所有答案，而是提出能让所有人团结在一起的问题。", "hasFullStudy": false}, {"id": "awareness-meditation", "slug": "how-to-tap-into-your-awareness-and-why-meditation-matters", "title": "How to Tap into Your Awareness -- and Why Meditation Matters", "chineseTitle": "如何唤醒深层觉察：为什么冥想比以往更重要", "speaker": "Mingyur Rinpoche", "speakerTitle": "冥想导师 · 畅销书作家", "cover": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=800&q=80", "duration": "09:40", "fullDuration": "12:53", "rawAdTrimmed": "✂️ 纯演讲版待解锁", "category": "心理与健康", "difficulty": "B1 中级", "tags": ["正念觉察", "大脑神经", "焦虑释放"], "date": "2026-08-28", "quote": "Awareness is like space. Space never changes, no matter whether there are clouds, stars, or storms.", "quoteTranslation": "觉察就像虚空。无论飘过云朵、繁星还是风暴，虚空从未改变。", "hasFullStudy": false}, {"id": "make-or-break-conversation", "slug": "the-60-seconds-that-make-or-break-a-conversation", "title": "The 60 Seconds That Make or Break a Conversation", "chineseTitle": "决定对话成败的 60 秒：建立深度同频的社交法则", "speaker": "Celeste Headlee", "speakerTitle": "资深访谈主播 · 沟通力畅销书作者", "cover": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=800&q=80", "duration": "10:05", "fullDuration": "13:13", "rawAdTrimmed": "✂️ 纯演讲版待解锁", "category": "沟通与会话", "difficulty": "B2 实用口语", "tags": ["人际沟通", "倾听法则", "职场高情商"], "date": "2026-08-25", "quote": "If your mouth is open, you're not learning.", "quoteTranslation": "只要你的嘴还开着，你就没有在倾听与学习。", "hasFullStudy": false}, {"id": "sound-of-universe", "slug": "this-is-what-the-birth-of-the-universe-sounded-like", "title": "This Is What the Birth of the Universe Sounded Like", "chineseTitle": "听见宇宙大爆炸的初啼：天体物理与引力波声学", "speaker": "Janna Levin", "speakerTitle": "哥伦比亚大学天体物理学家 · 理论宇宙学者", "cover": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80", "duration": "11:20", "fullDuration": "15:35", "rawAdTrimmed": "✂️ 纯演讲版待解锁", "category": "前沿科学", "difficulty": "C1 高阶学术", "tags": ["黑洞声波", "引力波", "宇宙学"], "date": "2026-08-20", "quote": "Black holes can collide and ring like mallets hitting bells, drumming on the very fabric of space-time.", "quoteTranslation": "黑洞相撞时，就像重锤敲响了宇宙编钟，在时空的琴弦上擂响战鼓。", "hasFullStudy": false}, {"id": "art-of-novel", "slug": "the-art-of-the-novel", "title": "The Art of the Novel and Staying True to Voice", "chineseTitle": "小说的虚构艺术：在速朽时代守护真实的声音", "speaker": "Ann Patchett", "speakerTitle": "普利策奖入围作家 · 独立书店创办人", "cover": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=800&q=80", "duration": "13:45", "fullDuration": "55:22", "rawAdTrimmed": "✂️ 纯演讲版待解锁", "category": "文学与写作", "difficulty": "B2 深度叙事", "tags": ["文学叙事", "创作心得", "故事力"], "date": "2026-08-15", "quote": "Writing is a state of sustained imagination where reality gives way to human truth.", "quoteTranslation": "写作是一种持续的想象状态，在此之中，现实为更深的人性真实让路。", "hasFullStudy": false}];
+    const segments = [{"id": 1, "time": "00:00", "seconds": 0.0, "endSeconds": 26.4, "title": "开场清唱导入 (Opening Chant)", "original": "(Singing Comtessa de Dia melody...)", "translation": "（无伴奏高音吟唱中世纪法国女作曲家迪亚伯爵夫人的流传古旋律……）", "isVocal": true}, {"id": 2, "time": "00:26", "seconds": 26.4, "endSeconds": 82.5, "title": "900年孤独与旧书摊的震惊发现", "original": "This song is almost 900 years old. It was written by Comtessa de Dia, a poet and composer from medieval southern France. It is the only surviving melody written by a woman from that entire tradition. So let me start with the question: who decides which voices survive? I never really thought about that until a few years ago, when I was working in a second-hand book market in London, and I found an encyclopedia that listed 6,000 women composers in the history of music. I could not believe it because at that time I think I could name five. But as soon as I started looking into their names and listening to this incredible music, I kid you not, I would not shut up. Well I haven't shut up. I'm here. And I just am sharing this music with everybody all the time. In fact, please allow me.", "translation": "这首歌已有将近 900 年的历史了。它是由中世纪法国南部的诗人兼作曲家迪亚伯爵夫人所作。这是那个时代完整传统中，由女性谱写的唯一流传至今的旋律。那么，请允许我以这样一个问题开始：究竟是谁在决定，哪些声音能够流传下来？直到几年前，我从未真正思考过这个问题。当时我在伦敦的一家二手旧书市场工作，偶然发现了一本百科全书，里面列出了音乐史上 6,000 位女性作曲家。我简直不敢相信，因为在那个时候，我觉得自己顶多只能说出 5 个名字。但当我开始查阅她们的名字、聆听这些令人震撼的音乐时——没骗你，我根本停不下来。好吧，到现在我也没停过，我就站在这里。我一直在不停地与所有人分享这些音乐。事实上，请允许我放一段给大家听。"}, {"id": 3, "time": "01:22", "seconds": 82.5, "endSeconds": 132.8, "title": "现场乐曲赏析 (Music Interlude)", "original": "(Music: Classical strings mixed with Afro-American romantic dance rhythms playing on stage...)", "translation": "（现场播放音乐片段：古典弦乐融合非裔美国人浪漫舞蹈节拍……）", "isVocal": true}, {"id": 4, "time": "02:12", "seconds": 132.8, "endSeconds": 146.5, "title": "台下互动与丈夫的日常调侃", "original": "I mean, can you believe that? Did you hear all the classical strings? The Afro-American dances mixed with the romantic music? Well welcome to my husband's life in 2018. (Laughter)", "translation": "我是说，你们能相信吗？你们听到那些古典弦乐了吗？融合了浪漫主义音乐的非裔美国人舞蹈节奏？好吧，欢迎体验我丈夫在 2018 年的生活状态。（笑声）"}, {"id": 5, "time": "02:26", "seconds": 146.5, "endSeconds": 163.2, "title": "铁路工程师丈夫的幽默自嘲", "original": "Now, my husband, he's a railway engineer, which means he's now the railway engineer who knows the most about women composers in the whole world. (Laughter) I know, it's not a very competitive field, but still. (Laughter)", "translation": "我丈夫是个铁路工程师，这意味着他现在成了全世界上最了解女性作曲家的铁路工程师。（笑声）我知道，这并不是一个竞争多么激烈的领域，但这依然很厉害。（笑声）"}, {"id": 6, "time": "02:43", "seconds": 163.2, "endSeconds": 208.5, "title": "从早餐碎碎念到创立 18,000 人全球基金会", "original": "So one day he said to me, 'Look, it's very nice that you're playing this music by these women at breakfast for like, I don't know, a year now. But you do understand that nothing is going to happen if you just tell me. I'm an engineer. So are you going to do something or what?' And I was like, 'Fair enough.' So I did. I made a list of these incredible women. I put it online, and within months, women from all over the world started writing to me and they said, 'Thank you so much for what you're doing. I'm a composer. Could you please add me to your list?' And I tell you, this list continues to grow. It is now a foundation, and we are now uncovering over 18,000 women composers in the history of music. (Applause)", "translation": "于是有一天他对我说：‘听着，你每天吃早餐时放这些女性作曲家的音乐，都放了大概一年了，这确实挺好。但你应该明白，只跟我讲，这个世界不会发生任何改变。我是个工程师。所以你到底打不打算做点什么？’ 我当时心想：‘说得在理。’ 于是我行动了。我为这些杰出的女性整理了一份清单发布到网上。几个月之内，全世界的女性开始给我写信：‘太感谢你的付出了。我也是一名作曲家，能把我也加进你的名单吗？’ 我告诉大家，这份名单还在不断壮大。它现在已经变成了一个基金会，我们已经在音乐史上发掘出了超过 18,000 位女性作曲家。（掌声）"}, {"id": 7, "time": "03:28", "seconds": 208.5, "endSeconds": 284.5, "title": "职业音乐人的认知反思与 90% 悬殊差距", "original": "Now this story makes absolutely no sense. I'm a professional musician. How is it possible that I spent my life training and performing without hearing about thousands of women who wrote beautiful music? Well when I started doing my own research, and I came across the data, then it became clear because, it turns out, that nearly 90 percent of the music we hear across genres is written by men. That's a very big gap. Can you imagine all the amazing music we've been all missing all this time? But also that AI is now learning from that same silence. On one platform only, more than 50,000 AI-generated tracks are added every single day. The systems can only learn from the data available to them, but right now that data is missing. Half of humanity's creativity. Now I believe musicians should be writing music, not machines. (Applause)", "translation": "仔细想想，这整件事根本毫无逻辑。我是一名受过专业训练的职业音乐人。我怎么可能花了一辈子在训练和演出，却从未听说过成千上万谱写出绝美旋律的女性？当我开始自己动手调研并看到真实数据时，一切真相大白：事实证明，我们在所有流派中听到的音乐里，近 90% 都是由男性创作的。这是个巨大的鸿沟。你能想象我们一直以来错过了多少动人心魄的音乐吗？更可怕的是，人工智能现在正在从这种同样的历史沉默中吸收养分。仅在某一个平台上，每天就会上传超过 50,000 首由 AI 生成的音轨。AI 系统只能从现存可用数据中学习，但眼下这些数据是残缺的——人类一半的创造力在其中缺席了。我坚信，写音乐的应该是音乐家，而不是机器。（掌声）"}, {"id": 8, "time": "04:44", "seconds": 284.5, "endSeconds": 302.0, "title": "艺术伦理：未经许可与报酬使用创作是错误的", "original": "There are millions of talented people who can do that. Writing music fills our soul ... as humans. And to generate music from artists' work without their consent or proper remuneration is wrong. (Applause and cheers)", "translation": "世界上有数以百万计才华横溢的人能够创作音乐。创作音乐滋养着我们作为人类的灵魂。而未经艺术家同意、不给予合理报酬，就用他们的作品来生成音乐，这是不道德的。（掌声与欢呼）"}, {"id": 9, "time": "05:02", "seconds": 302.0, "endSeconds": 333.5, "title": "正视技术浪潮：通过录制让尘封作品重现光芒", "original": "But the technology is here to stay. So let's make sure all voices are heard, right? So how do we do that? It's actually quite easy. We must record the missing voices -- the historical ones, but also the current ones who are not represented. Because a recording makes this music searchable, teachable, and part of the systems shaping what the world will hear next. It brings this music to classrooms, to radio stations, to streaming platforms so everybody in this room can play and share it.", "translation": "然而技术浪潮不可阻挡。所以我们必须确保所有的声音都能被听见，对吗？那我们该怎么做？其实非常简单。我们必须把那些缺失的声音录制下来——包括历史上的，也包括当下未被充分代表的声音。因为录音让这些音乐变得可检索、可教学，并成为塑造未来世界听觉系统的一部分。它能把这些作品带入教室、电台和流媒体平台，让在场的每个人都能演奏与分享。"}, {"id": 10, "time": "05:33", "seconds": 333.5, "endSeconds": 365.2, "title": "向科技巨头的郑重倡议：被听见的才是被铭记的", "original": "So here's my invitation. What if every tech company making AI music and anyone profiting from it would invest in making our musical catalog more complete? Can you imagine? What gets heard is chosen, and those choices will shape what the future will remember. So who decides which voices survive? Now more than ever, we do.", "translation": "因此，这是我的倡议：如果每家研发 AI 音乐的科技公司以及从中获利的各方，都能投资去完善我们的音乐馆藏，那会怎样？你能想象吗？能被听到的声音是经过选择的，而那些选择将决定未来会记住什么。那么，究竟是谁在决定哪些声音能够流传？比以往任何时候都更确定的是：决定权在我们手里。"}, {"id": 11, "time": "06:05", "seconds": 365.2, "endSeconds": 425.0, "title": "集中营里埋在工具棚下的摇篮曲《Wiegala》", "original": "And I want to leave you all with one woman's story. Ilse Weber was a poet, a singer who was imprisoned in the ghetto of Theresienstadt during World War II with her family. As she was there, she didn't write symphonies, but she wrote songs to entertain the elderly and the children. That's the power of music. And that was the gift of one woman. She and her son sadly died in Auschwitz, but her husband buried her manuscripts under a tool shed, and because of that, a few of her songs survived. This one is a lullaby. It's called 'Wiegala'.", "translation": "最后，我想给大家留下一个女性的故事。伊尔丝·韦伯（Ilse Weber）是一位诗人和歌唱家，二战期间她与家人一起被囚禁在特雷津集中营隔离区。在那里，她没有创作交响乐，而是写歌来抚慰老人和孩子们。这就是音乐的力量，也是一个普通女性的奉献。遗憾的是，她和儿子最终在奥斯威辛遇难，但她的丈夫把她的乐谱手稿埋在了一个工具棚下面，正因如此，她的几首歌才得以留存人世。这首是一首摇篮曲，叫作《Wiegala》。"}, {"id": 12, "time": "07:05", "seconds": 425.0, "endSeconds": 463.5, "title": "历史沉默的震撼收尾与全场掌声", "original": "(Singing 'Wiegala'...) (Song stops abruptly) [If you can't hear this part, perhaps history never recorded it.] Artificial intelligence is learning. Let's teach it to remember the sounds of all of us. Thank you. (Applause)", "translation": "（现场演唱摇篮曲《Wiegala》……）（歌声戛然而止）[如果你听不到这一部分，也许是因为历史从未将它记录下来。] 人工智能正在学习。让我们教会它去铭记我们所有人的声音。谢谢大家。（全场热烈掌声）"}];
+
+    const trainingSentences = [
+      {
+        title: "I never thought (00:50)",
+        sentence: "I never really thought about that until a few years ago, when I was working in a second-hand book market in London...",
+        phonetic: "连读注音: [ˈnev-ər-ˈriː-ə-li-θɔːt] ➔ [ən-ˈtɪl-ə-fjuː-jɪərz-ə-ˈɡoʊ]",
+        start: 50.18,
+        end: 63.5,
+        segmentId: 2
+      },
+      {
+        title: "I kid you not (01:10)",
+        sentence: "I kid you not, I would not shut up. Well I haven't shut up. I'm here.",
+        phonetic: "连读注音: [aɪ-kɪdʒu-nɑt] ➔ [wʊd-nɑt-ʃʌ-tʌp]",
+        start: 70.0,
+        end: 78.0,
+        segmentId: 2
+      },
+      {
+        title: "Fair enough (02:45)",
+        sentence: "So are you going to do something or what? And I was like, 'Fair enough.' So I did.",
+        phonetic: "连读注音: [feər-ɪ-ˈnʌf] ➔ [soʊ-aɪ-dɪd]",
+        start: 175.0,
+        end: 183.0,
+        segmentId: 6
+      },
+      {
+        title: "Makes no sense (03:28)",
+        sentence: "Now this story makes absolutely no sense. I'm a professional musician.",
+        phonetic: "连读注音: [meɪks-ˌæb-sə-ˈluːt-li-noʊ-sens]",
+        start: 208.5,
+        end: 217.5,
+        segmentId: 7
+      },
+      {
+        title: "Here to stay (05:02)",
+        sentence: "And to generate music from artists' work without their consent or proper remuneration is wrong. But the technology is here to stay.",
+        phonetic: "连读注音: [hɪər-tə-steɪ] (大势所趋)",
+        start: 291.0,
+        end: 305.0,
+        segmentId: 9
+      },
+      {
+        title: "What if (05:36)",
+        sentence: "What if every tech company making AI music and anyone profiting from it would invest in making our musical catalog more complete?",
+        phonetic: "连读注音: [wʌ-tɪf-ˈev-ri-tek-ˈkʌm-pə-ni]",
+        start: 333.5,
+        end: 347.0,
+        segmentId: 10
+      },
+      {
+        title: "Gets heard (05:49)",
+        sentence: "What gets heard is chosen, and those choices will shape what the future will remember.",
+        phonetic: "连读注音: [wʌt-ɡets-hɜːrd-ɪz-ˈtʃoʊ-zn̩]",
+        start: 349.0,
+        end: 358.0,
+        segmentId: 10
+      }
+    ];
+
+    // =====================================
+    // 渲染瀑布流画廊
+    // =====================================
+    const waterfallGrid = document.getElementById('waterfallGrid');
+    function renderGallery(items) {
+      waterfallGrid.innerHTML = '';
+      items.forEach(ep => {
+        const card = document.createElement('div');
+        card.className = 'waterfall-card';
+        card.onclick = () => onCardClick(ep);
+
+        card.innerHTML = `
+          <div class="card-cover-wrap">
+            <img src="${ep.cover}" alt="${ep.title}" class="card-cover-img" loading="lazy" />
+            <span class="card-badge-dur">⏱️ ${ep.duration}</span>
+            <span class="card-badge-clean">${ep.rawAdTrimmed}</span>
+          </div>
+          <div class="card-body">
+            <div class="card-category">${ep.category} · ${ep.difficulty}</div>
+            <h3 class="card-title-en">${ep.title}</h3>
+            <div class="card-title-cn">${ep.chineseTitle}</div>
+            <div class="card-quote-box">
+              “${ep.quote}”
+            </div>
+            <div class="card-meta-foot">
+              <span class="speaker-name">${ep.speaker}</span>
+              <button class="btn-enter-study">
+                ${ep.hasFullStudy ? '进入精学舱 ▶' : '筹备中 🔒'}
+              </button>
+            </div>
+          </div>
+        `;
+        waterfallGrid.appendChild(card);
+      });
+    }
+
+    function filterCategory(cat, btn) {
+      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      if (cat === 'all') {
+        renderGallery(episodes);
+      } else {
+        const filtered = episodes.filter(e => e.category === cat);
+        renderGallery(filtered);
+      }
+    }
+
+    // =====================================
+    // 页面视图切换 (Waterfall vs Study SPA)
+    // =====================================
+    const galleryView = document.getElementById('galleryView');
+    const studyView = document.getElementById('studyView');
+    const btnBackHome = document.getElementById('btnBackHome');
+
+    function onCardClick(ep) {
+      if (ep.hasFullStudy) {
+        galleryView.style.display = 'none';
+        studyView.style.display = 'block';
+        btnBackHome.style.display = 'inline-flex';
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      } else {
+        document.getElementById('modalTitle').textContent = ep.title;
+        document.getElementById('modalDesc').textContent = `《${ep.chineseTitle}》音频去广告与双语字幕对齐正在自动构建中，当前可直接点击第一期《The Missing Half of Music History》开始学习！`;
+        document.getElementById('comingSoonModal').style.display = 'flex';
+      }
+    }
+
+    function showGalleryView() {
+      studyView.style.display = 'none';
+      galleryView.style.display = 'block';
+      btnBackHome.style.display = 'none';
+      // pause audio
+      document.getElementById('mainAudio').pause();
+    }
+
+    function closeModal() {
+      document.getElementById('comingSoonModal').style.display = 'none';
+    }
+
+    // =====================================
+    // 精学舱播放器与文稿控制
+    // =====================================
+    const audio = document.getElementById('mainAudio');
+    const container = document.getElementById('transcriptContainer');
+    let loopCurrent = false;
+    let activeBlockId = null;
+
+    segments.forEach(p => {
+      const block = document.createElement('div');
+      block.className = 'sentence-block';
+      block.id = `block-${p.id}`;
+      block.innerHTML = `
+        <div class="block-header">
+          <span class="time-chip">▶ ${p.time}</span>
+          <span class="block-title">${p.title}</span>
+          <button class="btn-loop" title="循环此段">🔁 循环此段</button>
+        </div>
+        <div class="original-text">${p.original}</div>
+        <div class="trans-text">${p.translation}</div>
+      `;
+
+      block.addEventListener('click', (e) => {
+        if (e.target.classList.contains('btn-loop')) {
+          e.stopPropagation();
+          setLoopBlock(p);
+          return;
+        }
+        audio.currentTime = p.seconds;
+        audio.play();
+        setActiveBlock(p.id);
+      });
+
+      container.appendChild(block);
+    });
+
+    function setActiveBlock(id) {
+      document.querySelectorAll('.sentence-block').forEach(el => el.classList.remove('playing'));
+      const target = document.getElementById(`block-${id}`);
+      if (target) {
+        target.classList.add('playing');
+        target.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      }
+      activeBlockId = id;
+    }
+
+    function setLoopBlock(p) {
+      loopCurrent = true;
+      document.getElementById('btnToggleLoop').classList.add('active');
+      document.getElementById('btnToggleLoop').textContent = `单句循环 [第 ${p.id} 段]`;
+      audio.currentTime = p.seconds;
+      audio.play();
+      setActiveBlock(p.id);
+    }
+
+    audio.addEventListener('timeupdate', () => {
+      const cur = audio.currentTime;
+      if (loopCurrent && activeBlockId) {
+        const p = segments.find(item => item.id === activeBlockId);
+        if (p && cur >= p.endSeconds) {
+          audio.currentTime = p.seconds;
+          audio.play();
+          return;
+        }
+      }
+
+      const active = segments.find(p => cur >= p.seconds && cur < p.endSeconds);
+      if (active && active.id !== activeBlockId) {
+        setActiveBlock(active.id);
+      }
+    });
+
+    const btnToggleTrans = document.getElementById('btnToggleTrans');
+    btnToggleTrans.addEventListener('click', () => {
+      container.classList.toggle('hide-chinese');
+      btnToggleTrans.classList.toggle('active');
+    });
+
+    const btnToggleLoop = document.getElementById('btnToggleLoop');
+    btnToggleLoop.addEventListener('click', () => {
+      loopCurrent = !loopCurrent;
+      btnToggleLoop.classList.toggle('active', loopCurrent);
+      btnToggleLoop.textContent = loopCurrent ? '单句循环 [开]' : '单句循环 [关]';
+    });
+
+    // =====================================
+    // Echo Loop 练习舱
+    // =====================================
+    let currentSentenceIdx = 1;
+    let isLoopingTarget = false;
+
+    const stepTips = {
+      1: "🎧 <strong>步骤 1：盲听捕捉 (Blind Listening)</strong><br/>先不看左侧屏幕文本，闭上眼睛，点击下方【循环单句】听 2-3 遍，大脑只关注母语者的语调起伏与重音停顿，在脑海建立回音。",
+      2: "🔍 <strong>步骤 2：声学精听 (Precision Acoustic)</strong><br/>对照下方的【连读注音】与原句，拆解吞音（失爆）、连读和弱读细节，确认听到的声音与文字的一一对应。",
+      3: "🗣️ <strong>步骤 3：影子跟读 (Shadowing)</strong><br/>点击【开始录音跟读】，以 0.2-0.5 秒延迟同步跟随原声朗读，模仿主讲人的节奏感与重音语气，结束后听自己的录音对比。",
+      4: "💡 <strong>步骤 4：自主复述 (Recall & Produce)</strong><br/>暂停原声，离开文本，尝试用自己的声音完整、自信地脱口说出该金句，并结合生活场景造句。"
+    };
+
+    const quoteSelector = document.getElementById('quoteSelector');
+    function initQuotePills() {
+      quoteSelector.innerHTML = '';
+      trainingSentences.forEach((item, idx) => {
+        const pill = document.createElement('div');
+        pill.className = `quote-pill ${idx === currentSentenceIdx ? 'active' : ''}`;
+        pill.textContent = item.title;
+        pill.addEventListener('click', () => {
+          selectTrainingSentence(idx);
+        });
+        quoteSelector.appendChild(pill);
+      });
+    }
+
+    window.selectTrainingSentence = function(idx) {
+      currentSentenceIdx = idx;
+      const target = trainingSentences[idx];
+      document.getElementById('activeShadowSentence').innerHTML = `<strong>"${target.sentence}"</strong>`;
+      document.getElementById('activePhonetic').textContent = target.phonetic;
+      
+      document.querySelectorAll('.quote-pill').forEach((el, i) => {
+        el.classList.toggle('active', i === idx);
+      });
+
+      setActiveBlock(target.segmentId);
+
+      isLoopingTarget = false;
+      document.getElementById('btnLoopTarget').classList.remove('looping');
+      document.getElementById('btnLoopTarget').querySelector('span').textContent = '🔁 循环单句';
+    };
+
+    document.querySelectorAll('.gym-step-item').forEach(stepEl => {
+      stepEl.addEventListener('click', () => {
+        document.querySelectorAll('.gym-step-item').forEach(el => el.classList.remove('active'));
+        stepEl.classList.add('active');
+        const step = parseInt(stepEl.getAttribute('data-step'), 10);
+        document.getElementById('stepGuidance').innerHTML = stepTips[step];
+
+        if (step === 1) {
+          container.classList.add('hide-chinese');
+          btnToggleTrans.classList.add('active');
+        } else if (step === 2) {
+          container.classList.remove('hide-chinese');
+          btnToggleTrans.classList.remove('active');
+        }
+      });
+    });
+
+    const btnPlayTarget = document.getElementById('btnPlayTarget');
+    const btnLoopTarget = document.getElementById('btnLoopTarget');
+
+    btnPlayTarget.addEventListener('click', () => {
+      isLoopingTarget = false;
+      btnLoopTarget.classList.remove('looping');
+      btnLoopTarget.querySelector('span').textContent = '🔁 循环单句';
+      
+      const target = trainingSentences[currentSentenceIdx];
+      audio.currentTime = target.start;
+      audio.play();
+    });
+
+    btnLoopTarget.addEventListener('click', () => {
+      isLoopingTarget = !isLoopingTarget;
+      btnLoopTarget.classList.toggle('looping', isLoopingTarget);
+      btnLoopTarget.querySelector('span').textContent = isLoopingTarget ? '⏹️ 停止循环' : '🔁 循环单句';
+
+      if (isLoopingTarget) {
+        const target = trainingSentences[currentSentenceIdx];
+        audio.currentTime = target.start;
+        audio.play();
+      }
+    });
+
+    audio.addEventListener('timeupdate', () => {
+      if (isLoopingTarget) {
+        const target = trainingSentences[currentSentenceIdx];
+        if (audio.currentTime >= target.end) {
+          audio.currentTime = target.start;
+          audio.play();
+        }
+      }
+    });
+
+    // Recording Logic
+    let mediaRecorder = null;
+    let audioChunks = [];
+    const btnRecord = document.getElementById('btnRecord');
+    const recordPlayback = document.getElementById('recordPlayback');
+
+    btnRecord.addEventListener('click', async () => {
+      if (!mediaRecorder || mediaRecorder.state === 'inactive') {
+        try {
+          const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+          mediaRecorder = new MediaRecorder(stream);
+          audioChunks = [];
+          mediaRecorder.ondataavailable = e => audioChunks.push(e.data);
+          mediaRecorder.onstop = () => {
+            const audioBlob = new Blob(audioChunks, { type: 'audio/webm' });
+            const audioUrl = URL.createObjectURL(audioBlob);
+            recordPlayback.src = audioUrl;
+            recordPlayback.style.display = 'block';
+          };
+          mediaRecorder.start();
+          btnRecord.classList.add('recording');
+          btnRecord.innerHTML = '<span>⏹️ 停止录音并回放</span>';
+        } catch (err) {
+          alert('无法访问麦克风：' + err.message);
+        }
+      } else if (mediaRecorder.state === 'recording') {
+        mediaRecorder.stop();
+        btnRecord.classList.remove('recording');
+        btnRecord.innerHTML = '<span>🔴 重新录音跟读</span>';
+      }
+    });
+
+    // Init
+    renderGallery(episodes);
+    initQuotePills();
+  </script>
+</body>
+</html>
