@@ -3,6 +3,9 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
   <title>TED Talks Daily 深度英语精学系统 · Louis Yu</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎙️</text></svg>">
   <style>
@@ -1393,7 +1396,11 @@
       items.forEach(ep => {
         const card = document.createElement('div');
         card.className = 'waterfall-card';
-        card.onclick = () => openStudyView(ep);
+        card.setAttribute('data-episode-id', ep.id);
+        card.onclick = (e) => {
+          e.preventDefault();
+          openStudyView(ep, true);
+        };
 
         card.innerHTML = `
           <div class="card-cover-wrap">
@@ -1424,23 +1431,47 @@
     }
 
     // =====================================
-    // SPA View Switch
+    // SPA View Switch & Hash Routing
     // =====================================
-    function openStudyView(ep) {
+    function openStudyView(ep, updateHash = true) {
+      if (!ep) return;
       currentEpisode = ep;
       galleryView.style.display = 'none';
       studyView.style.display = 'block';
       btnBackHome.style.display = 'inline-flex';
       window.scrollTo({ top: 0, behavior: 'smooth' });
       populateStudyView(ep);
+
+      if (updateHash) {
+        window.location.hash = `#/study/${ep.id}`;
+      }
     }
 
-    function showGalleryView() {
+    function showGalleryView(updateHash = true) {
       studyView.style.display = 'none';
       galleryView.style.display = 'block';
       btnBackHome.style.display = 'none';
       mainAudio.pause();
+
+      if (updateHash) {
+        window.location.hash = '#/';
+      }
     }
+
+    function handleHashChange() {
+      const hash = window.location.hash || '';
+      if (hash.startsWith('#/study/')) {
+        const epId = hash.replace('#/study/', '').trim();
+        const targetEp = EPISODES.find(e => e.id === epId);
+        if (targetEp) {
+          openStudyView(targetEp, false);
+          return;
+        }
+      }
+      showGalleryView(false);
+    }
+
+    window.addEventListener('hashchange', handleHashChange);
 
     // =====================================
     // Populate Study View
@@ -1794,6 +1825,7 @@
     // =====================================
     renderSubCategories();
     applyFilters();
+    handleHashChange();
   </script>
 </body>
 </html>
