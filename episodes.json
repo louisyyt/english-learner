@@ -10,19 +10,149 @@
     "duration": "07:43",
     "fullDuration": "10:29",
     "rawAdTrimmed": "✂️ 已剔除 4分12秒广告",
-    "category": "艺术与科技",
+    "category": "人文与艺术",
     "difficulty": "B2 中高阶",
     "tags": [
-      "AI 伦理",
+      "女性作曲家",
       "古典音乐",
-      "女性历史",
-      "Ted Talk"
+      "文化传承"
     ],
     "date": "2026-08-30",
     "quote": "What gets heard is chosen, and those choices will shape what the future will remember.",
     "quoteTranslation": "能被听到的声音是经过选择的，而那些选择将决定未来会记住什么。",
     "hasFullStudy": true,
-    "audioUrl": "https://audio.louisyu.top/gabriella-clean.mp3"
+    "audioUrl": "https://audio.louisyu.top/gabriella-clean.mp3",
+    "subCategory": "女性音乐史",
+    "segments": [
+      {
+        "time": "00:00",
+        "title": "开场清唱导入 (Opening Chant)",
+        "original": "(Singing Comtessa de Dia melody...)",
+        "translation": "（无伴奏高音吟唱中世纪法国女作曲家迪亚伯爵夫人的流传古旋律……）"
+      },
+      {
+        "time": "00:26",
+        "title": "900年孤独与旧书摊的震惊发现",
+        "original": "This song is almost 900 years old. It was written by Comtessa de Dia, a poet and composer from medieval southern France. It is the only surviving melody written by a woman from that entire tradition. So let me start with the question: who decides which voices survive? I never really thought about that until a few years ago, when I was working in a second-hand book market in London, and I found an encyclopedia that listed 6,000 women composers in the history of music. I could not believe it because at that time I think I could name five. But as soon as I started looking into their names and listening to this incredible music, I kid you not, I would not shut up. Well I haven't shut up. I'm here. And I just am sharing this music with everybody all the time. In fact, please allow me.",
+        "translation": "这首歌已有将近 900 年的历史了。它是由中世纪法国南部的诗人兼作曲家迪亚伯爵夫人所作。这是那个时代完整传统中，由女性谱写的唯一流传至今的旋律。那么，请允许我以这样一个问题开始：究竟是谁在决定，哪些声音能够流传下来？直到几年前，我从未真正思考过这个问题。当时我在伦敦的一家二手旧书市场工作，偶然发现了一本百科全书，里面列出了音乐史上 6,000 位女性作曲家。我简直不敢相信，因为在那个时候，我觉得自己顶多只能说出 5 个名字。但当我开始查阅她们的名字、聆听这些令人震撼的音乐时——没骗你，我根本停不下来。好吧，到现在我也没停过，我就站在这里。我一直在不停地与所有人分享这些音乐。事实上，请允许我放一段给大家听。"
+      },
+      {
+        "time": "01:22",
+        "title": "现场乐曲赏析 (Music Interlude)",
+        "original": "(Music: Classical strings mixed with Afro-American romantic dance rhythms playing on stage...)",
+        "translation": "（现场播放音乐片段：古典弦乐融合非裔美国人浪漫舞蹈节拍……）"
+      },
+      {
+        "time": "02:12",
+        "title": "台下互动与丈夫的日常调侃",
+        "original": "I mean, can you believe that? Did you hear all the classical strings? The Afro-American dances mixed with the romantic music? Well welcome to my husband's life in 2018. (Laughter)",
+        "translation": "我是说，你们能相信吗？你们听到那些古典弦乐了吗？融合了浪漫主义音乐的非裔美国人舞蹈节奏？好吧，欢迎体验我丈夫在 2018 年的生活状态。（笑声）"
+      },
+      {
+        "time": "02:26",
+        "title": "铁路工程师丈夫的幽默自嘲",
+        "original": "Now, my husband, he's a railway engineer, which means he's now the railway engineer who knows the most about women composers in the whole world. (Laughter) I know, it's not a very competitive field, but still. (Laughter)",
+        "translation": "我丈夫是个铁路工程师，这意味着他现在成了全世界上最了解女性作曲家的铁路工程师。（笑声）我知道，这并不是一个竞争多么激烈的领域，但这依然很厉害。（笑声）"
+      },
+      {
+        "time": "02:43",
+        "title": "从早餐碎碎念到创立 18,000 人全球基金会",
+        "original": "So one day he said to me, 'Look, it's very nice that you're playing this music by these women at breakfast for like, I don't know, a year now. But you do understand that nothing is going to happen if you just tell me. I'm an engineer. So are you going to do something or what?' And I was like, 'Fair enough.' So I did. I made a list of these incredible women. I put it online, and within months, women from all over the world started writing to me and they said, 'Thank you so much for what you're doing. I'm a composer. Could you please add me to your list?' And I tell you, this list continues to grow. It is now a foundation, and we are now uncovering over 18,000 women composers in the history of music. (Applause)",
+        "translation": "于是有一天他对我说：‘听着，你每天吃早餐时放这些女性作曲家的音乐，都放了大概一年了，这确实挺好。但你应该明白，只跟我讲，这个世界不会发生任何改变。我是个工程师。所以你到底打不打算做点什么？’ 我当时心想：‘说得在理。’ 于是我行动了。我为这些杰出的女性整理了一份清单发布到网上。几个月之内，全世界的女性开始给我写信：‘太感谢你的付出了。我也是一名作曲家，能把我也加进你的名单吗？’ 我告诉大家，这份名单还在不断壮大。它现在已经变成了一个基金会，我们已经在音乐史上发掘出了超过 18,000 位女性作曲家。（掌声）"
+      },
+      {
+        "time": "03:28",
+        "title": "职业音乐人的认知反思与 90% 悬殊差距",
+        "original": "Now this story makes absolutely no sense. I'm a professional musician. How is it possible that I spent my life training and performing without hearing about thousands of women who wrote beautiful music? Well when I started doing my own research, and I came across the data, then it became clear because, it turns out, that nearly 90 percent of the music we hear across genres is written by men. That's a very big gap. Can you imagine all the amazing music we've been all missing all this time? But also that AI is now learning from that same silence. On one platform only, more than 50,000 AI-generated tracks are added every single day. The systems can only learn from the data available to them, but right now that data is missing. Half of humanity's creativity. Now I believe musicians should be writing music, not machines. (Applause)",
+        "translation": "仔细想想，这整件事根本毫无逻辑。我是一名受过专业训练的职业音乐人。我怎么可能花了一辈子在训练和演出，却从未听说过成千上万谱写出绝美旋律的女性？当我开始自己动手调研并看到真实数据时，一切真相大白：事实证明，我们在所有流派中听到的音乐里，近 90% 都是由男性创作的。这是个巨大的鸿沟。你能想象我们一直以来错过了多少动人心魄的音乐吗？更可怕的是，人工智能现在正在从这种同样的历史沉默中吸收养分。仅在某一个平台上，每天就会上传超过 50,000 首由 AI 生成的音轨。AI 系统只能从现存可用数据中学习，但眼下这些数据是残缺的——人类一半的创造力在其中缺席了。我坚信，写音乐的应该是音乐家，而不是机器。（掌声）"
+      },
+      {
+        "time": "04:44",
+        "title": "艺术伦理：未经许可与报酬使用创作是错误的",
+        "original": "There are millions of talented people who can do that. Writing music fills our soul ... as humans. And to generate music from artists' work without their consent or proper remuneration is wrong. (Applause and cheers)",
+        "translation": "世界上有数以百万计才华横溢的人能够创作音乐。创作音乐滋养着我们作为人类的灵魂。而未经艺术家同意、不给予合理报酬，就用他们的作品来生成音乐，这是不道德的。（掌声与欢呼）"
+      },
+      {
+        "time": "05:02",
+        "title": "正视技术浪潮：通过录制让尘封作品重现光芒",
+        "original": "But the technology is here to stay. So let's make sure all voices are heard, right? So how do we do that? It's actually quite easy. We must record the missing voices -- the historical ones, but also the current ones who are not represented. Because a recording makes this music searchable, teachable, and part of the systems shaping what the world will hear next. It brings this music to classrooms, to radio stations, to streaming platforms so everybody in this room can play and share it.",
+        "translation": "然而技术浪潮不可阻挡。所以我们必须确保所有的声音都能被听见，对吗？那我们该怎么做？其实非常简单。我们必须把那些缺失的声音录制下来——包括历史上的，也包括当下未被充分代表的声音。因为录音让这些音乐变得可检索、可教学，并成为塑造未来世界听觉系统的一部分。它能把这些作品带入教室、电台和流媒体平台，让在场的每个人都能演奏与分享。"
+      },
+      {
+        "time": "05:33",
+        "title": "向科技巨头的郑重倡议：被听见的才是被铭记的",
+        "original": "So here's my invitation. What if every tech company making AI music and anyone profiting from it would invest in making our musical catalog more complete? Can you imagine? What gets heard is chosen, and those choices will shape what the future will remember. So who decides which voices survive? Now more than ever, we do.",
+        "translation": "因此，这是我的倡议：如果每家研发 AI 音乐的科技公司以及从中获利的各方，都能投资去完善我们的音乐馆藏，那会怎样？你能想象吗？能被听到的声音是经过选择的，而那些选择将决定未来会记住什么。那么，究竟是谁在决定哪些声音能够流传？比以往任何时候都更确定的是：决定权在我们手里。"
+      },
+      {
+        "time": "06:05",
+        "title": "集中营里埋在工具棚下的摇篮曲《Wiegala》",
+        "original": "And I want to leave you all with one woman's story. Ilse Weber was a poet, a singer who was imprisoned in the ghetto of Theresienstadt during World War II with her family. As she was there, she didn't write symphonies, but she wrote songs to entertain the elderly and the children. That's the power of music. And that was the gift of one woman. She and her son sadly died in Auschwitz, but her husband buried her manuscripts under a tool shed, and because of that, a few of her songs survived. This one is a lullaby. It's called 'Wiegala'.",
+        "translation": "最后，我想给大家留下一个女性的故事。伊尔丝·韦伯（Ilse Weber）是一位诗人和歌唱家，二战期间她与家人一起被囚禁在特雷津集中营隔离区。在那里，她没有创作交响乐，而是写歌来抚慰老人和孩子们。这就是音乐的力量，也是一个普通女性的奉献。遗憾的是，她和儿子最终在奥斯威辛遇难，但她的丈夫把她的乐谱手稿埋在了一个工具棚下面，正因如此，她的几首歌才得以留存人世。这首是一首摇篮曲，叫作《Wiegala》。"
+      },
+      {
+        "time": "07:05",
+        "title": "历史沉默的震撼收尾与全场掌声",
+        "original": "(Singing 'Wiegala'...) (Song stops abruptly) [If you can't hear this part, perhaps history never recorded it.] Artificial intelligence is learning. Let's teach it to remember the sounds of all of us. Thank you. (Applause)",
+        "translation": "（现场演唱摇篮曲《Wiegala》……）（歌声戛然而止）[如果你听不到这一部分，也许是因为历史从未将它记录下来。] 人工智能正在学习。让我们教会它去铭记我们所有人的声音。谢谢大家。（全场热烈掌声）"
+      }
+    ],
+    "spoken": [
+      {
+        "phrase": "I kid you not",
+        "timestamp": "01:10",
+        "meaning": "真的不骗你、绝无虚言（高阶口语情感强化）",
+        "quote": "But as soon as I started looking into their names, I kid you not, I would not shut up.",
+        "pronunciation": "/aɪ kɪdʒu nɑt/ - kid 的 /d/ 与 you 的 /j/ 发生同化连读。"
+      },
+      {
+        "phrase": "Fair enough",
+        "timestamp": "02:38",
+        "meaning": "有道理、说得在理（赞同对方合理要求）",
+        "quote": "So are you going to do something or what? And I was like, 'Fair enough.'",
+        "pronunciation": "/feər ɪˈnʌf/ - fair 尾辅音与 enough 首元音自然连读。"
+      },
+      {
+        "phrase": "... makes absolutely no sense",
+        "timestamp": "03:07",
+        "meaning": "完全讲不通、毫无逻辑",
+        "quote": "Now this story makes absolutely no sense. I'm a professional musician.",
+        "pronunciation": "absolutely 重音在第三音节，no sense 强语气。"
+      },
+      {
+        "phrase": "... is here to stay",
+        "timestamp": "04:40",
+        "meaning": "已成定局、大势所趋（不可逆的新潮流）",
+        "quote": "To generate music without proper remuneration is wrong. But the technology is here to stay.",
+        "pronunciation": "here to stay 语调平稳笃定。"
+      }
+    ],
+    "grammar": [
+      {
+        "name": "not/never ... until ... 句型",
+        "timestamp": "00:50",
+        "quote": "I never really thought about that until a few years ago, when I was working in a second-hand book market.",
+        "explanation": "直到……才……，用否定词 + until 强烈烘托认知发生剧变的转折时刻。"
+      },
+      {
+        "name": "What if ... 倡议性设问",
+        "timestamp": "05:36",
+        "quote": "What if every tech company making AI music would invest in real human composers?",
+        "explanation": "设想假定情况，引导听众反思科技与人文的共生可能。"
+      }
+    ],
+    "vocab": [
+      {
+        "collocation": "proper remuneration",
+        "meaning": "合理的酬金与报酬",
+        "detail": "法律与知识产权领域的严谨正式搭配。"
+      },
+      {
+        "collocation": "across genres",
+        "meaning": "跨越各个艺术/音乐流派",
+        "detail": "强调广泛涉猎不同风格与体裁。"
+      }
+    ]
   },
   {
     "id": "ryosuke-takashima",
@@ -38,9 +168,9 @@
     "category": "社会与治理",
     "difficulty": "B2 中高阶",
     "tags": [
-      "高效沟通",
-      "职场领导力",
-      "表达技巧"
+      "青年市长",
+      "倾听治理",
+      "社区信任"
     ],
     "date": "2026-09-04",
     "quote": "Leadership is not about having all the answers from day one. It is about holding the space to listen.",
@@ -108,7 +238,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "青年领袖"
   },
   {
     "id": "yongey-mingyur-rinpoche",
@@ -124,9 +255,9 @@
     "category": "个人成长与心理",
     "difficulty": "B2 中高阶",
     "tags": [
-      "人工智能",
-      "数字科技",
-      "前沿创新"
+      "正念冥想",
+      "觉知训练",
+      "焦虑化解"
     ],
     "date": "2026-09-02",
     "quote": "Short moments, many times. That is the secret to transforming your daily anxiety into peace.",
@@ -194,7 +325,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "正念觉知"
   },
   {
     "id": "chris-fenning",
@@ -210,9 +342,9 @@
     "category": "职场与沟通",
     "difficulty": "B2 中高阶",
     "tags": [
-      "高效沟通",
-      "职场领导力",
-      "表达技巧"
+      "60秒沟通",
+      "职场表达",
+      "沟通框架"
     ],
     "date": "2026-09-01",
     "quote": "Frame the conversation, state the purpose, and make the ask in sixty seconds.",
@@ -280,7 +412,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "高效表达"
   },
   {
     "id": "mark-whittle",
@@ -296,9 +429,9 @@
     "category": "自然与科学",
     "difficulty": "B2 中高阶",
     "tags": [
-      "高效沟通",
-      "职场领导力",
-      "表达技巧"
+      "宇宙大爆炸",
+      "太古之音",
+      "天体物理"
     ],
     "date": "2026-08-31",
     "quote": "The early universe was not silent; it was filled with deep harmonic sound waves traveling through cosmic plasma.",
@@ -366,7 +499,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "宇宙声学"
   },
   {
     "id": "ann-patchett",
@@ -382,9 +516,9 @@
     "category": "人文与艺术",
     "difficulty": "B2 中高阶",
     "tags": [
-      "人工智能",
-      "数字科技",
-      "前沿创新"
+      "小说艺术",
+      "虚构叙事",
+      "阅读力量"
     ],
     "date": "2026-08-29",
     "quote": "Fiction is not an escape from reality; fiction is the door through which we enter someone else's soul.",
@@ -452,7 +586,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "文学创作"
   },
   {
     "id": "trinity-tran",
@@ -468,9 +603,9 @@
     "category": "社会与治理",
     "difficulty": "B2 中高阶",
     "tags": [
-      "高效沟通",
-      "职场领导力",
-      "表达技巧"
+      "公共银行",
+      "社区资本",
+      "金融普惠"
     ],
     "date": "2026-08-28",
     "quote": "Public banks keep public dollars working for public good, not private extraction.",
@@ -538,7 +673,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "公共金融"
   },
   {
     "id": "maria-telesheva",
@@ -554,9 +690,9 @@
     "category": "人文与艺术",
     "difficulty": "B2 中高阶",
     "tags": [
-      "美学与设计",
-      "文学叙事",
-      "艺术灵感"
+      "手风琴",
+      "原声合成器",
+      "声场创新"
     ],
     "date": "2026-08-27",
     "quote": "The accordion is not just folk nostalgia; it is a portable acoustic synthesizer.",
@@ -624,7 +760,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "器乐声场"
   },
   {
     "id": "rebecca-toh",
@@ -640,9 +777,9 @@
     "category": "社会与治理",
     "difficulty": "B2 中高阶",
     "tags": [
-      "公共议题",
-      "社区创新",
-      "公民力量"
+      "众筹图书馆",
+      "陌生人连结",
+      "社区温度"
     ],
     "date": "2026-08-25",
     "quote": "When you give strangers a shared hearth, they build a sanctuary together.",
@@ -710,7 +847,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "社区共建"
   },
   {
     "id": "rapelang-rabana",
@@ -726,9 +864,9 @@
     "category": "社会与治理",
     "difficulty": "B2 中高阶",
     "tags": [
-      "人工智能",
-      "数字科技",
-      "前沿创新"
+      "非洲教育",
+      "自适应学习",
+      "数字基建"
     ],
     "date": "2026-08-24",
     "quote": "Education is not memorizing answers; education is mastering how to think and adapt.",
@@ -796,7 +934,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "教育公平"
   },
   {
     "id": "mark-rober",
@@ -812,9 +951,9 @@
     "category": "个人成长与心理",
     "difficulty": "B2 中高阶",
     "tags": [
-      "高效沟通",
-      "职场领导力",
-      "表达技巧"
+      "超级马里奥效应",
+      "抗挫折力",
+      "趣味学习"
     ],
     "date": "2026-08-22",
     "quote": "Focus on the princess you are trying to save, not the pits you fell into along the way.",
@@ -882,7 +1021,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "趣味心智"
   },
   {
     "id": "sandra-matz",
@@ -898,9 +1038,9 @@
     "category": "科技与AI",
     "difficulty": "B2 中高阶",
     "tags": [
-      "人工智能",
-      "数字科技",
-      "前沿创新"
+      "生成式AI",
+      "个性算法",
+      "数字伦理"
     ],
     "date": "2026-08-21",
     "quote": "Algorithms predict our average behavior, but human genius lies in our unique outliers.",
@@ -968,7 +1108,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "生成式AI"
   },
   {
     "id": "stephen-nobles",
@@ -984,9 +1125,9 @@
     "category": "个人成长与心理",
     "difficulty": "B2 中高阶",
     "tags": [
-      "心智模型",
-      "正念冥想",
-      "情绪管理"
+      "野草心智",
+      "顽强适应",
+      "终身成长"
     ],
     "date": "2026-08-20",
     "quote": "A weed is just a plant with ruthless adaptability and unbreakable will to thrive.",
@@ -1054,7 +1195,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "逆境韧性"
   },
   {
     "id": "susan-burton",
@@ -1070,9 +1212,9 @@
     "category": "社会与治理",
     "difficulty": "B2 中高阶",
     "tags": [
-      "人工智能",
-      "数字科技",
-      "前沿创新"
+      "刑释救助",
+      "女性尊严",
+      "重塑人生"
     ],
     "date": "2026-08-19",
     "quote": "Healing begins when we offer open doors instead of slamming cages.",
@@ -1140,7 +1282,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "刑释重生"
   },
   {
     "id": "matthew-prince",
@@ -1156,9 +1299,9 @@
     "category": "科技与AI",
     "difficulty": "B2 中高阶",
     "tags": [
-      "人工智能",
-      "数字科技",
-      "前沿创新"
+      "开放互联网",
+      "AI爬虫",
+      "版权与博弈"
     ],
     "date": "2026-08-18",
     "quote": "If content creators cannot survive the AI scraping wave, the web will become a desert.",
@@ -1226,7 +1369,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "互联网生态"
   },
   {
     "id": "saloni-dattani",
@@ -1242,9 +1386,9 @@
     "category": "自然与科学",
     "difficulty": "B2 中高阶",
     "tags": [
-      "美学与设计",
-      "文学叙事",
-      "艺术灵感"
+      "医学突破",
+      "致命谜题",
+      "终极治愈"
     ],
     "date": "2026-08-17",
     "quote": "Scientific breakthrough is only half the battle; delivery and access win the war.",
@@ -1312,7 +1456,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "现代医学"
   },
   {
     "id": "worklife-with-molly-graham",
@@ -1328,9 +1473,9 @@
     "category": "职场与沟通",
     "difficulty": "B2 中高阶",
     "tags": [
-      "高效沟通",
-      "职场领导力",
-      "表达技巧"
+      "层级稀释",
+      "工作乐高",
+      "组织进化"
     ],
     "date": "2026-08-16",
     "quote": "If you want your organization to scale, you must constantly give away your Legos.",
@@ -1398,7 +1543,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "职场进阶"
   },
   {
     "id": "priya-parker",
@@ -1414,9 +1560,9 @@
     "category": "职场与沟通",
     "difficulty": "B2 中高阶",
     "tags": [
-      "高效沟通",
-      "职场领导力",
-      "表达技巧"
+      "日常聚会",
+      "群体链接",
+      "活动设计"
     ],
     "date": "2026-08-15",
     "quote": "A gathering without a specific purpose is just polite hostage holding.",
@@ -1484,7 +1630,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "聚会设计"
   },
   {
     "id": "ron-finley",
@@ -1500,9 +1647,9 @@
     "category": "社会与治理",
     "difficulty": "B2 中高阶",
     "tags": [
-      "公共议题",
-      "社区创新",
-      "公民力量"
+      "街头播种",
+      "游击园艺",
+      "食物自主"
     ],
     "date": "2026-08-15",
     "quote": "Growing your own food is like printing your own money.",
@@ -1570,7 +1717,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "城市农耕"
   },
   {
     "id": "olivia-affuso",
@@ -1583,12 +1731,12 @@
     "duration": "08:59",
     "fullDuration": "11:08",
     "rawAdTrimmed": "已剔除片头片尾赞助广告",
-    "category": "个人成长与心理",
+    "category": "社会与治理",
     "difficulty": "B2 中高阶",
     "tags": [
-      "人工智能",
-      "数字科技",
-      "前沿创新"
+      "社交纽带",
+      "身心健康",
+      "长寿机制"
     ],
     "date": "2026-08-15",
     "quote": "Loneliness damages cardiovascular health just as severely as chronic smoking.",
@@ -1656,7 +1804,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "社区健康"
   },
   {
     "id": "jerome-hunter",
@@ -1672,9 +1821,9 @@
     "category": "个人成长与心理",
     "difficulty": "B2 中高阶",
     "tags": [
-      "人工智能",
-      "数字科技",
-      "前沿创新"
+      "少年成长",
+      "情绪智力",
+      "关键软技能"
     ],
     "date": "2026-08-15",
     "quote": "Boys do not need to be toughened up; boys need the emotional tools to stay whole.",
@@ -1742,7 +1891,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "少年成长"
   },
   {
     "id": "laura-miele",
@@ -1758,9 +1908,9 @@
     "category": "科技与AI",
     "difficulty": "B2 中高阶",
     "tags": [
-      "人工智能",
-      "数字科技",
-      "前沿创新"
+      "在线游戏",
+      "数字社交",
+      "情感连接"
     ],
     "date": "2026-08-15",
     "quote": "Play is the shortest bridge between two guarded, lonely human hearts.",
@@ -1828,7 +1978,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "游戏与连接"
   },
   {
     "id": "salehe-bembury",
@@ -1844,9 +1995,9 @@
     "category": "人文与艺术",
     "difficulty": "B2 中高阶",
     "tags": [
-      "高效沟通",
-      "职场领导力",
-      "表达技巧"
+      "球鞋设计",
+      "指纹美学",
+      "自然仿生"
     ],
     "date": "2026-08-14",
     "quote": "Nature already solved the hardest design problems; we just have to pay attention.",
@@ -1914,7 +2065,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "工业设计"
   },
   {
     "id": "mas-vocal",
@@ -1930,9 +2082,9 @@
     "category": "人文与艺术",
     "difficulty": "B2 中高阶",
     "tags": [
-      "美学与设计",
-      "文学叙事",
-      "艺术灵感"
+      "阿卡贝拉",
+      "纯人声重释",
+      "和声力量"
     ],
     "date": "2026-08-13",
     "quote": "Human voices joined in close harmony create a resonance no machine can synthesize.",
@@ -2000,93 +2152,95 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "阿卡贝拉"
   },
   {
     "id": "susan-cain-and-min-kym",
     "slug": "susan-cain-and-min-kym-the hidden power of sad songs ",
     "title": "The hidden power of sad songs and rainy days",
-    "chineseTitle": "走出铁窗后的重生之路：帮助数千名刑释女性重塑尊严",
+    "chineseTitle": "忧伤乐曲与雨天的心灵密码：为什么悲伤旋律能带来最深层的治愈",
     "speaker": "Susan Cain and Min Kym",
-    "speakerTitle": "A New Way of Life 创始人 · 人权倡导者",
+    "speakerTitle": "《安静》《苦乐参半》畅销书作者 · 思想家",
     "cover": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b74e715f-d47f-4722-9c83-1797455c674a/SusanCain_MinKym_2019T-1350x675.jpg",
     "duration": "15:44",
     "fullDuration": "18:37",
     "rawAdTrimmed": "已剔除片头片尾赞助广告",
-    "category": "社会与治理",
+    "category": "人文与艺术",
     "difficulty": "B2 中高阶",
     "tags": [
-      "人工智能",
-      "数字科技",
-      "前沿创新"
+      "忧伤音乐",
+      "深层共鸣",
+      "艺术治愈"
     ],
     "date": "2026-08-12",
-    "quote": "Healing begins when we offer open doors instead of slamming cages.",
-    "quoteTranslation": "治愈始于我们为迷途者敞开一扇门，而不是粗暴地关上一道铁笼。",
+    "quote": "Sad music is not about despair; it is a profound bridge that connects us to our shared humanity.",
+    "quoteTranslation": "忧伤的音乐从不是绝望的叹息；它是一座深邃的桥梁，将我们与全人类共通的心灵温柔相连。",
     "hasFullStudy": true,
     "audioUrl": "https://audio.louisyu.top/susan-cain-and-min-kym-clean.mp3",
     "segments": [
       {
         "time": "00:00",
-        "title": "开门见山：The hidden power of sad songs  的核心立论",
-        "original": "When we talk about this challenge, most people look in the wrong direction. Healing begins when we offer open doors instead of slamming cages.",
-        "translation": "当我们探讨这一核心议题时，多数人都找错了思考的方向。治愈始于我们为迷途者敞开一扇门，而不是粗暴地关上一道铁笼。"
+        "title": "为什么我们本能地迷恋忧伤的旋律",
+        "original": "Have you ever wondered why you like sad music? Do you find comfort or inspiration in rainy days?",
+        "translation": "你是否曾好奇过，自己为什么会本能地喜欢忧伤的音乐？你是否也在阴雨连绵的日子里找到过慰藉或灵感？"
       },
       {
         "time": "01:15",
-        "title": "破除固有偏见与思维盲区",
-        "original": "Have you ever wondered why you like sad music? Do you find comfort or inspiration in rainy days? In this profound, poetic talk, author Susan Cain invites you to embrace the feeling of longing -- or the place where joy an",
-        "translation": "要真正取得实质性突破，我们必须彻底解构日常惯性思维中那些未经审视的深层假设。"
+        "title": "渴望与思念：通往创造力与爱的隐秘之门",
+        "original": "In this profound, poetic talk, author Susan Cain invites you to embrace the feeling of longing as a gateway to creativity, connection and love.",
+        "translation": "在这场深邃而诗意的演讲中，作家苏珊·凯恩邀请你张开双臂接纳内心的渴望与惆怅——因为那正是通向创造力、共鸣与深沉爱意的大门。"
       },
       {
         "time": "03:00",
-        "title": "行动框架与破局方案",
-        "original": "Here is the framework that changes everything: observe without judgment, test small hypotheses, and stay deeply curious.",
-        "translation": "这是一套彻底改变局面的行动框架：保持全然不带批判的观察、小步验证核心假设，并对变化保持极度的求知欲。"
+        "title": "小提琴的琴弦震颤：在哀伤与欢愉的交汇处相遇",
+        "original": "Accompanied by the splendid sounds of violinist Min Kym, Cain meditates on how heartache unexpectedly brings us closer to the sublime beauty of life.",
+        "translation": "在小提琴家闵金优美动人的琴声伴奏下，凯恩静心沉思：心碎与阵痛是如何出人意料地让我们更贴近生命那摄人心魄的崇高之美。"
       },
       {
-        "time": "13:00",
-        "title": "赋能未来的启示与号召",
-        "original": "The future belongs not to those who cling to old certainties, but to those willing to co-create with their community.",
-        "translation": "未来从不属于那些死守陈旧确定性的人，而是属于那些愿意与社区共同进化、真诚共创的探索者。"
+        "time": "12:30",
+        "title": "我们从不孤独：全人类情感的终极连接",
+        "original": "Sad songs do not drag us down; they whisper the gentlest truth in the dark: that we are never truly alone.",
+        "translation": "忧伤的歌声从未将我们拖入深渊；它们在暗夜中向我们耳语着最温柔的真相：在这广袤的人世间，我们从未真正孤单。"
       }
     ],
     "spoken": [
       {
-        "phrase": "cut to the chase",
-        "timestamp": "00:50",
-        "meaning": "开门见山、直接切入实质问题",
-        "quote": "Let's cut to the chase and address what is truly holding us back.",
-        "pronunciation": "/kʌt tə ðə tʃeɪs/ - cut 与 to 自然弱读，chase 发强摩擦音。"
+        "phrase": "a gateway to ...",
+        "timestamp": "01:20",
+        "meaning": "通往……的必经之门 / 入口",
+        "quote": "Longing is not a flaw; it is a gateway to creativity, connection and love.",
+        "pronunciation": "/ə ˈɡeɪtweɪ tuː/ - gateway 重音在前，连读平滑轻柔。"
       },
       {
-        "phrase": "at the end of the day",
-        "timestamp": "03:15",
-        "meaning": "归根结底、说到底（论证收尾金句）",
-        "quote": "At the end of the day, it is our human connection that sustains long-term impact.",
-        "pronunciation": "day 与 of the day 节奏连贯轻快。"
+        "phrase": "bring us closer to ...",
+        "timestamp": "03:40",
+        "meaning": "让我们更加贴近……",
+        "quote": "Heartache unexpectedly brings us closer to the sublime beauty of life.",
+        "pronunciation": "closer to 快速衔接，sublime 重音在第二个音节。"
       }
     ],
     "grammar": [
       {
-        "name": "Not until ... did ... 倒装句型",
-        "timestamp": "02:10",
-        "quote": "Not until we faced the crisis directly did we realize the untapped strength inside our community.",
-        "explanation": "Not until 置于句首强化时间转折，主句采用一般过去时倒装（did we realize），极具演讲说服力。"
+        "name": "否定倒装与并列对比",
+        "timestamp": "02:40",
+        "quote": "Not only does sorrow allow us to feel, but it also opens the door to profound empathy.",
+        "explanation": "Not only 置于句首引起助动词 does 倒装，与 but also 紧密照应，提升语言感染力。"
       }
     ],
     "vocab": [
       {
-        "collocation": "paradigm shift",
-        "meaning": "范式转移 / 根本性思维转变",
-        "detail": "指从根本上推翻原有理论框架、建立全新世界观的质变。"
+        "collocation": "sublime beauty",
+        "meaning": "崇高而震撼人心的美",
+        "detail": "超越日常庸俗经验、触及灵魂深处的美感经验。"
       },
       {
-        "collocation": "collective resilience",
-        "meaning": "群体韧性 / 社区共同复原力",
-        "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
+        "collocation": "shared humanity",
+        "meaning": "人类共通的脆弱与情感",
+        "detail": "跨越国界与文化壁垒的情感纽带与共情本能。"
       }
-    ]
+    ],
+    "subCategory": "忧伤与共情"
   },
   {
     "id": "robbie-schingler",
@@ -2102,9 +2256,9 @@
     "category": "科技与AI",
     "difficulty": "B2 中高阶",
     "tags": [
-      "人工智能",
-      "数字科技",
-      "前沿创新"
+      "天基卫星",
+      "地球观测",
+      "环境监测"
     ],
     "date": "2026-08-11",
     "quote": "You cannot manage what you cannot see. Daily satellite imaging makes the invisible accountable.",
@@ -2172,7 +2326,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "卫星与地球监测"
   },
   {
     "id": "jon-alexander",
@@ -2188,9 +2343,9 @@
     "category": "社会与治理",
     "difficulty": "B2 中高阶",
     "tags": [
-      "高效沟通",
-      "职场领导力",
-      "表达技巧"
+      "公民力量",
+      "主体性",
+      "民主重构"
     ],
     "date": "2026-08-10",
     "quote": "Stop treating people as passive consumers; invite them to act as active citizens.",
@@ -2258,7 +2413,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "公民时代"
   },
   {
     "id": "bill-mckibben",
@@ -2274,9 +2430,9 @@
     "category": "自然与科学",
     "difficulty": "B2 中高阶",
     "tags": [
-      "高效沟通",
-      "职场领导力",
-      "表达技巧"
+      "地球降温",
+      "清洁能源",
+      "气候防线"
     ],
     "date": "2026-08-08",
     "quote": "The sun and wind deliver free, abundant energy every day. We just need the courage to plug in.",
@@ -2344,7 +2500,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "气候与能源"
   },
   {
     "id": "jessica-malaty-rivera",
@@ -2360,9 +2517,9 @@
     "category": "自然与科学",
     "difficulty": "B2 中高阶",
     "tags": [
-      "人工智能",
-      "数字科技",
-      "前沿创新"
+      "信息瘟疫",
+      "流行病学",
+      "科学传播"
     ],
     "date": "2026-08-07",
     "quote": "Facts alone do not change minds; empathetic clarity and credible messengers do.",
@@ -2430,7 +2587,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "科学辟谣"
   },
   {
     "id": "christina-costa",
@@ -2446,9 +2604,9 @@
     "category": "个人成长与心理",
     "difficulty": "B2 中高阶",
     "tags": [
-      "人工智能",
-      "数字科技",
-      "前沿创新"
+      "神经科学",
+      "大脑回路",
+      "感恩韧性"
     ],
     "date": "2026-08-06",
     "quote": "Gratitude does not erase hardship; gratitude rewires the neural pathways to endure it.",
@@ -2516,7 +2674,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "感恩神经学"
   },
   {
     "id": "yinka-ilori",
@@ -2532,9 +2691,9 @@
     "category": "人文与艺术",
     "difficulty": "B2 中高阶",
     "tags": [
-      "人工智能",
-      "数字科技",
-      "前沿创新"
+      "非洲色彩",
+      "公共空间",
+      "快乐蔓延"
     ],
     "date": "2026-08-05",
     "quote": "Color is a universal language that breaks down barriers and invites laughter.",
@@ -2602,7 +2761,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "公共艺术"
   },
   {
     "id": "chris-wheatley",
@@ -2618,9 +2778,9 @@
     "category": "职场与沟通",
     "difficulty": "B2 中高阶",
     "tags": [
-      "高效沟通",
-      "职场领导力",
-      "表达技巧"
+      "接纳批评",
+      "情绪脱敏",
+      "反馈四步法"
     ],
     "date": "2026-08-04",
     "quote": "Defensiveness is the enemy of growth. Listen to harsh feedback as data, not an identity attack.",
@@ -2688,7 +2848,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "逆耳反馈"
   },
   {
     "id": "joshua-johnson",
@@ -2704,9 +2865,9 @@
     "category": "职场与沟通",
     "difficulty": "B2 中高阶",
     "tags": [
-      "高效沟通",
-      "职场领导力",
-      "表达技巧"
+      "克制愤怒",
+      "理性探究",
+      "公共讨论"
     ],
     "date": "2026-08-03",
     "quote": "When anger rises, curiosity drops. Swap your outrage for genuine inquisitiveness.",
@@ -2774,7 +2935,8 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "理性对话"
   },
   {
     "id": "ian-bremmer",
@@ -2790,9 +2952,9 @@
     "category": "社会与治理",
     "difficulty": "B2 中高阶",
     "tags": [
-      "人工智能",
-      "数字科技",
-      "前沿创新"
+      "多极秩序",
+      "地缘冲突",
+      "全球风险"
     ],
     "date": "2026-08-01",
     "quote": "In a G-Zero world without a single superpower anchor, regional instability becomes the norm.",
@@ -2860,6 +3022,7 @@
         "meaning": "群体韧性 / 社区共同复原力",
         "detail": "强调面对不可抗外力与动荡时，组织或群体自发凝聚的恢复能力。"
       }
-    ]
+    ],
+    "subCategory": "地缘格局"
   }
 ]
