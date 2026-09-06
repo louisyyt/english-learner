@@ -422,90 +422,178 @@
   },
   {
     "id": "yongey-mingyur-rinpoche",
-    "slug": "yongey-mingyur-rinpoche-how to tap into your awareness",
     "title": "How to tap into your awareness -- and why meditation is easier than you think",
-    "chineseTitle": "如何唤醒你的当下觉知：正念冥想远比你想象的更简单",
+    "chineseTitle": "如何唤醒当下觉知：正念冥想远比你想象的更简单",
     "speaker": "Yongey Mingyur Rinpoche",
-    "speakerTitle": "知名禅修导师 · 畅销书作家",
-    "cover": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/d183d59b-416a-452d-b7f3-ffdcc018b46c/YongeyMingyurRinpoche_2022-embed.jpg",
-    "duration": "10:56",
-    "fullDuration": "12:53",
-    "rawAdTrimmed": "已剔除片头片尾赞助广告",
-    "category": "个人成长与心理",
-    "difficulty": "B2 中高阶",
+    "speakerTitle": "藏传禅修导师 · 畅销书《世界上最快乐的人》作者",
+    "date": "2022-09-01",
+    "duration": "10:52",
+    "category": "思维与认知",
+    "subCategory": "正念冥想与情绪认知",
+    "difficulty": "B2 中高级",
     "tags": [
-      "正念冥想",
-      "觉知训练",
-      "焦虑化解"
+      "冥想",
+      "觉知",
+      "克服焦虑",
+      "心理韧性"
     ],
-    "date": "2026-09-02",
-    "quote": "Short moments, many times. That is the secret to transforming your daily anxiety into peace.",
-    "quoteTranslation": "片刻的觉知，多次地重复。这正是将日常焦虑转化为内在平和的真正秘诀。",
-    "hasFullStudy": true,
+    "quote": "Awareness is like the sky in the mountain, and the panic is like a storm in the mountain. No matter how strong a storm is, it does not change the nature of the sky.",
+    "quoteTranslation": "觉知就像山中的天空，而恐慌就像山间的暴风雨。无论暴风雨多么猛烈，它都无法改变天空的本质。",
     "audioUrl": "https://audio.louisyu.top/yongey-mingyur-rinpoche-clean.mp3",
-    "segments": [
-      {
-        "time": "00:00",
-        "title": "为什么看似简单的冥想却让人屡屡受挫",
-        "original": "Meditation asks you to slip into a state of serene presence. But why does something that sounds so completely effortless often feel practically impossible?",
-        "translation": "冥想不过是邀请你滑入一种宁静专注的当下状态。然而，为什么一件听起来毫不费力的事情，在现实中却常常让人觉得难于登天？"
-      },
-      {
-        "time": "01:30",
-        "title": "和狂躁的“猴子心智”做朋友",
-        "original": "Spiritual leader Yongey Mingyur Rinpoche shares three practical, lighthearted steps to help you embrace your wandering mind rather than fighting an endless war against it.",
-        "translation": "禅修导师明就仁波切分享了三个轻松幽默的实用步骤，帮助你接纳跳跃不安的思绪，而不是与自己的大脑展开一场精疲力竭的战争。"
-      },
-      {
-        "time": "04:15",
-        "title": "片刻觉知，随时随地：打破坐姿与场地的枷锁",
-        "original": "You do not need a quiet mountain cave or incense. While walking, sipping coffee, or waiting in traffic, take one mindful breath: short moments, many times.",
-        "translation": "你不需要躲进深山古寺，也无需焚香打坐。无论是在街道漫步、啜饮咖啡，还是在等红绿灯的间隙，只需一次专注的深呼吸：片刻的觉知，多次地重复。"
-      },
-      {
-        "time": "08:40",
-        "title": "拥抱情绪的潮起潮落：内在自由的终极归宿",
-        "original": "Emotions are like clouds passing across an open sky. When you identify with the vast sky itself rather than each transient cloud, true peace begins.",
-        "translation": "情绪就像掠过辽阔晴空的云朵。当你意识到自己是那片广袤无垠的天空，而非每一朵偶然飘过的浮云时，真正的内心平和便悄然降临。"
-      }
-    ],
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/d183d59b-416a-452d-b7f3-ffdcc018b46c/YongeyMingyurRinpoche_2022-embed.jpg",
     "spoken": [
       {
-        "phrase": "slip into a state of ...",
-        "timestamp": "01:15",
-        "meaning": "自然而然地滑入……状态",
-        "quote": "Meditation asks you to slip into a state of serene presence without force.",
-        "pronunciation": "/slɪp ˈɪntuː/ - slip 的 /p/ 与 into 发生轻快连读。"
+        "phrase": "cut to the chase",
+        "timestamp": "00:30",
+        "meaning": "开门见山、直接切入正题（在演讲与日常表达中用于迅速聚焦核心观点）",
+        "quote": "What we call the essence of meditation is awareness. Knows what you are thinking, feeling, doing, seeing, hearing. That's all.",
+        "pronunciation": "/kʌt tə ðə tʃeɪs/ - cut 与 to 自然弱读，chase 强摩擦音收尾。"
       },
       {
-        "phrase": "the ebb and flow",
-        "timestamp": "03:20",
-        "meaning": "潮起潮落、起伏变化",
-        "quote": "Learn to accept the natural ebb and flow of your emotions rather than fighting them.",
-        "pronunciation": "ebb and flow 固定短语连贯流利，and 弱读为 /ən/。"
+        "phrase": "drive someone crazy",
+        "timestamp": "02:35",
+        "meaning": "把某人逼疯、令人难以忍受（生动口语，表达强烈的情绪干扰）",
+        "quote": "And lot of storms in the Himalayan mountains, thunderstorm, snowstorm. These storms drive me crazy.",
+        "pronunciation": "/draɪv miː ˈkreɪzi/ - drive 与 me 节奏紧凑，crazy 前重后轻。"
+      },
+      {
+        "phrase": "on and off",
+        "timestamp": "05:25",
+        "meaning": "断断续续、时断时续（形容习惯或状态未能持续坚持）",
+        "quote": "I love the idea of meditation, but I don't like the practice of meditation. So on and off like that for five years.",
+        "pronunciation": "/ɒn ənd ɒf/ - on 与 and 自然连读为 on-and，and 弱化为 /ənd/。"
+      },
+      {
+        "phrase": "lose face",
+        "timestamp": "06:05",
+        "meaning": "丢面子、丢脸（东亚文化语境中的地道对译表达）",
+        "quote": "I feel embarrassed to leave because I told all my childhood friends that I can do the retreat, you know. I don't want to lose my face.",
+        "pronunciation": "/luːz feɪs/ - lose 末尾浊辅音 /z/ 与 face 清辅音 /f/ 对比清晰。"
+      },
+      {
+        "phrase": "buy one, get two free",
+        "timestamp": "07:45",
+        "meaning": "买一赠二（用商业俗语幽默比喻修习觉知附带带来的慈悲与智慧）",
+        "quote": "So three in one: awareness, love and compassion, wisdom. Sometimes what I call buy one, get two free. Big deal, right?",
+        "pronunciation": "/baɪ wʌn, ɡɛt tuː friː/ - 充满幽默口吻，get 与 two 略有停顿强化节奏。"
       }
     ],
     "grammar": [
       {
-        "name": "Rather than + 动名词并列对比",
-        "timestamp": "02:40",
-        "quote": "By befriending our monkey mind rather than trying to suppress it, we unlock effortless calm.",
-        "explanation": "Rather than 连接并列对比动作，点出正念冥想中接纳而非压抑情绪的核心心智模式。"
+        "name": "The more... the more... 比例双重比较结构",
+        "timestamp": "01:05",
+        "quote": "The more, when you try to stop thinking what happens, you will think more. / The more you look for relax, then peace, calm, joy, relax run away.",
+        "explanation": "经典的“越……就越……”递进关联句型，在哲理阐释中用于揭示心理反作用力法则：刻意抑制念头反而强化念头。"
+      },
+      {
+        "name": "No matter how + 形容词 让步状语从句",
+        "timestamp": "03:10",
+        "quote": "And no matter how strong a storm is, it doesn't change the nature of sky.",
+        "explanation": "no matter how 引导强让步，相当于 however strong a storm is，用来论证内心本质觉知的不可动摇。"
+      },
+      {
+        "name": "What we call 插入性名词性从句作定语/主语",
+        "timestamp": "07:05",
+        "quote": "What we call, when you see the river, you're out of the river. / What we call open awareness meditation.",
+        "explanation": "演讲口语中极为地道的引导标记语（discourse marker），用于引入行话或自创隐喻，相当于“也就是我们常说的”。"
       }
     ],
     "vocab": [
       {
-        "collocation": "serene presence",
-        "meaning": "宁静专注的当下状态",
-        "detail": "指意识完全沉浸在此时此刻，不带任何焦虑与杂念。"
+        "collocation": "panic attack",
+        "meaning": "惊恐发作、急性焦虑发作",
+        "detail": "临床心理学专业词汇，指突发且极度强烈的恐惧、心悸与濒死感。"
+      },
+      {
+        "collocation": "blissing out",
+        "meaning": "沉醉于极度极乐状态、逃避现实的狂喜",
+        "detail": "非正式英语，常指通过某种方式追求虚幻的空灵快感，在禅修中特指一种执着于平静的误区。"
       },
       {
         "collocation": "monkey mind",
-        "meaning": "猿心 / 杂乱奔逸的心思",
-        "detail": "东方禅修与认知心理学中形容思绪如跳跃猴子般不可控的比喻。"
+        "meaning": "心猿、杂念纷飞的心智",
+        "detail": "东方哲学与心理学中的经典隐喻，形容人心念如野猴跳跃不停、难以驯服的混乱状态。"
+      },
+      {
+        "collocation": "wandering retreat",
+        "meaning": "游方闭关、行脚苦修",
+        "detail": "抛弃居所、财产与身份，在无保障的漂泊流浪中磨砺心性与觉知的极高阶禅修修行。"
       }
     ],
-    "subCategory": "正念觉知"
+    "segments": [
+      {
+        "time": "00:00",
+        "title": "开场互动：什么是真正的冥想？",
+        "original": "So I would like to discuss about meditation. But first of all, I'd like to ask you a very simple question. Can you see my hand? Yes, raise your hand. Audience: Yes. Yongey Mingyur Rinpoche: OK, can you hear me? Audience: Yes. YMR: Yes? Great. That is the meditation. So, finished. My TED Talk is finished. (Laughter and applause) Of course, I'm just kidding. But in a way that is true. Why? What we call the essence of meditation is awareness. And what is awareness? Knows what you are thinking, feeling, doing, seeing, hearing. That's all. So actually meditation is very easy,",
+        "translation": "今天我想和大家聊聊冥想。但首先，我想问大家一个非常简单的问题：你们能看到我的手吗？能看到的请举手。（观众：能。）好的，那你们能听到我说话吗？（观众：能。）能听到？太棒了。这就是冥想。好了，结束了，我的TED演讲到此结束。（笑声与掌声）当然，我是在开玩笑。但在某种意义上这又是真的。为什么？我们所说的冥想本质就是觉知。那什么是觉知？就是觉察到你在思考什么、感受什么、做什么、看什么、听什么。仅此而已。所以实际上冥想非常简单，"
+      },
+      {
+        "time": "00:55",
+        "title": "破除误区一：必须停止思考吗？",
+        "original": "but many people find it difficult. Why? There are two misunderstandings about meditation. So the first is many people think meditation means, think of nothing, stop thinking, concentration. Ah. (Laughter) Shh! I'm meditating, keep quiet. (Laughter) So the more, when you try to stop thinking what happens, you will think more. So we will do a small experiment, OK? Now, please don't think about pizza. (Laughter) No pizza. No pizza. What happened? Did you think about pizza or not? Yes, raise your hand. (Laughter) I know. (Laughter) Actually, we don't need to stop thinking.",
+        "translation": "但很多人却觉得很难。为什么呢？因为关于冥想通常有两个误区。第一个误区是很多人认为冥想意味着“什么都不想、停止思考、高度专注”。“嘘！我在冥想，保持安静！”（笑声）但是，当你越试图停止思考时，会发生什么？你会想得更多。我们来做个小实验好吗？现在，请大家绝对不要去想披萨。（笑声）不要想披萨，不要想披萨。结果怎样？你想没想披萨？想了的举手。（笑声）我就知道。（笑声）事实上，我们根本不需要停止思考。"
+      },
+      {
+        "time": "01:52",
+        "title": "误区二与童年焦虑：暴风雨与影子",
+        "original": "We just need to connect with awareness. And another misunderstanding about meditation is what we call 'blissing out.' Looking for peace, calm, joy, relax. (Laughter) The more you look for relax, then peace, calm, joy, relax run away. So ... Let me share [with] you my own experience. When I was young, I had panic attacks. Although I was born right in the middle of the Himalayan mountains, the area, the village, wonderful, but panic followed me like a shadow. And I have so much fear [of] strangers, I cannot go out and meet people. And lot of storms in the Himalayan mountains, thunderstorm, snowstorm. These storms drive me crazy. And when I was nine years old, I asked my father to teach me meditation.",
+        "translation": "我们只需要与自己的“觉知”建立连接。而关于冥想的另一个误区就是所谓的“沉溺极乐”——拼命追求平和、平静、喜悦与放松。（笑声）你越是刻意追求放松，平和、平静、喜悦和放松反而跑得越快。那么……让我分享一下我自己的亲身经历。小时候，我饱受惊恐发作（panic attacks）的折磨。虽然我出生在喜马拉雅山脉腹地，村庄美轮美奂，但恐慌却像影子一样如影随形。我对陌生人极度恐惧，不敢出门见人。喜马拉雅山脉多暴风雨，雷暴、暴风雪……这些风暴简直要把我逼疯。九岁那年，我请求父亲教我冥想。"
+      },
+      {
+        "time": "02:50",
+        "title": "父亲的开示：天空与山中暴风雨",
+        "original": "Luckily, he was a great meditation teacher. And the first thing what he said is, \"Don't try to fight with the panic. Don't try to get rid of panic.\" \"And actually,\" he said, \"you don't have to.\" Why? Awareness is like sky in the mountain, and the panic is like storm in the mountain, like cloud. And no matter how strong a storm is, it doesn't change the nature of sky. So sky is always present, pure, calm. Similarly, our fundamental quality of mind, awareness is always present, pure, calm. But the problem is we don't know how to connect with awareness, what we see, only a thought, emotion, that's all. So he said, there are three steps of practice to connect with awareness. The first one, we have to use an object.",
+        "translation": "幸运的是，他是一位伟大的禅修导师。他对我说的一句话就是：“不要试图去和恐慌对抗，不要试图摆脱恐慌。”“而且事实上，”他说，“你根本没必要对抗。”为什么？因为觉知就像山中的天空，而恐慌就像山中的风暴和乌云。无论暴风雨多么狂暴，它都改变不了天空的本质。天空永远都在那里，纯净、广阔、安详。同样，我们心智的根本特质——觉知，也永远都在，纯净而平静。但问题是我们不知道如何连接觉知，我们眼里看到的只有念头和情绪。于是他说，连接觉知有三个练习步骤。第一步：借助一个外在对象。"
+      },
+      {
+        "time": "03:48",
+        "title": "第一步：借助声音作为锚点",
+        "original": "Support, to connect with awareness. So this is one of my first meditation techniques that I learned from my father. So you can join and you can relax your muscles in your body. If you cannot relax, also OK, allowed. (Laughter) And close your eyes, and please listen to sound. (Ding) And when you hear the sound, through ear and mind together ... (Ding) That is the meditation. And let panic come and go. Let pizza come and go. (Ding) And maybe two pizzas, three pizzas, ten pizzas. As long as you remember the sound, you can have pizza. (Ding)",
+        "translation": "也就是借助一个支撑物来连接觉知。这是我从父亲那里学到的最早的冥想方法之一。大家现在可以和我一起做：放松全身肌肉；如果你放松不下来，也没关系，允许自己不放松。（笑声）闭上双眼，请倾听声音。（磬声响起）当你用耳朵和心灵一同聆听这声音时……（磬声）这就是冥想。任凭恐慌来来去去，任凭披萨念头来来去去。（磬声）就算脑子里出现两张披萨、三张披萨、十张披萨也无妨，只要你还记得听声音，随便你想多少披萨都行。（磬声）"
+      },
+      {
+        "time": "04:45",
+        "title": "懒惰男孩与三年闭关的开端",
+        "original": "(Ding) (Ding) OK, how was it? Did you hear the sound? Yes, raise your hand. Great. That is the meditation. Very easy. Just hear, that's all. You don't have to do anything. So if panic comes, let panic come and go, don't care. Just listen to sound. Monkey mind comes blah, blah, blah. Let it come and go, just listen to sound. So I did that. But I had a big problem. The problem is lazy. (Laughter) I'm lazy boy, I love the idea of meditation, but I don't like the practice of meditation. So on and off like that for five years. When I was 13 years old in India, there's traditional three-year retreat going to start. I thought I should join this because it's good for my laziness.",
+        "translation": "（磬声）好了，感觉如何？你们听到声音了吗？听到的请举手。太棒了。这就是冥想。非常简单，仅仅是去听，仅此而已，你不需要做任何额外的事。如果恐慌出现，任它来来去去，不用在意，只要听声音；“心猿”杂念开始碎碎念，任它来去，专心听声音。我就照着练习。但我遇到了一个大问题：我很懒。（笑声）我是个懒男孩，我喜欢冥想的理念，但讨厌冥想的实修。就这样断断续续过了五年。13岁那年，印度有一场传统的三年闭关即将开始。我想我应该参加，因为这正好能治治我的懒病。"
+      },
+      {
+        "time": "05:41",
+        "title": "闭关困境：懒惰与恐慌成了密友",
+        "original": "And I join. The first month, wonderful, no lazy. Second month, lazy come back. (Laughter) Now what happened? My lazy and my panic, they two become good friends. (Laughter) The life in the retreat becomes disaster. And I thought I should leave. But I feel embarrassed to leave because I told all my childhood friends that I can do the retreat, you know. I don't want to lose my face. But if I stay, almost three years to go. Then I thought, what should I do? In the end, I decided to learn how to live with the panic. So now we have the second step what we call, actually, we can meditate everywhere, anytime with anything. So you can meditate with panic. How do you do that? Just like listen to sound, when you listen to sound, sound becomes support for your meditation. Now you're going to watch panic.",
+        "translation": "于是我参加了。第一个月，感觉好极了，一点都不偷懒。第二个月，懒惰卷土重来。（笑声）结果发生了什么？我的懒惰和我的恐慌，这两个家伙居然结成了密友！（笑声）闭关生活成了一场灾难。我一度想要放弃离开，但我又觉得太丢人，因为我已经告诉了所有儿时的玩伴我能完成三年闭关，我可不想丢面子。可如果要留下来，还有将近三年时间啊！我想：我该怎么办？最终，我决定学会与恐慌共处。这就来到了第二步：事实上，我们随时随地可以用任何事物来冥想。你可以把恐慌本身当作冥想的对象。怎么做呢？就像刚才听声音一样，声音是冥想的依托，而现在，你去观察你的恐慌。"
+      },
+      {
+        "time": "06:37",
+        "title": "第二步：看见河流与剃须泡沫隐喻",
+        "original": "If you see the panic, great. What we call, when you see the river, you're out of the river. When you see the mountain, you're out of the montain. So now awareness becomes more than panic. More than depression, stress. Monkey mind, whatever. Let them come, let them go. So that is the first benefit and second benefit of what we call, there's a wisdom comes. So when you look at the panic, panic is not solid stone anymore. Panic becomes pieces. Sensation here, frightening image, voice, background belief. And if you take one of these away, you cannot find panic. So what I call panic becomes like shaving foam, looks like a piece of rock but inside full of bubbles. Then three, what I call this is acceptance,",
+        "translation": "如果你能“看见”恐慌，那就太好了。这就叫：当你看见河流时，你已经身在河外了；当你看见大山时，你已经脱离大山了。此时，你的觉知超越了恐慌，超越了抑郁、压力和杂乱的心猿。任它们来，任它们去。这是第一重益处。第二重益处是我们所说的“智慧生起”：当你仔细端详恐慌时，它不再是一块坚不可摧的顽石，而是碎成了片片碎片——身体局部的紧绷感、恐怖的幻象、内心的低语、潜意识的信念……如果你抽走其中任何一个，你甚至都找不到恐慌在哪里。所以恐慌就像剃须泡沫，远看像一块岩石，其实里面全是泡沫。第三点则是彻底的接纳："
+      },
+      {
+        "time": "07:33",
+        "title": "买一赠二：恐慌成了最好的老师",
+        "original": "like self-kind, self-love, self-compassion. You let panic come and go, that's the real acceptance, isn't it? So three in one: awareness, love and compassion, wisdom. Sometimes what I call buy one, get two free. (Laughter) Big deal, right? And all this because of panic. So now panic becomes your teacher, your best friend. So I did this practice and in the end, me and my panic become very good friends. And few weeks later, panic is gone. I miss my friend. And I finished my retreat, my retreat went very well. And after that I have been eager to share this wonderful technique with the world. So I taught meditation many places, wrote three books, become bestseller, and then students and become abbot of a few monasteries. And what happened?",
+        "translation": "那就是自我善待、自我关爱、自我慈悲。你允许恐慌自如来去，这才是真正的接纳，不是吗？这就是“三合一”：觉知、爱与慈悲、以及智慧。有时我称之为“买一赠二”（笑声）。超值的交易对吧？而这一切都是恐慌赋予你的。现在，恐慌成了你的导师，成了你最要好的朋友。我坚持这样修习，最终我和我的恐慌成了莫逆之交。几周后，恐慌彻底消失了——我甚至开始想念我的老朋友。我圆满完成了三年闭关，状态极佳。此后我热切地想把这套法门分享给全世界。我在世界各地传道，写了三本书成为畅销书作家，门徒众多，并成为几座寺院的住持。然而紧接着又发生了什么呢？"
+      },
+      {
+        "time": "08:28",
+        "title": "游方行脚：流落街头与濒死之境",
+        "original": "Kind of new ego emerged within me. I thought, oh, I have to watch out, this so. Then I decided to do something very special, what we call wandering retreat. Meaning you leave everything behind, go on the street with nothing. So I decided to do that. In 2011, I left my monastery, my students, my wonderful cozy bed. Everything, and got on street with only a few thousand Indian rupees, and that finished within a few weeks. Now I have to beg for food. And I got food poisoning. Vomiting, diarrhea. I'm alone on the street, now I'm going to die. Then I thought, what should I do? So now we have the third step, what we call open awareness meditation. Awareness, be with itself. Sky, be with itself.",
+        "translation": "一种新的“自我膨胀（ego）”在内心悄然滋生。我想：哦，我必须警惕了。于是我决定做一件非同寻常的事——我们称之为“游方苦修（wandering retreat）”。这意味着抛弃一切，身无分文走上街头。2011年，我毅然离开寺院、弟子和我那张温暖舒适的大床，孑然一身走上街头，身上只有几千印度卢比，几周内就花光了。我不得不沿街乞讨。接着我食物中毒，上吐下泻，独自一人瘫倒在街头，觉得自己快要死了。那时我想：我该怎么办？这就带出了第三步：所谓“开放觉知冥想（open awareness meditation）”。让觉知安住于觉知自身，如浩瀚长空与自身共处。"
+      },
+      {
+        "time": "09:24",
+        "title": "第三步：开放觉知与万物一体",
+        "original": "Now, no need to have support. Just be awareness itself. I did that practice. Then what happened? My body become decayed, I cannot see, I cannot hear. But my mind becomes so present, beyond free. And I was in that state for a few hours. Luckily, I didn't die, I come back. So when I come back, the street becomes like my home. When I look at a tree, tree becomes like tree of love. And the wind blows to my face become a joyful experience. And the rest of my retreat went very well. I learned a lot from my retreat. So I like to share this open awareness meditation, but it is very difficult to explain. But I want to do something drama. And this is what I learned from my father. So what we call, this mala is the crazy monkey mind,",
+        "translation": "此时此刻，不再需要任何外在的依靠或支撑，仅仅安住于觉知本身。我进行了这样的禅修。随后发生了什么？我的肉体仿佛衰竭瓦解，我看不见也听不清，但我的意识却变得前所未有的临在，超越了一切束缚与自由。我沉浸在那样的境界中数个小时。幸运的是，我没有死，我缓了过来。当我重返人世时，街头变成了我的家园；当我望向一棵树，那棵树化作了充满慈爱的生命；拂过面颊的微风，都成了一种纯然喜悦的体验。我此后的苦修之旅一切顺利，我从中领悟良多。我很想向大家分享这种开放觉知，但它确实很难用言语解释。不过我想用一种戏剧化的方式演示，这也是我从父亲那里学来的。我们手中的念珠就好比纷乱的心猿……"
+      },
+      {
+        "time": "10:22",
+        "title": "结语：无需刻意冥想，纯然临在",
+        "original": "blah, blah, blah, yada yada. And the open awareness meditation means you don't have to do anything. Just be. That's all, and you don't need to meditate. The sense of presence, being, but not loss. Be free. Be present. Thank you very much.",
+        "translation": "……无论心猿如何喋喋不休，开放觉知意味着你什么都不用做，只是“安住（Just be）”。仅此而已，你甚至不需要刻意去冥想。那种当下的临在感，那种纯然的存在，而没有迷失。保持自由，安住当下。非常感谢大家。"
+      }
+    ]
   },
   {
     "id": "chris-fenning",
