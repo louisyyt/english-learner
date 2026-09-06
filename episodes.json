@@ -17,7 +17,7 @@
     "duration": "16:23",
     "fullDuration": "21:05",
     "audioUrl": "https://audio.louisyu.top/reed-hastings-clean.mp3",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_184518/184518-embed.jpg?quality=85&w=800",
+    "coverUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&auto=format&fit=crop&q=80",
     "quote": "The biggest uncertainty for everybody is how fast is AI getting better and how fast will it be getting better going forward.",
     "quoteTranslation": "摆在所有人面前最大的未知数在于：AI 的进化到底有多快？未来又将以何种加速度重塑一切？",
     "segments": [
@@ -182,7 +182,8 @@
       }
     ],
     "summary": "Netflix 联合创始人 Reed Hastings 与可汗学院创始人 Sal Khan 展开深度对谈。Reed 分享了自己在教育慈善领域投入 25 年、10 亿美元的深刻反思，借用工业革命‘蒸汽机与电动机’的经典经济学隐喻，指出现代教育的根本阻力在于‘25 个学生统一节奏’的工业化课堂模式。他指出，随着 AI 的指数级迭代，AI 导师有望超越人类一对一导师，彻底实现个性化教育。此外，作为 Anthropic 董事会成员，Reed 还深入探讨了 AI 实验室的安全使命、技术扩散周期、放射科医生反常现象以及 AI 时代可能带来的‘高生产率、高 GDP、高股市与高失业率’共存的社会新形态。",
-    "rawAdTrimmed": "✂️ 已剔除 2分07秒广告"
+    "rawAdTrimmed": "✂️ 已剔除 2分07秒广告",
+    "cover": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&auto=format&fit=crop&q=80"
   },
   {
     "id": "joe-whale",
@@ -202,7 +203,7 @@
     "duration": "05:47",
     "fullDuration": "08:39",
     "audioUrl": "https://audio.louisyu.top/joe-whale-clean.mp3",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_184711/184711-embed.jpg?quality=85&w=800",
+    "coverUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=800&auto=format&fit=crop&q=80",
     "quote": "Imagination is like a muscle: the more you use it, the stronger it becomes.",
     "quoteTranslation": "想象力宛如肌肉：越锻炼越强健；若弃之不用，便只能仰赖外物。",
     "segments": [
@@ -296,7 +297,8 @@
         "detail": "常用于强调虽然最初只是虚幻的小念头，但人类拥有将其亲手具象化为伟大造物的独特能力。"
       }
     ],
-    "hasFullStudy": true
+    "hasFullStudy": true,
+    "cover": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=800&auto=format&fit=crop&q=80"
   },
   {
     "id": "ariel-ekblaw-and-meghan-sullivan",
@@ -315,7 +317,7 @@
     "duration": "12:27",
     "fullDuration": "19:25",
     "audioUrl": "https://audio.louisyu.top/ariel-ekblaw-and-meghan-sullivan-clean.mp3",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188003/188003-embed.jpg?quality=85&w=800",
+    "coverUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&auto=format&fit=crop&q=80",
     "quote": "What we owe another person is to be willing to look at them again.",
     "quoteTranslation": "我们对他人最大的道德责任，就是保有一种重新审视对方的意愿与温柔。",
     "segments": [
@@ -436,7 +438,8 @@
         "detail": "探究人类社会正义、义务、善恶边界与人际相互责任的哲学分支。"
       }
     ],
-    "hasFullStudy": true
+    "hasFullStudy": true,
+    "cover": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&auto=format&fit=crop&q=80"
   },
   {
     "id": "gabriella-di-laccio",
@@ -591,7 +594,8 @@
         "meaning": "跨越各个艺术/音乐流派",
         "detail": "强调广泛涉猎不同风格与体裁。"
       }
-    ]
+    ],
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_181354/450999ec-9bb2-4142-b5be-4439c36604ef/GabriellaDiLaccio_2026-embed.jpg?quality=85&w=800"
   },
   {
     "id": "ryosuke-takashima",
@@ -780,7 +784,8 @@
         "detail": "现代公共管理与政治学中的基石概念。"
       }
     ],
-    "subCategory": "青年领袖"
+    "subCategory": "青年领袖",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187133/3ade9e00-1ce4-4131-9f20-3e78f23e3672/Ryosuke_2880x1620.jpg"
   },
   {
     "id": "yongey-mingyur-rinpoche",
@@ -956,7 +961,8 @@
         "translation": "So what we call this malai is the crazy monkey mind, and the open awareness meditation means you don't have to do anything, just be, that's all. And you don't need to meditate, there's sense of presence, being, but not loss, be free, be present. Thank you very much. That was Yoge Mingar Rinpoche at 10 2022. This talk was originally published in December of that year. If you're curious about Ted's curation, visit Ted.com slash curation guidelines. And that's it for today. Ted Talks Daily is a podcast from Ted. This episode was fact-checked by the Ted research team and produced and edited by our team, Martha Estefano, Oliver Friedman, Lucy Little, Emma Tobner, and Tonsika Songarnivong. All support from Daniella Balorazzo, Christopher Fazibogan, Valentina Bohanini, Bandban Chang, Brian Green, and Lane."
       }
     ],
-    "hasFullStudy": true
+    "hasFullStudy": true,
+    "cover": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/d183d59b-416a-452d-b7f3-ffdcc018b46c/YongeyMingyurRinpoche_2022-embed.jpg"
   },
   {
     "id": "chris-fenning",
@@ -1148,7 +1154,8 @@
         "meaning": "生产力损失 / 产能折损",
         "detail": "企业管理与经济学分析中衡量沟通成本与怠工浪费的核心指标。"
       }
-    ]
+    ],
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187529/c54446aa-2db7-42e8-a159-c7be42a0fe96/ChrisFenning_2024X-embed.jpg?quality=85&w=800"
   },
   {
     "id": "mark-whittle",
@@ -1292,7 +1299,8 @@
         "detail": "天体物理学中用于精确测量宇宙膨胀速率与暗能量性质的标准尺。"
       }
     ],
-    "subCategory": "宇宙声学"
+    "subCategory": "宇宙声学",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188036/b73412b8-2d39-4e04-8e3d-0078c676d276/MarkWhittle_2026-embed.jpg"
   },
   {
     "id": "ann-patchett",
@@ -1472,7 +1480,8 @@
         "detail": "指小说家对情节、语言韵律与人物心理刻画的精湛掌控。"
       }
     ],
-    "subCategory": "文学创作"
+    "subCategory": "文学创作",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185926/cbbdb2d0-9b33-4af5-8d63-dfe35b959a01/annpatchettart.jpg"
   },
   {
     "id": "trinity-tran",
@@ -1661,7 +1670,8 @@
         "detail": "包括社区供水、平价交通与清洁能源网络。"
       }
     ],
-    "subCategory": "公共金融"
+    "subCategory": "公共金融",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_181354/450999ec-9bb2-4142-b5be-4439c36604ef/GabriellaDiLaccio_2026-embed.jpg"
   },
   {
     "id": "maria-telesheva",
@@ -1787,7 +1797,8 @@
         "detail": "音乐学中依靠气流振动金属簧片发声的乐器大类统称。"
       }
     ],
-    "subCategory": "器乐声场"
+    "subCategory": "器乐声场",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185832/0e6ef522-ee6c-4cec-9a98-a2f1e00652ee/MariaTelesheva_2026S-embed.jpg"
   },
   {
     "id": "rebecca-toh",
@@ -1913,7 +1924,8 @@
         "detail": "指个体在冷漠都市中找到彼此认同与温情连接的心理状态。"
       }
     ],
-    "subCategory": "社区共建"
+    "subCategory": "社区共建",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187233/f81cda17-b2a4-4e45-9c1d-83d6a76ba40b/RebeccaToh_2024X-embed.jpg"
   },
   {
     "id": "rapelang-rabana",
@@ -2102,7 +2114,8 @@
         "detail": "指由于经济收入与基建不均导致的获取信息与技术资源的不平等。"
       }
     ],
-    "subCategory": "教育公平"
+    "subCategory": "教育公平",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187528/e9dd658b-c14f-48d7-bb4c-8860899df24e/RapelangRabana_2026-embed.jpg"
   },
   {
     "id": "mark-rober",
@@ -2291,7 +2304,8 @@
         "detail": "指传统教育中由于过度严厉的打分与责难导致大脑自发规避尝试的负面心理。"
       }
     ],
-    "subCategory": "趣味心智"
+    "subCategory": "趣味心智",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187588/444eb29d-3e3a-4b35-8fdd-f79d72500019/TED-Membership_Exclusive_Thumbnail-Marc_Rober-1920x1080_A.jpg"
   },
   {
     "id": "sandra-matz",
@@ -2313,7 +2327,7 @@
     "quote": "If we let algorithms optimize away our friction and weirdness, we don't just lose our individuality -- we lose the very serendipity that drives human culture forward.",
     "quoteTranslation": "如果我们任由算法优化掉内心的冲突与独特的怪癖，我们失去的不仅是个性，更是推动人类文化向前发展的不可预知的机缘。",
     "audioUrl": "https://audio.louisyu.top/sandra-matz-clean.mp3",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/3a79d033-918a-4c28-98ae-a3d8f8d68962/SandraMatz_2024S-embed.jpg",
+    "coverUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&auto=format&fit=crop&q=80",
     "spoken": [
       {
         "phrase": "off the beaten track",
@@ -2462,7 +2476,8 @@
         "translation": "AI doesn't have to throw darts in the dark. It can take informed risks. It can help us optimize our exploration. And when it does, we should treat it as a success, not a failure. Now, this isn't about desserts or playlists. This is about preserving what makes us uniquely messily and gloriously human. It's your random passion for ET memorabilia, your weird detour into geocaching, or your stubborn preference for a stick-shift car. It's about all the contradictions that AI can't quite explain, and the beauty of us being just a little weird once in a while. And if we believe that human complexity is worth preserving, then the time to act is now. Because we're at this inflection point where AI is no longer just recommending, but starting to act on our behalf. It's choosing, not suggesting. And that's where the stakes become really existential. So next time AI offers you pralines and cream, maybe say no, and ask it to help you go wild and reckless instead. Thank you."
       }
     ],
-    "hasFullStudy": true
+    "hasFullStudy": true,
+    "cover": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&auto=format&fit=crop&q=80"
   },
   {
     "id": "stephen-nobles",
@@ -2484,7 +2499,7 @@
     "quote": "A weed is just a plant whose virtues have not yet been discovered. It thrives in the cracks where nothing else is expected to grow.",
     "quoteTranslation": "所谓杂草，不过是尚未被发现独特价值的植物。它恰恰能在无人期待生机的瓦砾缝隙中顽强绽放。",
     "audioUrl": "https://audio.louisyu.top/stephen-nobles-clean.mp3",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/18e244ca-fa2e-46ec-9d62-1c2069b2d869/StephenNobles_2024S-embed.jpg",
+    "coverUrl": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=800&auto=format&fit=crop&q=80",
     "spoken": [
       {
         "phrase": "thrive in the cracks",
@@ -2638,7 +2653,8 @@
         "translation": "Use the data even in our life to ask better questions, question everything and then ask the next question. And to me I think if we use curiosity to be the bridge between where we are and where we hope to be with the right leadership and empowering the next generation to lead, I think is immerse what we can accomplish. For me from our city but with us being in Atlanta for the state of Georgia and hopefully for the entire country, I think curiosity when putting the right place is the fuel that truly is going to move things. So I'm very hopeful for that and I think that's the biggest takeaway. Curiosity is the fuel that's going to move things for us. I love that. It's sort of a lasting takeaway. Curiosity is the fuel that's going to move things for us. Yes, so remain curious, not just mental. Good going. Thank you so much, Steven. Yes."
       }
     ],
-    "hasFullStudy": true
+    "hasFullStudy": true,
+    "cover": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=800&auto=format&fit=crop&q=80"
   },
   {
     "id": "susan-burton",
@@ -2773,7 +2789,8 @@
         "detail": "指服刑人员回归家庭与职场、重建正常社会关系的全流程支持体系。"
       }
     ],
-    "subCategory": "刑释重生"
+    "subCategory": "刑释重生",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186806/bbdcc27e-a586-4462-acb0-53b3fa88ec96/SusanBurton_2026-embed.jpg"
   },
   {
     "id": "matthew-prince",
@@ -2795,7 +2812,7 @@
     "quote": "If the content creators who provide the raw knowledge for AI models can no longer get visitors or earn a living, the well of human knowledge will dry up for everyone.",
     "quoteTranslation": "如果为 AI 模型提供原始知识的内容创作者不再能获得访客或维持生计，全人类的知识源泉都将为所有人枯竭。",
     "audioUrl": "https://audio.louisyu.top/matthew-prince-clean.mp3",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/f8c0da52-19e4-4d87-9be1-7f892cbef817/MatthewPrince_2024-embed.jpg",
+    "coverUrl": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&auto=format&fit=crop&q=80",
     "spoken": [
       {
         "phrase": "dry up",
@@ -2931,7 +2948,8 @@
         "translation": "And yet, I have to just realize that no AI company's top priority is paying content creators. What's their top priority? Beating Google, which gave me an idea. Kind of a wonderful idea. An idea which is going on right now, and it's working, which is we're saying, don't charge for all the content that's out there, just charge the AI company is the ability to catch Google. And I don't think that's the end game, but I think it might be the iTunes moment. It might be the point that shows us what content is worth paying for. Everyone should be out there, and we can create a better business model for the internet. And so I am hopeful that on this stage, not too long from now, I get to hand out one of the first big cheese awards, and I really appreciate it. Thank you. CHEERING AND APPLAUSE"
       }
     ],
-    "hasFullStudy": true
+    "hasFullStudy": true,
+    "cover": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&auto=format&fit=crop&q=80"
   },
   {
     "id": "saloni-dattani",
@@ -3066,7 +3084,8 @@
         "detail": "指高昂审批成本与冗长文书流程对救命创新药物快速普及造成的阻碍。"
       }
     ],
-    "subCategory": "现代医学"
+    "subCategory": "现代医学",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186807/dcdd73d6-c39c-4cde-81a3-7b5a726de3ee/SaloniDattani_2026-embed.jpg"
   },
   {
     "id": "worklife-with-molly-graham",
@@ -3255,7 +3274,8 @@
         "detail": "员工担心原有职责与影响力被剥夺时产生的防御性心理防御机制。"
       }
     ],
-    "subCategory": "职场进阶"
+    "subCategory": "职场进阶",
+    "coverUrl": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png"
   },
   {
     "id": "priya-parker",
@@ -3381,7 +3401,8 @@
         "detail": "为了保护聚会的深度与私密性，有意识地明确谁该来、谁不该参加的原则。"
       }
     ],
-    "subCategory": "聚会设计"
+    "subCategory": "聚会设计",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/e58eb1e5-213e-4f78-bd4b-58b8371d94ee/PriyaParker_2019-1350x675.jpg"
   },
   {
     "id": "ron-finley",
@@ -3507,7 +3528,8 @@
         "detail": "公民自发利用城市荒地或马路绿化隔离带开垦种植食用蔬果的先锋行动。"
       }
     ],
-    "subCategory": "城市农耕"
+    "subCategory": "城市农耕",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b76d38c6-feaf-4846-98f2-626795162cfa/RonFinley_2013-embed.jpg"
   },
   {
     "id": "olivia-affuso",
@@ -3606,7 +3628,8 @@
         "detail": "拥有高信任度社区支持的群体在面对重大健康危机时表现出的强抗风险能力。"
       }
     ],
-    "subCategory": "社区健康"
+    "subCategory": "社区健康",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/f317f845-0b2a-4f66-96a1-cd6e3cd799f8/OliviaAffuso_2021S-embed.jpg"
   },
   {
     "id": "jerome-hunter",
@@ -3732,7 +3755,8 @@
         "detail": "指打破坚硬冷酷伪装、勇敢向信任者表达内心不安与真实的勇气。"
       }
     ],
-    "subCategory": "少年成长"
+    "subCategory": "少年成长",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b54311da-2f4c-4812-b8ed-ef0b7fc05f39/JeromeHunter_2023S-embed.jpg"
   },
   {
     "id": "laura-miele",
@@ -3858,7 +3882,8 @@
         "detail": "指在团队协作攻克高难度游戏任务过程中铸就的深厚信任与归属感。"
       }
     ],
-    "subCategory": "游戏与连接"
+    "subCategory": "游戏与连接",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_147329/143bffbd-82c6-4a78-ae4a-0dd36ba7fb36/LauraMiele_2024N-embed.jpg"
   },
   {
     "id": "salehe-bembury",
@@ -4020,7 +4045,8 @@
         "detail": "指如峡谷石壁、树木年轮般起伏流畅、不带冷峻工业棱角的自然曲面。"
       }
     ],
-    "subCategory": "工业设计"
+    "subCategory": "工业设计",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186133/b715ba26-3099-4715-b0d2-dcbb5c15b5d1/SaleheBembury_2026S-embed.jpg"
   },
   {
     "id": "mas-vocal",
@@ -4119,7 +4145,8 @@
         "detail": "指声乐家通过胸腔、咽腔与头腔共振发出的饱满、极具空间包裹感的声音质感。"
       }
     ],
-    "subCategory": "阿卡贝拉"
+    "subCategory": "阿卡贝拉",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186364/0deb7eed-ad76-472e-90ce-32c4b8318485/MASVocal_2026-embed.jpg"
   },
   {
     "id": "susan-cain-and-min-kym",
@@ -4290,7 +4317,8 @@
         "detail": "跨越国界与文化壁垒的情感纽带与共情本能。"
       }
     ],
-    "subCategory": "忧伤与共情"
+    "subCategory": "忧伤与共情",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b74e715f-d47f-4722-9c83-1797455c674a/SusanCain_MinKym_2019T-1350x675.jpg"
   },
   {
     "id": "robbie-schingler",
@@ -4443,7 +4471,8 @@
         "detail": "利用深度学习计算机视觉算法从多光谱卫星底片中自动识别植被破坏与非法伐木。"
       }
     ],
-    "subCategory": "卫星与地球监测"
+    "subCategory": "卫星与地球监测",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186804/dfa9a8f4-6f7e-4e12-9ed9-23fefe7f264c/RobbieSchingler_2026-embed.jpg"
   },
   {
     "id": "jon-alexander",
@@ -4569,7 +4598,8 @@
         "detail": "强调普通社区居民直接参与公共政策协商制定、而非仅仅四年投一次票的治理形态。"
       }
     ],
-    "subCategory": "公民时代"
+    "subCategory": "公民时代",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186867/04d98e61-1974-4ffc-b983-4ee4049c7866/JonAlexander_2026S-embed.jpg"
   },
   {
     "id": "bill-mckibben",
@@ -4758,7 +4788,8 @@
         "detail": "指全球变暖导致永久冻土融化或极地冰盖崩塌后不可逆的自我加速失控临界阈值。"
       }
     ],
-    "subCategory": "气候与能源"
+    "subCategory": "气候与能源",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185546/98c8e886-17e8-4f7d-b988-bedce21640df/BillMcKibben_2026-embed.jpg"
   },
   {
     "id": "jessica-malaty-rivera",
@@ -4947,7 +4978,8 @@
         "detail": "将复杂的临床流行病学数据翻译为通俗易懂、消除公众焦虑的公众沟通技艺。"
       }
     ],
-    "subCategory": "科学辟谣"
+    "subCategory": "科学辟谣",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185664/543767a6-eb01-4995-903f-160567334294/JessicaMalatyRivera_2025N-embed.jpg"
   },
   {
     "id": "christina-costa",
@@ -4969,7 +5001,7 @@
     "quote": "Gratitude activates the brainstem to produce dopamine, signaling that we are safe and loved. Kiss your brain for all it endures.",
     "quoteTranslation": "感恩会激活脑干释放多巴胺，向整个身体传递安全与被爱的信号。亲吻你的大脑，感谢它所承受的一切奇迹。",
     "audioUrl": "https://audio.louisyu.top/christina-costa-clean.mp3",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/f75298a0-7164-4e2a-89a1-77ecdf002d24/ChristinaCosta_2021X-embed.jpg",
+    "coverUrl": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&auto=format&fit=crop&q=80",
     "spoken": [
       {
         "phrase": "kiss your brain",
@@ -5042,7 +5074,8 @@
         "translation": "\nAnd the cool thing is that we can intentionally activate these gratitude circuits in our brain. In general, the more we do something the easier it becomes and our brains work the same way. The more we activate these gratitude circuits, the less effort it takes to stimulate those pathways the next time and the stronger those pathways become. Neuroplasticity is a term I teach my students that refers to our brains ability to form new neural connections throughout life, which means this is something that anyone can practice and get better at over time. So I kept practicing gratitude even when it seemed impossible. I continued to thank my brain for the amazing work it does as I prepare for 12 more rounds of chemo this year. I write down three things I'm grateful for and why I'm grateful for them no matter what every morning that I wake up. I write thank you notes to my heroes in healthcare, nurses who get the IVN the first time, the anesthesiology resident who held my hand during the awake portions of my surgery, radiation therapists that play my playlist during treatment and administrative staff that makes me smile every time I walk into the hospital. I do want to take a second here and practice what I teach to shout out my doctors and their teams from the Michigan Medicine multidisciplinary brain tumor clinic. I have never met such intelligent, kind, and patient people. Thank you for making me feel brave when I sometimes felt the opposite. I think the universe might think it's funny that a psych instructor and researcher who studies well-being ended up with a brain tumor. The truth is that we need more awareness and more research regarding brain tumors and brain cancer. Doctors can't exactly predict how my tumor will behave and really none of us can predict what our lives are going to be like exactly. But what I hope I can show you is that we can also be grateful for the unexpected challenges. I don't want to dismiss people who may find the fight narrative empowering. I also don't want to suggest that it's by any means easy to find ways to be grateful in dealing with adversity. This has been the hardest thing that I've ever had to do. But I do want to empower those that feel like me, that there's another way to go through whatever your journey may be, that loving your body doesn't have to be conditional, and that by practicing gratitude we can actually wire our brains to help us build resilience. And lastly, I hope everyone, no matter where you are or what you are doing, can take a second to kiss your own brain and thank it for all that it does for you."
       }
     ],
-    "hasFullStudy": true
+    "hasFullStudy": true,
+    "cover": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&auto=format&fit=crop&q=80"
   },
   {
     "id": "yinka-ilori",
@@ -5159,7 +5192,8 @@
         "detail": "让顶级先锋艺术走出高门槛的白盒子美术馆，融入普通劳动者日常生活的公共设计实践。"
       }
     ],
-    "subCategory": "公共艺术"
+    "subCategory": "公共艺术",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186190/0fbea6ed-fb91-4425-89fc-2f31b74f3f43/YinkaIlori_2026-embed.jpg"
   },
   {
     "id": "chris-wheatley",
@@ -5181,7 +5215,7 @@
     "quote": "Feedback is only as useful as our capacity to hear it without defensive armor. Grace under criticism is a superpower.",
     "quoteTranslation": "反馈的价值取决于我们在不披挂防御铠甲时倾听的能力。在批评面前保持优雅，是一种真正的超能力。",
     "audioUrl": "https://audio.louisyu.top/chris-wheatley-clean.mp3",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/114979e2-e884-48fc-95b8-50fa626b9a84/ChrisWheatley_2024-embed.jpg",
+    "coverUrl": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=800&auto=format&fit=crop&q=80",
     "spoken": [
       {
         "phrase": "on to something",
@@ -5272,7 +5306,8 @@
         "translation": "\nWhy It's too scary, right? We need to we need to narrow that question. So I might say I want to get better at running our staff meetings What's one piece of advice you have for me and how I could improve? And then here's the key. It's how you respond That's going to be the difference between you learning something and building trust with this person or the opposite So when they give you the feedback that you asked for you can respond with tact so that stands for thankfulness Acknowledgement commitment and then we'll end where we began a second. Thankfulness. So that first thankfulness You're trying to calm down that like initial fight or fight response that you might both be experiencing So I might say that wasn't easy to hear but I'm really glad you're willing to say it With acknowledgement you want to make the other person feel seen and heard first because that's your entryway into an authentic Dialogue they're expecting you to defend yourself and all that's going to do is it's just going to shut them down or gear them up for a fight You don't have to agree Just acknowledge what they said acknowledge the feelings underneath what they said and then you can have a real conversation And that'll eventually lead you to some kind of a commitment if you agree with the feedback It could be the behavior change you're going to make if you don't agree or you're not sure It could be to gather a few more perspectives and circle back It could be that you need a little bit of time and space to process But you're going to get back to them at a specific date and time just be clear what's next and follow through and The second thankfulness is my favorite part because it's so easy to do and it's very powerful What you're trying to do here is reinforce and reward the behavior so that they keep doing it Like most of us don't do things that are you know painful or unpleasant like giving feedback Unless there's some sort of a benefit for doing it. So when the conversations over send them a quick text Thank you, right or do what one of my colleagues did when I gave him tough feedback He wrote me a handwritten. Thank you card Just do something that makes it feel like it was worth the risk to tell you So it's thankfulness acknowledgement commitment and then a second thankfulness Do this consistently and you're going to be amazed at what you learn and the ways that it starts to benefit your relationships There is likely someone in your life who cares about you and has something to tell you that you might not want to hear But it could change your life if you did if you want the benefits of that feedback ask for it and then respond with tech I have seen it do wonders for so many people including me as I was preparing for today. I shared a draft with my sister and this is what she told me. She said Chris you've completely flipped the way that you talked to me and I can't even remember what you used to sound like I Can be completely myself around you even though we're so different So go out and get a tough piece of feedback from someone who cares about you and let it change your life. Thank you That was Chris Wheatley"
       }
     ],
-    "hasFullStudy": true
+    "hasFullStudy": true,
+    "cover": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=800&auto=format&fit=crop&q=80"
   },
   {
     "id": "joshua-johnson",
@@ -5389,7 +5424,8 @@
         "detail": "在面对具有挑衅性或情绪失控的沟通对象时，主动保持理性冷静、不卷入互咬的自我保护策略。"
       }
     ],
-    "subCategory": "理性对话"
+    "subCategory": "理性对话",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185828/9f23e63c-fcdb-4d07-8d41-50d064c7a2c4/JoshuaJohnson_2026-embed.jpg"
   },
   {
     "id": "ian-bremmer",
@@ -5578,6 +5614,7 @@
         "detail": "指交战各方在保留基本政治尊严与体面的前提下达成停火休战的外交下台阶机制。"
       }
     ],
-    "subCategory": "地缘格局"
+    "subCategory": "地缘格局",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186191/a6d85908-d10c-472d-a211-414ff451442f/TEDExplains_Episode_2026-07-28_1920x1080.jpg"
   }
 ]
