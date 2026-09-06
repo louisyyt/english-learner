@@ -1,180 +1,83 @@
 [
   {
-    "id": "ariel-ekblaw-meghan-sullivan",
-    "slug": "ariel-ekblaw-meghan-sullivan",
+    "id": "ariel-ekblaw-and-meghan-sullivan",
     "title": "What's the biggest barrier to thriving? A philosopher and a space architect answer",
-    "chineseTitle": "星际建筑师与哲学家对谈：我们在太空中寻找什么？",
-    "speaker": "Ariel Ekblaw and Meghan Sullivan",
-    "speakerTitle": "Ariel Ekblaw (太空建筑师/学者) · Meghan Sullivan (道德哲学家)",
-    "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188003/a2d42d97-8173-48e4-813b-bd6e1d6ad49e/16-9f.jpg?quality=85&w=800",
-    "duration": "12:28",
-    "fullDuration": "15:16",
-    "rawAdTrimmed": "已剔除片头片尾赞助广告与闲聊",
-    "category": "科技与未来",
-    "subCategory": "太空哲学与人类福祉",
-    "difficulty": "B2-C1 高阶",
+    "chineseTitle": "人类繁荣的最大阻碍是什么？太空建筑师与道德哲学家的破界对话",
+    "speaker": "Ariel Ekblaw & Meghan Sullivan",
+    "speakerTitle": "MIT 太空探索发起人 & 圣母大学伦理学教授",
+    "category": "科技与AI",
+    "subCategory": "前沿探索",
     "tags": [
       "太空探索",
       "道德哲学",
-      "人工智能",
-      "人类福祉"
+      "人类未来",
+      "跨界对话"
     ],
-    "date": "2026-09-05",
-    "quote": "Humans require a great deal of effort to become good versions of what we're supposed to be and it requires a lot of attention. Not just to ourselves, but attention on the part of our parents and teachers.",
-    "quoteTranslation": "人类需要付出巨大的努力，才能成为我们理应成为的优秀版本，这需要大量的关注。不仅是对我们自己，还需要父母和老师给予的关注。",
-    "hasFullStudy": true,
-    "audioUrl": "https://audio.louisyu.top/ariel-ekblaw-meghan-sullivan-clean.mp3",
+    "duration": "12:27",
+    "fullDuration": "19:25",
+    "audioUrl": "https://audio.louisyu.top/ariel-ekblaw-and-meghan-sullivan-clean.mp3",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188003/188003-embed.jpg?quality=85&w=800",
+    "quote": "What we owe another person is to be willing to look at them again.",
+    "quoteTranslation": "我们对他人最大的道德责任，就是保有一种重新审视对方的意愿与温柔。",
+    "segments": [
+      {
+        "time": "00:00",
+        "title": "仰望星空与凝视脚下：宏大太空愿景对人类日常困境的反哺",
+        "original": "Having really concrete and ambitious goals like going to the moon or putting people on the space station sometimes forces us to focus our attention on solving problems that then help us solve problems back here on Earth.",
+        "translation": "设定诸如登月或建立太空空间站这样具体而宏大的目标，往往倒逼我们全神贯注于攻克前沿技术瓶颈，而这些突破反过来能帮助我们解决地球家园面临的深层挑战。"
+      },
+      {
+        "time": "02:30",
+        "title": "道德哲学之辩：在原子化孤岛中，我们究竟彼此亏欠什么？",
+        "original": "What we owe another person is to be willing to look at them again. Sometimes we form our assumptions and stereotypes, put people in a little category in our brain, and then interact with them only according to that category.",
+        "translation": "我们对他人最大的道德责任，就是保有一种‘重新审视对方’的意愿。生活中我们常常过早形成刻板假设，将他人封存在固化的脑内标签中，并仅凭这些狭隘的标签与对方互动。"
+      },
+      {
+        "time": "05:30",
+        "title": "极限生存空间作为试金石：总观效应与共同善的底层设计",
+        "original": "Before we go be a sci-fi space-faring species, we earn our right to do that by ensuring we can take really good care of our own planet first. The principles guiding a cramped crew might be exactly what we need down here.",
+        "translation": "在我们真正成为科幻电影中跨越星际的物种之前，必须先通过证明自己能够悉心守护好脚下的地球，来赢得走向星辰大海的资格。狭小太空舱中维系乘组协作的准则，恰恰是地表社会所迫切需要的。"
+      },
+      {
+        "time": "09:00",
+        "title": "重构人类联结的公共殿堂：超越数字冷漠的面对面共创",
+        "original": "We need to reinvest in bringing humans together through shared institutions, creating spaces where we gather not to transact, but to truly listen, converse, and co-create our shared destiny.",
+        "translation": "我们必须重新加大对公共社群机构的投入，将人们从孤立中聚拢在一起，构筑那些不以功利交易为目的、而是为了真诚倾听、深入对话并共创未来命运的温暖殿堂。"
+      }
+    ],
     "spoken": [
       {
-        "phrase": "over my skis",
-        "timestamp": "10:00",
-        "meaning": "比喻超越了自己的能力范围、涉足不熟悉的领域或轻举妄动",
-        "quote": "I've recently become really passionate about something completely outside of my domain, so maybe I'm a little over my skis...",
-        "pronunciation": "/ˈoʊvər maɪ skiːz/ - 連讀時 'over' 的 /r/ 與 'my' 的 /m/ 自然過渡，'skis' 發音清晰。"
+        "phrase": "space fan girl",
+        "meaning": "极度狂热的航天爱好者 / 太空铁粉",
+        "timestamp": "00:01",
+        "quote": "It strikes me as somebody who's a huge space fan girl is what I would say...",
+        "pronunciation": "fan girl 之间轻读过渡，girl 发饱满卷舌音 /ɡɜːrl/。"
       },
       {
-        "phrase": "roll up their sleeves",
-        "timestamp": "11:00",
-        "meaning": "挽起袖子，准备大干一场，实际投入艰苦的工作",
-        "quote": "I think how might there are a few institutions that really roll up their sleeves and do this work of forming people's characters.",
-        "pronunciation": "/roʊl ʌp ðɛər sliːvz/ - 'roll up' 連讀為 roll-up，'their' 中的 th 弱化。"
-      },
-      {
-        "phrase": "what goes around comes around",
-        "timestamp": "05:00",
-        "meaning": "种瓜得瓜，种豆得豆；因果报应，行事会产生反作用",
-        "quote": "What goes around comes around. War happens very quickly...",
-        "pronunciation": "/wʌt goʊz əˈraʊnd kʌmz əˈraʊnd/ - 'goes around' 和 'comes around' 的韵律感强，语调上扬再下降。"
-      },
-      {
-        "phrase": "split the difference",
-        "timestamp": "00:00",
-        "meaning": "折中，妥协，平分差额",
-        "quote": "...like just splitting the difference or kind of finding like going down to the basics.",
-        "pronunciation": "/splɪt ðə ˈdɪfərəns/ - 'splitting' 的 t 音轻化，'the' 弱讀為 /ðə/。"
-      },
-      {
-        "phrase": "take it",
-        "timestamp": "03:00",
-        "meaning": "接受，承受，或者领会某种意图/氛围",
-        "quote": "I'm going to just spit on the shelf and just take it and she's like, really look at the person.",
-        "pronunciation": "/teɪk ɪt/ - 'take it' 連讀為 take-it，闭口音清晰。"
+        "phrase": "from scratch",
+        "meaning": "从零开始 / 白手起家彻底重构",
+        "timestamp": "05:45",
+        "quote": "...and what it would take to design a better world from scratch.",
+        "pronunciation": "scratch 清辅音连缀 /skr/ 紧凑发音，末尾 /tʃ/ 干脆利落。"
       }
     ],
     "grammar": [
       {
-        "name": "It strikes me as + noun phrase",
-        "timestamp": "00:00",
-        "quote": "It strikes me as somebody who's a huge space fan girl is what I would say...",
-        "explanation": "“It strikes me as...” 是一种常用的表达个人直观感受、突然意识到的句型，后面常接名词或从句，用来引出对某个议题的鲜明印象。"
-      },
-      {
-        "name": "Pseudo-cleft sentence (what-cleft) for emphasis",
-        "timestamp": "06:00",
-        "quote": "What is the biggest barrier to human thriving? The biggest barrier to human thriving. There are some really big barriers.",
-        "explanation": "使用以 'What' 开头的伪分裂句来突出核心问题（What is the biggest barrier...），能有效引导听众注意力聚焦于演讲者接下来要阐述的核心论点。"
-      },
-      {
-        "name": "Conditional inversion / Hypothetical concession",
-        "timestamp": "08:00",
-        "quote": "If some of the barriers to human thriving are things like poverty, war, climate change... why would we spend money on space at all?",
-        "explanation": "通过 'If... are..., why would...' 的条件假设句式，巧妙地将公众对太空探索的质疑摆在台面上，再通过后续论证进行强有力的反驳和视角转换。"
+        "name": "宾语从句与动名词复合主语 (00:00)",
+        "quote": "Having really concrete and ambitious goals sometimes forces us to focus our attention.",
+        "explanation": "Having really concrete... 作完整主语从句/动名词短语，谓语动词采用单数形式 forces，表达明确的因果驱动力量，论证极具说服力。"
       }
     ],
-    "vocab": [
+    "vocabulary": [
       {
-        "collocation": "common good",
-        "meaning": "公共利益，共同善",
-        "detail": "哲学和政治学中的核心概念，指对社群中所有成员都有益的集体利益或共同追求的目标，超越单纯的个人利益加总。"
+        "word": "overview effect",
+        "meaning": "总观效应（宇航员从太空俯瞰地球后产生的深刻心理与哲学震撼）",
+        "detail": "航天心理学核心术语。指航天员亲眼目睹脆弱地球悬浮于漆黑宇宙时，瞬间消解国家宗派隔阂的认知觉醒。"
       },
       {
-        "collocation": "interplanetary species",
-        "meaning": "星际物种，跨行星物种",
-        "detail": "现代太空探索语境下的前沿词汇，指不仅仅局限于地球，而能够在多个星球上生存和建立文明的人类发展阶段。"
-      },
-      {
-        "collocation": "pragmatic optimist",
-        "meaning": "务实的乐观主义者",
-        "detail": "形容对未来（如AI技术或太空前景）抱有希望，但同时立足于现实挑战、不盲目盲从的理性态度。"
-      },
-      {
-        "collocation": "isolated, confined environments",
-        "meaning": "隔离且受限制的环境（ICE环境）",
-        "detail": "太空医学和深空探测领域的专业术语，专门用来研究宇航员或太空栖息地中因空间狭小、与世隔绝而产生的心理和社交压力。"
-      }
-    ],
-    "segments": [
-      {
-        "time": "00:00",
-        "title": "太空梦想与基石审视 (Space Dreams & Fundamentals)",
-        "original": "It strikes me as somebody who's a huge space fan girl is what I would say is that having these really concrete and ambitious goals like going to the moon or putting people on the space station sometimes forces us to focus our attention on solving problems that then help us solve problems back here on Earth. This is exactly what we want to do in space. What does the common good actually mean? And how do we build towards it? I think a lot of people assume that the common good means finding the kind of least common denominator that we can agree in, like just splitting the difference or kind of finding like going down to the basics. I think that",
-        "translation": "我的感觉是，作为一个狂热的太空迷，我会说，拥有这些具体且宏伟的目标，比如登月或将人类送上空间站，有时会迫使我们把注意力集中在解决问题上，而这些问题反过来又能帮我们解决地球上的问题。这正是我们想在太空中做的事情。公众利益到底意味着什么？我们又该如何朝着这个目标努力？我认为很多人以为，公众利益意味着寻找我们都能接受的最大公约数，比如各退一步或者找到某种回归基本面的方法。我认为这"
-      },
-      {
-        "time": "01:00",
-        "title": "共同善与亚里士多德的哲学启发 (The Common Good & Aristotle)",
-        "original": "is a huge mistake. Okay. The philosophers that I study and love, the ancient Greeks like Aristotle, believe that the common good, the good itself is something that you're moving towards. It's like common goal and nobody is there yet. So, when we talk about prioritizing the common good, I think we're not trying to figure out of all the things that we believe and care about now, how do we sort of settle? And figure out what we already share. Exactly. Instead, we need to be having this conversation of where do we collectively want to move to, which presumably is very different from where we currently are, which is probably not that great. Yeah. I think this is really compelling. In our field for space, we think about the space commons and try to define what is the public good in the context of a really broad geographical expanse, like the near Earth cocoon of space. And we don't have a real space commons yet. It does exist as a space, but we haven't defined all the norms yet. And so, I love this. This is a way that we can think about moving together towards the definition of maybe a",
-        "translation": "是个巨大的错误。好吧。我研究并热爱的哲学家，古希腊人，像亚里士多德，他们认为公共利益，善本身，是你正在努力的方向。这就像是一个共同的目标，还没有人到达那里。因此，当我们谈论优先考虑公共利益时，我认为我们不是在试图弄清楚在我们现在相信和关心的所有事情中，我们该如何安定下来？并弄清楚我们已经共享的东西。没错。相反，我们需要进行这样的对话，即我们集体想要走向哪里，这大概与我们目前所在的地方非常不同，这可能没那么好。是的。我认为这真的很有吸引力。在我们太空领域，我们考虑太空公域，并试图在广阔的地理范围内定义什么是公共利益，比如近地太空茧。我们还没有真正的太空公域。它作为一种空间确实存在，但我们还没有定义所有的规范。所以，我喜欢这个。这是一种我们可以考虑共同迈向也许是"
-      },
-      {
-        "time": "02:00",
-        "title": "星际物种的道德底色 (Ethics of an Interplanetary Species)",
-        "original": "future goal, an aspirational version of humanity's comments. And maybe trying to figure out what it means to be a interplanetary species. We might we might imagine might like kind of exercise our imagination about how to be a better planetary species in the process. Love that. What do we owe each other as humans?",
-        "translation": "未来的目标，也就是人类评论的进阶版本。也许我们要开始思考，作为一个星际物种意味着什么。我们或许可以借此想象并实践，如何成为一个更好的行星物种。太棒了。作为人类，我们彼此之间负有什么样的责任？"
-      },
-      {
-        "time": "03:00",
-        "title": "我们彼此欠对方什么？(What We Owe Each Other)",
-        "original": "answer this question. She says, what we owe another person is to be willing to look at them again. Which means like, often times we meet people, and we sort of form our assumptions and stereotypes about them and we kind of clo we put them in a little category in our brain and then we interact with them according to that category. We put them in a box, too, really. Oh, my gosh. And she's like, you know, 80% of the time, your first impression is pretty dumb. This is something I have learned in my life, I think for the last 10 years. I thought I was great at first impressions, and I have and then judging people in a positive sense, but quickly and decisively. And I think I have learned recently that I really do need to give people a second look. I love this comment. And just being able to like say, all right, I've got a vibe on you. I'm going to just spit on the shelf and just take it and she's like, really look at the person. Just make yourself see like there's a person there. So, I think if we did that, maybe things would start to get better. If you could design a better world for humans from scratch, what's the first rule? You know, I come at philosophy from a catha",
-        "translation": "回答这个问题。她说，我们对另一个人亏欠的是，愿意再次正视他们。这意味着，很多时候我们遇到人，我们会对他们形成某种假设和成见，把他们归入我们大脑中的某个小类别，然后根据那个类别与他们互动。我们也把他们关进了一个盒子里。哦天哪。她说，你知道，80%的时候，你的第一印象都很蠢。这是我人生中学到的一点，我觉得在过去的十年里，我以为自己很擅长第一印象，而且我而且会以积极的方式评价人，但又快又果断。而我认为我最近学到的是，我真的需要给别人第二次机会。我很喜欢这个评论。并且能够说，好吧，我从你身上感觉到了一些东西。我要把它放在一边，然后去接受它。她还说，真正地看着这个人。让自己看到那里有一个人。所以，我想如果我们这样做，事情也许会开始变好。如果你可以从头为一个更好的世界设计人类，第一条规则是什么？你知道，我从哲学角度来看，是"
-      },
-      {
-        "time": "04:00",
-        "title": "因果报应与太空有限生态 (Ecological Feedback in Space)",
-        "original": "perspective, and in the Jewish tradition and the Christian tradition, there was a fundamental rule that was laid down at the beginning that then we just promptly disregarded, which is you will love your neighbor as another self, like as yourself. Like you're going to put love at the basis of all the rest of your decision making. And pretty much as soon as that kind of fundamental operating principle was laid down, we all started ignoring it and like revising it. So I don't know if I would revise the original code, but I would maybe uh enforce it a little bit harder. I don't know if that's a lot as an answer. What would you do? I love this. I think in the context of space environments, we're often in isolated, confined environments, tiny, constrained little spaces.",
-        "translation": "视角，而在犹太传统和基督教传统中，最初确立过一个基本规则，然后我们很快就置之不理了，那就是“你要爱人如己”，就像爱自己一样。也就是说，你要把爱作为你所有其余决策的基础。差不多就在这种基本运作原则确立后不久，我们就开始忽视它并加以修改了。所以我不知道我是不是会修改原代码，但我可能会……更严格地执行它。我不知道这算不算一个回答。你会怎么做？我喜欢这个。我认为在太空环境的背景下，我们经常处于孤立、受限的环境中，即狭小、局促的空间。"
-      },
-      {
-        "time": "05:00",
-        "title": "俯瞰效应与共享体验 (The Overview Effect & Empathy)",
-        "original": "What goes around comes around. War happens very quickly, uh, with kind of a small, you know, proto-group of humans in a space habitat. It's like a, almost a tiny little, you know, maybe not a civilization, but a tiny little society in its own right. So, yeah, something like recommitting to the Golden Rule and this sense of really treating other people in the way in which you would like to be received and seen and and treated. I love it.",
-        "translation": "天道有轮回。战争发生得极快，在一座太空栖息地里，仅有一小群人类。这就像是一个微型的、或许算不上文明，但自成一体的微型社会。所以，是的，类似于重新践行黄金法则，真诚地以你希望被对待、被看到和被尊重的方式去对待他人。我太喜欢了。"
-      },
-      {
-        "time": "06:00",
-        "title": "阻碍人类繁荣的最大壁垒 (The Ultimate Barrier to Thriving)",
-        "original": "And I would love to share that experience with more people. That's a hope I would have. I think on on my end, similar hope that you know, we'd we'd have a kind of realization. I'm I'm very excited about the the AI decade finally taking root. And I consider myself kind of pragmatic, optimist about artificial intelligence. But my biggest hope is that we would use this powerful technology that we now have at our disposal to help a whole lot more folks realize what it means to be genuinely human. That like kind of humans be the star Highlights the difference. Highlights the difference, and also there's so much about our lives pre- AI that are dehumanizing. So many ways in which we learn and which we work that have never enabled us to really express what's special about being a human being. I'd love to think that now we have this technology, we would choose to develop it in a way that we're we're humans and our capabilities and virtues would be the star of the show. I don't know that that's going to happen. I'm kind of afraid it's not going to happen, but maybe",
-        "translation": "我很乐意与更多人分享这种体验。这是我有的愿望。我认为就我而言，类似的希望是，你知道，我们会有一种认识。我非常兴奋的是，人工智能十年终于扎根了。我认为自己是一个务实的、对人工智能持乐观态度的人。但我最大的希望是，我们将利用我们现在拥有的这项强大技术，帮助更多的人意识到真正作为人类意味着什么。就像人类是明星 突显差异。突显差异，而且我们的生活中有很多在人工智能出现之前就非人化的东西。我们学习和工作的方式有很多，从未能真正表达出作为人类的特别之处。我很乐意认为，现在我们有了这项技术，我们会选择以这样一种方式开发它，使人类和我们的能力与美德成为主角。我不知道这会不会发生。我有点害怕这不会发生，但也许"
-      },
-      {
-        "time": "07:00",
-        "title": "贫困、气候与探索太空的真正意义 (Earthly Crises vs. Space Exploration)",
-        "original": "if we had the chance to see where we stand in the perspective of the universe it would go better. What is the biggest barrier to human thriving? The biggest barrier to human thriving. There are some really big barriers. But I think probably the biggest one is our inattention. We you know we're in we're rational animals. We have extraordinarily great capabilities in us. But the only way that we realize them unlike most animals which kind of mature and develop their powers no matter what. A squirrel becomes a good squirrel with with without very little effort. Humans require a great deal of effort to become good versions of what we're supposed to be and it requires a lot of attention. Not just to ourselves, but attention on the part of our parents and teachers. And I think when we fail to flourish it's not typically because we've had like some",
-        "translation": "如果我们有机会站在宇宙的视角来看看我们处在什么位置，情况就会好转。人类繁荣的最大障碍是什么？人类繁荣的最大障碍。确实有一些非常大的障碍。但我认为，可能最大的障碍是我们的注意力不集中。你知道，我们是理性的动物。我们拥有非凡的能力。但我们意识到这些能力的唯一途径——与大多数动物不同，大多数动物会成熟并发挥其能力，无论如何，松鼠都能成为一只优秀的松鼠，几乎不需要什么努力。人类需要付出大量的努力才能成为我们应该成为的优秀版本，这需要大量的注意力。不仅是对我们自己，还需要父母和老师的关注。我认为，当我们未能繁荣时，通常不是因为我们经历了某种"
-      },
-      {
-        "time": "08:00",
-        "title": "在太空中研究人类繁荣实验 (Prototyping Human Thriving in Orbit)",
-        "original": "malicious plan that screwed up our lives. But really, we just never had the opportunity to focus on the good plan. So, I would think distraction. How about you? That's a great response. Like, we are really high-intensity creatures in the sense we need a lot of attention. We need a lot of explicit, yeah, care and development to become maybe the best version of ourselves. For me, it's interesting. I think of this sometimes in the context of why do we spend so much money on space exploration? If some of the barriers to human thriving are things like poverty, um war, climate change, there's a lot of things at a societal scale that might be keeping us from thriving, uh in the way that we really could. And then that raises the question, why would we spend money on space at all in that context? And I think one of the things we could do to help human thriving is we can use space for the benefit of life on Earth. So, before we go be a sci-fi spacefaring species, maybe we earn our right to go do that someday by showing that we can take really good care of our own planet first. So, try to",
-        "translation": "恶意计划毁了我们的生活。但实际上，我们从来没有机会专注于好的计划。所以，我想到了分心。你觉得呢？这是一个很好的回答。就像，我们是非常高强度的生物，这意味着我们需要大量的关注。我们需要大量的明确的、是的，关怀和发展，才能成为也许最好的自己。对我来说，这很有趣。我有时会在“为什么要花这么多钱在太空探索上”的背景下考虑这个问题。如果人类繁荣的一些障碍是贫穷、嗯战争、气候变化之类的事情，在社会层面上，有很多事情可能会阻碍我们繁荣，嗯以我们真正能做到的方式。然后这就引发了一个问题，在这种背景下，为什么我们还要花钱在太空上呢？我想我们可以做的事情之一来帮助人类繁荣，就是我们可以利用太空造福地球上的生命。所以，在我们成为一个科幻太空航行物种之前，也许我们通过展示我们能首先照顾好我们自己的星球，来赢得我们某天去那样做的权利。所以，试着"
-      },
-      {
-        "time": "09:00",
-        "title": "技术架构与人性善意的底层假设 (Architectures Built on Good Intentions)",
-        "original": "do things in space that would help with human thriving. And my latest favorite one is biology. Turns out biology is really different when you're floating in orbit than when you're on the ground. And so we might be able to do things like cancer cures, um Alzheimer's, organoids testing, all kinds of interesting things that would maybe help humans thrive in a more concrete, immediate way on Earth, but leveraging space technology.",
-        "translation": "在太空中做一些有助于人类繁荣的事情。我最近最喜欢的一个是生物学。事实证明，当你漂浮在轨道上时，生物学与在地面上时真的不同。因此，我们也许能够做一些事情，比如癌症治疗，阿尔茨海默病，类器官测试，各种有趣的事情，这可能会以一种更具体、更直接的方式帮助人类在地球上繁荣，但利用了太空技术。"
-      },
-      {
-        "time": "10:00",
-        "title": "品格塑造与现代制度的责任 (Character Formation & Institutional Roles)",
-        "original": "have to assume good intentions at the base. And so being able to think about what is the architecture of policy that comes out of the US government, um, or ways that we could unify people to get them there. And I've recently become really passionate about something completely outside of my domain, so maybe I'm a little over my skis, which is a idea of a national service, not necessarily a military draft. My parents are both ex-military and very supportive of the military, but something that would be like every young person does something for a year when they're 18 and it really unites red and blue state kids, and urban and rural kids and it could be Teach for America, it could be something that's service-oriented, also maybe you know military service-oriented. But something like that I think once you get to know the people of your community and your village and your society and your civilization a little bit better, I think you can do a better job of finding the good in them and then maybe building good systems around them. I love that. I think how might there are a few institutions that really",
-        "translation": "我们必须假定最初的动机是善良的。因此，思考美国政府出台的政策架构是什么，或者寻找能够团结人们以达到这一目的的方法。最近我对一个完全超出我专业领域的事情产生了极大的热情，所以可能我有点自不量力，那就是关于建立国家服务的想法，这不一定是强制兵役。我的父母都曾是军人，非常支持军队，而是像每个年轻人都在18岁时为之服务一年的那种形式，它确实能将红州和蓝州的孩子、城市和农村的孩子凝聚在一起，它可以是“为美国而教”，也可以是面向服务的项目，或许也包含面向军事服务的项目。但类似这样的事情，我认为一旦你更好地了解了你所在的社区、村庄、社会和文明中的人们，我认为你就能够更好地发现他们身上的闪光点，进而围绕他们构建良好的系统。 我喜欢这个。我认为这也许会有一些机构真的"
-      },
-      {
-        "time": "11:00",
-        "title": "结语：携手重建连接与繁荣 (Closing: Rebuilding Connection Together)",
-        "original": "roll up their sleeves and do this work of forming people's characters. One is education, another would be like church and religious organizations, and a third is the media. And everybody likes to like talk about how awful, you know, whatever fill in the blank social media is, but you know, genuinely print media, the the news and various sources still very much forms people's outlook and what they hope for and what they view as the sort their sort of purpose in life. And I think we have sorely neglected those institutions.",
-        "translation": "挽起袖子，做塑造人们品格的工作。一个是教育，另一个是教会和宗教组织，第三个是媒体。每个人都喜欢谈论社交媒体是多么糟糕，无论具体是指哪个，但是，你知道，真正地，印刷媒体，新闻和各种渠道仍然在很大程度上塑造了人们的观点，以及他们对未来的期望，以及他们如何看待自己在生活中的某种目的和意义。我认为我们严重忽视了这些机构。"
+        "word": "moral philosophy",
+        "meaning": "道德哲学 / 伦理学探讨",
+        "detail": "探究人类社会正义、义务、善恶边界与人际相互责任的哲学分支。"
       }
     ]
   },
