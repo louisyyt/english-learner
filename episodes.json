@@ -18,55 +18,133 @@
     "fullDuration": "21:05",
     "audioUrl": "https://audio.louisyu.top/reed-hastings-clean.mp3",
     "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_184518/184518-embed.jpg?quality=85&w=800",
-    "quote": "The biggest uncertainty is: how fast is AI getting better, and how fast will it continue going forward?",
-    "quoteTranslation": "最大的未知数在于：AI 的进化到底有多快？未来又将以何种加速度重塑一切？",
+    "quote": "The biggest uncertainty for everybody is how fast is AI getting better and how fast will it be getting better going forward.",
+    "quoteTranslation": "摆在所有人面前最大的未知数在于：AI 的进化到底有多快？未来又将以何种加速度重塑一切？",
     "segments": [
       {
+        "id": 1,
         "time": "00:00",
-        "title": "二十五年教育反思：为什么投入十亿美元依然难改传统学校困局",
-        "original": "I've been working for the last 25 years to try to find ways to make schools work better and have better outcomes for kids. And after a billion dollars in 25 years, we're down below where I started. The limiting factor is the classroom model itself, much like the steam engine factories before electric motors decentralized power.",
-        "translation": "过去 25 年里，我一直在探寻让学校更高效、让孩子们取得更好成果的途径。但在砸下 10 亿美元后的今天，成效甚至还不如我最初起步的时候。真正的瓶颈在于工厂流水线式的传统课堂模式本身，正如当年电气化彻底重塑蒸汽动力工厂之前一样。"
+        "seconds": 0.5,
+        "endSeconds": 46.0,
+        "title": "开场对谈：25年、10亿美元教育慈善的反思",
+        "original": "So Reed, education, which a lot of people -- I don't know how many know how active you are in education, education philanthropy, charter schools, etc. What are you doing in that space? On the Board of Khan Academy and generally I've been working for the last 25 years to try to find ways to make in particular U.S. schools, but some international, work better and have better outcomes for kids. And I would say after a billion dollars in 25 years, we're down below where I started. So it's a hard problem. And what do you -- you know, we heard about the risks of ed tech, but you are investing in ed tech, you're giving to ed tech. What are your thoughts? What's the trade-off there? Why do you continue to potentially believe there?",
+        "translation": "Sal：Reed，关于教育领域——不知道有多少人了解你在教育、教育慈善和特许学校等方面有多么活跃。你在那个领域具体在做什么？\nReed：我在可汗学院的董事会，过去 25 年里我一直在努力探索如何让特别是美国的学校（包括一些国际学校）运转得更好，让孩子们取得更好的成果。但我必须说，在投入了 25 年和 10 亿美元之后，我们的现状甚至比我刚开始时还要低。所以这是个极其棘手的难题。\nSal：那么你怎么看——我们经常听到关于教育科技（EdTech）风险的讨论，但你一直在投资教育科技，一直在捐助教育科技。你的真实想法是什么？这其中的权衡是什么？为什么你依然坚信这个方向？"
       },
       {
-        "time": "04:20",
-        "title": "超越人类个别导师：AI 智能指数级迭代与个性化学习革命",
-        "original": "We've gone from just incredible raw intelligence to systems that double, double, double and get better and better. There is a world where the AI will be able to match and beat the human individual tutor, adapting to every child's pace without judgment.",
-        "translation": "我们正见证技术从令人惊叹的初始智能，跨越到性能持续翻倍演进的全新系统。在未来的世界里，AI 完全有能力匹敌甚至超越人类一对一导师，以完全去评判化的耐心，敏锐贴合每个孩子的独特认知节奏。"
+        "id": 2,
+        "time": "00:46",
+        "seconds": 46.5,
+        "endSeconds": 128.0,
+        "title": "蒸汽机与电动机隐喻：传统课堂的根本摩擦力",
+        "original": "You know, in the 18th century most factories were steam engine driven. They have a big steam engine rotating rods and pulleys and belts and drove the factory very efficient. And then electricity came in and they replaced the steam engine with an electric engine thinking that it was going to help a lot, and productivity didn't increase at all, and they were puzzled. And then they realized the limiting factor is the power distribution system, all these spinning rods and mechanical power. And they ripped that out and just put in small electric motors for each device, then they could move things around, fit them in better because it wasn't aligned to the spinning. They could have variable speed, turn different motors on and off, and then productivity increased dramatically. So it's a classic kind of economic surprise lesson. And it's always stuck with me because I think that's what we're seeing, which is we keep doing things to improve classroom education, but the fundamental power distribution is 25 kids stuck at the same level.",
+        "translation": "你看，在 18 世纪，大多数工厂都是由蒸汽机驱动的。工厂里有一台巨大的蒸汽机，通过旋转的传动轴、滑轮和皮带带动整座工厂运转，在当时非常高效。后来电力出现了，他们把蒸汽机换成了一台大型电动机，以为这样能大幅提升效率，结果生产率根本没有增长，大家都百思不得其解。后来他们终于意识到，真正的瓶颈在于‘动力分配系统’——那些沉重的旋转连杆和机械传动。于是他们彻底拆除了那套系统，为每一台设备单独安装了小型电动机。这样他们就可以自由重排设备、灵活布局，不再受限于传动轴的位置。不同电机可以实现变速、随时启停，工厂的生产率这才迎来了爆发式增长。这是一个经典的经济学启示，我一直铭记于心，因为这正是我们在教育中看到的现象：我们不断尝试各种方法来改进课堂，但底层的‘动力分配’机制仍然是 25 个孩子被困在同一个步调上。"
       },
       {
-        "time": "08:30",
-        "title": "穿越 AI 之门：Anthropic 董事会视角与前沿安全治理使命",
-        "original": "How does humanity get through the age of AI successfully crossing through this portal? It's going to be very challenging, but the beneficial outcomes — whether Waymo self-driving, gene editing, or curing diseases — will fundamentally reshape our society in the next 10 to 20 years.",
-        "translation": "人类如何才能平稳穿过 AI 时代的这扇传送门？这无疑充满艰巨挑战，但伴随而来的巨大福祉——无论是完全自主驾驶、基因编辑还是治愈顽疾——都将在未来 10 到 20 年彻底重塑人类社会的面貌。"
+        "id": 3,
+        "time": "02:08",
+        "seconds": 128.5,
+        "endSeconds": 235.0,
+        "title": "一对一导师与 Bloom 效应：个性化学习的突破口",
+        "original": "And the theory is if each of us had an individual human tutor -- so imagine you go to school, you have your normal social activities, when it comes to learning, you get an individual who's going to sit down with you, and then they can do Khan Academy or they can do color book or whatever is appropriate, that learning would be massively increased. And there was a famous study 40 years ago, Bloom, that documented this. And now a friend of mine, Ben Summers, is redoing that study but at much bigger scale. And I think what we're going to see is the key to much more learning -- where middle school kids know all of the high school curriculum, high school knows all of the college, much better outcomes -- will be individualized education. How do you score that with what Jonathan Haidt said? Look, these screens, I mean at least it's a correlation, we don't know causal yet, but it seems to be distracting, it seems to correlate with some test scores going down. Is it an all-or-nothing type of thing? I'm a huge fan of Jonathan, totally agree with all his zip-up phones and don't use phones. And I think you guys clarified he likes offline tablets, that's fine. It's the internet that's the problem, not the physical device. So the individualized tutoring we're doing is with humans, they can use some technology if they want. But then obviously that's cost prohibitive because it's about $100,000 per kid per year.",
+        "translation": "这个理论的核心是：如果我们每个人都能拥有一位专属的人类导师——想象一下你去上学，有正常的社交活动，而一旦进入学习环节，就有一位专属老师坐在你身边，带着你做可汗学院、或者涂色书、或者任何适合你的内容，学习效果就会产生质的飞跃。40 年前著名的布鲁姆（Bloom）研究就证实了这一点。现在我的朋友 Ben Summers 正在更大规模上重做这项研究。我认为我们即将见证：让初中生掌握高中全部课程、让高中生通晓大学知识的终极钥匙，就是‘个性化教育’。\nSal：那你怎么看 Jonathan Haidt 的观点？他说屏幕至少存在相关性，虽然因果关系尚未定论，但屏幕似乎会分散注意力并导致考试成绩下滑。这对你来说是非黑即白的吗？\nReed：我是 Jonathan 的超级粉丝，完全赞同他把手机封存起来、在学校禁用的主张。大家也澄清过，他支持离线平板，这没问题——问题出在互联网的无休止干扰，而不是电子设备本身。我们现在做的个性化辅导是靠真人导师，但显而易见，其成本高到令人望而却步——每个孩子每年要花费大约 10 万美元。"
       },
       {
-        "time": "12:15",
-        "title": "最大不确定性：AI 进化的指数加速度如何颠覆所有底层假设",
-        "original": "The biggest uncertainty for everybody is: how fast is AI getting better, and how fast will it continue getting better going forward? That rapid pace changes all of your fundamental views, workforce assumptions, and educational paradigms.",
-        "translation": "摆在所有人面前最大的未知数在于：AI 的进化到底有多快？未来又将以怎样的加速度向前奔涌？这种超乎预期的指数级迭代，正在从底层颠覆我们关于未来工作、社会假设与教育范式的全部认知。"
+        "id": 4,
+        "time": "03:55",
+        "seconds": 235.5,
+        "endSeconds": 361.0,
+        "title": "AI 导师超越人类：学校三大职能的重新分工",
+        "original": "So then the hard challenge becomes how do we use AI to approximate that human and provide everyone an individualized education as AI gets better. Current AI is not good enough to do that, but in three years we've gone from ChatGPT-3.5 and barely being able to do high school math to just incredible intelligence. And that's likely to just continue to double, double, double and get better and better and better. So there is a world where the AI I think will be able to match and beat the human individual tutor. And what does that world look like? Let's just say it's in 10 years. Are you imagining that you're just socializing and then you go to this AI tutor, but are you imagining there's no human teacher? What do you think happens to that role, that profession? Well, let's think about schools. So three big purposes: One is create good citizens. Another is give economic opportunity to the kids. And then the other is socialization, social emotional learning, how to work with other people, adults outside of your family. Only in the first part is really where online is really good. And what we want to do is have teachers be able to focus on social emotional learning. They become really helping maturity, interpersonal skills, values clarification, all those higher-level things.",
+        "translation": "因此，真正的艰巨挑战就变成了：随着 AI 越来越强，我们如何利用 AI 来逼近真人导师的能力，为每个人提供专属的个性化教育？当前的 AI 还不足以完全做到这一点，但在短短三年内，我们见证了从 ChatGPT-3.5 勉强做高中数学题，演进到现在令人惊叹的高超智能。而且这种能力很可能会继续以翻倍、再翻倍的节奏不断进化。所以在未来的世界里，我认为 AI 完全有能力匹敌甚至超越人类一对一导师。\nSal：那会是一个怎样的世界？假设是在 10 年后，难道学校里就没有人类教师了吗？这个职业会发生什么变化？\nReed：让我们思考一下学校的三大核心职能：第一是培养合格公民；第二是为孩子们提供经济与发展机会；第三是社交与社会情感学习（SEL），学会如何与家人以外的人和成年人协作相处。线上或技术真正擅长的主要是知识与技能传授。而我们希望的是让教师能够把全部精力解放出来，专注于社会情感学习——帮助孩子走向成熟、培养人际交往能力、树立价值观等更高层面的素养。"
+      },
+      {
+        "id": 5,
+        "time": "06:01",
+        "seconds": 361.5,
+        "endSeconds": 469.0,
+        "title": "告别‘讲台圣人’：教师角色向高阶引导者的跃迁",
+        "original": "And I just want to double-click on that. You still see a major role for the human teacher and the human classroom. You just see that role shifting. So most teachers today, their pride center is teaching and connecting and understanding the material. Some part of that is really connecting on a personal level with the student. That part is the social emotional. But in terms of transferring information, what educators cynically call 'sage on a stage', it's eliminating 'sage on a stage' as a teaching modality. And so it's really just focused on the individual. What would education be if there was no mass teaching? And to be fair, if you went to an ed school 20 years ago, this is what they were preaching: differentiated instruction, active learning, don't be 'sage on the stage', have a Socratic discussion, do a simulation. So the teacher moves up the value chain and is able to facilitate and drive a lot of that active learning, which is better for everyone. I think it's more fun for the teacher. And the other part is once you can do a lot of this in software, you can do it globally. It's really hard to scale up the teacher force, but software is pretty inexpensive to make globally available.",
+        "translation": "Sal：我想深入探讨一下这一点。你依然认为人类教师和真实的线下课堂扮演着核心角色，只是这个角色正在发生转型。\nReed：没错。今天大多数老师的成就感来源在于传授知识和讲解材料，其中一部分是与学生建立真挚的情感连接——这就是社会情感层面。但是在信息灌输方面，正如教育界常讽刺的‘讲台上的圣人’（sage on a stage），AI 将彻底终结这种填鸭式的大班讲授模式。教育将真正回归个体。如果不再有‘一刀切’的集体灌输，教育会变成什么样？其实 20 年前教育学院就在提倡这些：分层教学、主动学习、不要当讲台圣人、开展苏格拉底式讨论与实战模拟。因此，教师实际上是走向了价值链的高端，去引导和激发深度的主动学习，这对所有人都是更好的体验，教师也会觉得教学更有乐趣。另一方面，一旦将这些能力固化在软件中，就能实现全球化普及——培养数百万优秀教师极难规模化，但软件却能以极低成本惠及全世界每一个角落。"
+      },
+      {
+        "id": 6,
+        "time": "07:49",
+        "seconds": 469.5,
+        "endSeconds": 573.0,
+        "title": "加盟 Anthropic 董事会：穿越 AI 传送门与安全使命",
+        "original": "Getting gears a little bit, because your other board you're on isn't obviously very related to this: Anthropic. Actually I'm just curious, what made you join that board? What's it like at those board meetings when I'm assuming y'all talk about pressures from the White House, how your new model might break all software? Tell us what you can. Yeah, it's a lot like your board meeting, talking about the software and what it can do and how it needs to get better. So the mission of the company is very clear: it's not maximizing profits. It's that we're successful -- humanity. How do we get into the age of AI successfully crossing through sort of this portal? And they recognize it's going to be very challenging, and they're very dedicated to having that happen. Enrolling out AI and having the incredible beneficial outcomes -- whether that's self-driving, whether that's gene editing, whether that's curing cancer. 10, 20 years from now, it's very likely we'll have pretty abundant energy, we will have amazing health outcomes, so much positive outcome from the AI infusion into science. And I would say Anthropic is serious about helping us manage or avoid most of the downside.",
+        "translation": "Sal：换个话题，你加入的另一个董事会似乎和教育没有直接关系：Anthropic。我很好奇，是什么契机让你加入了他们的董事会？在那些董事会上是怎样的场景？我猜你们会讨论来自白宫的监管压力，或者你们的新模型会不会颠覆所有软件？能和我们分享一下吗？\nReed：哈哈，其实和可汗学院的董事会挺像的，都是讨论软件的能力以及如何把它做得更好。Anthropic 这家公司的使命非常明确：它的首要目标不是追求利润最大化，而是为了全人类的成功。我们如何才能平稳穿过 AI 时代的这扇传送门？他们深知这充满挑战，并且全力以赴确保安全平稳过渡。在释放 AI 潜力的同时带来巨大的福祉——无论是完全自动驾驶、基因编辑还是治愈癌症。在未来 10 到 20 年内，我们极有可能迎来充裕的清洁能源和颠覆性的医疗突破。AI 融入科学将带来无数积极成果，而 Anthropic 正在极其严肃地致力于帮助人类规避和管理绝大多数潜在负面风险。"
+      },
+      {
+        "id": 7,
+        "time": "09:33",
+        "seconds": 573.5,
+        "endSeconds": 687.0,
+        "title": "大模型竞逐与超级组织演进：比互联网更大的浪潮",
+        "original": "And at the same time, moving very fast, the hyperspeed. It feels like almost every few weeks there's something new, and it's very tangible in what it might do for work. How are y'all balancing that in Anthropic instead of just saying go, go, go? You know, I think all of the big models are improving rapidly, and you're probably going to see them go certain months on the lead in certain areas over time. And frankly, it's good for the country if we have three really successful models to choose from. When I visited there, I tangibly felt that they were pioneering completely new ways of running an organization, new ways of developing product. I think it was something like 'cowork' was, what was it, a week or two that it was essentially built primarily by the AI itself? What will an organization look like in the future? Yeah, I don't know that most companies will come to look like Anthropic. If you happen to be a pure software company, then it might be relevant. But broadly across the economy, I think everyone is figuring out -- it's a bigger version of the internet wave, where all companies around the world, organizations, governments, militaries are scrambling to figure out how to use AI well.",
+        "translation": "Sal：但与此同时，技术迭代的速度是超光速的。几乎每隔几周就有全新突破，而且能切实改变工作方式。Anthropic 是如何在狂飙突进与审慎克制之间保持平衡的？\nReed：我认为所有头部大模型都在迅猛演进，随着时间推移，不同模型会在特定领域轮流领跑几个月。坦白讲，如果整个国家能有三款极其顶尖的模型可供选择，这是一件大好事。\nSal：我去 Anthropic 参观时，真切地感受到他们正在开创一种全新的组织运作方式和产品研发模式。比如像某些协作功能，据说一两周内主要全靠 AI 自身编写完成。未来的企业组织会变成什么样？\nReed：我不认为大多数传统公司都会变得像 Anthropic 一样。如果你是一家纯软件公司，那可能会很像。但放眼整个宏观经济，我认为大家正在经历一场比互联网更大的技术浪潮——全球所有的企业、机构、政府和军队都在争先恐后地探索如何善用 AI。"
+      },
+      {
+        "id": 8,
+        "time": "11:27",
+        "seconds": 687.5,
+        "endSeconds": 841.0,
+        "title": "技术扩散周期与反常现象：放射科医生的逆向启示",
+        "original": "Related to that, people are talking about it with software engineering, call centers. A startup has a call center in the Philippines, they're going to lay off 80%, that's 7% of that country's GDP. How are you thinking about jobs? Look, if you look over the last 200 years, there have been a bunch of dislocations, but they happened slowly and over one part of the economy. The danger is, are there multiple that happen in multiple fields? If these happen slowly, people are able to find other roles. So it depends on how fast this all comes. The biggest uncertainty for everybody is how fast is the AI getting better, and how fast will it be getting better going forward? Let's look at self-driving cars. 20 years ago we thought it was going to be pretty fast. It's 20 years later from the 2007 DARPA Grand Challenge, and we're like 0.1% of all miles, maybe 0.01%. So these things take a long time to actually mature and diffuse. Another example: Geoffrey Hinton won the Nobel Prize for his work on neural nets, the father of AI. In 2016, he said: 'Stop training radiologists now, because in 5 years, 2021, there would be no need for them.' What's happened instead is as radiology got AI-boosted, the cost came down, you can get an MRI for $300 now. So docs started ordering them more, insurance covered them more, the number of scans went way up. And guess what? We have a shortage in radiologists! Wages climbed to close to $500,000 a year! So even the best intention people in the field can prophecy disaster in radiology and have it be not accurate.",
+        "translation": "Sal：关于就业，大家都在讨论软件工程和客服外包中心。我有个朋友的初创公司在菲律宾有客服中心，他们准备裁员 80%，而客服外包占了该国 GDP 的 7%。你是如何思考未来就业冲击的？\nReed：回顾过去 200 年的历史，出现过多次技术替代与结构性失业，但它们通常发生得较为缓慢，且局限在经济的某一个局部领域。如今最大的担忧在于：多领域同时爆发的大规模替代会不会同时发生？如果演进足够缓慢，人们就有时间转行并找到新的角色。所以一切取决于这波浪潮到底有多快。最大的未知数就是 AI 进化的速度到底有多快。以自动驾驶为例，20 年前我们以为它会迅速普及，但距离 2007 年 DARPA 挑战赛已经过去了近 20 年，自动驾驶里程在全社会总里程中占比依然只有 0.1% 甚至 0.01%。技术的成熟与全面扩散需要漫长的时间。另一个经典案例是‘AI 之父’杰弗里·辛顿（Geoffrey Hinton）。2016 年他曾断言：‘立刻停止培养放射科医生，因为 5 年后（2021年）他们将被彻底淘汰。’ 然而实际发生了什么？随着 AI 辅助放射学，核磁共振（MRI）的检查成本大幅降低（美国只要 300 美元），医生开出的检查单激增，医保报销范围扩大，检查总量爆发式增长。结果呢？放射科医生严重短缺，年薪甚至飙升至近 50 万美元！所以即使是业内最顶尖、最权威的专家，对技术淘汰的灾难性预言也可能完全偏离事实。"
+      },
+      {
+        "id": 9,
+        "time": "14:05",
+        "seconds": 845.5,
+        "endSeconds": 976.0,
+        "title": "奇点社会新形态：超高增长、失业与全民主权基金",
+        "original": "And that makes sense, although something does feel different about this time. And all the people leading these AI labs are talking about not 20 years. They're talking about next year, two years. You're going to have a data center of super intelligent geniuses that can do our work. Do you think they're wrong, or do you think it's a probability? Even if it's a 10% chance that they're right, are you worried that this can lead to political polarization, what happened in globalization can now happen -- what happened in 30 years could happen in two or three? Is that not a concern, or should we start doing something about that? If AI really gets incredible in a very short amount of time, like starts writing itself and self-improving, all of that... When it's invented a new type of learning, when it invents something completely new, then you can say that. But so there are cases where it's pretty fast, and so I think it's important to say we should be ready. Now here's the thing: we talk a bunch about unemployment, what it will do. Every other time we've had big unemployment, it's been a recession, and so the stock market's down and government tax revenues are down. This time, if AI is successful in the way we think it will, I think we're going to see high productivity, high GDP growth, high stock market, and high unemployment. So we'll have money to do things. Think of it like the Alaska Fund, which is oil, or the Norwegian Sovereign Wealth Fund. We need some ideas like that. What are we going to do with all these huge tax revenues that are going to be able to come in with big growth? If we've got a fund which is for the benefit of all citizens, then we may in fact be able to have a path to a glorious and harmonious society. I don't mean UBI -- that's got a bad take to it -- but it's a partial sharing of the rewards, which is again what happened with the Alaska Fund and the Norwegian Fund. That makes sense. Well Reed Hastings, thank you so much, and thanks everyone.",
+        "translation": "Sal：这很有道理。但这一次确实让人感觉有所不同——各大 AI 实验室的领跑者谈论的不是 20 年后，而是明年、后年。他们说不久后一个数据中心就能容纳成千上万个超级智能天才来替人类工作。你觉得他们错了吗？哪怕只有 10% 的可能性他们是对的，你是否担心这会引发严重的政治撕裂？过去 30 年全球化带来的冲击，如今可能在两三年内集中爆发。这难道不值得担忧吗？我们是否应该采取行动？\nReed：如果 AI 在极短时间内实现自我编写与自我进化，当它真正发明出一种全新的自主学习范式时，你才能那么断言。但有些突破确实来得非常迅猛，所以我们必须做好万全准备。关于失业问题，有一点与以往截然不同：在历史上，每一次大规模失业都伴随着经济衰退——股市暴跌、政府税收锐减。但这一次，如果 AI 取得了预期的巨大成功，我们将看到一种前所未有的局面：超高生产率、超高 GDP 增长、超高股市估值，与高失业率并存！这意味着全社会将拥有充裕的财富来解决问题。想象一下阿拉斯加永久基金（源自石油收益）或挪威主权财富基金。在高增长带来的海量税收面前，如果我们建立一个惠及全体国民的主权财富基金，让所有人共同分享技术革命的红利，我们完全有可能走向一个繁荣而和谐的社会。我指的不是传统的 UBI（全民无条件基本收入），而是类似主权基金的红利共享机制。\nSal：非常有启发。Reed Hastings，非常感谢你的精彩分享，也谢谢大家！"
       }
     ],
     "spoken": [
       {
         "phrase": "up against",
-        "meaning": "面临 / 遭遇（极其棘手的瓶颈或强大对手）",
-        "timestamp": "00:28",
+        "meaning": "面临 / 遭遇（极其棘手的瓶颈或强大挑战）",
+        "pronunciation": "/ʌp əˈɡeɪnst/ - up 与 against 自然弱读连读。",
         "quote": "And after all that, he thinks we're still up against the same fundamental problems in education.",
-        "pronunciation": "up against 自然弱读连读为 /ʌp əˈɡeɪnst/。"
+        "timestamp": "00:28"
       },
       {
-        "phrase": "rip that out",
+        "phrase": "ripped that out",
         "meaning": "彻底铲除 / 大刀阔斧地拔除旧有框架",
-        "timestamp": "01:18",
-        "quote": "And they ripped that out and just put in small electric motors...",
-        "pronunciation": "ripped that out 产生连读和失爆，语气坚决果断。"
+        "pronunciation": "/rɪpt ðæt aʊt/ - ripped that out 产生连读和失爆，语气坚决果断。",
+        "quote": "And they ripped that out and just put in small electric motors for each device.",
+        "timestamp": "01:17"
+      },
+      {
+        "phrase": "double click on that",
+        "meaning": "深入探讨 / 展开深挖（硅谷与商业高管高频用语）",
+        "pronunciation": "/ˈdʌb.əl klɪk ɑːn ðæt/ - double-click 形象借用鼠标双击打开文件，意为细化讨论。",
+        "quote": "And I just want to double click on that and make sure maybe we have a common vision.",
+        "timestamp": "06:01"
+      },
+      {
+        "phrase": "sage on a stage",
+        "meaning": "讲台上的圣人（指传统填鸭式、单向灌输的教学模式）",
+        "pronunciation": "/seɪdʒ ɑːn ə steɪdʒ/ - 押韵短语，教育界用来对比 guide on the side（身旁的向导）。",
+        "quote": "What educators cynically call 'sage on a stage', it's eliminating sage on a stage as a teaching modality.",
+        "timestamp": "06:34"
       }
     ],
     "grammar": [
       {
-        "name": "双重否定与强转折结构 not as... but to... (01:10)",
-        "quote": "...not as a tool to replace teachers, but to change what they're able to focus on.",
-        "explanation": "采用 not... but... 经典对照并列结构，清晰界定 AI 在教育生态中的定位——并非替代人类师长，而是为其赋能并释放核心精力。"
+        "name": "not as a tool to... but to... 对比否定并列结构",
+        "quote": "The teacher is not as a tool to replace teachers, but to change what they're able to focus on.",
+        "explanation": "通过 not... but... 经典对照并列结构，清晰界定 AI 在教育中的定位——并非替代人类教师，而是释放其精力走向高阶赋能。",
+        "timestamp": "05:15"
+      },
+      {
+        "name": "The biggest uncertainty is how fast ... 复杂宾语从句",
+        "quote": "The biggest uncertainty for everybody is how fast is the AI getting better, and how fast will it be getting better going forward.",
+        "explanation": "由 how fast 引导的双重名词性从句作表语，层层递进强调技术迭代速度这一核心变量。",
+        "timestamp": "12:06"
       }
     ],
     "vocabulary": [
@@ -80,7 +158,31 @@
         "meaning": "范式转移 / 认知与体系的根本性颠覆",
         "detail": "用于描述 AI 带来的技术浪潮对传统工业化教育体制的根本性冲击。"
       }
-    ]
+    ],
+    "vocab": [
+      {
+        "collocation": "decentralized intelligence",
+        "meaning": "分布式智能 / 去中心化辅导架构",
+        "detail": "借用电气革命中电动机分散供电的隐喻，代指 AI 摆脱传统单一教师中心授课，实现每人专属智能辅导的架构跃迁。"
+      },
+      {
+        "collocation": "social emotional learning (SEL)",
+        "meaning": "社会情感学习",
+        "detail": "涵盖自我意识、自我管理、人际交往技巧及负责任决策的核心软实力培养。"
+      },
+      {
+        "collocation": "cost prohibitive",
+        "meaning": "成本过高而令人望而却步",
+        "detail": "商业与技术分析中指某项方案因极其高昂的开销而无法大规模普及。"
+      },
+      {
+        "collocation": "sovereign wealth fund",
+        "meaning": "国家主权财富基金",
+        "detail": "由政府拥有的投资基金，用于投资公共事业及国民长期福利（如阿拉斯加永久基金与挪威主权基金）。"
+      }
+    ],
+    "summary": "Netflix 联合创始人 Reed Hastings 与可汗学院创始人 Sal Khan 展开深度对谈。Reed 分享了自己在教育慈善领域投入 25 年、10 亿美元的深刻反思，借用工业革命‘蒸汽机与电动机’的经典经济学隐喻，指出现代教育的根本阻力在于‘25 个学生统一节奏’的工业化课堂模式。他指出，随着 AI 的指数级迭代，AI 导师有望超越人类一对一导师，彻底实现个性化教育。此外，作为 Anthropic 董事会成员，Reed 还深入探讨了 AI 实验室的安全使命、技术扩散周期、放射科医生反常现象以及 AI 时代可能带来的‘高生产率、高 GDP、高股市与高失业率’共存的社会新形态。",
+    "rawAdTrimmed": "✂️ 已剔除 2分07秒广告"
   },
   {
     "id": "joe-whale",
@@ -728,9 +830,9 @@
       },
       {
         "id": 5,
-        "time": "03:07",
-        "seconds": 187.0,
-        "endSeconds": 281.0,
+        "time": "02:56",
+        "seconds": 176.4,
+        "endSeconds": 247.0,
         "title": "亲历惨痛教训：因主题不清改错客户会议",
         "original": "Now, usually the consequences are pretty minor, a little bit of wasted time, some minor frustration. But sometimes the consequences are more significant. In 2006, I was part of an engineering team writing a bid, a proposal that was worth a lot of money to our company. And a couple of days before the big meeting, my boss came up to me and said, 'Hey Chris, I need you to change the meeting from Tuesday to Thursday.' So off I went and I changed the meeting, I typed an email, sent it to the client saying, 'Something's come up, we've got to change.' And about a minute after I hit send, my phone rings. It's my boss. He had one question: 'Why did you change the meeting?' You see, he was talking about our 1-to-1. And I was thinking about the client meeting. The lack of a clear topic meant he and I were thinking about two very different things.",
         "translation": "通常情况下，后果可能并不严重，只是浪费一点时间、产生些许沮丧。但有时后果却极其沉重。2006 年，我在一个工程团队负责竞标书撰写，那份提案对我们公司价值连城。在关键汇报前几天，我的老板走过来对我说：‘嘿 Chris，帮我把会议从周二改到周四。’ 于是我立刻去改了会议，写了封邮件发给客户说：‘临时有突发情况，我们需要改期。’ 就在我点击发送一分钟后，电话响了。是我老板。他只问了一句话：‘你为什么要改会议？’ 你看，他说的是我们内部的一对一例会，而我以为他说的是客户投标会。由于缺少明确的主题，他和我想的完全是两码事。"
@@ -791,8 +893,8 @@
       },
       {
         "id": 12,
-        "time": "10:20",
-        "seconds": 620.0,
+        "time": "10:18",
+        "seconds": 618.0,
         "endSeconds": 665.0,
         "title": "终极挑战与第一分钟的魔力",
         "original": "So I have a challenge for you. The next time you start a conversation at work, the next time you write a message, take a moment, and think to yourself: What is my topic? What do I intend for the other person to do with this message? And what point do I want to deliver? Imagine working somewhere where everybody did this. Imagine if everyone always knew what to do with the message you gave them, or understood what it was about. How much smoother, how much easier would our jobs be? That, ladies and gentlemen, is the power of the first minute. Thank you.",
