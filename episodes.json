@@ -666,90 +666,195 @@
   },
   {
     "id": "chris-fenning",
-    "slug": "chris-fenning-the 60 seconds that make or br",
+    "slug": "chris-fenning-the-60-seconds-that-make-or-break-a-conversation",
     "title": "The 60 seconds that make or break a conversation",
-    "chineseTitle": "决定职场沟通成败的关键 60 秒：3 步框架让你一开口就讲中要点",
+    "chineseTitle": "决定职场沟通成败的关键 60 秒：T-I-P 黄金沟通框架",
     "speaker": "Chris Fenning",
-    "speakerTitle": "全球资深沟通教练 · 畅销书作者",
-    "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187529/c54446aa-2db7-42e8-a159-c7be42a0fe96/ChrisFenning_2024X-embed.jpg",
-    "duration": "11:05",
-    "fullDuration": "13:13",
-    "rawAdTrimmed": "已剔除片头片尾赞助广告",
+    "speakerTitle": "全球资深沟通教练 · 畅销书《The First Minute》作者",
     "category": "职场与沟通",
-    "difficulty": "B2 中高阶",
+    "subCategory": "高效表达",
     "tags": [
       "60秒沟通",
       "职场表达",
-      "沟通框架"
+      "TIP法则",
+      "沟通效率"
     ],
+    "duration": "11:05",
+    "fullDuration": "13:13",
+    "rawAdTrimmed": "✂️ 已剔除 2分08秒广告",
+    "difficulty": "B2 中高阶",
     "date": "2026-09-01",
-    "quote": "Frame the conversation, state the purpose, and make the ask in sixty seconds.",
-    "quoteTranslation": "在最初的六十秒内搭好背景、表明目的并提出具体诉求。",
+    "quote": "Every time we communicate, it is an opportunity to create clarity or confusion. And clarity begins from the very first minute.",
+    "quoteTranslation": "我们每一次开口沟通，都是一次创造清晰或制造混乱的机会；而真正的清晰，始于最初的第一分钟。",
     "hasFullStudy": true,
     "audioUrl": "https://audio.louisyu.top/chris-fenning-clean.mp3",
+    "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187529/c54446aa-2db7-42e8-a159-c7be42a0fe96/ChrisFenning_2024X-embed.jpg?quality=85&w=800",
     "segments": [
       {
+        "id": 1,
         "time": "00:00",
-        "title": "漫长铺垫的职场噩梦：沟通效率的隐形杀手",
-        "original": "What's your point? In busy workplaces, rambling context and endless backstory exhaust listeners long before the actual problem is ever stated.",
-        "translation": "你到底想说什么？在节奏紧凑的职场中，冗长的背景铺垫和无边无际的来龙去脉，往往在实质性问题被抛出之前就早已耗尽了倾听者的耐心。"
+        "seconds": 0.0,
+        "endSeconds": 27.6,
+        "title": "反常开场与职场低效沟通代价",
+        "original": "I want to be long-winded and unclear. It's not a common opening line. Most people won't tell us when they're going to be long-winded, but we know. We can tell pretty quickly if someone's going to get to the point, or if we are in for a long and painful conversation. And this is especially true at work. Every year, poor communication costs businesses hundreds of billions of dollars in lost productivity.",
+        "translation": "‘我今天打算讲得冗长而含糊。’ 这可不是常见的开场白。大多数人不会事先告诉我们他们将要长篇大论，但我们心里都清楚。我们能非常敏锐地察觉出一个人是直奔主题，还是我们即将陷入一场漫长而痛苦的对话。在职场中更是如此。每年，低效糟糕的沟通都会让企业因生产力损失而付出数千亿美元的代价。"
       },
       {
-        "time": "01:40",
-        "title": "黄金 60 秒法则：为什么第一分钟决定一切",
-        "original": "Communication expert Chris Fenning demonstrates that the outcome of almost any meeting or pitch is effectively determined during the opening sixty seconds.",
-        "translation": "沟通专家克里斯·芬宁指出，几乎任何职场会议或方案汇报的最终走向与成败，在开场的最初 60 秒内就已经被注定了。"
+        "id": 2,
+        "time": "00:34",
+        "seconds": 34.7,
+        "endSeconds": 75.0,
+        "title": "现场举手调查：我们是否也是那个冗长含糊的人？",
+        "original": "And I have to confess, the early part of my career, I was responsible for at least some of that. But I'm not alone. Hands up if you work with someone who is long-winded or unclear. That's a lot of hands. Now I'm sure we are all thinking about people outside this room, right? Except for those of you pointing at each other. But what would happen if we asked the people outside this room? They might be thinking about us.",
+        "translation": "我必须坦白，在职业生涯早期，我自己至少也要为一部分损失负责。但我绝不是特例。如果在座各位有谁身边的同事说话啰嗦冗长、含糊不清的，请举手——果然有很多人举手。我现在敢肯定，大家心里想的都是这个房间以外的人，对吧？除了那几位互相指着对方的观众。但如果我们去问这个房间外面的人呢？他们可能心里想的正是在座的我们。"
       },
       {
-        "time": "03:30",
-        "title": "三步破局框架：背景、目的与精准诉求",
-        "original": "Here is the blueprint: first, name the topic in one sentence; second, state why this meeting matters today; third, clarify exactly what you need from the other person.",
-        "translation": "这套破局三步法如下：第一，用一句话定义核心主题；第二，明确为何今天必须讨论此事；第三，清晰指出你需要对方作出什么决定或支持。"
+        "id": 3,
+        "time": "01:09",
+        "seconds": 75.0,
+        "endSeconds": 144.0,
+        "title": "第一分钟的力量：7.5万人验证的职场法则",
+        "original": "And while our goal is to be clear and concise, do we really know how? Every time we communicate, we have an opportunity to create clarity or confusion, and clarity begins from the very first minute. If you get the first minute right, you set your conversation up for success. Get it wrong, your conversations will be longer, less effective and more frustrating. Now, on the off chance we could all use a little more clarity, I'm going to share a tip with you today. A tip that will help each of you improve the success of your communication at work. A tip that has been tested by more than 75,000 people around the world, and a tip that will help each of you get the first minute right.",
+        "translation": "虽然我们的目标都是表达清晰精炼，但我们真的知道该怎么做吗？我们每一次沟通，都是一次创造清晰或制造混乱的机会，而真正的清晰，始于最初的第一分钟。如果你把第一分钟讲对了，你就为整场对话奠定了成功的基调；一旦搞砸了，你的对话就会变得更冗长、更低效、更令人沮丧。那么，借着我们都需要更多清晰表达的机会，我今天想和大家分享一个小技巧。这个技巧帮助了全球超过 75,000 人提升了职场沟通的成功率，也能帮助大家牢牢把握住第一分钟。"
       },
       {
-        "time": "08:15",
-        "title": "尊重他人时间：高阶职业素养的终极体现",
-        "original": "When you master the discipline of brevity, you show profound respect for your colleagues' attention, and suddenly everyone wants to listen to you.",
-        "translation": "当你掌握了言简意赅的表达素养，你便向同事展示出了对他人注意力的极高尊重，而此时，每个人都会由衷地渴望聆听你的想法。"
+        "id": 4,
+        "time": "02:08",
+        "seconds": 128.0,
+        "endSeconds": 187.0,
+        "title": "T 代表 Topic（主题）：为什么每句话都需要明确锚点",
+        "original": "And here it is. There are three things we must include at the start of our work messages. And those three things begin with T, I, and P. It's a TIP. Now, the first part of the tip is the T, and T stands for topic. Every conversation at work needs a clear topic. When the topic is clear, everyone knows what we're talking about. Everyone's in sync, everybody understands. Unfortunately, reality isn't always like this, is it? How often are you in a conversation and you find yourself thinking, 'What are you talking about?' That happens when the topic is not clear.",
+        "translation": "这套法则就在这里。在职场信息的开头，我们必须包含三件事，它们分别以字母 T、I、P 开头，合起来就是一个 TIP（秘诀）。秘诀的第一部分是 T，T 代表 Topic（主题）。职场中的每次对话都需要一个明确的主题。当主题清晰时，每个人都知道我们在聊什么，彼此同步，心领神会。但遗憾的是，现实往往并非如此，对吗？有多少次在对话中，你暗自思忖：‘你到底在说什么？’ 这就是主题不明确的结果。"
+      },
+      {
+        "id": 5,
+        "time": "03:07",
+        "seconds": 187.0,
+        "endSeconds": 281.0,
+        "title": "亲历惨痛教训：因主题不清改错客户会议",
+        "original": "Now, usually the consequences are pretty minor, a little bit of wasted time, some minor frustration. But sometimes the consequences are more significant. In 2006, I was part of an engineering team writing a bid, a proposal that was worth a lot of money to our company. And a couple of days before the big meeting, my boss came up to me and said, 'Hey Chris, I need you to change the meeting from Tuesday to Thursday.' So off I went and I changed the meeting, I typed an email, sent it to the client saying, 'Something's come up, we've got to change.' And about a minute after I hit send, my phone rings. It's my boss. He had one question: 'Why did you change the meeting?' You see, he was talking about our 1-to-1. And I was thinking about the client meeting. The lack of a clear topic meant he and I were thinking about two very different things.",
+        "translation": "通常情况下，后果可能并不严重，只是浪费一点时间、产生些许沮丧。但有时后果却极其沉重。2006 年，我在一个工程团队负责竞标书撰写，那份提案对我们公司价值连城。在关键汇报前几天，我的老板走过来对我说：‘嘿 Chris，帮我把会议从周二改到周四。’ 于是我立刻去改了会议，写了封邮件发给客户说：‘临时有突发情况，我们需要改期。’ 就在我点击发送一分钟后，电话响了。是我老板。他只问了一句话：‘你为什么要改会议？’ 你看，他说的是我们内部的一对一例会，而我以为他说的是客户投标会。由于缺少明确的主题，他和我想的完全是两码事。"
+      },
+      {
+        "id": 6,
+        "time": "04:07",
+        "seconds": 247.0,
+        "endSeconds": 332.0,
+        "title": "I 代表 Intent（意图）：大脑的选择性注意机制",
+        "original": "So all our messages have to begin with a clear topic. But how? It's really easy. Start your message with one sentence that names the topic you want to talk about. And the more specific, the better. You could say, 'I'd like to talk about July sales figures,' 'I want to talk about Project Everest's timeline,' or 'Can I talk about our 1-to-1 this week?' One sentence that lets your audience know what the topic is. Now having a clear topic is a great start. But it's not enough. We need the second part of the tip, which is the I. And I stands for intent. Intent is what we want the other person to do with our message. Have you ever been in a conversation and a few minutes in thought, 'Why are you telling me this?' That happens when the intent isn't clear.",
+        "translation": "所以我们所有的沟通都必须以清晰的主题开篇。但具体怎么做？其实非常简单：用一句话说出你想讨论的主题，而且越具体越好。你可以说：‘我想讨论一下 7 月份的销售数据’、‘我想聊聊珠峰项目的时间表’，或者‘我能聊聊这周的一对一例会吗？’ 只要一句话，就能让听众明白主题。然而，主题明确只是一个良好的开端，这还不够。我们还需要秘诀的第二部分——I。I 代表 Intent（意图）。意图就是我们希望对方对我们所传达的信息采取什么行动。你是否曾在听人讲话几分钟后暗想：‘你为什么要跟我说这个？’ 这正是因为意图不明确。"
+      },
+      {
+        "id": 7,
+        "time": "05:13",
+        "seconds": 313.0,
+        "endSeconds": 396.0,
+        "title": "选择性注意机制：告诉大脑该把信息放在哪",
+        "original": "Now there's a process in our brains called selective attention. And this filters incoming information and tells you what is important and what is not. And if you don't know what to do with a message, your brain says, 'Not important,' and we stop listening. At the beginning of this talk, I told you I would give you a tip that would help improve the success of your communication at work. That told your brains what to do with this information. If I hadn't done that, I could be faced with a room full of people smiling politely while all thinking, 'Why are you telling us this?'",
+        "translation": "我们大脑中有一个机制叫做‘选择性注意’（selective attention）。它会过滤接收到的信息，告诉你什么是重要的、什么不重要。如果你不知道收到这段信息该干什么，你的大脑就会自动判定‘不重要’，从而停止倾听。在这场演讲的一开始，我就告诉大家我会分享一个能提升职场沟通成效的技巧。这等于提前告诉了你们的大脑该如何处理这些信息。如果我没这么做，我面对的可能就是满屋子礼貌微笑却都在心里嘀咕‘你干嘛跟我们说这些’的听众了。"
+      },
+      {
+        "id": 8,
+        "time": "06:04",
+        "seconds": 364.0,
+        "endSeconds": 464.0,
+        "title": "同事 Tina 的办公室插曲：求助与倾诉的意图错位",
+        "original": "I got a particularly bad day, and I walked into my colleague Tina's office and I sat down with my head in my hands, and I told her how I'd messed up on an important call with a senior leader. And when I finished talking, Tina very, very helpfully said, 'Oh, why don't you try this? And maybe we can avoid this next time.' And she was giving me all sorts of advice. The more she spoke, the more frustrated I became. I didn't want her help. And that must have been quite obvious because she just put up her hands and said, 'You clearly don't want my help. So why are you here?' I said, 'I'm really sorry. I just want to get this off my chest. Can I just talk for a minute?' And like a mother talking to a small child, she rolled her eyes: 'Well, why didn't you start with that?'",
+        "translation": "有一天我心情极其糟糕，走进了同事 Tina 的办公室，双手抱头坐下来，向她倾诉我在一次与高管的重要电话会议中把事情搞砸了。当我讲完后，Tina 非常热情体贴地说：‘哎呀，你为什么不试试这样做呢？也许下次就能避免。’ 她给了我各种各样的建议。可她越说，我心里就越烦躁。我根本不需要她的解决方案。这表现得显然很明显，因为她直接举起双手说：‘你显然不需要我的建议，那你来这儿干嘛？’ 我说：‘真的对不起，我只是想找人倾诉宣泄一下（get this off my chest）。能听我聊一分钟吗？’ 她像看着小孩子一样翻了个白眼：‘那你一开始怎么不说清楚？’"
+      },
+      {
+        "id": 9,
+        "time": "07:07",
+        "seconds": 427.0,
+        "endSeconds": 512.0,
+        "title": "明确意图的一句话模板：提问、决断还是吐槽？",
+        "original": "So when you start your message, after you've given a clear topic, tell your audience what to do with it. And again, you can do this with one line: make your intent clear. If you have a question, say, 'Can I ask you a question?' If you want someone to make a decision, say, 'I'd like your help with this decision.' If you want to get something off your chest, just say, 'Is it okay if I vent for a minute?' If you tell your audience what to do with your message, not only will their brains pay more attention, you will avoid frustrating them.",
+        "translation": "所以当你开口传达信息时，在交代完清晰的主题之后，告诉听众该怎么做。同样，你可以用一句话把意图讲得一清二楚：如果你想提问，就说‘我能问你个问题吗？’；如果你需要对方做决定，就说‘这件事情我需要你帮我做个决定’；如果你只是想宣泄情绪，就直说‘我能跟你吐槽/宣泄一分钟吗？’ 只要你告诉了对方该如何处理你的信息，不仅他们的大脑会更专注，你也能避免彼此产生无谓的沮丧。"
+      },
+      {
+        "id": 10,
+        "time": "07:52",
+        "seconds": 472.0,
+        "endSeconds": 580.0,
+        "title": "P 代表 Point（核心要点）：童年坐车与职场‘快讲重点’",
+        "original": "This is where we need the third part of the tip, the P. And P stands for point. Point is the most important part of our message. If you only had five seconds to speak, it's what you would say. And usually, it's what your audience cares about the most. When I was a kid, my dad played a game with me. If we were going on a journey, I'd go, 'Dad, where are we going?' And he'd say, 'Oh, well, first, we're going to the car, and then we'll get in the car, and then we'll leave the driveway, and we'll turn left onto the main street...' I just wanted to scream, 'Where are we going?!' I wanted the short version. But fast forward a few years, I was doing the same thing at work. Someone would ask me a question, and I would give all the details, step by step information. And quite often, people would say, 'Chris, just get to the point.'",
+        "translation": "接下来就是秘诀的第三部分——P。P 代表 Point（核心要点）。要点是整段信息中最重要的部分。如果你只有 5 秒钟的时间发言，这就是你应该说的那句话；而且这通常也是听众最关心的核心。小时候，我父亲经常和我玩一个游戏。每次出门旅行我都会问：‘爸爸，我们要去哪儿？’ 他就会说：‘哦，首先我们要走到车旁，然后上车，把车倒出车道，左转上主干道……’ 我当时简直想抓狂大喊：‘我们到底要去哪儿？！’ 我想要的是结论！可快进到几年后，我在工作中居然也在做一模一样的事。别人问我一个问题，我就把所有细节、前因后果一五一十全盘托出。很多时候同事都会忍不住打断：‘Chris，直接讲重点吧。’"
+      },
+      {
+        "id": 11,
+        "time": "09:19",
+        "seconds": 559.0,
+        "endSeconds": 626.0,
+        "title": "BLUF 原则：把结论与底线放在最前面",
+        "original": "And we can do this quite simply, as the military likes to say, put the bottom line up front (BLUF). In one sentence, deliver the most important piece of information: 'I want to give a refund for a late delivery,' 'Our project launch is going to be delayed by a month.' Say the most important thing, and your audience will know where that conversation is going, and they won't be thinking, 'What is your point?' If you start your conversation with topic, intent, and point, you're starting with a clear and concise introduction that answers the three questions we all have: What are you talking about? Why are you telling me this? And what is your point?",
+        "translation": "我们可以非常简单地做到这一点，正如军方常说的法则：‘把底线与结论放在最前面’（BLUF: Bottom Line Up Front）。用一句话交付最重要的信息核心：‘我建议为这次延迟交货提供全额退款’、‘我们的项目上线需要推迟一个月’。先说最核心的事，你的听众立刻就能心领神会，再也不会暗自困惑‘你到底想表达什么’。如果你以主题（Topic）、意图（Intent）和核心要点（Point）开启对话，你就拥有了一个清晰利落的开场，直接解答了每个人内心的三大终极疑问：你在聊什么？干嘛跟我说？以及结论是什么？"
+      },
+      {
+        "id": 12,
+        "time": "10:20",
+        "seconds": 620.0,
+        "endSeconds": 665.0,
+        "title": "终极挑战与第一分钟的魔力",
+        "original": "So I have a challenge for you. The next time you start a conversation at work, the next time you write a message, take a moment, and think to yourself: What is my topic? What do I intend for the other person to do with this message? And what point do I want to deliver? Imagine working somewhere where everybody did this. Imagine if everyone always knew what to do with the message you gave them, or understood what it was about. How much smoother, how much easier would our jobs be? That, ladies and gentlemen, is the power of the first minute. Thank you.",
+        "translation": "因此，我想向大家发起一个挑战：下一次当你在工作中开启一段对话、或者写一封信息时，请停顿片刻，在脑海中问自己三个问题：我的主题是什么？我期望对方收到信息后采取什么行动？我最核心的结论是什么？想象一下，如果在某个工作环境中每个人都践行这一原则，如果每个人都能在第一时间秒懂彼此的意图与结论，我们的工作将会变得多么顺畅、多么轻松！女士们、先生们，这就是第一分钟的魔力。谢谢大家！"
       }
     ],
     "spoken": [
       {
-        "phrase": "make or break",
-        "timestamp": "00:40",
-        "meaning": "决定成败 / 关键转折点",
-        "quote": "The first sixty seconds can make or break a workplace conversation.",
-        "pronunciation": "make or break 是口语经典搭配，make 的 /k/ 与 or 自然连读。"
+        "phrase": "get to the point",
+        "meaning": "直奔主题 / 讲重点（职场沟通核心表达）",
+        "pronunciation": "/ɡet tuː ðə pɔɪnt/ - to 轻读，point 尾音干脆利落。",
+        "quote": "We can tell pretty quickly if someone's going to get to the point.",
+        "timestamp": "00:16"
       },
       {
-        "phrase": "What's your point?",
-        "timestamp": "01:25",
-        "meaning": "你到底想表达什么核心论点？",
-        "quote": "How often have you listened to someone speak and secretly thought: what is your point?",
-        "pronunciation": "point 尾音 /t/ 干净利落，语气直接。"
+        "phrase": "get this off my chest",
+        "meaning": "倾诉心事 / 吐露心中的苦闷与压力",
+        "pronunciation": "/ɡet ðɪs ɔːf maɪ tʃest/ - off my 连贯自然。",
+        "quote": "I'm really sorry. I just want to get this off my chest. Can I just talk for a minute?",
+        "timestamp": "06:40"
+      },
+      {
+        "phrase": "on the off chance",
+        "meaning": "抱有一线希望 / 借着……的机会（谦逊客气的引申转折）",
+        "pronunciation": "/ɑːn ðiː ɔːf tʃæns/ - off chance 构成固定短语重音。",
+        "quote": "Now, on the off chance we could all use a little more clarity, I'm going to share a tip with you today.",
+        "timestamp": "01:43"
+      },
+      {
+        "phrase": "bottom line up front (BLUF)",
+        "meaning": "开门见山 / 结论先行（源自美国军方的高管沟通法则）",
+        "pronunciation": "/ˌbɑː.t̬əm ˈlaɪn ʌp ˈfrʌnt/ - 商业与汇报场景中的顶尖缩写词。",
+        "quote": "And we can do this quite simply, as the military likes to say, put the bottom line up front.",
+        "timestamp": "09:23"
       }
     ],
     "grammar": [
       {
-        "name": "祈使句排比与行动框架",
-        "timestamp": "03:10",
-        "quote": "Frame the context, state your core intention, and specify the exact ask.",
-        "explanation": "通过三个动作动词引导的并列祈使句，建立清晰易记的行动法则。"
+        "name": "Hands up if ... 互动祈使祈使句结构",
+        "quote": "Hands up if you work with someone who is long-winded or unclear.",
+        "explanation": "演讲与会议开场时最地道、最调动全场参与感的互动句式，后接 if 条件从句。",
+        "timestamp": "00:44"
+      },
+      {
+        "name": "How much smoother, how much easier ... 感叹倒装结构",
+        "quote": "How much smoother, how much easier would our jobs be?",
+        "explanation": "通过 'How + 比较级形容词 + 助动词 + 主语 + 动词' 构造强烈的修辞设问与愿景烘托。",
+        "timestamp": "10:47"
       }
     ],
     "vocab": [
       {
-        "collocation": "executive brevity",
-        "meaning": "高管级言简意赅",
-        "detail": "指在极短时间内向决策层传达最高密度高价值信息的能力。"
+        "collocation": "selective attention",
+        "meaning": "选择性注意（心理学与认知神经机制）",
+        "detail": "指大脑在面对海量外界刺激时，自主筛选并聚焦于关键信息的能力。"
       },
       {
-        "collocation": "actionable ask",
-        "meaning": "具体可执行的诉求",
-        "detail": "商务沟通中指不含糊、对方能够立即明确回答或采取行动的请求。"
+        "collocation": "lost productivity",
+        "meaning": "生产力损失 / 产能折损",
+        "detail": "企业管理与经济学分析中衡量沟通成本与怠工浪费的核心指标。"
       }
-    ],
-    "subCategory": "高效表达"
+    ]
   },
   {
     "id": "mark-whittle",
