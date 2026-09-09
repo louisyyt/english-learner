@@ -1,5 +1,197 @@
 [
   {
+    "id": "amy-cuddy",
+    "slug": "amy-cuddy",
+    "title": "How bullying spreads -- and how social bravery stops it",
+    "chineseTitle": "霸凌是如何蔓延的：用社交勇敢终结群体性残忍",
+    "speaker": "Amy Cuddy",
+    "speakerTitle": "著名社会心理学家 · 畅销书《存在感》作者 · 前哈佛商学院教授",
+    "category": "个人成长与心理",
+    "subCategory": "社会心理学 · 社交勇敢 · 心理韧性",
+    "duration": "14:24",
+    "durationSeconds": 864.9,
+    "audioUrl": "https://audio.louisyu.top/amy-cuddy-clean.mp3",
+    "coverImage": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80",
+    "quote": "You don't have to show how much you can hate to prove how much you care or to prove that you belong.",
+    "quoteTranslation": "你无需通过展现有多么仇恨，来证明自己有多么关切，或是证明你属于这个群体。",
+    "segments": [
+      {
+        "id": 1,
+        "time": "00:00",
+        "seconds": 0.0,
+        "endSeconds": 99.8,
+        "title": "第 1 幕：红圈舞台与至暗时刻：从全球爆款演讲到学术霸凌深渊",
+        "original": "My talk begins where my life nearly ended. In 2012, I stood in the red circle and I gave a TED talk on social psychology. I was a junior professor at Harvard and I spoke about feeling like an outsider. I spoke about how we lift our self-confidence and how our bodies affect the way we feel. The talk went viral online quickly and became one of the most viewed TED talks of all time. And that cracked my world open in some beautiful ways. I saw the most luminous parts of people. And then I saw the darkest parts. When I became the target of a sustained bullying campaign, not by trolls on the internet. I learned to dismiss them quickly, but by colleagues, by tenured professors, department chairs, and journal editors who used their real names to attack me relentlessly for many years.",
+        "translation": "我的演讲始于我生命几乎走向终点的地方。2012年，我站在那个红色的圆圈里，做了一场关于社会心理学的TED演讲。当时我是哈佛大学的一名初级教授，我讲述了自己感到像个局外人的经历。我谈到了我们如何提升自信，以及我们的身体姿势如何影响我们的内心感受。那场演讲迅速在网上走红，并成为有史以来观看次数最多的TED演讲之一。这在某些美妙的层面上彻底打开了我的世界，让我见识到了人性中最明亮、最璀璨的一面。然而紧接着，我见识到了最黑暗的一面——当我成为一场持续霸凌运动的目标时。发起者并非互联网上的匿名喷子，我早就学会了对他们一笑置之；发起者竟是我的同行——那些终身教授、系主任以及学术期刊主编，他们用自己的真名实姓，对我展开了长达数年、毫无休止的攻击。"
+      },
+      {
+        "id": 2,
+        "time": "01:41",
+        "seconds": 101.3,
+        "endSeconds": 173.1,
+        "title": "第 2 幕：真伪之辩：被扭曲的“伪科学”指控与被证实的姿势效应",
+        "original": "They publicly declared that I had no serious conception of the term science, that what I'd proposed was stupid and unintuitive, that I'd abandoned academia for a lucrative career selling pseudoscience to a mostly women audience. They created a narrative about our work on power opposing, that it had been debunked. But here's the thing. Our work on power opposing hadn't been debunked. In fact, the central finding, the most important finding, was that our posture, how expansive or contractive it is, affects the way we feel, how powerful, confident we feel. It was replicated dozens of times in independent studies by labs all over the world, using better methods than those that we used, and even by our skeptics. In multiple meta-analyses, including one with 88 studies and nearly 10,000 participants, they landed on the same conclusion.",
+        "translation": "他们公开宣称我对“科学”这个词没有任何严肃的认知，指责我提出的理论既愚蠢又反直觉，甚至声称我背弃了学术界，去从事一份主要向女性受众推销伪科学的牟利事业。他们制造了一种关于我们“高能量姿势”（Power Posing）研究的舆论叙事，声称它已经被彻底推翻。但事实是：我们关于姿势效应的研究根本没有被推翻！事实上，这项研究最核心、最重要的发现——即我们的身体姿势（无论是舒展还是收缩）会深刻影响我们的自我感受与内心力量感——在世界各地的独立实验室中被重复验证了数十次，他们采用了比我们当时更严密的方法，甚至连最初的质疑者也得出了相同结果。在包含一项涵盖88项独立研究、近万名受试者在内的多项元分析中，大家最终都得出了完全相同的结论。"
+      },
+      {
+        "id": 3,
+        "time": "02:54",
+        "seconds": 174.1,
+        "endSeconds": 266.8,
+        "title": "第 3 幕：科学探索的异化：沉默的同僚与不敢公开发声的旁观者",
+        "original": "Expansive versus contractive posture affects how powerful or powerless we feel. The behaviors and the hormones were more complicated, and there were non-replications. In the science that I was trained in, by my dear advisor, that would have led to constructive and friendly inquiries, collaborations to figure out what was different about these studies, were there moderators that affected why you got this effect and we got this effect. Science should interrogate itself. That is how knowledge advances. That should happen, but that's not what happened in my case. Science didn't interrogate itself. It stopped itself, and it silenced a scientist, a junior scientist, who also had a lot of other research on stereotyping and prejudice and intergroup relations. Two tenured Ivy League professors told a New York Times reporter that they would have defended me publicly had they not been afraid of becoming targets themselves. Friends wrote privately, I'm so sorry this is happening to you, these guys are horrible, but wouldn't look at me publicly.",
+        "translation": "舒展与紧缩的身体姿态，决定了我们感受到的是强大还是无力。尽管外在行为与激素层面的变化更为复杂且存在无法复现的情况，但在我敬爱的导师所传授给我的科学精神中，这本该引发建设性且友善的学术探讨，本该促成合作以厘清这些研究为何存在差异，是否存在某种调节变量导致不同的效应。科学本就应当不断自我审视，因为知识正是由此进步的。这本该发生，但落在我的身上时却完全变了味。科学没有进行自我审视，而是踩下了刹车，并且扼杀了一名青年科学家的声音——而我在刻板印象、偏见和群体间关系领域本还有着大量的深入研究。两位常春藤盟校的终身教授后来向《纽约时报》记者坦言：如果不是害怕自己也沦为靶子，他们原本是会在公开场合为我辩护的。朋友们私下给我发来消息：“看到这一切发生在你身上我感到非常难过，这群人简直太可怕了”，但在公众面前，他们甚至不敢正眼看我。"
+      },
+      {
+        "id": 4,
+        "time": "04:29",
+        "seconds": 269.3,
+        "endSeconds": 375.9,
+        "title": "第 4 幕：绝境中的挣扎：走出自毁阴影与“历劫重生的希望”",
+        "original": "I couldn't eat, I didn't sleep, I worked all the time defending myself from constantly incoming attacks, non-stop relentless. It was very hard to be present for my son and my husband, I'm sorry, and I chose to walk away from my job at Harvard a year before going up for tenure, not because I was forced to, but because I knew that staying meant certain death. And so eventually I tried to take my own life twice, because this kind of bullying is simultaneously this horrible public spectacle of shame where you're in a spotlight, and at the same time, it's a total erasure of who you are and what you've done. Many targets don't survive, and I do want to say before I go forward to the targets, I understand, I see you, and I know that what seems incredible happened, but this is not a talk about despair, this is a talk about earned hope.",
+        "translation": "我吃不下饭，整夜失眠，几乎无时无刻不在疲于奔命地抵御接踵而至的围攻——毫无间歇，残酷无情。那段时间我甚至很难全身心地陪伴我的丈夫和儿子。在距离评定终身教职还有一年时，我选择主动从哈佛大学离职；并非因为受人所迫，而是因为我深知如果继续留下，等待我的将是注定的精神毁灭。最终，我曾两度试图结束自己的生命。因为这种霸凌同时具备两种致命力量：一方面，它是一场将你置于聚光灯下残酷示众的公开羞辱；另一方面，它又是对你的人格与所有成就的彻底抹杀。许多受害者未能幸存下来。在我继续往下讲之前，我想对所有的受害者说：我懂你们，我看见了你们，我知道那些看似不可思议的残忍真真切切地发生了；但这绝不是一场关于绝望的演讲，这是一场关于“历劫重生的希望”的演讲。"
+      },
+      {
+        "id": 5,
+        "time": "06:18",
+        "seconds": 378.2,
+        "endSeconds": 462.6,
+        "title": "第 5 幕：霸凌的本质剖析：这不是冲突，而是一场蓄意的毁灭仪式",
+        "original": "I've been a social psychologist for 25 years studying the forces that affect how we treat each other and judge each other, but I've spent the last eight focused on how cruelty becomes collective, how truth becomes distorted, how people decide that one person should be pushed out of the group, but also more importantly, what are the things that we can do to prevent those cultures from taking hold before they harden? And what I've learned is this, first, bullying is not conflict, it's not a debate, it's not criticism, it's not humor that you're too sensitive to take well, it is a deliberately targeted, serial escalating pattern of attacks carried out by multiple people, and it's intended to destroy a person's reputation and their ability to contribute, it unfolds in predictable stages, and it usually ends with someone being completely silenced or disappearing completely.",
+        "translation": "作为一名社会心理学家，我在这25年间一直在探究影响我们如何对待与评判彼此的力量；而在过去的8年里，我全力专注于解构群体的残忍是如何滋生蔓延的：真相是如何被扭曲的？群体是如何合谋决定将某个人逐出圈子的？更重要的是，在这些有毒文化彻底固化之前，我们究竟能做些什么来加以遏制？我的研究得出了以下结论：首先，霸凌绝非普通的人际冲突，它不是学术辩论，不是正当批评，也不是某种因为你“太敏感”而接不住的幽默玩笑。它是一种由多人联手、有针对性且连环升级的恶意攻击模式，其根本目的就是要彻底摧毁一个人的声誉及其在社会中发挥价值的能力。它的演进往往遵循着可预测的阶段，并且通常以受害者被彻底噤声或彻底退场而告终。"
+      },
+      {
+        "id": 6,
+        "time": "07:43",
+        "seconds": 463.7,
+        "endSeconds": 537.3,
+        "title": "第 6 幕：霸凌者的零和世界观：当数字平台让恶意无限放大",
+        "original": "This is really important, bullies are rare, they're rare, most of us are not bullies, bullies share one thing, a worldview, in their worldview, the world is hostile, people are fundamentally bad, everything of value is scarce, it's all zero sum, your achievement is their loss, they have an insatiable need for recognition and status and dominance, and they prove their dominance by publicly demonstrating that they can force a target, a valuable target to fully submit, that's what bullying is. Bullying has been on the rise among adults for the last 15 years, digital platforms make bullying faster, easier, louder, and the bullies lies last forever now, so what do we do?",
+        "translation": "这一点至关重要：真正的霸凌者其实是极其罕见的，我们绝大多数人并不是霸凌者。但霸凌者共享着同一种世界观——在他们的认知里，世界是充满敌意的，人性从根本上是邪恶的，一切有价值的事物都是稀缺的，一切都是零和博弈：你的成就就是他们的损失。他们对认可、社会地位和支配权有着贪得无厌的渴求，而他们证明自身主导地位的方式，就是在公众面前展示他们能够迫使一个有价值的目标彻底臣服。这就是霸凌的本质。在过去的15年里，成年人之间的霸凌行为持续上升；数字化平台让霸凌蔓延得更快、更容易、更喧嚣，而霸凌者的谎言如今在网络上几乎永久留存。那么，我们究竟该如何破局？"
+      },
+      {
+        "id": 7,
+        "time": "08:57",
+        "seconds": 537.3,
+        "endSeconds": 614.6,
+        "title": "第 7 幕：切断恶意的供养：拒绝成为旁观者与识别“霸凌试水”",
+        "original": "The first thing to understand is that bullies need us, bullies need an audience, they need people to carry out their agenda, when we just watch and remain silent, we're what I call passive bystanders, when we join in and amplify and share and attack we're what I call accessory bullies, but if we refuse our participation a lone bully is impotent, without us a bully is impotent. Second, we need to learn to spot the opening, when we get in early we can totally derail this, it starts with what I call a bully test, the bully tests the audience to see if they can get away with bullying that person, it might be a really inappropriate comment in a professional setting, or it might be an accusation against someone that's reputation destroying but not backed by evidence.",
+        "translation": "首先必须认识到的一点是：霸凌者极度依赖我们。霸凌者需要观众，他们需要有人来替他们执行恶意议程。当我们仅仅袖手旁观、保持沉默时，我们就是我所说的“被动旁观者”；而当我们跟风起哄、转发扩散、加入围攻时，我们便沦为了“从犯霸凌者”。然而，只要我们坚决拒绝参与，一个形单影只的霸凌者根本无能为力——没有我们的配合，霸凌者毫无杀伤力。其次，我们必须学会敏锐察觉危险的苗头，如果我们能在早期介入，就能彻底粉碎这种围剿。这一切通常始于我所说的“霸凌试探”：霸凌者会试探观众的反应，以确认自己对某人的霸凌是否会招致惩罚。这种试探可能是在职业场合发表一句极其不得体的贬损评论，也可能是对某人抛出一段毁灭声誉却毫无真凭实据的指控。"
+      },
+      {
+        "id": 8,
+        "time": "10:15",
+        "seconds": 615.5,
+        "endSeconds": 669.3,
+        "title": "第 8 幕：社交勇敢与群聚效应：25% 的人挺身而出便能颠覆社会规范",
+        "original": "When we hear those things and we say stay silent or we laugh, we're just saying to the bully, go forward and that's when they launch their attack, we also need to practice social bravery, these small risks that we take to defend each other, to support each other interpersonally, and social bravery is risky, so we need to distribute the risk across people, we need to do it together, it is so much easier for two people to do it than for one person to do it, when one bystander steps in in a way that's noticeable, others step in, and we know from research on changing social conventions that when about 25% of people step in, they can flip a social norm completely, bullying is not a personal problem, it's a collective problem and we can fix it.",
+        "translation": "当我们听到这些试探言论却选择保持沉默、甚至随之附和发笑时，我们实际上就是在向霸凌者释放信号：“尽管向前冲吧”，而这正是他们发起全面围剿的信号。因此，我们需要践行“社交勇敢”（Social Bravery）——即我们在人际交往中挺身而出捍卫彼此、支持彼此所冒的那些微小风险。社交勇敢确实伴随着风险，所以我们需要把风险分摊给众人，我们需要携手并肩。两个人站出来的阻力远小于孤军奋战；当一名旁观者以清晰可见的方式介入时，其他人就会纷纷跟进。关于改变社会公约的研究告诉我们：只要大约25%的人选择挺身而出，他们就能彻底逆转整个群体的社会规范！霸凌绝不是某个人的私事，它是一个集体问题，而我们完全有能力修复它。"
+      },
+      {
+        "id": 9,
+        "time": "11:10",
+        "seconds": 670.0,
+        "endSeconds": 727.3,
+        "title": "第 9 幕：格里利的顿悟：以暴制暴永远无法战胜霸凌",
+        "original": "So after eight years of writing this book, I turned it in a few months ago. Right after that, I traveled to Greeley, Colorado, a small city in the high plains that was raw, politically divided on edge, I could feel the vigilance in the air when I looked at them, I spoke about personal power and trust, and at the end, the moderator said, her last question to me was this, she said, is there one piece of leadership advice that you haven't really shared, and I said, yeah, we'll never win by bullying the bullies, we cannot validate their worldview, as soon as we tell them that the world has to be brutal, they say, see, that's why I have to behave this way.",
+        "translation": "在历时八年写完这本著作后，我于几个月前交付了书稿。紧接着，我前往了科罗拉多州的格里利市——那是一座位于高平原上的小城，民风淳朴却在政治上极度撕裂、剑拔弩张。当我注视台下的听众时，我能清晰地感受到空气中弥漫的戒备与警惕。在那场演讲中，我分享了个人力量与信任的建立。在尾声阶段，主持人向我抛出了她的最后一个问题，她说：“是否有一条你从未真正公开分享过的领导力建议？”我回答说：“有，那就是：我们永远不可能通过以暴制暴来战胜霸凌者。我们绝不能去迎合他们的世界观；因为一旦我们告诉他们这个世界本就该残酷无情，他们就会得意地说：‘看吧，这就是为什么我必须这样对待别人。’”"
+      },
+      {
+        "id": 10,
+        "time": "12:09",
+        "seconds": 729.1,
+        "endSeconds": 786.4,
+        "title": "第 10 幕：无需以恨表爱：一个让全场集体释然的善意回响",
+        "original": "I told them, you don't have to show how much you can hate to prove how much you care, or to prove that you belong, and I looked out and I saw their shoulders relax, I saw a flicker of hope in their faces, I felt them collectively exhale, and the next day a woman wrote to me and she said, I was at your talk and I noticed something interesting as I left the venue, the crowd was unusually cheerful and courteous, several drive aisles bove together toward the exits, and everyone was alternating and letting each other in, no one was saying with their actions that they were more important than another person, I just wanted to share the observation that you made an immediate positive and tangible difference.",
+        "translation": "我告诉他们：“你无需通过展现自己有多么仇恨，来证明你有多么关切，或是证明你属于这个群体。”我望向台下，看到听众们紧绷的双肩慢慢放松了下来；我在他们的面庞上看到了重燃的希望微光，我真切地感受到大家在一同长舒了一口气。第二天，一位女士给我写信说：“我昨天去听了您的演讲，离开会场时我注意到了一件很有意思的事：散场的人群异乎寻常地欢快而谦和，在车道汇入出口时，大家竟然都在自发地交替通行、互相礼让；没有任何一个人用行动宣示自己比别人更重要。我只想告诉您，您的演讲在现实中催生了立竿见影、切实可见的积极改变。”"
+      },
+      {
+        "id": 11,
+        "time": "13:06",
+        "seconds": 786.4,
+        "endSeconds": 851.1,
+        "title": "第 11 幕：重夺个人力量：高能量姿势下的集体觉醒与行动倡议",
+        "original": "We want to be neighbors again, we want to go to our kid's friends' birthday parties and not worry about an explosion, we don't want to have to show how much we hate to prove how much we care. Bullies power is borrowed power, and we can refuse to give it to them. We all have access to personal power, and with that personal power, we can commit small acts of social bravery supporting each other, challenging bullies, so I invite you please to join me, to join me, let's find that collective power and turn bullying around. And one more thing. Hey y'all, Elise here wanted to let you know that at this moment, right before the end of her talk, Amy puts her hands up and stands in the power pose. Thank you.",
+        "translation": "我们渴望重新成为和睦的邻里；我们渴望去参加孩子朋友的生日派对，而不必提心吊胆担心爆发冲突；我们不想再被迫用展现仇恨来证明自己的赤诚。霸凌者拥有的所谓权力，不过是借来的虚张声势，而我们完全有权利拒绝将这种力量拱手相让！我们每个人内心都蕴藏着属于自己的内在力量；借助这份个人力量，我们可以在日常生活中践行微小的社交勇敢——彼此扶持，勇敢对霸凌说不。因此，我由衷地邀请大家加入我的行列，让我们凝聚起集体的力量，彻底逆转霸凌风气！最后还有一件事——大家好，我是主播Elise，想在这里告诉大家：就在演讲行将结束的这一瞬间，Amy在舞台上高举双手，再次摆出了那标志性的高能量姿势（Power Pose）！谢谢大家！"
+      }
+    ],
+    "spoken": [
+      {
+        "phrase": "crack ... open",
+        "time": "00:42",
+        "phonetic": "/kræk ... ˈoʊpən/",
+        "explanation": "彻底打开了某人的世界 / 迎来全新局面（原意砸开、裂开，引申为迎来巨大的人生转折）",
+        "pronunciationNote": "crack 末尾的 /k/ 与 open 开头的双元音 /oʊ/ 发生快速连读，带有轻微的爆破过渡。",
+        "example": "The talk went viral online quickly and that cracked my world open in some beautiful ways."
+      },
+      {
+        "phrase": "flip a social norm",
+        "time": "10:55",
+        "phonetic": "/flɪp ə ˈsoʊʃəl nɔːrm/",
+        "explanation": "彻底颠覆/逆转社会规范与群体惯例",
+        "pronunciationNote": "flip 的 /p/ 音为失去爆破的瞬时闭锁，紧接 schwa 弱读 /ə/，读来干脆利落。",
+        "example": "When about 25% of people step in, they can flip a social norm completely."
+      },
+      {
+        "phrase": "borrowed power",
+        "time": "13:28",
+        "phonetic": "/ˈbɑːroʊd ˈpaʊər/",
+        "explanation": "借来的威风 / 依赖他人顺从与附和才得以存续的虚假权力",
+        "pronunciationNote": "borrowed 词尾 /d/ 弱化，与 power 的双唇爆破 /p/ 平滑衔接。",
+        "example": "Bullies' power is borrowed power, and we can refuse to give it to them."
+      }
+    ],
+    "grammar": [
+      {
+        "structure": "虚拟语气倒装省略 if",
+        "example": "Two tenured Ivy League professors told a New York Times reporter that they would have defended me publicly had they not been afraid of becoming targets themselves.",
+        "analysis": "“had they not been afraid...” 是与过去事实相反的高级条件状语从句倒装结构，等同于 “if they had not been afraid...”。在学术英语与高阶政论文中极为常见，表达深沉的历史假设与克制的情感。"
+      },
+      {
+        "structure": "zero-sum 零和并列排比结构",
+        "example": "In their worldview, the world is hostile, people are fundamentally bad, everything of value is scarce, it's all zero sum, your achievement is their loss.",
+        "analysis": "多重短句连排构成压迫式递进，用 “your achievement is their loss” 精确诠释前面 “zero sum” 的社会学本质，节奏铿锵有力。"
+      },
+      {
+        "structure": "the same... that... 强调因果关联句",
+        "example": "The same thing that gives bullying its power is the thing that can take it away.",
+        "analysis": "采用 “The same X that A is the X that B” 哲思句型，前后对仗工整，一语道破“观众的参与”既能助纣为虐、亦能彻底瓦解恶意的双刃剑机制。"
+      }
+    ],
+    "vocab": [
+      {
+        "word": "debunk",
+        "pos": "v.",
+        "meaning": "揭穿、驳斥（虚假理论或谣言）",
+        "collocation": "debunk a myth / thoroughly debunk a theory"
+      },
+      {
+        "word": "passive bystander",
+        "pos": "n.",
+        "meaning": "被动旁观者（冷眼旁观却助长恶意的局外人）",
+        "collocation": "shift from passive bystanders to active upstanders"
+      },
+      {
+        "word": "accessory bully",
+        "pos": "n.",
+        "meaning": "从犯霸凌者（跟风起哄、扩散恶意的帮凶）",
+        "collocation": "act as an accessory bully by amplifying rumors"
+      },
+      {
+        "word": "social bravery",
+        "pos": "n.",
+        "meaning": "社交勇敢（挺身而出捍卫他人的道德勇气）",
+        "collocation": "practice everyday acts of social bravery"
+      },
+      {
+        "word": "vigilance",
+        "pos": "n.",
+        "meaning": "戒备、警惕（高度紧绷防备的心理状态）",
+        "collocation": "feel a palpable sense of vigilance in the air"
+      }
+    ]
+  },
+  {
     "id": "xochitl-gonzalez",
     "slug": "xochitl-gonzalez",
     "title": "How the wealth gap is reshaping politics",
