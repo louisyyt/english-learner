@@ -1,5 +1,194 @@
 [
   {
+    "id": "george-butler",
+    "slug": "george-butler",
+    "title": "News tells you what happened. Drawing shows you how it felt",
+    "chineseTitle": "新闻讲述发生之事，画作呈现真实感受：用慢速描摹对抗遗忘",
+    "speaker": "George Butler",
+    "speakerTitle": "著名战地纪实插画家 · 现场速写艺术家 · TED Fellow",
+    "category": "人文与艺术",
+    "subCategory": "战地纪实 · 报道艺术 · 苦难记忆与共情",
+    "duration": "08:27",
+    "durationSeconds": 507.5,
+    "audioUrl": "https://audio.louisyu.top/george-butler-clean.mp3",
+    "coverImage": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1200&q=80",
+    "quote": "The news can tell us what happened, but the drawing can show us how it felt.",
+    "quoteTranslation": "新闻能告诉我们发生了什么，但素描能向我们展现那是怎样的感受。",
+    "segments": [
+      {
+        "id": 1,
+        "time": "00:00",
+        "seconds": 0.0,
+        "endSeconds": 45.2,
+        "title": "第 1 幕：红圈与瓦砾：克拉马托尔斯克的废墟与守护财物的妇人",
+        "original": "A couple of years ago, I stood on the streets in eastern Ukraine in Kramatorsk in the aftermath of a Russian cruise missile strike on a residential apartment building. I remember the front of the building was blown off. You could see a living room and a kitchen inside, belongings burnt, scattered on the floor, mixed in with the rubble. There were some weapons inspectors on one side, an excavator in the middle. And, of course, in amongst it all, the journalists were there trying to interview those involved. One lady in particular had soot on her face. It was very moving to watch. She gathered her belongings from the rubble and she put them on the floor, and she sat on them for safekeeping.",
+        "translation": "几年前，在乌克兰东部城市克拉马托尔斯克的一栋居民住宅楼遭遇俄罗斯巡航导弹袭击后，我站在了那座城市的街道上。我清楚地记得，那座建筑的正面被彻底炸毁，你能一眼望见裸露在外的客厅与厨房；个人的物品被烧焦，散落在地板上，与瓦砾碎石混杂在一起。现场一侧站着武器核查人员，中间停着一台挖掘机。当然，在所有这一切混乱之中，记者们正穿梭其间，试图采访当事人。有一位女士尤为引人注目，她的脸上沾满了煤灰。那一幕令人极其动容：她从废墟中将自己的物品一件件捡拾出来，堆在地上，然后自己坐在上面静静守护着它们。"
+      },
+      {
+        "id": 2,
+        "time": "00:46",
+        "seconds": 46.1,
+        "endSeconds": 90.8,
+        "title": "第 2 幕：玫瑰园与书籍：七旬老人佩特罗的灵魂食粮",
+        "original": "These are the sorts of scenes that are broadcast around the world every night. I found them to be so moving, and let me tell you, the destruction is truly captivating. But around the back of the same building, I found a library of books had been blasted into a rose garden and in amongst the thorns and the roses stood Petro, age 70. On his morning walk, he couldn't go any further. He felt it was his duty to stop, pick up the books, stack them in neat little piles. And as I drew him, he challenged me and he said, I was brought up that if I see a loaf of bread on the floor, I'll pick it up.",
+        "translation": "这类场景每晚都在世界各地的屏幕上循环播放。我深感触动，而且坦白讲，那种毁灭的景象确实有着摄人心魄的冲击力。但在同一栋建筑的后方，我发现一整间藏书室的书籍被炸飞进了一座玫瑰园。在荆棘与玫瑰花丛之中，站着70岁的佩特罗。在晨间散步时，他停下了脚步无法再往前走。他觉得自己有责任停下来，把那些书一本本拾起，码成整整齐齐的小堆。当我用画笔描摹他时，他看着我认真地说：‘我从小受到的教育就是，如果在地上看到一块面包，我一定要把它捡起来。’"
+      },
+      {
+        "id": 3,
+        "time": "01:31",
+        "seconds": 91.5,
+        "endSeconds": 146.1,
+        "title": "第 3 幕：两纪战地素描：新闻讲述发生之事，画作呈现真实感受",
+        "original": "It's the same with books, they are food for the soul. I've drawn mass graves in Ukraine, a caesarean in Afghanistan, and the war in Syria. And over two decades, I've had one realization over and over that there are many truths to war. But on that morning in Kramatorsk in Ukraine, it was so stark. It was Petro that captured my heart, this gentle soul standing amidst atrocity. This is what I do. I draw for magazines and newspapers in ink, on location, and over weeks and weeks in Ukraine, it became my mission to be slow, to delve deeper. And I found that the news can tell us what happened, but the drawing can show us how it felt.",
+        "translation": "‘对书籍也是一样，它们是滋养灵魂的食粮。’在这过去的二十年间，我曾画过乌克兰的万人坑、阿富汗战火中的剖腹产手术，以及叙利亚的战争。二十年来，我反复印证了一个领悟：战争存在着许多层面的真相。但在克拉马托尔斯克的那个清晨，对比是如此强烈——真正触动我内心的，正是佩特罗，这个伫立在残暴废墟中的温柔灵魂。这就是我所做的事：我用墨水在现场为杂志和报纸作画；而在乌克兰驻留的数周里，慢下来、探寻更深层的人性成了我的使命。我发现，新闻能告诉我们发生了什么，但素描能向我们展现那是怎样的感受。"
+      },
+      {
+        "id": 4,
+        "time": "02:27",
+        "seconds": 147.6,
+        "endSeconds": 192.5,
+        "title": "第 4 幕：百岁奥尔加的世纪史诗：从大饥荒、纳粹奴役到平静安详",
+        "original": "In Kiev, I met Madame Olga, age 99. She was too old to get out of her bed when the air raid sirens rang. I remember she had a Bible tucked under her pillow. She was very muddled, she was confusing Putin and Hitler, and she held the translator's hands about six inches from her face and in this moment of wonderful clarity she said, if you be quiet, I will tell you the story from the beginning. She was born in 1923. She was taken to a collective farm with her father. She survived the Holodomor, the great famine which killed four million Ukrainians. When World War II started, she worked as a slave for a Nazi family.",
+        "translation": "在基辅，我遇见了99岁的奥尔加女士。当防空警报拉响时，年迈的她已经无法从床上爬起来。我记得她的枕头底下塞着一本圣经。她的神智有些混乱，分不清普京与希特勒；但她把翻译员的手拉到距离自己面庞仅六英寸处，在那个奇妙而清醒的瞬间，她说：‘如果你们安静下来，我会从头开始给你们讲述这个故事。’她生于1923年，曾随父亲被带去集体农庄；她幸存过了导致四百万乌克兰人丧生的大饥荒（Holodomor）；二战爆发后，她被强征为纳粹家庭的苦役劳工。"
+      },
+      {
+        "id": 5,
+        "time": "03:13",
+        "seconds": 193.3,
+        "endSeconds": 235.0,
+        "title": "第 5 幕：素描赐予的相遇：新闻在遗忘人性，艺术在留存记忆",
+        "original": "She recounted the story about one time they fed her worms. She ran away on another occasion to the police station where the policeman returned her straight back to the house. When the war ended, she began to walk home to Ukraine. She met her husband on the way, future husband, I should say. They got married, she had four children, she lived another 80 years. If it hadn't been for the process of drawing, I wouldn't have shared this moment with Olga and I wouldn't be able to share it with you. She died a couple of months after we met, peacefully in her sleep before her 100th birthday. I believe the news is failing us.",
+        "translation": "她追忆起有一次他们甚至拿虫子喂她；另一回她逃到了警察局，但警察却把她原封不动押回了那个纳粹家庭。战争结束后，她一步一步徒步走回乌克兰。在归途上，她遇见了她未来的丈夫。他们结婚成家，生了四个孩子，她又平静地生活了整整80年。如果不是因为画素描这一过程，我就不可能与奥尔加共享这段时光，也无法在此刻将它转述给你们。在我们相遇几个月后、在她百岁寿辰前夕，她在睡梦中平静地离世了。而这一切让我坚信：现代新闻正在让我们失望。"
+      },
+      {
+        "id": 6,
+        "time": "03:56",
+        "seconds": 236.7,
+        "endSeconds": 290.3,
+        "title": "第 6 幕：对抗极化与疲惫的解药：战士奥列格、罗宋汤与荷兰猪",
+        "original": "It promotes destruction before humanity. It's polarizing and fatiguing. It gives the illusion of certainty. You might feel helpless or hopeless. We'd certainly be forgiven for turning it off. My antidote is to wander the streets and stand on the corners. I work with local translators and fixers to interview the unsung and the understated, like Oleg, a 23-year-old mixed martial arts fighter and football fan from Ukraine. He joined the military to fight the Russians with his football friends. But on this day, I drew him being served borsh by his mother Lisa, the English teacher from that town. And he posed for me with his Kalashnikov, but also, more unusually, with his guinea pig, Almond.",
+        "translation": "新闻总是把毁灭置于人性之前；它充满两极分化，让人心理疲惫；它营造出一种确定性的幻象，让你感到无助或绝望——面对这些，人们选择关掉电视完全无可厚非。而我的解药，就是在街道上漫步、伫立在街角。我与当地翻译和向导合作，去探访那些籍籍无名、不被关注的普通人：比如23岁的奥列格，他是一名综合格斗手兼足球迷，与球友们一同参军作战。但那天，我画下的却是他的母亲丽莎（当地的英语老师）正给他端上一碗热腾腾的罗宋汤。他手持卡拉什尼科夫步枪为我摆好姿势，而更非同寻常的是，他的身边还依偎着他的宠物荷兰猪‘杏仁’。"
+      },
+      {
+        "id": 7,
+        "time": "04:52",
+        "seconds": 292.7,
+        "endSeconds": 343.2,
+        "title": "第 7 幕：废墟医院里的相视一笑：受伤建筑师谢尔盖的“互画之约”",
+        "original": "And throughout the sitting, he whispered to Almond affectionately, you are a big pig. You are a big pig. It's people like Sergei that remind me that these stories are continuing as I stand in front of you. Perhaps the most ordinary of them all, a architect whose house fell on his head when it was hit by a Russian missile. And I met him in the hospital, bandaged, wrapped around his head. I said, I asked if I could draw him and the nurse translated, and he looked at me down his nose, and he grinned from ear to ear, and he said, yes, but I will also draw you. And a date, very formally, a date was arranged for the next day, and I came back and we sat in one of the ward rooms.",
+        "translation": "在整个作画过程中，他一直温柔地对着‘杏仁’耳语：‘你这只大猪猪，真是只大猪猪。’正是像谢尔盖这样的人，提醒着我：此时此刻当我站在你们面前时，这些真实的故事依然在发生。他或许是所有人中最普通的一位：一名建筑师，当导弹击中他的房子时，坍塌的屋顶砸在了他的头上。我在医院里见到了他，他的头上裹满了厚厚的绷带。我通过护士的翻译询问是否能为他画一张画，他透过鼻梁打量着我，随后咧开嘴笑逐颜开地说：‘可以，但我也要给你画一张！’于是，我们非常正式地约好了第二天；当我如约返回时，我们坐在了其中一间病房里。"
+      },
+      {
+        "id": 8,
+        "time": "05:43",
+        "seconds": 343.9,
+        "endSeconds": 390.5,
+        "title": "第 8 幕：胶带贴满的病房：两幅拙朴画像与无声的人性共振",
+        "original": "The windows are still sellotaped up in case there was an explosion. And we sat and we drew each other. We didn't share any common language. We were both shy about our drawings, like all good artists. He blamed his tools for the quality of his picture. And he'd probably be secretly proud to know that I was showing you this. Hey, y'all, Elise here, up on the screen behind George, we see two drawings. On the left, Sergei's drawing of George. He's looking down at what we can imagine is his drawing pad. On the right, George's drawing of Sergei. He's standing, slightly angled, and looking towards George, or us. His face has the most detail, including a thick mustache and he's wearing a hat and overcoat and leaning on a cane.",
+        "translation": "为了防止炸弹冲击波碎裂玻璃，病房的窗户上依然贴满了胶带。我们就这样相对而坐，互相为对方画肖像。我们彼此语言不通，却都对自己的画作显得有些害羞——就像所有真正的艺术家一样。他还为画画工具不够顺手而感到不好意思。如果他知道我今天在舞台上向你们展示这幅画，心里一定会暗暗自豪吧。（主播Elise旁白：在乔治身后的屏幕上展示着两幅素描：左侧是谢尔盖画的乔治，正低头专注于画板；右侧是乔治画的谢尔盖，微侧着身望向前方，面部刻画极其细腻，留着浓密的胡须，头戴帽子身穿大衣，手拄着一根拐杖。）"
+      },
+      {
+        "id": 9,
+        "time": "06:35",
+        "seconds": 395.1,
+        "endSeconds": 456.6,
+        "title": "第 9 幕：为何还要记住他们：当苦难倾泻而下，凡人用心灵抵抗",
+        "original": "Sergei, this is your story. Of course, these are only four stories from Ukraine, but over the years in Syria and Tajikistan, Gaza, and Iraq, I have met and drawn hundreds of other people. But why in the age of immediate news do you need to know about Alman the guinea pig, or Sergei the architect, or Olga the great-great-grandmother, or Hamdo, Lisa, Dmitri? Well, perhaps it's obvious. I believe they could so easily have been one of us. They are the true consequences of war. And I tell you, I share with you tonight because they are ordinary people who had terror poured on their lives and resisted it with their hearts. I would like to finish with a confession.",
+        "translation": "‘谢尔盖，这是属于你的故事。’当然，这些仅仅是乌克兰的四个缩影；多年来在叙利亚、塔吉克斯坦、加沙和伊拉克，我曾相遇并画下过数百个这样的生命。但在即时速食新闻泛滥的今天，为什么你们还需要知道荷兰猪‘杏仁’、建筑师谢尔盖、百岁曾祖母奥尔加，或是哈姆多、丽莎、德米特里？或许答案不言而喻：我相信，他们本就可能轻易地成为我们当中的任何一人。他们才是战争最真实的代价。我今晚之所以与你们分享，是因为他们不过是一群平凡普通的人——当恐怖与苦难倾泻在他们的生活之上时，他们选择用心灵的坚韧去与之抗争。在结束之前，我想作一个忏悔。"
+      },
+      {
+        "id": 10,
+        "time": "07:37",
+        "seconds": 457.4,
+        "endSeconds": 503.1,
+        "title": "第 10 幕：画家的最终忏悔：画笔只是借口，请见证而非消费苦难",
+        "original": "More of an admission, if you like, but a difficult one for artists, I think, to admit. As it turns out, it isn't really about the painting at all. That's just an excuse to sit a little longer, to give time. We've heard about listening accurately today. This is about observing, seeing properly. Drawing is the only way I know how to do that, but today I invite you, more than that, actually, if I'm allowed, I urge you to witness these stories and not consume them, to be deliberately slow and to cherish human connection. Thank you for listening. Thank you very much.",
+        "translation": "或者说是一份坦白吧——尽管对于艺术家而言，承认这一点或许尤为艰难：事实证明，这一切其实根本与作画本身无关。绘画只是一个借口，让我能在那个人身边多坐一会儿，多给予他们一些时间。今天我们谈到了‘精准倾听’；而这关乎‘如何观察’，关乎‘真正地看见’。画画是我唯一懂得的去观察的方式。但今天，我由衷地邀请大家——甚至如果可以的话，我恳请大家：去真正见证这些故事，而不是将它们当成谈资去消费；去刻意放慢脚步，去珍视人与人之间最宝贵的连接。谢谢大家的倾听，非常感谢！"
+      }
+    ],
+    "spoken": [
+      {
+        "phrase": "in the aftermath of",
+        "time": "00:06",
+        "phonetic": "/ɪn ðiː ˈæftərmæθ əv/",
+        "explanation": "在……的余波/浩劫之后（常用于描述战争、重大灾难或剧烈冲突平息后的创伤期）",
+        "pronunciationNote": "the 读作 /ðiː/ 与 aftermath 首元音 /æ/ 平滑连读，词尾清辅音 /θ/ 与 of /əv/ 弱读自然衔接。",
+        "example": "I stood on the streets in eastern Ukraine in Kramatorsk in the aftermath of a Russian cruise missile strike."
+      },
+      {
+        "phrase": "food for the soul",
+        "time": "01:33",
+        "phonetic": "/fuːd fər ðə soʊl/",
+        "explanation": "心灵的滋养 / 精神食粮（形容艺术、书籍或真挚情感给予人内心的抚慰）",
+        "pronunciationNote": "for 极度弱读为 schwa /fər/，soul 发饱满的双元音 /oʊ/ 并以舌尖抵上齿龈的暗音 /l/ 收束。",
+        "example": "It's the same with books, they are food for the soul."
+      },
+      {
+        "phrase": "grinned from ear to ear",
+        "time": "05:25",
+        "phonetic": "/ɡrɪnd frəm ɪər tuː ɪər/",
+        "explanation": "笑逐颜开 / 咧开大嘴笑（极其生动形象的英美地道口语表达）",
+        "pronunciationNote": "grinned 词尾浊辅音 /d/ 与 from 的 /fr/ 紧凑连贯，ear to ear 语调起伏带出愉悦感染力。",
+        "example": "He looked at me down his nose, and he grinned from ear to ear, and he said, yes, but I will also draw you."
+      }
+    ],
+    "grammar": [
+      {
+        "structure": "虚拟语气条件句（与过去事实相反的复合从句）",
+        "example": "If it hadn't been for the process of drawing, I wouldn't have shared this moment with Olga and I wouldn't be able to share it with you.",
+        "analysis": "“If it had not been for...” 是高阶书面与演讲中经典的虚拟语气结构，意为“若非因为……”。从句对过去假设使用 had not been，主句前半部分针对过去使用 wouldn't have shared，后半部分关联现在使用 wouldn't be able to share，逻辑极其严密。"
+      },
+      {
+        "structure": "The news can... but drawing can... 对比哲思句型",
+        "example": "And I found that the news can tell us what happened, but the drawing can show us how it felt.",
+        "analysis": "通过平行对称的结构对比“what happened”（客观物理事件）与“how it felt”（主观情感与心灵共鸣），以简驭繁，构成震撼人心的核心主题对仗。"
+      },
+      {
+        "structure": "witness... and not consume... 并列不定式批判性表达",
+        "example": "I urge you to witness these stories and not consume them, to be deliberately slow and to cherish human connection.",
+        "analysis": "“urge sb to do A and not do B” 句型，连用两个动词原形对比，深刻批判了快餐化消费苦难的信息异化，并用两个并列不定式 “to be slow” 和 “to cherish” 升华演讲主旨。"
+      }
+    ],
+    "vocab": [
+      {
+        "word": "aftermath",
+        "pos": "n.",
+        "meaning": "（灾难、战争后的）创伤期、后果、余波",
+        "collocation": "in the aftermath of the missile strike / economic aftermath"
+      },
+      {
+        "word": "captivating",
+        "pos": "adj.",
+        "meaning": "极其迷人的、摄人心魄的、引人入胜的",
+        "collocation": "a captivating presence / find the destruction captivating"
+      },
+      {
+        "word": "atrocity",
+        "pos": "n.",
+        "meaning": "残暴行为、凶恶罪行、暴行",
+        "collocation": "standing amidst atrocity / commit unspeakable atrocities"
+      },
+      {
+        "word": "clarity",
+        "pos": "n.",
+        "meaning": "清晰、清醒、通透",
+        "collocation": "in a moment of wonderful clarity / mental clarity"
+      },
+      {
+        "word": "antidote",
+        "pos": "n.",
+        "meaning": "解药、矫正良方、对抗手段",
+        "collocation": "an effective antidote to fatigue / despair"
+      },
+      {
+        "word": "cherish",
+        "pos": "v.",
+        "meaning": "珍视、珍爱、怀念",
+        "collocation": "cherish human connection / cherish every fleeting moment"
+      }
+    ]
+  },
+  {
     "id": "amy-cuddy",
     "slug": "amy-cuddy",
     "title": "How bullying spreads -- and how social bravery stops it",
