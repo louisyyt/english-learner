@@ -9,7 +9,7 @@
     <description><![CDATA[为深度英语学习者打造的 TED 纯净原声随身听。每天由 AI 自动化流水线精准剥离商业赞助广告与主持人闲聊，从 00:00:00 登台演讲第一句起播。配套分幕时间轴、地道口语发音弱读点拨与核心高阶词汇。支持 Apple 播客、小宇宙、Pocket Casts 点击时间戳跳转。访问 english.louisyu.top 体验全屏精听与双语对照。]]></description>
     <language>en-US</language>
     <copyright>© 2026 EchoGym &amp; TED Conferences, LLC</copyright>
-    <lastBuildDate>Fri, 11 Sep 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 08:00:00 +0000</lastBuildDate>
     <atom:link href="https://english.louisyu.top/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:type>episodic</itunes:type>
     <itunes:author><![CDATA[Louis Yu & EchoGym]]></itunes:author>
@@ -24,6 +24,72 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title><![CDATA[反重力制造的未来：在凝胶中绘制颠覆物理法则的造物新纪元 · Schendy Kernizan]]></title>
+      <itunes:title><![CDATA[反重力制造的未来：在凝胶中绘制颠覆物理法则的造物新纪元 · Schendy Kernizan]]></itunes:title>
+      <itunes:author><![CDATA[Schendy Kernizan]]></itunes:author>
+      <itunes:episode>42</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">echogym-ted-schendy-kernizan</guid>
+      <pubDate>Sat, 12 Sep 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://audio.louisyu.top/schendy-kernizan-clean.mp3" length="15000000" type="audio/mpeg"/>
+      <itunes:duration>04:37</itunes:duration>
+      <itunes:image href="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&amp;fit=crop&amp;w=1200&amp;q=80"/>
+      <description><![CDATA[【Schendy Kernizan】反重力制造的未来：在凝胶中绘制颠覆物理法则的造物新纪元
+金句：Think of the ability of, if I have an idea in my mind and I have a pencil, can I draw it in space and then have that shape there? You're literally doing calligraphy in space. (想象一下这样的能力：如果脑海中浮现一个构想，手中握有一支铅笔，我们能否直接在虚空中作画，并让那座造物赫然伫立？这宛如在三维空间中挥洒立体书法。)
+
+【节目时间轴】
+00:00 第 1 幕：突破传统：3D 打印的原型困局与重力枷锁
+01:07 第 2 幕：悬浮造物：在凝胶介质中绘制空间书法
+01:45 第 3 幕：零模具革命：免开模固化与凝胶无限循环
+02:36 第 4 幕：柔软触感与医疗痛点：告别硬塞进标准码的窘境
+03:17 第 5 幕：车库里的温度：早晨扫描、下午打印的生命贴合
+03:59 第 6 幕：无重力纪元：从日常穿戴到地外太空栖息地
+
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
+网页端：https://english.louisyu.top]]></description>
+      <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Schendy Kernizan（Rapid Liquid Print 联合创始人 · 仿生制造设计师 · TED Fellow）</p>
+<p><strong>【核心主题】</strong>科技与AI · 智能制造 · 3D凝胶打印 · 柔性材料与太空建造</p>
+<blockquote><p><strong>💡 核心金句：</strong><br/>“Think of the ability of, if I have an idea in my mind and I have a pencil, can I draw it in space and then have that shape there? You're literally doing calligraphy in space.”<br/><em>想象一下这样的能力：如果脑海中浮现一个构想，手中握有一支铅笔，我们能否直接在虚空中作画，并让那座造物赫然伫立？这宛如在三维空间中挥洒立体书法。</em></p></blockquote>
+<hr/>
+<h3>⏱️ 分幕时间轴与导航</h3>
+<p><em>提示：在支持时间轴的客户端中，点击下方时间戳即可直接跳转收听。</em></p>
+<p><strong>00:00</strong> 第 1 幕：突破传统：3D 打印的原型困局与重力枷锁</p>
+<p><strong>01:07</strong> 第 2 幕：悬浮造物：在凝胶介质中绘制空间书法</p>
+<p><strong>01:45</strong> 第 3 幕：零模具革命：免开模固化与凝胶无限循环</p>
+<p><strong>02:36</strong> 第 4 幕：柔软触感与医疗痛点：告别硬塞进标准码的窘境</p>
+<p><strong>03:17</strong> 第 5 幕：车库里的温度：早晨扫描、下午打印的生命贴合</p>
+<p><strong>03:59</strong> 第 6 幕：无重力纪元：从日常穿戴到地外太空栖息地</p>
+<hr/>
+<h3>🗣️ 地道口语表达与发音精析</h3>
+<p><strong>• [00:15] take off</strong> (/teɪk ɔːf/)<br/>释义：蓬勃发展、迅速崛起并大受欢迎；在语境中指 3D 打印技术在过去 30 年中迎来爆炸式爆发普及。<br/>发音要点：<em>连读连发为 /teɪˈkɔːf/，take 词尾的爆破音 /k/ 与介词 off 的元音 /ɔː/ 顺滑连读，自然弱化吞音。</em></p>
+<p><strong>• [00:45] circumvent</strong> (/ˌsɜːkəmˈvent/)<br/>释义：巧妙规避、绕过（规则、物理限制或工程瓶颈）；指制造工程师为了避开重力塌陷而添加支撑。<br/>发音要点：<em>重音落在末音节 /vent/，前缀 circum- 中的元音弱化为央元音 /ə/，发音紧凑敏捷。</em></p>
+<p><strong>• [02:37] give to it</strong> (/ɡɪv tuː ɪt/)<br/>释义：（材料或物体的）弹性、回弹韧性、形变缓冲余量（名词性用法）。<br/>发音要点：<em>give 的 /v/ 唇齿摩擦轻微带过，介词 to 弱读为 /tə/，与 it 快速轻带连缀。</em></p>
+<hr/>
+<h3>📖 核心高阶词汇与搭配</h3>
+<p><strong>extrude</strong> <em>(v.)</em>：挤压出、压出（液态或塑性材料）
+<br/>搭配：<code>extrude liquid material inside the gel</code>
+</p>
+<p><strong>viscosity</strong> <em>(n.)</em>：粘度、粘滞性（流体抵抗流动的物理特性）
+<br/>搭配：<code>the viscosity is strong enough</code>
+</p>
+<p><strong>cure</strong> <em>(v.)</em>：（树脂、聚合物等通过光化学或交联反应）固化、硬化
+<br/>搭配：<code>let it cure fully in the tank</code>
+</p>
+<p><strong>orthotics</strong> <em>(n.)</em>：矫形支具、骨科矫形器具
+<br/>搭配：<code>prosthetics and orthotics</code>
+</p>
+<p><strong>mass customization</strong> <em>(n.)</em>：大规模定制化（兼具批量生产低成本与个性化定制）
+<br/>搭配：<code>make mass customization accessible</code>
+</p>
+<p><strong>habitat</strong> <em>(n.)</em>：（极端环境或外星基地的）人造生态舱、太空栖息地
+<br/>搭配：<code>space travel and habitats in space</code>
+</p>
+<hr/>
+<p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title><![CDATA[新闻讲述发生之事，画作呈现真实感受：用慢速描摹对抗遗忘 · George Butler]]></title>
       <itunes:title><![CDATA[新闻讲述发生之事，画作呈现真实感受：用慢速描摹对抗遗忘 · George Butler]]></itunes:title>

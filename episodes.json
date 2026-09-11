@@ -1,5 +1,155 @@
 [
   {
+    "id": "schendy-kernizan",
+    "slug": "schendy-kernizan",
+    "title": "The gravity-defying future of manufacturing",
+    "chineseTitle": "反重力制造的未来：在凝胶中绘制颠覆物理法则的造物新纪元",
+    "speaker": "Schendy Kernizan",
+    "speakerTitle": "Rapid Liquid Print 联合创始人 · 仿生制造设计师 · TED Fellow",
+    "category": "科技与AI",
+    "subCategory": "智能制造 · 3D凝胶打印 · 柔性材料与太空建造",
+    "duration": "04:37",
+    "durationSeconds": 277.3,
+    "audioUrl": "https://audio.louisyu.top/schendy-kernizan-clean.mp3",
+    "coverImage": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80",
+    "quote": "Think of the ability of, if I have an idea in my mind and I have a pencil, can I draw it in space and then have that shape there? You're literally doing calligraphy in space.",
+    "quoteTranslation": "想象一下这样的能力：如果脑海中浮现一个构想，手中握有一支铅笔，我们能否直接在虚空中作画，并让那座造物赫然伫立？这宛如在三维空间中挥洒立体书法。",
+    "segments": [
+      {
+        "id": 1,
+        "time": "00:00",
+        "seconds": 0.0,
+        "endSeconds": 65.9,
+        "title": "第 1 幕：突破传统：3D 打印的原型困局与重力枷锁",
+        "original": "I'm Schendy Kernizan. I'm creating a new way of manufacturing objects. I'm part of a company called Rapid Liquid Print that is rethinking how products are made. 3D printing for those who are not familiar with it, that's been a technology that's, you know, really taken off in the past 30 years. Traditional manufacturing was using a method that's just been so outdated, not digitized. 3D printing became kind of the new way of making that people said, oh, this is going to replace traditional manufacturing. But the issue is that you need to build on a platform. So you always need a surface that you're starting with in order to create an object. And the more complex that geometry becomes, gravity starts to become a limitation of what you can make. And in order to circumvent that, you need to actually create supports. And then you need to remove those supports. So it's really kind of a manual effort of cleaning those pieces that are then discarded and quite wasteful. So 3D printing has almost become kind of this system that's great for prototyping, but hasn't really created that bridge from prototyping to production.",
+        "translation": "我是申迪·科尼赞（Schendy Kernizan）。我正在开创一种制造物体的新方法。我所创立并服务的 Rapid Liquid Print 公司，正致力于重构物品被制造出来的底层逻辑。对于不太熟悉 3D 打印的人来说，这项技术在过去 30 年里确实迎来了爆发式增长。传统制造业所采用的工艺早已陈旧不堪，缺乏数字化内核；因此 3D 打印应运而生，成了全新的制造范式，人们纷纷预言它将彻底取代传统制造。然而核心难题在于：你必须依托一个托盘平台来逐层堆叠；为了制造任何物体，你都必须从一个基底表面开始。几何构造越是繁复精细，重力便越发成为束缚你创造力的物理枷锁。为了规避重力塌陷，你不得不额外生成支撑结构；而在成型之后，你又必须耗费大量人工去剔除这些支撑并清理残渣——这些被丢弃的部件极其浪费。因此，3D 打印在很大程度上沦为了一种非常适合做设计原型的工具，却始终无法搭建起从原型迈向规模化量产的桥梁。"
+      },
+      {
+        "id": 2,
+        "time": "01:07",
+        "seconds": 66.8,
+        "endSeconds": 103.5,
+        "title": "第 2 幕：悬浮造物：在凝胶介质中绘制空间书法",
+        "original": "We solve that by printing inside of this gel that holds the shape that you're drawing, you're able to eliminate gravity. Think of the ability of, you know, if I have an idea in my mind and I have a pencil, can I draw it in space and then have that shape there? So you go on the computer, you draw the geometry that you want, and that information gets sent to the printer. And as the machine is moving, think of your arm moving that pencil around. The material is coming out of it, and the machine knows how fast or how slow it needs to go and where it needs to be drawing it inside of the tank.",
+        "translation": "而我们彻底解决了这一难题——通过直接在一缸具有定型支撑力的悬浮凝胶内部进行打印，成功摆脱了重力的束缚。想象一下这样的造物能力：当脑海中浮现一个创意，手中握着一支铅笔，我们能否直接在空中绘制线条，并让那座立体的三维形态瞬间驻留在虚空之中？现在，你只需在电脑上勾勒出所需的几何造型，数据便会直接传输至打印机；当机械臂在空间中舞动时，就如同你的手臂在空中自如地挥毫作画。液态打印材料源源不断地挤出，机械系统精确知晓在凝胶槽的每一个三维坐标上该以多快的速度游走、在何处下笔。"
+      },
+      {
+        "id": 3,
+        "time": "01:45",
+        "seconds": 104.5,
+        "endSeconds": 154.9,
+        "title": "第 3 幕：零模具革命：免开模固化与凝胶无限循环",
+        "original": "The gel is mostly water that's been transformed into a gelatin. And think of hand sanitizer consistency where it can move, but it has structure to itself, and the viscosity is strong enough where whatever you extrude inside of it doesn't just pool at the bottom. And when it's done, you just let it there until it fully cures. You're literally doing calligraphy in space. You're able to make parts faster, you can customize the colors that you want, you can blend colors, create gradients of colors. And instead of having this mold that you then need to discard or put away because your design is different the next time that you build something with this gel, it's reusable. So you can extract that part, you rinse it with water, and you're reusing the gel to make more parts. So it's a reusable process and sustainable way of making things.",
+        "translation": "这种水凝胶大部分是由纯水转化为明胶状物质。它的质感宛如免洗洗手液——既具备流动性，又拥有自持的物理结构；它的流体粘度恰到好处，无论你在其中挤出什么液态材料，都不会下沉淤积在容器底部。打印完成后，只需静置待其完全固化。这真正是在空间中挥洒书法！不仅制造速度成倍跃升，还能随意定制色彩、混合色调、渲染渐变色彩。更为关键的是，传统制造中每次改变设计都必须弃用或重新开模，而这种水凝胶是完全可重复循环使用的：取出固化成品后，只需用清水简单冲洗，整缸凝胶便能立即投入下一轮制造。这是一套真正具备无限循环属性、绿色可持续的造物流程。"
+      },
+      {
+        "id": 4,
+        "time": "02:36",
+        "seconds": 155.9,
+        "endSeconds": 196.9,
+        "title": "第 4 幕：柔软触感与医疗痛点：告别硬塞进标准码的窘境",
+        "original": "As human beings, anything I touch, even from your phone case, usually having some kind of flexibility and give to it feels more relatable than having a hard surface that you're touching. Early days, there was another research group at MIT that was doing a lot of prosthetics, orthotics. They saw a process and thought, hey, this could be actually beneficial for us. And that led us to talk to more clinicians out there, more people in that space. People said customization would be really beneficial, but I don't have a way to do that easily. Most of the time, what's really pushed on the patient is to wear small, medium, large, because it's faster and easier to do. The downside to that is that you're being squeezed into something that doesn't fit you well.",
+        "translation": "作为人类，我们日常触摸到的任何物品——哪怕小到一个手机壳——如果带有一丝柔韧的弹性和回弹余地，总会比冰冷坚硬的表面让人倍感亲切舒适。在技术研发早期，麻省理工学院（MIT）的另一个课题组正在攻坚大量的假肢与身体矫形支具。他们看到了我们的工艺，敏锐地意识到：‘这或许能为临床医疗带来质的飞跃。’这促使我们走出实验室，与更多的临床医生和医疗从业者深入交流。医生们坦言，个性化定制对病患至关重要，但眼下根本没有便捷高效的实现手段。绝大多数情况下，强加给病患的只是标配的 S、M、L 标准尺码，仅仅因为这样批量生产最省事、最快捷。而这种妥协的代价极其痛苦——病患被迫将自己独特的身体硬生生塞进并不贴合的模具之中。"
+      },
+      {
+        "id": 5,
+        "time": "03:17",
+        "seconds": 197.4,
+        "endSeconds": 238.3,
+        "title": "第 5 幕：车库里的温度：早晨扫描、下午打印的生命贴合",
+        "original": "So we started printing and testing parts for them. And I remember seeing the first time they showed us pictures of their patient trying something that we had printed in our garage at the time. And hearing how this is the best fit I've ever had, this is really feels great on my body. That patient needed such a custom solution, and being able to scan patients in the morning, print in the afternoon and have something ready for the next day. It was exactly something that they were looking for that they couldn't do before. I think myself and others in the world, we would love everything to be customized to our bodies and our needs. Making mass customization more accessible to people is how I see the future.",
+        "translation": "于是，我们开始为他们打印并测试专用医疗部件。我依然清晰记得那一幕：医生们第一次向我们展示照片，照片里的患者正试穿我们在简陋车库里打印出来的矫形护具，并由衷感叹：‘这是我戴过最严丝合缝的支具，穿在身上感到前所未有的舒适！’那位患者极其渴望这种完全贴合个人骨骼的定制方案。而我们做到了早晨对患者身体进行三维扫描，下午启动凝胶打印，第二天清晨即可交付佩戴。这正是医疗界梦寐以求、却在过去受限于工艺而无法企及的突破。我相信无论是我还是世界上的每一个人，都渴望身边的每件物品能够精准贴合我们的身体与真实需求。让大规模个性化定制惠及普罗大众，正是我所坚信的工业未来。"
+      },
+      {
+        "id": 6,
+        "time": "03:59",
+        "seconds": 239.3,
+        "endSeconds": 275.4,
+        "title": "第 6 幕：无重力纪元：从日常穿戴到地外太空栖息地",
+        "original": "There are a lot of industries that can benefit from this, from toys to fashion. How cars are made, rockets are made, consumer goods and things that we interact with. Ways that we grow things or make things are going to be different. One of the things that I dream about is the idea that we can create new things that will inspire further travel, for example, in space or even habitats in space. We can kind of explore and come up with new solutions that maybe we haven't thought of. It does excite me to see that people want to use this tool to push their industry forward and try new things that they couldn't do before.",
+        "translation": "不仅是医疗，从玩具到高级时装，各行各业都将从中获益匪浅。汽车的制造、火箭的结构、日常消费品以及与我们朝夕相处的万物，我们培育或制造物质形态的方式都将发生根本性变革。我心中最深切的梦想之一，便是利用这项技术创造出崭新的造物，去启发人类更遥远的星际远征——例如在太空中直接制造部件，甚至构建地外太空栖息居住舱。我们可以大胆探索，孕育出前人从未设想过的创新方案。看到全球各领域的探索者纷纷渴望借助这套工具推动各自行业向前跃进、尝试以往无法企及的造物极限，这让我心潮澎湃。"
+      }
+    ],
+    "spoken": [
+      {
+        "phrase": "take off",
+        "time": "00:15",
+        "phonetic": "/teɪk ɔːf/",
+        "explanation": "蓬勃发展、迅速崛起并大受欢迎；在语境中指 3D 打印技术在过去 30 年中迎来爆炸式爆发普及。",
+        "pronunciationNote": "连读连发为 /teɪˈkɔːf/，take 词尾的爆破音 /k/ 与介词 off 的元音 /ɔː/ 顺滑连读，自然弱化吞音。"
+      },
+      {
+        "phrase": "circumvent",
+        "time": "00:45",
+        "phonetic": "/ˌsɜːkəmˈvent/",
+        "explanation": "巧妙规避、绕过（规则、物理限制或工程瓶颈）；指制造工程师为了避开重力塌陷而添加支撑。",
+        "pronunciationNote": "重音落在末音节 /vent/，前缀 circum- 中的元音弱化为央元音 /ə/，发音紧凑敏捷。"
+      },
+      {
+        "phrase": "give to it",
+        "time": "02:37",
+        "phonetic": "/ɡɪv tuː ɪt/",
+        "explanation": "（材料或物体的）弹性、回弹韧性、形变缓冲余量（名词性用法）。",
+        "pronunciationNote": "give 的 /v/ 唇齿摩擦轻微带过，介词 to 弱读为 /tə/，与 it 快速轻带连缀。"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "The more... the more... 双重比例比较句式",
+        "example": "And the more complex that geometry becomes, gravity starts to become a limitation of what you can make.",
+        "analysis": "运用 'The + 比较级..., (the +) 主谓...' 经典句式，精炼地阐明了传统制造中几何异形复杂度的提升，是如何直接且必然地加剧了地球重力对制造极限的束缚。"
+      },
+      {
+        "pattern": "动名词复合短语作句子主语与名词性从句作表语",
+        "example": "Making mass customization more accessible to people is how I see the future.",
+        "analysis": "前半句由动名词短语 'Making mass customization more accessible to people' 担任主语，后半句由 how 引导表语从句，表达凝练有力，是科技愿景陈述的高阶典范。"
+      },
+      {
+        "pattern": "where 引导定语从句修饰物理抽象名词",
+        "example": "Think of hand sanitizer consistency where it can move, but it has structure to itself, and the viscosity is strong enough where whatever you extrude inside of it doesn't just pool at the bottom.",
+        "analysis": "连续两次运用 where 引导限制性定语从句修饰抽象性状（consistency 与 viscosity），以极为生动的日常参照物（免洗洗手液）化解复杂的非牛顿流体力学原理。"
+      }
+    ],
+    "vocab": [
+      {
+        "word": "extrude",
+        "pos": "v.",
+        "meaning": "挤压出、压出（液态或塑性材料）",
+        "collocation": "extrude liquid material inside the gel"
+      },
+      {
+        "word": "viscosity",
+        "pos": "n.",
+        "meaning": "粘度、粘滞性（流体抵抗流动的物理特性）",
+        "collocation": "the viscosity is strong enough"
+      },
+      {
+        "word": "cure",
+        "pos": "v.",
+        "meaning": "（树脂、聚合物等通过光化学或交联反应）固化、硬化",
+        "collocation": "let it cure fully in the tank"
+      },
+      {
+        "word": "orthotics",
+        "pos": "n.",
+        "meaning": "矫形支具、骨科矫形器具",
+        "collocation": "prosthetics and orthotics"
+      },
+      {
+        "word": "mass customization",
+        "pos": "n.",
+        "meaning": "大规模定制化（兼具批量生产低成本与个性化定制）",
+        "collocation": "make mass customization accessible"
+      },
+      {
+        "word": "habitat",
+        "pos": "n.",
+        "meaning": "（极端环境或外星基地的）人造生态舱、太空栖息地",
+        "collocation": "space travel and habitats in space"
+      }
+    ]
+  },
+  {
     "id": "george-butler",
     "slug": "george-butler",
     "title": "News tells you what happened. Drawing shows you how it felt",
