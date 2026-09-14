@@ -1,5 +1,197 @@
 [
   {
+    "id": "kelly-boesch",
+    "slug": "kelly-boesch",
+    "title": "How AI unleashed (not replaced) my creativity",
+    "chineseTitle": "AI如何释放（而非取代）我的创造力：从艺术画布到数字新文艺复兴",
+    "speaker": "Kelly A. Boesch",
+    "speakerTitle": "视觉艺术家 · 电影制作人与平面设计师 · AI数字艺术家",
+    "category": "科技与AI",
+    "subCategory": "生成式AI · 艺术共创 · 视听联觉与数字美学",
+    "duration": "06:28",
+    "durationSeconds": 388.5,
+    "audioUrl": "https://audio.louisyu.top/kelly-boesch-clean.mp3",
+    "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188340/1a48776b-cefe-4f7a-96d1-25cc0e618ec7/KellyABoesch_2026-stageshot.jpg",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188340/1a48776b-cefe-4f7a-96d1-25cc0e618ec7/KellyABoesch_2026-stageshot.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188340/1a48776b-cefe-4f7a-96d1-25cc0e618ec7/KellyABoesch_2026-stageshot.jpg",
+    "quote": "When AI is guided by human feeling, empathy and intention, it can become something else entirely.",
+    "quoteTranslation": "当人工智能被人类的真实情感、同理心与纯粹意图所引领时，它便会彻底超越冷冰冰的代码，升华为一种具有灵魂的全新造物。",
+    "segments": [
+      {
+        "id": 1,
+        "time": "00:00",
+        "seconds": 0.3,
+        "endSeconds": 67.5,
+        "title": "第 1 幕：登台与起点：从生产力到艺术，AI 如何成为想象力的全新画布",
+        "original": "As an artist, I want to tell you that AI has completely changed the trajectory of my life. Let me show you into some of my worlds. When some people were focused on productivity and efficiency, I've been focused on trying to figure out how to incorporate AI into my art, like a new paintbrush, a canvas, a camera, a music studio, a doorway into my imagination. I've worked in film production and fashion and most recently as a graphic designer, but nothing has sparked my curiosity like AI has. And my first images were less visionary artists and more as my friends used to say, what is that? But I leaned into the strangeness of the AI, and now it has become my signature style. And I feel like I have a new superpower, and I'm only limited by my imagination, which seems to be endlessly filled with ideas now. For the first time, the distance between what I imagined and what I could create has closed.",
+        "translation": "作为一名艺术家，我想告诉你：人工智能彻底改变了我的人生轨迹。请允许我带你们走进属于我的一些奇幻世界。当许多人将目光仅仅局限于生产力和效率提升时，我却始终专注于探索如何将 AI 真正融入我的艺术创作之中——它就像是一支崭新的画笔、一张未着墨的画布、一台全知视角的摄影机、一间充满灵感的音乐工作室，以及一扇通往我无尽想象力的大门。我曾深耕于电影制作与时尚领域，最近则一直从事平面设计，但此前从未有任何事物能够像 AI 这样点燃我如此强烈的探索好奇心。坦率地说，我最初生成的作品远谈不上有什么大师远见，甚至更像我朋友们看到时脱口而出的那句：“这到底是个什么玩意儿？”然而，我选择全面拥抱并深潜于 AI 的这种怪诞与异质感之中；而如今，这恰恰淬炼成了我极具辨识度的标志性艺术风格。我感到自己获得了一种全新的超能力，唯一的瓶颈只取决于我的想象力——而如今，我的大脑中似乎正源源不断地涌现出无边无际的灵感。有生以来第一次，我脑海中所构想的意境与我亲手所能创造的现实之间的鸿沟，终于彻底闭合了。"
+      },
+      {
+        "id": 2,
+        "time": "01:09",
+        "seconds": 69.5,
+        "endSeconds": 165.4,
+        "title": "第 2 幕：视听联觉的魔法：跨界短片、AI编曲与意外斩获的唱片合约",
+        "original": "Once AI video was available, I started animating my AI images and making short films. But I felt like something was missing, so I wanted to make my own music to better match the emotion behind my visuals. So I started writing lyrics and using AI to collaborate on the instrumentation. And I draw my inspiration for my lyrics from my visuals or from my life experiences. And I never thought that my music would take on a life of its own, but it has as I just landed a record deal. Thank you. That feels extraordinary at this chapter of my life. When the music and the visual align perfectly, it can feel like magic. In this next clip, I'm going to show you from my video, Quiet Rebellion. I wrote these lyrics about living as your authentic self and wearing your strange like a crown.",
+        "translation": "当 AI 视频技术问世后，我开始赋予那些 AI 图像以动态生命，并着手创作艺术短片。但我总隐隐觉得还欠缺了些关键灵魂，于是我决定亲自创作音乐，以更完美地契合画面背后的深层情绪与张力。我开始亲手谱写歌词，并借助 AI 协作进行器乐编排与混音配器。我歌词中的灵感，要么直接汲取自我的视觉画面，要么源自我最真实的人生起伏。我此前从未奢望过自己的音乐能自发拥有如此蓬勃的生命力，但奇迹就这样发生了——我刚刚因此签下了一份正式的唱片唱作合约！谢谢大家，在人生的这个篇章能迎来这样的转折，感觉真是不可思议。当旋律与视觉画面达到极致完美的同频共振时，整部作品便会迸发出如同魔法般的魔力。在接下来的这个片段中，我将为大家展示来自我的短片《无声的叛逆》（Quiet Rebellion）中的内容。我写下这些歌词，正是为了歌颂如何活出最本真的自我，并像佩戴王冠一样骄傲地彰显自己的独特与怪诞。"
+      },
+      {
+        "id": 3,
+        "time": "02:46",
+        "seconds": 165.4,
+        "endSeconds": 218.1,
+        "title": "第 3 幕：直面争议与定义：这是艺术吗？在喧嚣中坚守本真的创作内核",
+        "original": "Thank you. Thank you. Lately, people have been asking me these same two questions. Is it really art? And how do you do it? And this first one's really hard for me to answer because AI art is brand new and we're all still trying to figure out where it fits in. And there's intense feelings on both sides and lots of discussion about AI being trained on other artists' work, as I was as an art major. But when I sit down to create, there's no other artists' work on my screen. I use references from things in nature like flowers or insects, patterns, fashion, or whimsical ideas that have been floating around in my head. For me, art is personal. I just want to make things that bring me joy. And if they do the same to someone else, well, maybe that's the definition right there.",
+        "translation": "谢谢大家，谢谢。近来，人们总是不厌其烦地向我抛出两个相同的问题：“这真的算得上艺术吗？”以及“你究竟是如何做到的？”对于第一个问题，我很难给出非黑即白的简单定论，因为 AI 艺术是如此崭新的新生事物，我们所有人依然在探索它在人类文明中究竟该处于怎样的位置。在这场辩论的两端，人们的情绪都异常激烈；关于 AI 模型使用其他艺术家作品进行训练的争议与探讨更是不绝于耳——而我当年作为一名艺术专业的科班学生，同样也是在研习无数大师前作中成长起来的。但当我真正坐下来创作时，我的屏幕上绝对没有任何其他艺术家的现成作品。我的灵感参照全部源自大自然中的鲜活生灵——花卉、昆虫的纹理、繁复的图案、时尚风尚，抑或是那些长期在我脑海中盘旋轻舞的奇思妙想。对我而言，艺术是极其私密而个性的。我只渴望去创造那些能够为我自己带来纯粹愉悦与喜乐的事物；而如果这些造物恰好也能给他人带来同样的心灵震撼与共鸣，那么或许，这就是艺术最纯粹的定义本身。"
+      },
+      {
+        "id": 4,
+        "time": "03:38",
+        "seconds": 218.1,
+        "endSeconds": 252.8,
+        "title": "第 4 幕：幕后拆解与风格训练：从通俗 AI 提示词到注入灵魂的标志性美学",
+        "original": "And how do you do it? Let me take you behind the scenes for a moment. This image was made in mid-journey using this prompt: A character and a fairy tale seen in a marketplace and chanted in cinematic. And it's an okay image, very AI, nothing at all special. Here we see an image on the screen behind Kelly of the software she's referring to, with the prompt she mentions in captions under an image of a computer animated looking young woman in a busy old-fashioned market. Now here's that exact same prompt using my personalization code and the style reference code.",
+        "translation": "那么，你究竟是如何做到的呢？请容我带大家到幕后稍作窥探。眼前的这张图片是在 Midjourney 中使用这句提示词生成的：“集市中的童话角色，施了魔法般的电影质感”。平心而论，这是一张还算过得去的图片——但它带着浓烈而千篇一律的典型 AI 塑料感，毫无任何出彩或灵魂可言。在此刻凯莉身后的巨幕上，展示着她所提及的软件界面；画面中是一位在繁华复古市集里的电脑动画风年轻女子，下方标注着对应的生成提示词。而现在，请看用完全相同的一句提示词，但我额外注入了我的专属个性化代码与风格参考代码之后的惊人变化。"
+      },
+      {
+        "id": 5,
+        "time": "04:12",
+        "seconds": 252.8,
+        "endSeconds": 282.9,
+        "title": "第 5 幕：拟人化叙事的蜕变：当人类共情与审美意志驯服算法",
+        "original": "In this next image, we see the same text prompt in captions at the bottom of the screen, but the image is completely changed. We see a much more flamboyant image, a computer-generated woman, although she looks more real compared to the first image, with puffy blonde hair and smiling widely, with rosy cheeks wearing a coat made of pastel blues and pinks. The market in the background is more blurred out, more whimsical in feel. And I've worked really hard to get my images to look like this, a lot of trial and error, and time spent training the AI on my personal style and aesthetic.",
+        "translation": "在这第二张图片中，屏幕底部的提示词字幕与之前一字不差，但整幅画面却发生了翻天覆地的质感蜕变！展现在我们眼前的是一幅色彩极为绚烂华丽的画面——一个电脑生成的女子，相比第一张却显得有血有肉、呼之欲出；她拥有蓬松的金发与绽放的明媚笑颜，面颊泛着红润光泽，身着一件由柔和淡蓝与淡粉交织的精致大衣。背景中的复古市集被诗意地虚化淡去，整体弥漫着一种空灵奇幻的童话意境。为了让我的画面呈现出这种独特的艺术生命力，我付出了极其艰苦的努力——历经了无数次试错与迭代，倾注了漫长的心血将 AI 深度驯化并对齐至我独特的个人风格与审美哲学。"
+      },
+      {
+        "id": 6,
+        "time": "04:42",
+        "seconds": 282.9,
+        "endSeconds": 320.2,
+        "title": "第 6 幕：艺术家的火箭时刻：情感驱动创作，迎来属于个人的轻盈与新生",
+        "original": "When AI is guided by a human feeling, empathy, and intention, it could become something else entirely. You can't explain creativity, you just follow it. But this is what I do know. I started making the best work of my life since I started using AI as a co-creator, and my life has taken off like a rocket ship. Millions of people have found their way to my work through my social sites and music apps. And I feel different. I feel lighter. I feel curious again. And I love using this technology to tell stories that are close to my heart.",
+        "translation": "当人工智能真正由人类细腻的情感、深切的同理心以及坚定的创作用意所指引时，它便能彻底蜕变为一种全然超凡的存在。你无法完全用逻辑去解构创造力，你唯有顺从它的召唤倾心跟随。但我无比笃定地知道这一点：自从我开始把 AI 当作平等的艺术共创伙伴，我便创作出了这辈子最震撼人心的杰作；而我的人生更如同搭乘了火箭般一飞冲天！数以百万计的观众通过我的社交平台与流媒体音乐应用，源源不断地走进我的艺术世界。更重要的是，我的内在状态彻底转变了：我感到自己卸下了所有沉重的包袱，变得前所未有的轻盈，内心对世界的那份赤子般的好奇心再次熊熊燃烧。我无比热爱运用这项技术，去讲述那些深植于我内心最柔软处的灵魂故事。"
+      },
+      {
+        "id": 7,
+        "time": "05:20",
+        "seconds": 320.2,
+        "endSeconds": 388.5,
+        "title": "第 7 幕：新文艺复兴的曙光：点燃创造力的火花，去创造属于你的怪诞与美丽",
+        "original": "I feel like we're standing at the beginning of a renaissance, and the possibilities are endless. We haven't even tapped into all of the ways to use AI creatively. And people who have never felt creative a day in their life are trying AI and sparking that creativity for the first time. And that's incredible. So my takeaway for today is if you are curious about AI, try to play a little and make something beautiful or make something strange. But let yourself be surprised by what comes out. But most of all, find your joy. Never found a reason why I had to learn to dance. My feet and music found each other. We knew it at first glance. From the moment I go up, my feet just up and read. When I hear a song, I see you float. My feet just understand. Thank you so much. Thank you.",
+        "translation": "我强烈地预感到，我们正站在一场全新数字文艺复兴的黎明破晓时分，摆在我们面前的可能性无边无际。我们甚至还远远没有完全挖掘出以艺术性方式运用 AI 的全部潜能！无数此前自认为一生中从未具备过一丝创造力的人们，正在尝试借助 AI 第一次点燃属于他们自己的灵感火花——这本身就是一件不可思议的伟大奇迹。因此，我今天最想留给大家的心得是：如果你对 AI 同样怀揣好奇，不妨放手去试着玩耍一番——去创造一些美好的事物，抑或是去塑造一些古怪离奇的奇景；允许自己被最终破土而出的未知造物深深惊艳吧！但最核心的真谛永远在于：去追寻属于你内心的那份狂喜与快乐！正如歌声中所唱：‘我从未探究为何自己必须学会起舞，我的双足与音乐便已彼此相拥；初次相遇，我们便已心领神会；从我登台的那一刻起，双足便随律动摇曳生辉；每当旋律响起，我见你凌波微步，我的双脚便自然懂得了一切。’非常感谢大家！谢谢你们！"
+      }
+    ],
+    "spoken": [
+      {
+        "phrase": "lean into something",
+        "phonetic": "/liːn ˈɪntuː ˈsʌmθɪŋ/",
+        "explanation": "顺势拥抱 / 全情投入（某种未知特质或困境）。指不逃避原本看似古怪、不可控的缺陷或特点，反而顺应并将其放大作为独特优势。",
+        "pronunciationNote": "lean 中的长元音 /iː/ 饱满舒展，与 into 紧密连读为 /liːnɪntuː/；into 的弱读形式轻快。",
+        "time": "00:49",
+        "example": "But I leaned into the strangeness of the AI, and now it has become my signature style."
+      },
+      {
+        "phrase": "take on a life of its own",
+        "phonetic": "/teɪk ɒn ə laɪf əv ɪts oʊn/",
+        "explanation": "自发蓬勃发展 / 拥有独立生命力。比喻某个想法、作品或项目在启动后产生超出预期的连锁积极反响，不再完全受作者控制地壮大。",
+        "pronunciationNote": "take on 连读为 /teɪkɒn/，life of 连读为 /laɪfəv/，节奏连贯轻快。",
+        "time": "01:37",
+        "example": "And I never thought that my music would take on a life of its own, but it has as I just landed a record deal."
+      },
+      {
+        "phrase": "wear something like a crown",
+        "phonetic": "/wɛər ˈsʌmθɪŋ laɪk ə kraʊn/",
+        "explanation": "将（不被理解的特质）如王冠般引以为傲。形容以一种骄傲、昂扬的姿态坦然展现自己与众不同的怪癖或非主流风格。",
+        "pronunciationNote": "wear 与 like a crown 形成押韵般节奏感，crown 中的双元音 /aʊ/ 口型由大到小滑行充分。",
+        "time": "02:04",
+        "example": "I wrote these lyrics about living as your authentic self and wearing your strange like a crown."
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "the distance between what... and what... has closed",
+        "type": "名词短语 + 双宾语从句对比结构",
+        "explanation": "使用 between 连接两个由 what 引导的名词性从句分别代表“主观构想”与“客观现实”，搭配 closed 形象精准地表达“从想象到实体之间漫长鸿沟的彻底跨越”。",
+        "sceneTime": "01:01",
+        "analysis": "For the first time, the distance between what I imagined and what I could create has closed."
+      },
+      {
+        "pattern": "When [Subject] is guided by [Nouns], it can become [Noun] entirely.",
+        "type": "条件伴随被动复合句",
+        "explanation": "使用 is guided by 被动状语前置，突出外在引导力量（feeling, empathy, intention），主句采用 become... entirely 强调质变飞跃。",
+        "sceneTime": "04:42",
+        "analysis": "When AI is guided by human feeling, empathy, and intention, it can become something else entirely."
+      },
+      {
+        "pattern": "People who have never [done] are [doing] and [sparking] for the first time.",
+        "type": "定语从句限制修饰 + 并列分词进行时",
+        "explanation": "who 引导限制性定语从句修饰主语 people，描绘从“从未拥有创造力”到“借由工具第一次爆发”的反差与时代剧变。",
+        "sceneTime": "05:31",
+        "analysis": "And people who have never felt creative a day in their life are trying AI and sparking that creativity for the first time."
+      }
+    ],
+    "vocab": [
+      {
+        "word": "trajectory",
+        "pos": "n.",
+        "meaning": "轨迹，发展历程；人生转折走向",
+        "collocation": "change the trajectory of life"
+      },
+      {
+        "word": "strangeness",
+        "pos": "n.",
+        "meaning": "怪诞，异质感；与众不同的奇异特征",
+        "collocation": "lean into the strangeness"
+      },
+      {
+        "word": "instrumentation",
+        "pos": "n.",
+        "meaning": "配器编排；器乐演奏与编曲架构",
+        "collocation": "collaborate on the instrumentation"
+      },
+      {
+        "word": "flamboyant",
+        "pos": "adj.",
+        "meaning": "华丽炫目的，色彩斑斓的；引人注目的",
+        "collocation": "a flamboyant aesthetic / image"
+      },
+      {
+        "word": "renaissance",
+        "pos": "n.",
+        "meaning": "文艺复兴；文化与创造力的大繁荣时代",
+        "collocation": "standing at the beginning of a renaissance"
+      },
+      {
+        "word": "authentic",
+        "pos": "adj.",
+        "meaning": "本真的，真实的；非伪装由内而发的",
+        "collocation": "living as your authentic self"
+      }
+    ],
+    "echoLoop": [
+      {
+        "step": 1,
+        "name": "盲听捕捉 (Blind Listening)",
+        "guide": "闭上眼睛播放纯净音频 00:00 - 01:08，捕捉 Kelly 从平面设计转向 AI 实验时的心境变化，不看文字记录你听到的关键词。"
+      },
+      {
+        "step": 2,
+        "name": "声学精听 (Acoustic Decoding)",
+        "guide": "聚焦 'lean into the strangeness' 与 'the distance between what I imagined and what I could create has closed'，体会美式发音中的连读与重音对比。"
+      },
+      {
+        "step": 3,
+        "name": "影子跟读 (Shadowing)",
+        "guide": "开启中英双语字幕，以 1.0x 原速进行影子跟读，重点模仿讲者在描述 Midjourney 提示词及艺术突破时的抑扬顿挫。"
+      },
+      {
+        "step": 4,
+        "name": "自主复述 (Retelling)",
+        "guide": "尝试用 3-4 句话自主向朋友复述本期演讲核心：为什么 AI 没有取代她的艺术，反而成为她想象力的加速器与灵魂催化剂？"
+      }
+    ]
+  },
+  {
     "id": "amy-shoenthal",
     "slug": "amy-shoenthal",
     "title": "How to turn setbacks into success",
