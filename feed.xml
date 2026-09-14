@@ -9,7 +9,7 @@
     <description><![CDATA[为深度英语学习者打造的 TED 纯净原声随身听。每天由 AI 自动化流水线精准剥离商业赞助广告与主持人闲聊，从 00:00:00 登台演讲第一句起播。配套分幕时间轴、地道口语发音弱读点拨与核心高阶词汇。支持 Apple 播客、小宇宙、Pocket Casts 点击时间戳跳转。访问 english.louisyu.top 体验全屏精听与双语对照。]]></description>
     <language>en-US</language>
     <copyright>© 2026 EchoGym &amp; TED Conferences, LLC</copyright>
-    <lastBuildDate>Mon, 14 Sep 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 08:00:00 +0000</lastBuildDate>
     <atom:link href="https://english.louisyu.top/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:type>episodic</itunes:type>
     <itunes:author><![CDATA[Louis Yu & EchoGym]]></itunes:author>
@@ -32,10 +32,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-amy-shoenthal</guid>
-      <pubDate>Mon, 14 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/amy-shoenthal-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>15:33</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&amp;fit=crop&amp;w=1200&amp;q=80"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_142742/2452d5ab-9218-4a0b-92c9-2ef62300e13b/AmyShoenthal_2024X-embed.jpg"/>
       <description><![CDATA[【Amy Shoenthal】如何将挫折转化为成功：在“挫折周期”中重塑自我的四阶段法则
 金句：When things are going well, we're not necessarily considering how we might improve. But the aftermath of a setback is when we come up with our best ideas. (顺境之时，我们绝少深思如何精益求精；唯有身处挫折的废墟之上，人类最璀璨的创意与智慧才会破土而出。)
 
@@ -51,7 +51,7 @@
 12:03 第 9 幕：社区的力量：在他人坚定的注视中，重构你的职业自信
 13:48 第 10 幕：阶段四·破茧（Emerge）：允许自己休整蓄能，叛逆地拥抱破茧蜕变
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Amy Shoenthal（畅销书《The Setback Cycle》作者 · 领导力与高管教练 · 前顶尖营销战略顾问）</p>
 <p><strong>【核心主题】</strong>个人成长与心理 · 挫折周期 · 心理韧性 · 职业重塑 · 赋能社交</p>
@@ -88,12 +88,6 @@
 <p><strong>plasticity</strong> <em>(n.)</em>：（神经）可塑性；适应弹性
 <br/>搭配：<code>plasticity inducer; neural/brain plasticity</code>
 </p>
-<p><strong>metamorphosis</strong> <em>(n.)</em>：彻底蜕变；质的飞跃（如毛毛虫变蝴蝶）
-<br/>搭配：<code>complete metamorphosis; undergo a stunning metamorphosis</code>
-</p>
-<p><strong>rebelliously</strong> <em>(adv.)</em>：反叛地；不服输地；逆势而上地
-<br/>搭配：<code>rebelliously optimistic; live rebelliously against norms</code>
-</p>
 <hr/>
 <p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
       <itunes:explicit>false</itunes:explicit>
@@ -106,10 +100,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-joshua-johnson-blake-mycoskie</guid>
-      <pubDate>Sun, 13 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/joshua-johnson-blake-mycoskie-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>27:20</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&amp;fit=crop&amp;w=1200&amp;q=80"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188004/64e13b89-de80-4bf7-a4c8-67ffa29484bc/ted_intersections_s4_template_ep2_1920x1080_2_960.jpg"/>
       <description><![CDATA[【Joshua Johnson & Blake Mycoskie】为什么男人难以敞开心扉？一位记者与企业家的深度对谈
 金句：Going through life with a willingness to ask more questions than you make statements is liberating. Nothing that happens after the question is your responsibility. Your responsibility is to have the curiosity, the integrity, the thoughtfulness, and the humility to ask what's on your mind. (带着“多提问而非急于下结论”的意愿去生活，是一种彻底的解放。问出问题之后发生的一切，都不是你的负担；你的责任仅仅在于保持好奇、真诚、体贴与谦卑，坦然问出你心中的困惑。)
 
@@ -128,7 +122,7 @@
 21:20 第 12 幕：年轻一代的蜕变：重塑男子气概与人际连接
 23:38 第 13 幕：开启深度连接的艺术：留白、时间与澄清式追问
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Joshua Johnson & Blake Mycoskie（前 NPR 国家主持人 · TOMS 创始人与社会企业家）</p>
 <p><strong>【核心主题】</strong>个人成长与心理 · 男性心理 · 深度连接 · 沟通艺术 · 情感脆弱</p>
@@ -168,12 +162,6 @@
 <p><strong>calibrate</strong> <em>(v.)</em>：校准、调节（心理预期或对话状态）
 <br/>搭配：<code>calibrate one's expectations</code>
 </p>
-<p><strong>unscripted</strong> <em>(adj.)</em>：不设脚本的、即兴真诚的
-<br/>搭配：<code>unscripted conversation</code>
-</p>
-<p><strong>undistracted</strong> <em>(adj.)</em>：不受干扰的、全神贯注的
-<br/>搭配：<code>undistracted time</code>
-</p>
 <hr/>
 <p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
       <itunes:explicit>false</itunes:explicit>
@@ -186,10 +174,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-schendy-kernizan</guid>
-      <pubDate>Sat, 12 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/schendy-kernizan-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>04:37</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&amp;fit=crop&amp;w=1200&amp;q=80"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187143/00b9f4d8-a665-4425-884a-08a8a6621f5f/Schendy_2880x1620.jpg"/>
       <description><![CDATA[【Schendy Kernizan】反重力制造的未来：在凝胶中绘制颠覆物理法则的造物新纪元
 金句：Think of the ability of, if I have an idea in my mind and I have a pencil, can I draw it in space and then have that shape there? You're literally doing calligraphy in space. (想象一下这样的能力：如果脑海中浮现一个构想，手中握有一支铅笔，我们能否直接在虚空中作画，并让那座造物赫然伫立？这宛如在三维空间中挥洒立体书法。)
 
@@ -201,7 +189,7 @@
 03:17 第 5 幕：车库里的温度：早晨扫描、下午打印的生命贴合
 03:59 第 6 幕：无重力纪元：从日常穿戴到地外太空栖息地
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Schendy Kernizan（Rapid Liquid Print 联合创始人 · 仿生制造设计师 · TED Fellow）</p>
 <p><strong>【核心主题】</strong>科技与AI · 智能制造 · 3D凝胶打印 · 柔性材料与太空建造</p>
@@ -234,12 +222,6 @@
 <p><strong>orthotics</strong> <em>(n.)</em>：矫形支具、骨科矫形器具
 <br/>搭配：<code>prosthetics and orthotics</code>
 </p>
-<p><strong>mass customization</strong> <em>(n.)</em>：大规模定制化（兼具批量生产低成本与个性化定制）
-<br/>搭配：<code>make mass customization accessible</code>
-</p>
-<p><strong>habitat</strong> <em>(n.)</em>：（极端环境或外星基地的）人造生态舱、太空栖息地
-<br/>搭配：<code>space travel and habitats in space</code>
-</p>
 <hr/>
 <p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
       <itunes:explicit>false</itunes:explicit>
@@ -252,10 +234,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-george-butler</guid>
-      <pubDate>Fri, 11 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/george-butler-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>08:27</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&amp;fit=crop&amp;w=1200&amp;q=80"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188026/5974a7f6-17e2-4ad5-af65-bf1f7df5c83f/GeorgeButler_2026-embed.jpg"/>
       <description><![CDATA[【George Butler】新闻讲述发生之事，画作呈现真实感受：用慢速描摹对抗遗忘
 金句：The news can tell us what happened, but the drawing can show us how it felt. (新闻能告诉我们发生了什么，但素描能向我们展现那是怎样的感受。)
 
@@ -271,7 +253,7 @@
 06:35 第 9 幕：为何还要记住他们：当苦难倾泻而下，凡人用心灵抵抗
 07:37 第 10 幕：画家的最终忏悔：画笔只是借口，请见证而非消费苦难
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>George Butler（著名战地纪实插画家 · 现场速写艺术家 · TED Fellow）</p>
 <p><strong>【核心主题】</strong>人文与艺术 · 战地纪实 · 报道艺术 · 苦难记忆与共情</p>
@@ -308,12 +290,6 @@
 <p><strong>clarity</strong> <em>(n.)</em>：清晰、清醒、通透
 <br/>搭配：<code>in a moment of wonderful clarity / mental clarity</code>
 </p>
-<p><strong>antidote</strong> <em>(n.)</em>：解药、矫正良方、对抗手段
-<br/>搭配：<code>an effective antidote to fatigue / despair</code>
-</p>
-<p><strong>cherish</strong> <em>(v.)</em>：珍视、珍爱、怀念
-<br/>搭配：<code>cherish human connection / cherish every fleeting moment</code>
-</p>
 <hr/>
 <p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
       <itunes:explicit>false</itunes:explicit>
@@ -326,10 +302,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-amy-cuddy</guid>
-      <pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/amy-cuddy-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>14:24</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&amp;fit=crop&amp;w=1200&amp;q=80"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188341/a26b578d-e72a-4014-81f1-b9c5b895a48a/AmyCuddy_2026-embed.jpg"/>
       <description><![CDATA[【Amy Cuddy】霸凌是如何蔓延的：用社交勇敢终结群体性残忍
 金句：You don't have to show how much you can hate to prove how much you care or to prove that you belong. (你无需通过展现有多么仇恨，来证明自己有多么关切，或是证明你属于这个群体。)
 
@@ -346,7 +322,7 @@
 12:09 第 10 幕：无需以恨表爱：一个让全场集体释然的善意回响
 13:06 第 11 幕：重夺个人力量：高能量姿势下的集体觉醒与行动倡议
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Amy Cuddy（著名社会心理学家 · 畅销书《存在感》作者 · 前哈佛商学院教授）</p>
 <p><strong>【核心主题】</strong>个人成长与心理 · 社会心理学 · 社交勇敢 · 心理韧性</p>
@@ -384,9 +360,6 @@
 <p><strong>social bravery</strong> <em>(n.)</em>：社交勇敢（挺身而出捍卫他人的道德勇气）
 <br/>搭配：<code>practice everyday acts of social bravery</code>
 </p>
-<p><strong>vigilance</strong> <em>(n.)</em>：戒备、警惕（高度紧绷防备的心理状态）
-<br/>搭配：<code>feel a palpable sense of vigilance in the air</code>
-</p>
 <hr/>
 <p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
       <itunes:explicit>false</itunes:explicit>
@@ -399,7 +372,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-xochitl-gonzalez</guid>
-      <pubDate>Wed, 09 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/xochitl-gonzalez-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>10:35</itunes:duration>
       <itunes:image href="https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80"/>
@@ -420,7 +393,7 @@
 08:26 第 11 幕：威权主义的温床：为什么经济脆弱会让强人政客崛起？
 09:31 第 12 幕：民主的心脏病：跨越阶层鸿沟，重拾现实同理心
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Xochitl Gonzalez（普利策奖入围作家 · 《纽约时报》畅销书作者）</p>
 <p><strong>【核心主题】</strong>社会与治理 · 财富差距 · 阶层心理学 · 民主韧性</p>
@@ -459,9 +432,6 @@
 <p><strong></strong>：阶层深度隔离与社会断层
 <br/>搭配：<code>class apartheid</code>
 </p>
-<p><strong></strong>：镀金时代的强盗男爵 / 垄断寡头资本家
-<br/>搭配：<code>robber baron</code>
-</p>
 <hr/>
 <p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
       <itunes:explicit>false</itunes:explicit>
@@ -477,7 +447,7 @@
       <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/rita-pierson-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>07:29</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/1788548121532-97600c0a-21d8-4c66-af63-27d79876c9cc.jpeg"/>
       <description><![CDATA[【Rita Pierson】每个孩子都需要一个“冠军”：教育的本质是人与人的连接
 金句：Every child deserves a champion — an adult who will never give up on them, who understands the power of connection, and insists that they become the best that they can possibly be. (每个孩子都值得拥有一个冠军——一个绝不放弃他们、深谙心灵连接力量、并坚信他们能成为最好的自己的引路人。)
 
@@ -491,7 +461,7 @@
 05:35 第 7 幕：三代教育者的温度：那些无法被岁月抹去的精神遗产
 06:23 第 8 幕：终极使命：每一个孩子，都需要一个永不放弃他们的 Champion
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Rita Pierson（传奇资深教育家 · 40年全美杰出教师）</p>
 <p><strong>【核心主题】</strong>个人成长与心理 · 教育成长 · 情感连接</p>
@@ -526,9 +496,6 @@
 <p><strong></strong>：留下不可磨灭的精神遗产
 <br/>搭配：<code>leave a lasting legacy</code>
 </p>
-<p><strong></strong>：成为某人坚定不移的支持者
-<br/>搭配：<code>be a champion for someone</code>
-</p>
 <hr/>
 <p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
       <itunes:explicit>false</itunes:explicit>
@@ -541,10 +508,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-reed-hastings</guid>
-      <pubDate>Mon, 07 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/reed-hastings-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>16:23</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
       <description><![CDATA[【Reed Hastings & Sal Khan】为什么 AI 的颠覆性远超你的想象：Netflix 联合创始人与可汗学院 CEO 的深度对话
 金句：The biggest uncertainty for everybody is how fast is AI getting better and how fast will it be getting better going forward. (摆在所有人面前最大的未知数在于：AI 的进化到底有多快？未来又将以何种加速度重塑一切？)
 
@@ -559,7 +526,7 @@
 11:27 技术扩散周期与反常现象：放射科医生的逆向启示
 14:05 奇点社会新形态：超高增长、失业与全民主权基金
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Reed Hastings & Sal Khan（Netflix 联合创始人 & 可汗学院 CEO）</p>
 <p><strong>【核心主题】</strong>科技与AI · 前沿探索</p>
@@ -607,10 +574,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-joe-whale</guid>
-      <pubDate>Sun, 06 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/joe-whale-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>05:47</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
       <description><![CDATA[【Joe Whale】涂鸦如何解锁你的想象力：16岁“涂鸦少年”谈AI时代的创作本能
 金句：Imagination is like a muscle: the more you use it, the stronger it becomes. (想象力宛如肌肉：越锻炼越强健；若弃之不用，便只能仰赖外物。)
 
@@ -622,7 +589,7 @@
 03:25 第 5 幕：And then, big eye, like this
 05:09 第 6 幕：Try to imagine the finished product, ...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Joe Whale（“涂鸦男孩 (The Doodle Boy)” · 英国青年艺术家）</p>
 <p><strong>【核心主题】</strong>人文与艺术 · 视觉与美学</p>
@@ -658,10 +625,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-ariel-ekblaw-and-meghan-sullivan</guid>
-      <pubDate>Sat, 05 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/ariel-ekblaw-and-meghan-sullivan-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>12:27</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
       <description><![CDATA[【Ariel Ekblaw & Meghan Sullivan】人类繁荣的最大阻碍是什么？太空建筑师与道德哲学家的破界对话
 金句：What we owe another person is to be willing to look at them again. (我们对他人最大的道德责任，就是保有一种重新审视对方的意愿与温柔。)
 
@@ -676,7 +643,7 @@
 10:21 第 8 幕：My parents are both ex-military and v...
 11:48 第 9 幕：And I think if we really want to desi...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Ariel Ekblaw & Meghan Sullivan（MIT 太空探索发起人 & 圣母大学伦理学教授）</p>
 <p><strong>【核心主题】</strong>科技与AI · 前沿探索</p>
@@ -715,10 +682,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-gabriella-di-laccio-the-missing-half-of-music-history</guid>
-      <pubDate>Fri, 04 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/gabriella-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>07:43</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_181354/450999ec-9bb2-4142-b5be-4439c36604ef/GabriellaDiLaccio_2026-embed.jpg?quality=85&amp;w=800"/>
       <description><![CDATA[【Gabriella Di Laccio】音乐史上缺失的另一半：被遗忘的女性旋律与 AI 偏见
 金句：What gets heard is chosen, and those choices will shape what the future will remember. (能被听到的声音是经过选择的，而那些选择将决定未来会记住什么。)
 
@@ -736,7 +703,7 @@
 06:05 集中营里埋在工具棚下的摇篮曲《Wiegala》
 07:05 历史沉默的震撼收尾与全场掌声
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Gabriella Di Laccio（女高音歌唱家 · DONNE 基金会创始人）</p>
 <p><strong>【核心主题】</strong>人文与艺术 · 女性音乐史</p>
@@ -781,10 +748,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-ryosuke-takashima-meet the youngest-ever mayor i</guid>
-      <pubDate>Thu, 03 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/ryosuke-takashima-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>33:26</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187133/3ade9e00-1ce4-4131-9f20-3e78f23e3672/Ryosuke_2880x1620.jpg"/>
       <description><![CDATA[【Ryosuke Takashima】日本史上最年轻市长：以深度倾听重塑社区治理与公共信任
 金句：Leadership is not about having all the answers from day one. It is about holding the space to listen. (领导力并不意味着从第一天起就掌握所有答案，而是在于留出空间去真正倾听。)
 
@@ -804,7 +771,7 @@
 29:42 第 13 幕：We are, it kind of appears to make ou...
 32:10 第 14 幕：Yes, yes, yes
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Ryosuke Takashima（日本芦屋市市长 · 哈佛毕业生）</p>
 <p><strong>【核心主题】</strong>社会与治理 · 青年领袖</p>
@@ -850,10 +817,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-yongey-mingyur-rinpoche</guid>
-      <pubDate>Wed, 02 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/yongey-mingyur-rinpoche-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>10:52</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/d183d59b-416a-452d-b7f3-ffdcc018b46c/YongeyMingyurRinpoche_2022-embed.jpg"/>
       <description><![CDATA[【Yongey Mingyur Rinpoche】如何唤醒当下觉知：正念冥想远比你想象的更简单
 金句：Awareness is like the sky in the mountain, and the panic is like a storm in the mountain. No matter how strong a storm is, it does not change the nature of the sky. (觉知就像山中的天空，而恐慌就像山间的暴风雨。无论暴风雨多么猛烈，它都无法改变天空的本质。)
 
@@ -867,7 +834,7 @@
 08:23 第 7 幕：And I got food poisoning, vomiting, d...
 09:37 第 8 幕：So what we call this malai is the cra...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Yongey Mingyur Rinpoche（藏传禅修导师 · 畅销书《世界上最快乐的人》作者）</p>
 <p><strong>【核心主题】</strong>个人成长与心理 · 正念冥想与情绪认知</p>
@@ -914,10 +881,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-chris-fenning-the-60-seconds-that-make-or-break-a-conversation</guid>
-      <pubDate>Tue, 01 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/chris-fenning-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>11:05</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187529/c54446aa-2db7-42e8-a159-c7be42a0fe96/ChrisFenning_2024X-embed.jpg?quality=85&amp;w=800"/>
       <description><![CDATA[【Chris Fenning】决定职场沟通成败的关键 60 秒：T-I-P 黄金沟通框架
 金句：Every time we communicate, it is an opportunity to create clarity or confusion. And clarity begins from the very first minute. (我们每一次开口沟通，都是一次创造清晰或制造混乱的机会；而真正的清晰，始于最初的第一分钟。)
 
@@ -935,7 +902,7 @@
 09:19 BLUF 原则：把结论与底线放在最前面
 10:18 终极挑战与第一分钟的魔力
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Chris Fenning（全球资深沟通教练 · 畅销书《The First Minute》作者）</p>
 <p><strong>【核心主题】</strong>职场与沟通 · 高效表达</p>
@@ -980,10 +947,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-mark-whittle-this is what the birth of the </guid>
-      <pubDate>Mon, 31 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/mark-whittle-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>12:22</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188036/b73412b8-2d39-4e04-8e3d-0078c676d276/MarkWhittle_2026-embed.jpg"/>
       <description><![CDATA[【Mark Whittle】倾听宇宙大爆炸的初啼：天文学家带你聆听宇宙诞生的声音
 金句：The early universe was not silent; it was filled with deep harmonic sound waves traveling through cosmic plasma. (早期的宇宙绝非死寂一片；它充盈着在宇宙等离子体中穿行的深邃泛音与声波。)
 
@@ -998,7 +965,7 @@
 09:31 第 8 幕：Now this modifies the sound in two im...
 11:39 第 9 幕：And right now, some of those atoms ar...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Mark Whittle（弗吉尼亚大学天体物理学教授）</p>
 <p><strong>【核心主题】</strong>自然与科学 · 宇宙声学</p>
@@ -1039,10 +1006,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-ann-patchett-the art of the novel</guid>
-      <pubDate>Sun, 30 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/ann-patchett-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>54:53</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185926/cbbdb2d0-9b33-4af5-8d63-dfe35b959a01/annpatchettart.jpg"/>
       <description><![CDATA[【Ann Patchett】小说的艺术与重生的力量：从悲痛中盛放的虚构文学叙事
 金句：Fiction is not an escape from reality; fiction is the door through which we enter someone else's soul. (虚构小说从不是逃避现实的避难所；虚构小说是我们走进他人灵魂深处的唯一之门。)
 
@@ -1061,7 +1028,7 @@
 49:26 第 12 幕：And yet people in the neighborhoods o...
 54:37 第 13 幕：Elise, thank you so much
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Ann Patchett（当代美国文坛巨匠 · 独立书店经营者）</p>
 <p><strong>【核心主题】</strong>人文与艺术 · 文学创作</p>
@@ -1106,10 +1073,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-trinity-tran-who controls your city's money</guid>
-      <pubDate>Sat, 29 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/trinity-tran-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>38:14</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_181354/450999ec-9bb2-4142-b5be-4439c36604ef/GabriellaDiLaccio_2026-embed.jpg"/>
       <description><![CDATA[【Trinity Tran】谁掌握着你所在城市的财政命脉？公共银行与社区金融革命
 金句：Public banks keep public dollars working for public good, not private extraction. (公共银行让纳税人的钱服务于公共福祉，而非沦为华尔街私人资本的掠夺工具。)
 
@@ -1129,7 +1096,7 @@
 34:28 第 13 幕：So when you're talking about like AI ...
 37:11 第 14 幕：So join them for getting vetted and t...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Trinity Tran（公共银行运动倡导者 · TED Fellow）</p>
 <p><strong>【核心主题】</strong>社会与治理 · 公共金融</p>
@@ -1175,10 +1142,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-maria-telesheva-the shape-shifting sounds of t</guid>
-      <pubDate>Fri, 28 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/maria-telesheva-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>10:24</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185832/0e6ef522-ee6c-4cec-9a98-a2f1e00652ee/MariaTelesheva_2026S-embed.jpg"/>
       <description><![CDATA[【Maria Telesheva】手风琴的百变声场：颠覆你对传统风箱乐器的听觉想象
 金句：The accordion is not just folk nostalgia; it is a breathing, portable acoustic synthesizer. (手风琴绝不仅是乡愁民谣的代名词；它是一台会呼吸的、能够无限延展的原声合成器。)
 
@@ -1191,7 +1158,7 @@
 08:57 第 6 幕：As Maria mentioned, she's been learni...
 09:45 第 7 幕：It made the whole morning feel like a...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Maria Telesheva（先锋手风琴演奏家 · 声学革新者）</p>
 <p><strong>【核心主题】</strong>人文与艺术 · 器乐声场</p>
@@ -1230,10 +1197,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-rebecca-toh-how 180 strangers built a libr</guid>
-      <pubDate>Thu, 27 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/rebecca-toh-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>10:23</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187233/f81cda17-b2a4-4e45-9c1d-83d6a76ba40b/RebeccaToh_2024X-embed.jpg"/>
       <description><![CDATA[【Rebecca Toh】180 位陌生人如何众筹共建一所照亮社区的温情图书馆
 金句：When you give strangers a shared hearth, they build a sanctuary together. (当你为陌生人提供一个共同的炉火，他们便会携手构筑一座照亮心灵的庇护所。)
 
@@ -1246,7 +1213,7 @@
 06:51 第 6 幕：So apart from reading the amazing sel...
 09:09 第 7 幕：I see community in our volunteer libr...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Rebecca Toh（新加坡摄影师 · 社区文化发起人）</p>
 <p><strong>【核心主题】</strong>社会与治理 · 社区共建</p>
@@ -1285,10 +1252,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-rapelang-rabana-how to fix africa's learning c</guid>
-      <pubDate>Wed, 26 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/rapelang-rabana-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>34:41</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187528/e9dd658b-c14f-48d7-bb4c-8860899df24e/RapelangRabana_2026-embed.jpg"/>
       <description><![CDATA[【Rapelang Rabana】如何破解非洲教育困局：自适应数字学习打破知识壁垒
 金句：Education is not memorizing answers; education is mastering how to think and adapt. (教育不是死记硬背现成答案；教育是掌握独立思考与持续适应世界的能力。)
 
@@ -1308,7 +1275,7 @@
 30:37 第 13 幕：What kind of responses are you gettin...
 32:53 第 14 幕：And this is the kind of contradiction...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Rapelang Rabana（教育科技先锋 · 达沃斯全球青年领袖）</p>
 <p><strong>【核心主题】</strong>社会与治理 · 教育公平</p>
@@ -1354,10 +1321,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-mark-rober-how to make learning impossibl</guid>
-      <pubDate>Tue, 25 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/mark-rober-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>41:22</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187588/444eb29d-3e3a-4b35-8fdd-f79d72500019/TED-Membership_Exclusive_Thumbnail-Marc_Rober-1920x1080_A.jpg"/>
       <description><![CDATA[【Mark Rober】让硬核学习变得无法抗拒的趣味机制：超级马里奥效应的胜利
 金句：Focus on the princess you are trying to save, not the pits you fell into along the way. (把注意力完全集中在你要拯救的公主身上，而不是一路上跌落过的深坑与挫折里。)
 
@@ -1377,7 +1344,7 @@
 37:11 第 13 幕：Well, ton of folks Paul who is 13 so ...
 40:09 第 14 幕：And therefore, you know, mission acco...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Mark Rober（NASA 前工程师 · 顶级科普顶流创造者）</p>
 <p><strong>【核心主题】</strong>个人成长与心理 · 趣味心智</p>
@@ -1423,10 +1390,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-sandra-matz</guid>
-      <pubDate>Mon, 24 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/sandra-matz-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>13:36</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
       <description><![CDATA[【Sandra Matz】AI 正在把我们所有人变成同质化的单一面孔吗？
 金句：If we let algorithms optimize away our friction and weirdness, we don't just lose our individuality -- we lose the very serendipity that drives human culture forward. (如果我们任由算法优化掉内心的冲突与独特的怪癖，我们失去的不仅是个性，更是推动人类文化向前发展的不可预知的机缘。)
 
@@ -1442,7 +1409,7 @@
 11:11 第 9 幕：And then on other days, for those rar...
 12:19 第 10 幕：AI doesn't have to throw darts in the...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Sandra Matz（哥伦比亚大学商学院副教授 · 行为计算科学家）</p>
 <p><strong>【核心主题】</strong>科技与AI · 人工智能与个性异化</p>
@@ -1485,10 +1452,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-stephen-nobles</guid>
-      <pubDate>Sun, 23 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/stephen-nobles-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>15:43</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://images.unsplash.com/photo-1509062522246-3755977927d7?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
       <description><![CDATA[【Stephen Nobles】为什么我们需要像杂草一样拥抱野蛮生长的成长型思维
 金句：A weed is just a plant whose virtues have not yet been discovered. It thrives in the cracks where nothing else is expected to grow. (所谓杂草，不过是尚未被发现独特价值的植物。它恰恰能在无人期待生机的瓦砾缝隙中顽强绽放。)
 
@@ -1506,7 +1473,7 @@
 13:35 第 11 幕：The enormous access to information
 14:53 第 12 幕：Use the data even in our life to ask ...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Stephen Nobles（知名教育创新者 · 终身学习实践导师）</p>
 <p><strong>【核心主题】</strong>个人成长与心理 · 教育成长与心理韧性</p>
@@ -1551,10 +1518,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-susan-burton-how i’m helping thousands rebu</guid>
-      <pubDate>Sat, 22 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/susan-burton-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>10:59</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186806/bbdcc27e-a586-4462-acb0-53b3fa88ec96/SusanBurton_2026-embed.jpg"/>
       <description><![CDATA[【Susan Burton】走出铁窗后的重生之路：帮助数千名刑释女性重塑尊严
 金句：Healing begins when we offer open doors, warm beds, and unconditional dignity instead of slamming cages. (治愈始于我们为迷途者推开温暖的大门与尊严的怀抱，而非重重合上冰冷的铁窗。)
 
@@ -1568,7 +1535,7 @@
 07:47 第 7 幕：To listen, to create support, to give...
 09:53 第 8 幕：I cannot bring my son back, but I kno...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Susan Burton（A New Way of Life 创始人 · 人权倡导者）</p>
 <p><strong>【核心主题】</strong>社会与治理 · 刑释重生</p>
@@ -1608,10 +1575,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-matthew-prince</guid>
-      <pubDate>Fri, 21 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/matthew-prince-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>12:40</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
       <description><![CDATA[【Matthew Prince】AI 正在摧毁开放互联网的基石（我们该如何拯救它）
 金句：If the content creators who provide the raw knowledge for AI models can no longer get visitors or earn a living, the well of human knowledge will dry up for everyone. (如果为 AI 模型提供原始知识的内容创作者不再能获得访客或维持生计，全人类的知识源泉都将为所有人枯竭。)
 
@@ -1627,7 +1594,7 @@
 10:28 第 9 幕：Challenges, it's kind of like any of ...
 11:48 第 10 幕：And yet, I have to just realize that ...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Matthew Prince（Cloudflare 联合创始人兼首席执行官）</p>
 <p><strong>【核心主题】</strong>科技与AI · 互联网生态与人工智能</p>
@@ -1670,10 +1637,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-saloni-dattani-we’ve solved many medical myst</guid>
-      <pubDate>Thu, 20 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/saloni-dattani-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>10:10</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186807/dcdd73d6-c39c-4cde-81a3-7b5a726de3ee/SaloniDattani_2026-embed.jpg"/>
       <description><![CDATA[【Saloni Dattani】我们攻克了无数致命医学谜题，为何特效新药却迟迟难以问世？
 金句：Scientific breakthrough is only the opening act; translating discovery into affordable medicine is the real marathon. (科学实验室的重大突破不过是序幕；将纯粹的科学发现转化为平价可及的救命良药，才是真正漫长险峻的马拉松。)
 
@@ -1687,7 +1654,7 @@
 08:07 第 7 幕：And what's amazing is that we haven't...
 09:16 第 8 幕：It's incredible
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Saloni Dattani（Our World in Data 研究员 · 生物医学史学者）</p>
 <p><strong>【核心主题】</strong>自然与科学 · 现代医学</p>
@@ -1727,10 +1694,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-worklife-with-molly-graham-lessons what to do when you ge</guid>
-      <pubDate>Wed, 19 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/worklife-with-molly-graham-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>27:42</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png"/>
       <description><![CDATA[【WorkLife with Molly Graham】当你在公司遭遇“被空降加层”：职场老兵如何化解权力被稀释的危机？
 金句：Giving away your Legos is terrifying at first, but it is the only way to build something truly monumental. (把手里的乐高积木分给新来的伙伴最初确实令人惶恐，但这却是你唯一能够构筑摩天大厦的途径。)
 
@@ -1750,7 +1717,7 @@
 24:15 第 13 幕：That plan doesn't have to be complicated
 26:15 第 14 幕：Nothing demoralizes someone faster or...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>WorkLife with Molly Graham（知名初创企业高管 · 硅谷领导力导师）</p>
 <p><strong>【核心主题】</strong>职场与沟通 · 职场进阶</p>
@@ -1796,10 +1763,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-priya-parker-3 steps to turn everyday get-t</guid>
-      <pubDate>Tue, 18 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/priya-parker-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>10:00</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/e58eb1e5-213e-4f78-bd4b-58b8371d94ee/PriyaParker_2019-1350x675.jpg"/>
       <description><![CDATA[【Priya Parker】如何把平庸的社交聚会打造成触动人心的深刻相遇？3 步行动指南
 金句：A gathering without a bold, specific purpose is just polite hostage taking. (一场缺乏鲜明具体意图的聚会，不过是一场披着客套外衣的互相绑架。)
 
@@ -1812,7 +1779,7 @@
 07:23 第 6 幕：And finally, to create more meaningfu...
 09:04 第 7 幕：They allow us to gather across differ...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Priya Parker（《聚会的艺术》作者 · 冲突解决调解人）</p>
 <p><strong>【核心主题】</strong>职场与沟通 · 聚会设计</p>
@@ -1851,10 +1818,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-ron-finley-a guerrilla gardener in south </guid>
-      <pubDate>Mon, 17 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/ron-finley-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>10:00</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b76d38c6-feaf-4846-98f2-626795162cfa/RonFinley_2013-embed.jpg"/>
       <description><![CDATA[【Ron Finley】洛杉矶南区的游击园丁：用街头种菜抗击“食物荒漠”与结构性贫困
 金句：To change the community, you have to change the composition of the soil. (要彻底改变这片贫瘠的社区，你必须从深层翻动并改变土地的土壤成分。)
 
@@ -1867,7 +1834,7 @@
 07:07 第 6 幕：We've had like 50 people come to our ...
 08:29 第 7 幕：I'm not talking about no free shit
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Ron Finley（“游击园丁”运动倡导者 · 社区活动家）</p>
 <p><strong>【核心主题】</strong>社会与治理 · 城市农耕</p>
@@ -1906,10 +1873,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-olivia-affuso-3 ways community creates a hea</guid>
-      <pubDate>Sun, 16 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/olivia-affuso-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>08:54</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/f317f845-0b2a-4f66-96a1-cd6e3cd799f8/OliviaAffuso_2021S-embed.jpg"/>
       <description><![CDATA[【Olivia Affuso】社区社群如何重塑身心健康？长寿秘诀不仅在基因，更在人际连接
 金句：Our health is not merely a biological destiny; it is deeply social and profoundly communal. (我们的健康绝非仅仅由基因密码注定；它深刻植根于人际社交网络与温暖的社区土壤之中。)
 
@@ -1919,7 +1886,7 @@
 05:21 第 3 幕：We know from research and animal and ...
 08:45 第 4 幕：It takes the collective power of a vi...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Olivia Affuso（阿拉巴马大学流行病学教授）</p>
 <p><strong>【核心主题】</strong>社会与治理 · 社区健康</p>
@@ -1955,10 +1922,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-jerome-hunter-3 skills every middle school b</guid>
-      <pubDate>Sat, 15 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/jerome-hunter-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>09:18</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b54311da-2f4c-4812-b8ed-ef0b7fc05f39/JeromeHunter_2023S-embed.jpg"/>
       <description><![CDATA[【Jerome Hunter】每位初中男生都亟需掌握的 3 项生命技能：重塑少年的情绪与担当
 金句：If we do not teach boys how to transform their emotional pain, they will inevitably transmit it to the world. (如果我们不教会男孩子如何转化内心的痛苦，他们就必然会将其以破坏的方式向整个世界宣泄。)
 
@@ -1971,7 +1938,7 @@
 06:52 第 6 幕：And we normalize these forms of commu...
 08:18 第 7 幕：One thing to note that in each of the...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Jerome Hunter（资深青少年教育家 · 男孩成长营导师）</p>
 <p><strong>【核心主题】</strong>个人成长与心理 · 少年成长</p>
@@ -2010,10 +1977,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-laura-miele-the power of gaming together i</guid>
-      <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/laura-miele-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>09:03</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_147329/143bffbd-82c6-4a78-ae4a-0dd36ba7fb36/LauraMiele_2024N-embed.jpg"/>
       <description><![CDATA[【Laura Miele】在孤独的原子化时代，多人在线游戏如何成为连接灵魂的全新避风港？
 金句：Video games are not an isolation chamber; they have become the most vibrant digital campfires of our generation. (电子游戏绝不是将人隔绝的冰冷孤岛；它们早已成为当代年轻人最温暖、最富生机的数字篝火营地。)
 
@@ -2026,7 +1993,7 @@
 06:42 第 6 幕：Now you may be an anatomic network no...
 08:09 第 7 幕：Are they gonna be put, I don't know, ...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Laura Miele（艺电娱乐（EA）总裁 · 游戏行业领军女性）</p>
 <p><strong>【核心主题】</strong>科技与AI · 游戏与连接</p>
@@ -2065,10 +2032,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-salehe-bembury-the creative genius of sneaker</guid>
-      <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/salehe-bembury-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>14:26</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186133/b715ba26-3099-4715-b0d2-dcbb5c15b5d1/SaleheBembury_2026S-embed.jpg"/>
       <description><![CDATA[【Salehe Bembury】破界球鞋设计背后的创意天才：指纹密码与大自然的仿生灵感
 金句：Inspiration is everywhere if you know how to look; nature is the greatest industrial designer of all time. (如果你懂得如何审视周遭，灵感便无处不在；大自然始终是有史以来最无可替代的顶尖工业设计师。)
 
@@ -2085,7 +2052,7 @@
 12:34 第 10 幕：And so any secret head I've spoken to...
 13:52 第 11 幕：So this passion of yours runs deep
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Salehe Bembury（全球顶级球鞋设计大师 · 跨界艺术家）</p>
 <p><strong>【核心主题】</strong>人文与艺术 · 工业设计</p>
@@ -2128,10 +2095,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-mas-vocal-bridge over troubled water — l</guid>
-      <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/mas-vocal-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>07:51</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186364/0deb7eed-ad76-472e-90ce-32c4b8318485/MASVocal_2026-embed.jpg"/>
       <description><![CDATA[【MAS Vocal】颠覆经典的无伴奏合唱：《恶水大桥》跨越世纪的心灵震撼
 金句：The human voice is the original instrument, capable of carrying both raw heartbreak and soaring hope. (人类的嗓音是世间最初始的乐器，它既能承载撕心裂肺的至暗悲痛，亦能托起破晓腾飞的希望。)
 
@@ -2141,7 +2108,7 @@
 01:44 第 3 幕：I am by your side
 04:56 第 4 幕：Your time has come to shine One dream...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>MAS Vocal（MAS 国际先锋阿卡贝拉声乐团）</p>
 <p><strong>【核心主题】</strong>人文与艺术 · 阿卡贝拉</p>
@@ -2177,10 +2144,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-susan-cain-and-min-kym-the hidden power of sad songs </guid>
-      <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/susan-cain-and-min-kym-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>15:52</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b74e715f-d47f-4722-9c83-1797455c674a/SusanCain_MinKym_2019T-1350x675.jpg"/>
       <description><![CDATA[【Susan Cain and Min Kym】忧伤乐曲与雨天的心灵密码：为什么悲伤旋律能带来最深层的治愈
 金句：Sad music is not about despair; it is a profound bridge that connects us to our shared humanity. (忧伤的音乐从不是绝望的叹息；它是一座深邃的桥梁，将我们与全人类共通的心灵温柔相连。)
 
@@ -2198,7 +2165,7 @@
 13:14 第 11 幕：I am, said the old man in musician
 15:12 第 12 幕：It's in the smallpox vaccines and the...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Susan Cain and Min Kym（《安静》《苦乐参半》畅销书作者 · 思想家）</p>
 <p><strong>【核心主题】</strong>人文与艺术 · 忧伤与共情</p>
@@ -2242,10 +2209,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-robbie-schingler-how satellites and ai can prot</guid>
-      <pubDate>Mon, 10 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/robbie-schingler-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>13:45</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186804/dfa9a8f4-6f7e-4e12-9ed9-23fefe7f264c/RobbieSchingler_2026-embed.jpg"/>
       <description><![CDATA[【Robbie Schingler】低轨卫星群与 AI 如何携手化身“地球卫士”：全天候守护濒危雨林
 金句：You cannot manage what you cannot measure; daily planetary imaging lets us heal the Earth in real time. (你无法治理你无法衡量的存在；对地球每日全覆盖的微卫星扫描，赋予了我们实时疗愈星球的能力。)
 
@@ -2261,7 +2228,7 @@
 11:46 第 9 幕：And in this moment, Robbie came to ta...
 13:04 第 10 幕：And that feels like a big shift from ...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Robbie Schingler（Planet 联合创始人兼首席战略官 · NASA 前科学家）</p>
 <p><strong>【核心主题】</strong>科技与AI · 卫星与地球监测</p>
@@ -2303,10 +2270,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-jon-alexander-how citizens (not politicians)</guid>
-      <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/jon-alexander-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>09:39</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186867/04d98e61-1974-4ffc-b983-4ee4049c7866/JonAlexander_2026S-embed.jpg"/>
       <description><![CDATA[【Jon Alexander】告别被动消费主义假象：以“公民心智”重塑公共未来的力量
 金句：We are not merely consumers waiting to be entertained; we are citizens meant to shape our destiny. (我们绝非仅仅是等待被喂养、被取悦的被动消费者；我们是注定要亲手参与塑造共同命运的真正公民。)
 
@@ -2319,7 +2286,7 @@
 06:53 第 6 幕：The logic here isn't keep your head d...
 08:27 第 7 幕：This is what we will do in times of c...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Jon Alexander（《公民时代》作者 · 创意战略家）</p>
 <p><strong>【核心主题】</strong>社会与治理 · 公民时代</p>
@@ -2358,10 +2325,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-bill-mckibben-our last, best chance to cool </guid>
-      <pubDate>Sat, 08 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/bill-mckibben-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>31:49</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185546/98c8e886-17e8-4f7d-b988-bedce21640df/BillMcKibben_2026-embed.jpg"/>
       <description><![CDATA[【Bill McKibben】我们为地球退烧的最后胜算：清洁能源转型的生死时速
 金句：Winning slowly on climate change is just a different, polite way of losing. (在应对气候变化这件事上慢吞吞地小步获胜，不过是换了一种优雅体面的惨败方式罢了。)
 
@@ -2381,7 +2348,7 @@
 28:05 第 13 幕：Well, so individuals of course can do...
 30:24 第 14 幕：When people ask me, where should I mo...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Bill McKibben（知名环保作家 · 350.org 联合创始人）</p>
 <p><strong>【核心主题】</strong>自然与科学 · 气候与能源</p>
@@ -2427,10 +2394,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-jessica-malaty-rivera-the infodemic — and the scient</guid>
-      <pubDate>Fri, 07 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/jessica-malaty-rivera-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>19:08</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185664/543767a6-eb01-4995-903f-160567334294/JessicaMalatyRivera_2025N-embed.jpg"/>
       <description><![CDATA[【Jessica Malaty Rivera】信息瘟疫蔓延时代的科学保卫战：流行病学家如何击破伪科学谣言？
 金句：Science is a process, not an immutable dogma; communicating nuance is our vaccine against hysteria. (科学是一场持续探索的动态过程，而非一成不变的教条；清晰沟通其中的细微差别，才是我们抵御群体恐慌的最佳疫苗。)
 
@@ -2450,7 +2417,7 @@
 16:56 第 13 幕：And I think a lot about the times tha...
 18:25 第 14 幕：And so because of that, it gives me m...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Jessica Malaty Rivera（传染病流行病学者 · COVID Tracking Project 传播主管）</p>
 <p><strong>【核心主题】</strong>自然与科学 · 科学辟谣</p>
@@ -2496,10 +2463,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-christina-costa</guid>
-      <pubDate>Thu, 06 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/christina-costa-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>10:05</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
       <description><![CDATA[【Christina Costa】感恩如何重塑大脑神经回路：一位脑瘤心理学家的自愈科学
 金句：Gratitude activates the brainstem to produce dopamine, signaling that we are safe and loved. Kiss your brain for all it endures. (感恩会激活脑干释放多巴胺，向整个身体传递安全与被爱的信号。亲吻你的大脑，感谢它所承受的一切奇迹。)
 
@@ -2508,7 +2475,7 @@
 03:58 第 2 幕：I hated the suggestion of naming my t...
 07:25 第 3 幕：And the cool thing is that we can int...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Christina Costa（积极心理学研究员 · 脑神经科学教育者）</p>
 <p><strong>【核心主题】</strong>个人成长与心理 · 神经科学与积极心理学</p>
@@ -2544,10 +2511,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-yinka-ilori-how i turn joy into art</guid>
-      <pubDate>Wed, 05 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/yinka-ilori-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>08:28</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186190/0fbea6ed-fb91-4425-89fc-2f31b74f3f43/YinkaIlori_2026-embed.jpg"/>
       <description><![CDATA[【Yinka Ilori】如何将日常快乐转化为空间艺术：尼日利亚织锦与伦敦街头的色彩盛宴
 金句：Color is not superficial decoration; color is a powerful language of hope, memory, and inclusion. (色彩绝非浮于表面的装点；色彩是一门诉说希望、唤醒族群记忆与包容异见的深邃语言。)
 
@@ -2559,7 +2526,7 @@
 05:49 第 5 幕：I selected some of the answers and tu...
 07:25 第 6 幕：It was always about people and places...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Yinka Ilori（知名英国尼日利亚裔艺术家 · 城市空间设计师）</p>
 <p><strong>【核心主题】</strong>人文与艺术 · 公共艺术</p>
@@ -2597,10 +2564,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-chris-wheatley</guid>
-      <pubDate>Tue, 04 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/chris-wheatley-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>12:28</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
       <description><![CDATA[【Chris Wheatley】从容倾听逆耳忠言的四步法：如何把刺痛的反馈化为成长的礼物
 金句：Feedback is only as useful as our capacity to hear it without defensive armor. Grace under criticism is a superpower. (反馈的价值取决于我们在不披挂防御铠甲时倾听的能力。在批评面前保持优雅，是一种真正的超能力。)
 
@@ -2611,7 +2578,7 @@
 06:37 第 4 幕：But where this really broke open for ...
 09:18 第 5 幕：Why It's too scary, right? We need to...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Chris Wheatley（领导力发展顾问 · 组织沟通专家）</p>
 <p><strong>【核心主题】</strong>职场与沟通 · 人际沟通与情商管理</p>
@@ -2649,10 +2616,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-joshua-johnson-idiots are everywhere. here's </guid>
-      <pubDate>Mon, 03 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/joshua-johnson-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>06:13</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185828/9f23e63c-fcdb-4d07-8d41-50d064c7a2c4/JoshuaJohnson_2026-embed.jpg"/>
       <description><![CDATA[【Joshua Johnson】身边到处充斥着自以为是的人：我们究竟该如何体面相处与自保？
 金句：Dismissing people as fools is lazy; understanding their underlying fear is where real power begins. (轻率地将意见相左者斥为蠢蛋是智力的懒惰；唯有洞悉他们咆哮背后深藏的恐惧，真正的掌控力才悄然诞生。)
 
@@ -2664,7 +2631,7 @@
 04:17 第 5 幕：Another time on NPR was interviewing ...
 05:21 第 6 幕：Here are three tips to get you started
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Joshua Johnson（资深公共广播主持人 · 艾美奖获奖记者）</p>
 <p><strong>【核心主题】</strong>职场与沟通 · 理性对话</p>
@@ -2702,10 +2669,10 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-ian-bremmer-two wars, no clear exit plan. </guid>
-      <pubDate>Sun, 02 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/ian-bremmer-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>39:58</itunes:duration>
-      <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&amp;fit=crop&amp;w=1400&amp;h=1400&amp;q=85"/>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186191/a6d85908-d10c-472d-a211-414ff451442f/TEDExplains_Episode_2026-07-28_1920x1080.jpg"/>
       <description><![CDATA[【Ian Bremmer】两场惨烈地缘战火、缺乏明确退场方案：动荡世界格局走向何方？
 金句：In a G-Zero world devoid of global leadership, regional conflicts spiral without safety nets. (在一个缺乏全球主导秩序的“G-Zero 零极世界”中，区域性地缘战火将在没有任何安全网的悬崖边缘急剧螺旋失控。)
 
@@ -2725,7 +2692,7 @@
 35:41 第 13 幕：and I do worry a lot that in another ...
 38:14 第 14 幕：Or there's the harder way which is yo...
 
-纯净原声 00:00:00 起播，已剥离所有片头片尾与插播赞助广告。
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
       <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Ian Bremmer（欧亚集团总裁 · 全球顶级地缘政治思想家）</p>
 <p><strong>【核心主题】</strong>社会与治理 · 地缘格局</p>

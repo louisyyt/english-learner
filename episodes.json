@@ -11,7 +11,7 @@
     "duration": "15:33",
     "durationSeconds": 932.9,
     "audioUrl": "https://audio.louisyu.top/amy-shoenthal-clean.mp3",
-    "coverImage": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=80",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_142742/2452d5ab-9218-4a0b-92c9-2ef62300e13b/AmyShoenthal_2024X-embed.jpg",
     "quote": "When things are going well, we're not necessarily considering how we might improve. But the aftermath of a setback is when we come up with our best ideas.",
     "quoteTranslation": "顺境之时，我们绝少深思如何精益求精；唯有身处挫折的废墟之上，人类最璀璨的创意与智慧才会破土而出。",
     "segments": [
@@ -195,7 +195,9 @@
       "step2": "声学精听：精析 bonk over the head, side hustle, shed your cocoon 等地道连读与弱读。",
       "step3": "影子跟读：以 1.0x 原速同步跟读第 10 幕破茧蜕变的高光段落，体会充沛的演讲气势。",
       "step4": "自主复述：用英文向自己或同伴复述“挫折周期”的四大阶段（Establish, Embrace, Explore, Emerge）。"
-    }
+    },
+    "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_142742/2452d5ab-9218-4a0b-92c9-2ef62300e13b/AmyShoenthal_2024X-embed.jpg",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_142742/2452d5ab-9218-4a0b-92c9-2ef62300e13b/AmyShoenthal_2024X-embed.jpg"
   },
   {
     "id": "joshua-johnson-blake-mycoskie",
@@ -209,7 +211,7 @@
     "duration": "27:20",
     "durationSeconds": 1639.9,
     "audioUrl": "https://audio.louisyu.top/joshua-johnson-blake-mycoskie-clean.mp3",
-    "coverImage": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188004/64e13b89-de80-4bf7-a4c8-67ffa29484bc/ted_intersections_s4_template_ep2_1920x1080_2_960.jpg",
     "quote": "Going through life with a willingness to ask more questions than you make statements is liberating. Nothing that happens after the question is your responsibility. Your responsibility is to have the curiosity, the integrity, the thoughtfulness, and the humility to ask what's on your mind.",
     "quoteTranslation": "带着“多提问而非急于下结论”的意愿去生活，是一种彻底的解放。问出问题之后发生的一切，都不是你的负担；你的责任仅仅在于保持好奇、真诚、体贴与谦卑，坦然问出你心中的困惑。",
     "segments": [
@@ -408,7 +410,9 @@
         "meaning": "不受干扰的、全神贯注的",
         "collocation": "undistracted time"
       }
-    ]
+    ],
+    "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188004/64e13b89-de80-4bf7-a4c8-67ffa29484bc/ted_intersections_s4_template_ep2_1920x1080_2_960.jpg",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188004/64e13b89-de80-4bf7-a4c8-67ffa29484bc/ted_intersections_s4_template_ep2_1920x1080_2_960.jpg"
   },
   {
     "id": "schendy-kernizan",
@@ -422,7 +426,7 @@
     "duration": "04:37",
     "durationSeconds": 277.3,
     "audioUrl": "https://audio.louisyu.top/schendy-kernizan-clean.mp3",
-    "coverImage": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187143/00b9f4d8-a665-4425-884a-08a8a6621f5f/Schendy_2880x1620.jpg",
     "quote": "Think of the ability of, if I have an idea in my mind and I have a pencil, can I draw it in space and then have that shape there? You're literally doing calligraphy in space.",
     "quoteTranslation": "想象一下这样的能力：如果脑海中浮现一个构想，手中握有一支铅笔，我们能否直接在虚空中作画，并让那座造物赫然伫立？这宛如在三维空间中挥洒立体书法。",
     "segments": [
@@ -558,7 +562,9 @@
         "meaning": "（极端环境或外星基地的）人造生态舱、太空栖息地",
         "collocation": "space travel and habitats in space"
       }
-    ]
+    ],
+    "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187143/00b9f4d8-a665-4425-884a-08a8a6621f5f/Schendy_2880x1620.jpg",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187143/00b9f4d8-a665-4425-884a-08a8a6621f5f/Schendy_2880x1620.jpg"
   },
   {
     "id": "george-butler",
@@ -572,7 +578,7 @@
     "duration": "08:27",
     "durationSeconds": 507.5,
     "audioUrl": "https://audio.louisyu.top/george-butler-clean.mp3",
-    "coverImage": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1200&q=80",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188026/5974a7f6-17e2-4ad5-af65-bf1f7df5c83f/GeorgeButler_2026-embed.jpg",
     "quote": "The news can tell us what happened, but the drawing can show us how it felt.",
     "quoteTranslation": "新闻能告诉我们发生了什么，但素描能向我们展现那是怎样的感受。",
     "segments": [
@@ -747,7 +753,9 @@
         "meaning": "珍视、珍爱、怀念",
         "collocation": "cherish human connection / cherish every fleeting moment"
       }
-    ]
+    ],
+    "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188026/5974a7f6-17e2-4ad5-af65-bf1f7df5c83f/GeorgeButler_2026-embed.jpg",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188026/5974a7f6-17e2-4ad5-af65-bf1f7df5c83f/GeorgeButler_2026-embed.jpg"
   },
   {
     "id": "amy-cuddy",
@@ -761,7 +769,7 @@
     "duration": "14:24",
     "durationSeconds": 864.9,
     "audioUrl": "https://audio.louisyu.top/amy-cuddy-clean.mp3",
-    "coverImage": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188341/a26b578d-e72a-4014-81f1-b9c5b895a48a/AmyCuddy_2026-embed.jpg",
     "quote": "You don't have to show how much you can hate to prove how much you care or to prove that you belong.",
     "quoteTranslation": "你无需通过展现有多么仇恨，来证明自己有多么关切，或是证明你属于这个群体。",
     "segments": [
@@ -939,7 +947,9 @@
         "meaning": "戒备、警惕（高度紧绷防备的心理状态）",
         "collocation": "feel a palpable sense of vigilance in the air"
       }
-    ]
+    ],
+    "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188341/a26b578d-e72a-4014-81f1-b9c5b895a48a/AmyCuddy_2026-embed.jpg",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188341/a26b578d-e72a-4014-81f1-b9c5b895a48a/AmyCuddy_2026-embed.jpg"
   },
   {
     "id": "xochitl-gonzalez",
@@ -1386,7 +1396,8 @@
     ],
     "summary": "从事教育 40 年的传奇教师 Rita Pierson 带来 TED 史上最震撼人心的演讲之一。她直击当代教育改革的盲区：无论硬件、课程或评测体系如何更新，没有真诚的人际连接，有意义的学习就绝不可能发生。她用极具感染力的幽默与智慧，分享了如何向学生真诚道歉、如何用“+2分”与自信咒语重塑垫底孩子的自尊与潜能，并向所有教育者与家长发出振聋发聩的呼吁：每个孩子都需要一个坚定相信他们的 Champion。",
     "rawAdTrimmed": "375.9s (片头 233.3s + 片尾 142.6s)",
-    "cover": "https://assets.pippa.io/shows/67587e77c705e441797aff96/1788548121532-97600c0a-21d8-4c66-af63-27d79876c9cc.jpeg"
+    "cover": "https://assets.pippa.io/shows/67587e77c705e441797aff96/1788548121532-97600c0a-21d8-4c66-af63-27d79876c9cc.jpeg",
+    "coverImage": "https://assets.pippa.io/shows/67587e77c705e441797aff96/1788548121532-97600c0a-21d8-4c66-af63-27d79876c9cc.jpeg"
   },
   {
     "id": "reed-hastings",
@@ -1572,7 +1583,8 @@
     ],
     "summary": "Netflix 联合创始人 Reed Hastings 与可汗学院创始人 Sal Khan 展开深度对谈。Reed 分享了自己在教育慈善领域投入 25 年、10 亿美元的深刻反思，借用工业革命‘蒸汽机与电动机’的经典经济学隐喻，指出现代教育的根本阻力在于‘25 个学生统一节奏’的工业化课堂模式。他指出，随着 AI 的指数级迭代，AI 导师有望超越人类一对一导师，彻底实现个性化教育。此外，作为 Anthropic 董事会成员，Reed 还深入探讨了 AI 实验室的安全使命、技术扩散周期、放射科医生反常现象以及 AI 时代可能带来的‘高生产率、高 GDP、高股市与高失业率’共存的社会新形态。",
     "rawAdTrimmed": "✂️ 已剔除 2分07秒广告",
-    "cover": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&auto=format&fit=crop&q=80"
+    "cover": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&auto=format&fit=crop&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&auto=format&fit=crop&q=80"
   },
   {
     "id": "joe-whale",
@@ -1687,7 +1699,8 @@
       }
     ],
     "hasFullStudy": true,
-    "cover": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=800&auto=format&fit=crop&q=80"
+    "cover": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=800&auto=format&fit=crop&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=800&auto=format&fit=crop&q=80"
   },
   {
     "id": "ariel-ekblaw-and-meghan-sullivan",
@@ -1828,7 +1841,8 @@
       }
     ],
     "hasFullStudy": true,
-    "cover": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&auto=format&fit=crop&q=80"
+    "cover": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&auto=format&fit=crop&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&auto=format&fit=crop&q=80"
   },
   {
     "id": "gabriella-di-laccio",
@@ -1984,7 +1998,8 @@
         "detail": "强调广泛涉猎不同风格与体裁。"
       }
     ],
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_181354/450999ec-9bb2-4142-b5be-4439c36604ef/GabriellaDiLaccio_2026-embed.jpg?quality=85&w=800"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_181354/450999ec-9bb2-4142-b5be-4439c36604ef/GabriellaDiLaccio_2026-embed.jpg?quality=85&w=800",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_181354/450999ec-9bb2-4142-b5be-4439c36604ef/GabriellaDiLaccio_2026-embed.jpg?quality=85&w=800"
   },
   {
     "id": "ryosuke-takashima",
@@ -2174,7 +2189,8 @@
       }
     ],
     "subCategory": "青年领袖",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187133/3ade9e00-1ce4-4131-9f20-3e78f23e3672/Ryosuke_2880x1620.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187133/3ade9e00-1ce4-4131-9f20-3e78f23e3672/Ryosuke_2880x1620.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187133/3ade9e00-1ce4-4131-9f20-3e78f23e3672/Ryosuke_2880x1620.jpg"
   },
   {
     "id": "yongey-mingyur-rinpoche",
@@ -2351,7 +2367,8 @@
       }
     ],
     "hasFullStudy": true,
-    "cover": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/d183d59b-416a-452d-b7f3-ffdcc018b46c/YongeyMingyurRinpoche_2022-embed.jpg"
+    "cover": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/d183d59b-416a-452d-b7f3-ffdcc018b46c/YongeyMingyurRinpoche_2022-embed.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/d183d59b-416a-452d-b7f3-ffdcc018b46c/YongeyMingyurRinpoche_2022-embed.jpg"
   },
   {
     "id": "chris-fenning",
@@ -2544,7 +2561,8 @@
         "detail": "企业管理与经济学分析中衡量沟通成本与怠工浪费的核心指标。"
       }
     ],
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187529/c54446aa-2db7-42e8-a159-c7be42a0fe96/ChrisFenning_2024X-embed.jpg?quality=85&w=800"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187529/c54446aa-2db7-42e8-a159-c7be42a0fe96/ChrisFenning_2024X-embed.jpg?quality=85&w=800",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187529/c54446aa-2db7-42e8-a159-c7be42a0fe96/ChrisFenning_2024X-embed.jpg?quality=85&w=800"
   },
   {
     "id": "mark-whittle",
@@ -2689,7 +2707,8 @@
       }
     ],
     "subCategory": "宇宙声学",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188036/b73412b8-2d39-4e04-8e3d-0078c676d276/MarkWhittle_2026-embed.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188036/b73412b8-2d39-4e04-8e3d-0078c676d276/MarkWhittle_2026-embed.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188036/b73412b8-2d39-4e04-8e3d-0078c676d276/MarkWhittle_2026-embed.jpg"
   },
   {
     "id": "ann-patchett",
@@ -2870,7 +2889,8 @@
       }
     ],
     "subCategory": "文学创作",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185926/cbbdb2d0-9b33-4af5-8d63-dfe35b959a01/annpatchettart.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185926/cbbdb2d0-9b33-4af5-8d63-dfe35b959a01/annpatchettart.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185926/cbbdb2d0-9b33-4af5-8d63-dfe35b959a01/annpatchettart.jpg"
   },
   {
     "id": "trinity-tran",
@@ -3060,7 +3080,8 @@
       }
     ],
     "subCategory": "公共金融",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_181354/450999ec-9bb2-4142-b5be-4439c36604ef/GabriellaDiLaccio_2026-embed.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_181354/450999ec-9bb2-4142-b5be-4439c36604ef/GabriellaDiLaccio_2026-embed.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_181354/450999ec-9bb2-4142-b5be-4439c36604ef/GabriellaDiLaccio_2026-embed.jpg"
   },
   {
     "id": "maria-telesheva",
@@ -3187,7 +3208,8 @@
       }
     ],
     "subCategory": "器乐声场",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185832/0e6ef522-ee6c-4cec-9a98-a2f1e00652ee/MariaTelesheva_2026S-embed.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185832/0e6ef522-ee6c-4cec-9a98-a2f1e00652ee/MariaTelesheva_2026S-embed.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185832/0e6ef522-ee6c-4cec-9a98-a2f1e00652ee/MariaTelesheva_2026S-embed.jpg"
   },
   {
     "id": "rebecca-toh",
@@ -3314,7 +3336,8 @@
       }
     ],
     "subCategory": "社区共建",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187233/f81cda17-b2a4-4e45-9c1d-83d6a76ba40b/RebeccaToh_2024X-embed.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187233/f81cda17-b2a4-4e45-9c1d-83d6a76ba40b/RebeccaToh_2024X-embed.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187233/f81cda17-b2a4-4e45-9c1d-83d6a76ba40b/RebeccaToh_2024X-embed.jpg"
   },
   {
     "id": "rapelang-rabana",
@@ -3504,7 +3527,8 @@
       }
     ],
     "subCategory": "教育公平",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187528/e9dd658b-c14f-48d7-bb4c-8860899df24e/RapelangRabana_2026-embed.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187528/e9dd658b-c14f-48d7-bb4c-8860899df24e/RapelangRabana_2026-embed.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187528/e9dd658b-c14f-48d7-bb4c-8860899df24e/RapelangRabana_2026-embed.jpg"
   },
   {
     "id": "mark-rober",
@@ -3694,7 +3718,8 @@
       }
     ],
     "subCategory": "趣味心智",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187588/444eb29d-3e3a-4b35-8fdd-f79d72500019/TED-Membership_Exclusive_Thumbnail-Marc_Rober-1920x1080_A.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187588/444eb29d-3e3a-4b35-8fdd-f79d72500019/TED-Membership_Exclusive_Thumbnail-Marc_Rober-1920x1080_A.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187588/444eb29d-3e3a-4b35-8fdd-f79d72500019/TED-Membership_Exclusive_Thumbnail-Marc_Rober-1920x1080_A.jpg"
   },
   {
     "id": "sandra-matz",
@@ -3866,7 +3891,8 @@
       }
     ],
     "hasFullStudy": true,
-    "cover": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&auto=format&fit=crop&q=80"
+    "cover": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&auto=format&fit=crop&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&auto=format&fit=crop&q=80"
   },
   {
     "id": "stephen-nobles",
@@ -4043,7 +4069,8 @@
       }
     ],
     "hasFullStudy": true,
-    "cover": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=800&auto=format&fit=crop&q=80"
+    "cover": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=800&auto=format&fit=crop&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=800&auto=format&fit=crop&q=80"
   },
   {
     "id": "susan-burton",
@@ -4179,7 +4206,8 @@
       }
     ],
     "subCategory": "刑释重生",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186806/bbdcc27e-a586-4462-acb0-53b3fa88ec96/SusanBurton_2026-embed.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186806/bbdcc27e-a586-4462-acb0-53b3fa88ec96/SusanBurton_2026-embed.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186806/bbdcc27e-a586-4462-acb0-53b3fa88ec96/SusanBurton_2026-embed.jpg"
   },
   {
     "id": "matthew-prince",
@@ -4338,7 +4366,8 @@
       }
     ],
     "hasFullStudy": true,
-    "cover": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&auto=format&fit=crop&q=80"
+    "cover": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&auto=format&fit=crop&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&auto=format&fit=crop&q=80"
   },
   {
     "id": "saloni-dattani",
@@ -4474,7 +4503,8 @@
       }
     ],
     "subCategory": "现代医学",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186807/dcdd73d6-c39c-4cde-81a3-7b5a726de3ee/SaloniDattani_2026-embed.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186807/dcdd73d6-c39c-4cde-81a3-7b5a726de3ee/SaloniDattani_2026-embed.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186807/dcdd73d6-c39c-4cde-81a3-7b5a726de3ee/SaloniDattani_2026-embed.jpg"
   },
   {
     "id": "worklife-with-molly-graham",
@@ -4664,7 +4694,8 @@
       }
     ],
     "subCategory": "职场进阶",
-    "coverUrl": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png"
+    "coverUrl": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png",
+    "coverImage": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png"
   },
   {
     "id": "priya-parker",
@@ -4791,7 +4822,8 @@
       }
     ],
     "subCategory": "聚会设计",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/e58eb1e5-213e-4f78-bd4b-58b8371d94ee/PriyaParker_2019-1350x675.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/e58eb1e5-213e-4f78-bd4b-58b8371d94ee/PriyaParker_2019-1350x675.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/e58eb1e5-213e-4f78-bd4b-58b8371d94ee/PriyaParker_2019-1350x675.jpg"
   },
   {
     "id": "ron-finley",
@@ -4918,7 +4950,8 @@
       }
     ],
     "subCategory": "城市农耕",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b76d38c6-feaf-4846-98f2-626795162cfa/RonFinley_2013-embed.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b76d38c6-feaf-4846-98f2-626795162cfa/RonFinley_2013-embed.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b76d38c6-feaf-4846-98f2-626795162cfa/RonFinley_2013-embed.jpg"
   },
   {
     "id": "olivia-affuso",
@@ -5018,7 +5051,8 @@
       }
     ],
     "subCategory": "社区健康",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/f317f845-0b2a-4f66-96a1-cd6e3cd799f8/OliviaAffuso_2021S-embed.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/f317f845-0b2a-4f66-96a1-cd6e3cd799f8/OliviaAffuso_2021S-embed.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/f317f845-0b2a-4f66-96a1-cd6e3cd799f8/OliviaAffuso_2021S-embed.jpg"
   },
   {
     "id": "jerome-hunter",
@@ -5145,7 +5179,8 @@
       }
     ],
     "subCategory": "少年成长",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b54311da-2f4c-4812-b8ed-ef0b7fc05f39/JeromeHunter_2023S-embed.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b54311da-2f4c-4812-b8ed-ef0b7fc05f39/JeromeHunter_2023S-embed.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b54311da-2f4c-4812-b8ed-ef0b7fc05f39/JeromeHunter_2023S-embed.jpg"
   },
   {
     "id": "laura-miele",
@@ -5272,7 +5307,8 @@
       }
     ],
     "subCategory": "游戏与连接",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_147329/143bffbd-82c6-4a78-ae4a-0dd36ba7fb36/LauraMiele_2024N-embed.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_147329/143bffbd-82c6-4a78-ae4a-0dd36ba7fb36/LauraMiele_2024N-embed.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_147329/143bffbd-82c6-4a78-ae4a-0dd36ba7fb36/LauraMiele_2024N-embed.jpg"
   },
   {
     "id": "salehe-bembury",
@@ -5435,7 +5471,8 @@
       }
     ],
     "subCategory": "工业设计",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186133/b715ba26-3099-4715-b0d2-dcbb5c15b5d1/SaleheBembury_2026S-embed.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186133/b715ba26-3099-4715-b0d2-dcbb5c15b5d1/SaleheBembury_2026S-embed.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186133/b715ba26-3099-4715-b0d2-dcbb5c15b5d1/SaleheBembury_2026S-embed.jpg"
   },
   {
     "id": "mas-vocal",
@@ -5535,7 +5572,8 @@
       }
     ],
     "subCategory": "阿卡贝拉",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186364/0deb7eed-ad76-472e-90ce-32c4b8318485/MASVocal_2026-embed.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186364/0deb7eed-ad76-472e-90ce-32c4b8318485/MASVocal_2026-embed.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186364/0deb7eed-ad76-472e-90ce-32c4b8318485/MASVocal_2026-embed.jpg"
   },
   {
     "id": "susan-cain-and-min-kym",
@@ -5707,7 +5745,8 @@
       }
     ],
     "subCategory": "忧伤与共情",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b74e715f-d47f-4722-9c83-1797455c674a/SusanCain_MinKym_2019T-1350x675.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b74e715f-d47f-4722-9c83-1797455c674a/SusanCain_MinKym_2019T-1350x675.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b74e715f-d47f-4722-9c83-1797455c674a/SusanCain_MinKym_2019T-1350x675.jpg"
   },
   {
     "id": "robbie-schingler",
@@ -5861,7 +5900,8 @@
       }
     ],
     "subCategory": "卫星与地球监测",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186804/dfa9a8f4-6f7e-4e12-9ed9-23fefe7f264c/RobbieSchingler_2026-embed.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186804/dfa9a8f4-6f7e-4e12-9ed9-23fefe7f264c/RobbieSchingler_2026-embed.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186804/dfa9a8f4-6f7e-4e12-9ed9-23fefe7f264c/RobbieSchingler_2026-embed.jpg"
   },
   {
     "id": "jon-alexander",
@@ -5988,7 +6028,8 @@
       }
     ],
     "subCategory": "公民时代",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186867/04d98e61-1974-4ffc-b983-4ee4049c7866/JonAlexander_2026S-embed.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186867/04d98e61-1974-4ffc-b983-4ee4049c7866/JonAlexander_2026S-embed.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186867/04d98e61-1974-4ffc-b983-4ee4049c7866/JonAlexander_2026S-embed.jpg"
   },
   {
     "id": "bill-mckibben",
@@ -6178,7 +6219,8 @@
       }
     ],
     "subCategory": "气候与能源",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185546/98c8e886-17e8-4f7d-b988-bedce21640df/BillMcKibben_2026-embed.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185546/98c8e886-17e8-4f7d-b988-bedce21640df/BillMcKibben_2026-embed.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185546/98c8e886-17e8-4f7d-b988-bedce21640df/BillMcKibben_2026-embed.jpg"
   },
   {
     "id": "jessica-malaty-rivera",
@@ -6368,7 +6410,8 @@
       }
     ],
     "subCategory": "科学辟谣",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185664/543767a6-eb01-4995-903f-160567334294/JessicaMalatyRivera_2025N-embed.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185664/543767a6-eb01-4995-903f-160567334294/JessicaMalatyRivera_2025N-embed.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185664/543767a6-eb01-4995-903f-160567334294/JessicaMalatyRivera_2025N-embed.jpg"
   },
   {
     "id": "christina-costa",
@@ -6464,7 +6507,8 @@
       }
     ],
     "hasFullStudy": true,
-    "cover": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&auto=format&fit=crop&q=80"
+    "cover": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&auto=format&fit=crop&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&auto=format&fit=crop&q=80"
   },
   {
     "id": "yinka-ilori",
@@ -6582,7 +6626,8 @@
       }
     ],
     "subCategory": "公共艺术",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186190/0fbea6ed-fb91-4425-89fc-2f31b74f3f43/YinkaIlori_2026-embed.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186190/0fbea6ed-fb91-4425-89fc-2f31b74f3f43/YinkaIlori_2026-embed.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186190/0fbea6ed-fb91-4425-89fc-2f31b74f3f43/YinkaIlori_2026-embed.jpg"
   },
   {
     "id": "chris-wheatley",
@@ -6696,7 +6741,8 @@
       }
     ],
     "hasFullStudy": true,
-    "cover": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=800&auto=format&fit=crop&q=80"
+    "cover": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=800&auto=format&fit=crop&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=800&auto=format&fit=crop&q=80"
   },
   {
     "id": "joshua-johnson",
@@ -6814,7 +6860,8 @@
       }
     ],
     "subCategory": "理性对话",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185828/9f23e63c-fcdb-4d07-8d41-50d064c7a2c4/JoshuaJohnson_2026-embed.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185828/9f23e63c-fcdb-4d07-8d41-50d064c7a2c4/JoshuaJohnson_2026-embed.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185828/9f23e63c-fcdb-4d07-8d41-50d064c7a2c4/JoshuaJohnson_2026-embed.jpg"
   },
   {
     "id": "ian-bremmer",
@@ -7004,6 +7051,7 @@
       }
     ],
     "subCategory": "地缘格局",
-    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186191/a6d85908-d10c-472d-a211-414ff451442f/TEDExplains_Episode_2026-07-28_1920x1080.jpg"
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186191/a6d85908-d10c-472d-a211-414ff451442f/TEDExplains_Episode_2026-07-28_1920x1080.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186191/a6d85908-d10c-472d-a211-414ff451442f/TEDExplains_Episode_2026-07-28_1920x1080.jpg"
   }
 ]
