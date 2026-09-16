@@ -1,5 +1,206 @@
 [
   {
+    "id": "jacob-collier",
+    "slug": "jacob-collier",
+    "title": "The wiggly wonder of music",
+    "chineseTitle": "音乐的流动奇迹：在“摆动”与不协和音中，感受生命未曾预设的美",
+    "speaker": "Jacob Collier",
+    "speakerTitle": "格莱美多项大奖音乐人 · 编曲家与多乐器演奏家",
+    "category": "人文与艺术",
+    "subCategory": "音乐哲学 · 和声艺术 · 律动共振与生命美学",
+    "duration": "10:14",
+    "durationSeconds": 614.6,
+    "audioUrl": "https://audio.louisyu.top/jacob-collier-clean.mp3",
+    "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_189224/baf2851f-7ecf-4f6f-89de-cd66bbcc5f82/JacobCollier_2026-stageshot.jpg",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_189224/baf2851f-7ecf-4f6f-89de-cd66bbcc5f82/JacobCollier_2026-stageshot.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_189224/baf2851f-7ecf-4f6f-89de-cd66bbcc5f82/JacobCollier_2026-stageshot.jpg",
+    "quote": "Life does not work in straight lines. Life is full of curveballs. And either we yield and we bend and we soften, or we stiffen up and we break.",
+    "quoteTranslation": "生活从来不是笔直平坦的单行道，它充满了意想不到的变奏与弧光。我们要么学会顺应、弯曲并保持温柔，要么就会在僵硬固执中碎裂成尘。",
+    "segments": [
+      {
+        "id": 1,
+        "time": "00:00",
+        "seconds": 0.0,
+        "endSeconds": 138.0,
+        "title": "第 1 幕：琴键流淌与即兴开篇 · 《What a Wonderful World》经典咏唱",
+        "original": "I see trees of green, red roses too. I see them bloom for me and you, and I think to myself, what a wonderful world. All the colors so pretty in the sky, are also on the faces of people going by. I see friends shaking hands, saying 'How do you do?' They're really saying, 'I love you.' I hear babies cry, I watch them grow. They'll learn much more than I'll ever know. And I think to myself, what a wonderful world. Yes, I think to myself, what a wonderful world.",
+        "translation": "我看见碧绿的树木，还有那娇艳欲滴的红玫瑰。我看见它们为我和你盛情绽放，而我不禁在心中默默感叹：这世界是多么美妙神奇！天空中的斑斓色彩如此绚烂多姿，映照在匆匆走过的人们脸上同样璀璨动人。我看见朋友们热情握手，互致着“你好吗？”——他们真正在互诉的，其实是“我爱着你”。我聆听婴儿的啼哭，凝望他们一天天茁壮成长；他们未来所领悟的智慧，必将远胜过我毕生所能企及的认知。而我一次又一次在心底轻吟：这世界是多么值得热爱的美妙家园。"
+      },
+      {
+        "id": 2,
+        "time": "02:18",
+        "seconds": 138.0,
+        "endSeconds": 258.0,
+        "title": "第 2 幕：直线与微澜 · “Wiggle”生命律动的哲学隐喻",
+        "original": "Thank you very much everybody. Isn't that a beautiful song? I just love it. You know, music is a language you already know. And there's something deeply powerful that happens when we come together to make it — something connective, something transformative, something vibrational. It's a feeling that moves us. Now I have a name for this feeling: I call it the wiggle. What's the difference between a wiggle and a straight line? Well, we all know how a straight line feels: rigid, unyielding, inflexible, linear. Like a Roman road or the hand of a clock, it's set, it's certain. But the wiggle on the other hand is soft and flexible and fluid. The wiggle is smooth and constantly in motion. Where the straight line is firm and brittle, the wiggle is supple and resilient. Like water, constantly changing shape, but stronger than almost anything. As the great Alan Watts used to say, there are no straight lines in nature.",
+        "translation": "非常感谢大家！这真是一首动人心魄的美丽歌曲，不是吗？我简直由衷地深爱着它。其实你们都知道，音乐是一门你们早就融会贯通在血液里的母语。当所有人相聚在一起共同创造声场时，某种极其震撼且深邃的力量便悄然诞生了——那是彼此联结的共鸣、那是破茧成蝶的蜕变、那是灵魂深处的振颤。那是一股能真正唤醒并驱动我们身心的力量。我为这种奇妙的感觉起了一个专属名字：我称之为“摆动”（The Wiggle）。那么，一条生硬的直线与温柔的摆动之间究竟有何本质不同？我们每个人都清楚直线的感受：死板僵化、毫不退让、冥顽不灵、线性划一；如同罗马帝国的笔直大道或是时钟上刻板前行的指针，它是既定的、不可动摇的。然而，“摆动”却恰恰相反，它是柔软的、富有弹性的、流淌自如的；它平滑无痕，且无时无刻不在变幻律动。如果说直线是刚硬而脆弱易碎的，那么摆动便是柔韧且兼具韧性的。正如流动的水，形态万千、随物赋形，却蕴藏着超越一切磐石的磅礴伟力。正如伟大的哲学家艾伦·沃茨曾经所言：大自然中，从来不存在任何绝对笔直的线条。"
+      },
+      {
+        "id": 3,
+        "time": "04:18",
+        "seconds": 258.0,
+        "endSeconds": 338.0,
+        "title": "第 3 幕：第一重摆动：旋律之线 · 赋予音乐叙事呼吸的弧光",
+        "original": "Now I've looked at many of the principles of wiggledom through the process of making music, because music is inherently wiggly. Essentially music is just wiggling air. That's what's going on. As musicians, we are constantly oscillating between different states: high to low, loud to quiet, thick to thin. Music is constantly in motion, and everything in music is learnt through play. Now there are three essential types of wiggling music that I'd like to talk to you about today. The first is what we call melody. Now a melody draws a line from one place to another, and tells a story as it goes. So Louis Armstrong walks down the street, looks around and he goes: 'I see trees are green.' Not a monotone: 'I see trees are green.' Not that! Instead, a melodic arc: 'I see trees are green.' It's a tree! 'I see skies are blue.' It's the sky! 'Clouds are white.' There's a little cloud up there. A good melody arc tells a story and draws a line that moves us. That's the first kind of wiggle.",
+        "translation": "在我的音乐创作生涯中，我正是透过无数次拨弄声波的实践，深刻领悟到了“摆动哲学”的核心奥义——因为音乐在本质上就是富有弹性的摆动。剥离所有繁复的外壳，音乐在物理层面上不过就是一团不断摆动起伏的空气而已！作为音乐家，我们无时无刻不在不同的二元状态之间优雅振荡：自高亢至低回、从雷鸣至低语、由浓稠至轻盈。音乐永远处于永不停歇的流动之中，而音乐中的一切真谛都是在自由玩耍与游戏中顿悟习得的。今天，我想和大家分享音乐世界中最为核心的三种“摆动形态”。第一种，便是我们所熟知的“旋律”（Melody）。旋律的核心魅力，在于它从一个音画向另一个音，并在流淌的过程中娓娓道来一个扣人心弦的故事。试想伟大的路易斯·阿姆斯特朗漫步在街头，他环顾四周轻哼道：“我看见树木青葱……”绝非如同机器般机械平板地念出这句歌词，而是带着跃动的弧光！“我看天空蔚蓝……”那正是蓝天！“浮云白皙洁净……”天边正飘着一朵俏皮的白云。一段杰出的旋律弧线，正是在构筑一个活色生香的故事，勾勒出一条能触动我们灵魂的线条。这就是第一种摆动。"
+      },
+      {
+        "id": 4,
+        "time": "05:38",
+        "seconds": 338.0,
+        "endSeconds": 380.0,
+        "title": "第 4 幕：第二重摆动：身体律动 · 节拍与时间维度的共振对话",
+        "original": "Now the second kind of wiggle is what they call rhythm. Rhythm is about time, but it's also about the body. Louis does not sing: 'I see trees of green, red roses too, I see them bloom...' No sir! Instead, he leans back into the groove: 'I see trees...' Rhythm physically moves the body. And through motion and play, the melody suddenly has something to be in conversation with. Suddenly we have space, we have form, we have proportion and dynamics. That kind of storytelling is beautiful. Rhythm moves us and moves our melody through time. That's the second kind of wiggle.",
+        "translation": "接下来的第二种摆动，便是人们常说的“节奏与律动”（Rhythm）。节奏不仅关于时间的严丝合缝，它更关乎我们肉身与肢体的本能响应。路易斯绝不会像背书一样赶着拍子唱：“我看见碧树红花它们为我和你绽放……”绝不！相反，他会将身子向后靠进松弛的律动深处：“我——看见树木……”节奏在生理层面上直接牵引着躯体摆动。而正是由于这种运动与自由的对话，原本孤单的旋律终于找到了促膝长谈的伴侣。刹那间，音乐拥有了呼吸的留白空间，拥有了立体的构架形态，拥有了匀称的比例感与波澜壮阔的强弱动态！这种层次丰富的声音叙事是如此摄人心魄。节奏在时间长河中推移着我们，同时也推动着旋律向前流淌。这便是第二种摆动。"
+      },
+      {
+        "id": 5,
+        "time": "06:20",
+        "seconds": 380.0,
+        "endSeconds": 445.0,
+        "title": "第 5 幕：第三重摆动：和声魔法 · 相同旋律音下的色彩奇迹",
+        "original": "Now the third kind of wiggle is my personal favorite, and it's what they call harmony. Harmony is about relationships. It's the wiggles between the wiggles! By adding these chords — combinations of notes, clusters of notes — we get to take our melody and our rhythm and decide how we want these things to feel. With this song, we start home. We begin home, and begin to move. A bit of warmth, a bit of darkness there, lightening, saddening. And then something extraordinary happens: our melody note stays exactly the same: 'And I think to myself...' One single melody note! But the chord, which could happily stay safe right here, becomes this! Did you feel the wiggle? It's special, isn't it? This one note just completely changed its emotional color. That's the power of harmony.",
+        "translation": "而这第三种摆动，是我个人最为痴迷、最为偏爱的存在——那就是“和声”（Harmony）。和声的本质，探讨的是音与音之间微妙的情感关系；它是“摆动与摆动之间的微澜”！通过引入这些和弦——那些音符的精妙排列、叠置与色彩簇——我们得以接管既有的旋律与节奏，并亲手赋予它们我们渴望表达的心境与质感。在这首曲子中，我们从象征安全的“主和弦家园”出发。我们以家为起点，而后展开漫游。那里有一丝春日般的暖意，忽而又泛起一抹淡淡的幽暗；时而明媚清亮，时而染上淡淡忧伤。紧接着，极其不可思议的奇迹上演了：我们的旋律音符从头至尾保持在完全相同的高度——“而我在心中沉思……”完完全全只有同一个单音！然而底部的和弦，原本完全可以平庸而安全地待在原地，此刻却出其不意地蜕变成了这个未曾设想的色彩！大家感受到那份震颤的微澜了吗？这太神奇了，不是吗？仅仅因为底部和声的转折，同一个音符的情感色彩瞬间被彻底颠覆！这便是和声无与伦比的魔法。"
+      },
+      {
+        "id": 6,
+        "time": "07:25",
+        "seconds": 445.0,
+        "endSeconds": 482.0,
+        "title": "第 6 幕：张力与抚慰 · 在不协和音与协和中游历情感险峰",
+        "original": "So with a chord, I can squint, I can reassure, I can enchant, I can purify, I can terrify! So that when I finally get home in the end, it's all the more beautiful because we've traveled somewhere entirely new. Harmony tells an emotional story through tension, release, dissonance, and consonance, by combining many different notes together. That's the third wiggle.",
+        "translation": "因此，仅仅借助一组和弦的更迭，我可以让音乐如眯眼般警惕审视、我可以给予温存的抚慰、我可以施展奇幻的魔咒、我可以洗涤尘嚣使之澄澈，我甚至能制造令人毛骨悚然的惊悚！正因如此，当我们在历经千帆之后最终重新归航回到原本的家园时，那份释然与宁静才会显得如此刻骨铭心——因为我们的心灵已经穿越过了一片前所未见的辽阔新大陆。和声正是通过交替编织张力（Tension）、释放（Release）、不协和的冲突（Dissonance）与悦耳的协和（Consonance），将无数各具特质的音符交融在一起，书写着一幕幕跌宕起伏的灵魂史诗。这便是第三种宏大的摆动。"
+      },
+      {
+        "id": 7,
+        "time": "08:02",
+        "seconds": 482.0,
+        "endSeconds": 542.0,
+        "title": "第 7 幕：与世界共振 · 拥抱失谐，生活从不是笔直单行道",
+        "original": "So you may say: 'Well, Jacob, why does it make us wiggle so? How do these notes make us feel these things?' And I would say, because music is about so much more than just notes. Music is about life! In music, we learn that being in harmony with the world doesn't mean everyone's singing the exact same note at the same time. It's about embracing the dissonance, and following the heart back home. We learn that being in time with the world doesn't have to be stepping into a rigid line. It's about motion, knowing when your time is right, and leaving space for the rest. We learn that being in tune is not about being sterilely perfect; it's about following a line and being open to where it might take you. Because here's the truth of it: life does not work in straight lines. Life is full of curveballs, full of ups and downs. And either we yield and we bend and we soften, or we stiffen up and we break.",
+        "translation": "也许有人会好奇地问我：“那么雅各布，为什么这些声音会让我们身心如此不由自主地律动震颤？这些跳动的音符究竟凭什么能支配我们的喜怒哀乐？”而我的回答是：因为音乐所承载的广度，远超越了冷冰冰的五线谱音符本身。音乐映照的，正是我们活生生的生命啊！在音乐的世界里我们领悟到：与这个纷繁复杂的世界达成和解与协和，绝不意味着所有人必须在同一时刻机械地高唱同一个音高。真正的和谐，恰恰在于勇敢接纳生活中的种种“不协和与冲突”，并跟随内心的脉搏寻找回归的精神归宿。我们领悟到：与世界保持合拍，绝非强迫自己踏进严密死板的方阵走正步；它关乎于顺势而动，懂得感知何时属于你的绽放时机已经降临，并懂得为同行的他人留下宽容的呼吸留白。我们更懂得：追求心智的同频与音准，绝不是苛求毫无瑕疵的冰冷完美，而是坦然跟随着那条充满未知指引的线索，对它可能带你抵达的任何神秘远方敞开怀抱。因为这就是生命的终极真相：生活从来不是一条笔直平坦的直线。人生充斥着突如其来的急转弯与变奏，布满了不可预测的波峰与波谷。我们要么学会顺应、弯曲、柔化自己的棱角，要么就只能在固步自封的僵硬中走向崩溃与折断。"
+      },
+      {
+        "id": 8,
+        "time": "09:02",
+        "seconds": 542.0,
+        "endSeconds": 614.6,
+        "title": "第 8 幕：成为“摆动者” · 全场即兴合奏与终幕共鸣",
+        "original": "So when the world feels like an unyielding straight line, be a wiggler! It's in your nature, trust me. You already know how to wiggle. You just need to remember. And I think to myself, what a wonderful world. Yes, I think to myself, what a wonderful world. Thank you so much!",
+        "translation": "因此，每当周遭的世界让你感到窒息僵硬、如同一条冷酷无情的直线逼近时——勇敢地去做一个灵动自如的“摆动者”吧！这是深植于你骨子里的天性，请务必相信我：你早就掌握了如何在风雨中优雅摆动的本能，你仅仅需要重新忆起这份天赋。而我不禁在心底深深感叹：这浩瀚辽阔的大千世界，究竟是何等令人沉醉的奇迹啊！非常感谢大家！"
+      }
+    ],
+    "spoken": [
+      {
+        "phrase": "lean back into the groove",
+        "phonetic": "/liːn bæk ˈɪntuː ðə ɡruːv/",
+        "explanation": "松弛地沉浸入音乐律动中。形容演奏者或聆听者不再紧绷追赶拍子，而是以一种极其放松、惬意且自信的身体姿态顺应节拍流动。",
+        "pronunciationNote": "lean back 连读为 /liːnbæk/，back into 产生轻快的送气连缀 /bækɪntuː/，groove 长元音 /uː/ 饱满下沉。",
+        "time": "05:48",
+        "example": "Instead, he leans back into the groove: 'I see trees...'"
+      },
+      {
+        "phrase": "embrace the dissonance",
+        "phonetic": "/ɪmˈbreɪs ðə ˈdɪsənəns/",
+        "explanation": "坦然拥抱不协和音 / 接纳冲突与分歧。音乐上指不回避刺耳紧张的音程碰撞；哲学上借喻接纳人际、生活中的摩擦与困境，将其视为更宏大和谐的铺垫。",
+        "pronunciationNote": "embrace 重音在后半部分 /breɪs/，dissonance 首音节重读 /ˈdɪs/，末尾弱读轻巧收音。",
+        "time": "08:18",
+        "example": "It's about embracing the dissonance, and following the heart back home."
+      },
+      {
+        "phrase": "throw someone a curveball",
+        "phonetic": "/θroʊ ˈsʌmwʌn ə ˈkɜːrvbɔːl/",
+        "explanation": "面对生活的突发急转弯 / 猝不及防的变故。棒球隐喻，指生活中遇到出乎意料的意外考验或难题。",
+        "pronunciationNote": "curveball 中卷舌元音 /ɜːr/ 与后半部 /bɔːl/ 紧凑发音，口型圆润有力。",
+        "time": "08:44",
+        "example": "Life does not work in straight lines. Life is full of curveballs, full of ups and downs."
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "Where [Clause A], [Subject B] is [Adjective] and [Adjective].",
+        "type": "Where 引导的空间/对比状语从句",
+        "explanation": "使用 Where 引导对比复合句，相当于 'Whereas / In contrast to where'，以强烈的二元对立手法，将“直线的刚硬易碎”与“摆动的柔韧灵动”形成鲜明哲学对照。",
+        "sceneTime": "03:15",
+        "analysis": "Where the straight line is firm and brittle, the wiggle is supple and resilient."
+      },
+      {
+        "pattern": "Being in [Noun] with the world doesn't mean [Gerund/Clause]...",
+        "type": "动名词作主语 + 否定形式宾语从句",
+        "explanation": "Being in harmony / Being in time 作主语提炼核心命题，否定结构打破世俗的思维定式（即“合拍不等于齐步走、和谐不等于同质化”），传递深刻的包容性价值观。",
+        "sceneTime": "08:12",
+        "analysis": "In music we learn that being in harmony with the world doesn't mean everyone's singing the same note at the same time."
+      },
+      {
+        "pattern": "Either we [Verb] and [Verb], or we [Verb] and [Verb].",
+        "type": "Either... or... 强对比条件选择排比句",
+        "explanation": "通过 either... or... 并列两组三连动词（yield / bend / soften 对比 stiffen up / break），节奏铿锵有力，构成极具说服力的警策名句。",
+        "sceneTime": "08:48",
+        "analysis": "And either we yield and we bend and we soften, or we stiffen up and we break."
+      }
+    ],
+    "vocab": [
+      {
+        "word": "resilient",
+        "pos": "adj.",
+        "meaning": "有弹性的，韧性极强的；能迅速从挫折中恢复的",
+        "collocation": "supple and resilient / resilient mindset"
+      },
+      {
+        "word": "oscillate",
+        "pos": "v.",
+        "meaning": "摆动，振荡；在两种不同极端状态间游移",
+        "collocation": "oscillate between different states"
+      },
+      {
+        "word": "consonance",
+        "pos": "n.",
+        "meaning": "协和音，一致；听觉与心智上的和谐悦耳状态",
+        "collocation": "tension, release, dissonance, and consonance"
+      },
+      {
+        "word": "dissonance",
+        "pos": "n.",
+        "meaning": "不协和音，冲突；失谐与不协调",
+        "collocation": "embrace the dissonance"
+      },
+      {
+        "word": "curveball",
+        "pos": "n.",
+        "meaning": "曲球；难以预料的意外变故或挑战",
+        "collocation": "life is full of curveballs"
+      },
+      {
+        "word": "supple",
+        "pos": "adj.",
+        "meaning": "柔顺的，柔软易曲的；富有顺应性的",
+        "collocation": "supple and flexible"
+      }
+    ],
+    "echoLoop": [
+      {
+        "step": 1,
+        "name": "盲听捕捉 (Blind Listening)",
+        "guide": "闭上双眼聆听音频 00:00 - 02:18，感受 Jacob 即兴重新编配《What a Wonderful World》时琴键的呼吸感与音色起伏，不要看文字稿。"
+      },
+      {
+        "step": 2,
+        "name": "声学精听 (Acoustic Decoding)",
+        "guide": "聚焦 06:20 - 07:25 和声变奏段落，仔细辨析 'Did you feel the wiggle?' 与 'our melody note stays exactly the same' 的抑扬顿挫与英音语调特色。"
+      },
+      {
+        "step": 3,
+        "name": "影子跟读 (Shadowing)",
+        "guide": "开启中英双语字幕，以 1.0x 正常语速跟随 08:02 - 08:58 的核心升华金句进行影子跟读，重点练习 'yield and bend and soften' 的连贯语流。"
+      },
+      {
+        "step": 4,
+        "name": "自主复述 (Active Recall)",
+        "guide": "合上文本，用自己的话尝试向朋友阐述 Jacob 所定义的音乐三大'摆动'（旋律的故事线条、节奏的身体律动、和声的色彩魔法）。"
+      }
+    ]
+  },
+  {
     "id": "kelly-boesch",
     "slug": "kelly-boesch",
     "title": "How AI unleashed (not replaced) my creativity",
