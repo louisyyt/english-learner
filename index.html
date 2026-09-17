@@ -1306,7 +1306,7 @@
       </div>
       <div class="hero-stats">
         <div class="stat-box">
-          <div class="stat-val">38</div>
+          <div class="stat-val" id="totalEpisodesStat">47</div>
           <div class="stat-label">全量精研剧集</div>
         </div>
         <div class="stat-box">
@@ -2048,6 +2048,14 @@
     // =====================================
     // App Initialization
     // =====================================
+    function updateHeroStats() {
+      const totalStatEl = document.getElementById('totalEpisodesStat');
+      if (totalStatEl && Array.isArray(episodes)) {
+        totalStatEl.textContent = episodes.length;
+      }
+    }
+
+    updateHeroStats();
     renderSubCategories();
     applyFilters();
     handleHashChange();
