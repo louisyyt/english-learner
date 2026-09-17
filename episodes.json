@@ -8,8 +8,8 @@
     "speakerTitle": "前奥巴马先遣团队成员 · 作家与公共演说家 · 嗜睡症倡导者",
     "category": "自然与科学",
     "subCategory": "神经科学 · 睡眠医学与心身健康",
-    "duration": "08:44",
-    "durationSeconds": 524.9,
+    "duration": "08:54",
+    "durationSeconds": 534.0,
     "audioUrl": "https://audio.louisyu.top/lindsay-scola-clean.mp3",
     "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_189125/9b29a6ff-6588-4be5-be23-b678fff3835b/LindsayScola_2026X-stageshot.jpg",
     "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_189125/9b29a6ff-6588-4be5-be23-b678fff3835b/LindsayScola_2026X-stageshot.jpg",
@@ -84,7 +84,7 @@
         "id": 8,
         "time": "07:49",
         "seconds": 469.6,
-        "endSeconds": 530.7,
+        "endSeconds": 534.0,
         "title": "第 8 幕：生命的唤醒令：你的疲惫是否与众不同？",
         "original": "Before my diagnosis, my world felt extraordinarily limited. Now, there's no limit to my capacity. So consider this your activation, your permission slip, your reclamation, your literal wake-up call to question not just your sleep, but how you feel during the day. If something is off, ask for help. Demand answers. See a sleep specialist, not just for your health, but for the idea, the project, the relationship, the version of you that's waiting to wake up. Because I want you to live your biggest, most beautiful life, full of color, curiosity, and awe, wild, and wide awake. So I'm asking you, is your tired different?",
         "translation": "在确诊之前，我的世界感觉极其狭隘有限；而现在，我的生命潜能不再受限。因此，请把这番话当作属于你的行动令、你的许可单、你对人生的收回，以及一声真正的警钟：不仅要审视你的睡眠质量，更要审视你在白天的真实身心状态。如果感觉有些不对劲，请主动寻求帮助，追问真相。去看看睡眠专科医生吧——这不仅是为了你的身体健康，更是为了那些尚未成型的灵感创意、那些搁置的项目、那些珍贵的人际关系，以及那个正等待被真正唤醒的更好的自己。因为我希望你们每个人都能活出最宏大、最壮丽的人生，充满绚烂的色彩、无尽的好奇与敬畏，恣意洒脱，并且全然清醒。因此，我想问你：你的疲惫，是否也与众不同？"
@@ -190,7 +190,8 @@
         "guide": "合上文本稿，尝试用英文复述演讲的核心观点。"
       }
     ],
-    "neteaseId": 3437465550
+    "neteaseId": 3437523108,
+    "neteaseSongId": "3437523108"
   },
   {
     "id": "jacob-collier",
