@@ -1724,17 +1724,24 @@
       const spokenContainer = document.getElementById('studySpokenList');
       if (spokenContainer) {
         if (ep.spoken && ep.spoken.length > 0) {
-          spokenContainer.innerHTML = ep.spoken.map(s => `
+          spokenContainer.innerHTML = ep.spoken.map(s => {
+            const phrase = s.phrase || s.word || '';
+            const ts = s.timestamp || s.time || '';
+            const meaning = s.meaning || s.explanation || '';
+            const quote = s.quote || s.example || '';
+            const pron = s.pronunciation || s.pronunciationNote || (s.phonetic ? `音标：${s.phonetic}` : '');
+            return `
             <div class="spoken-item-card">
               <div class="spoken-item-top">
-                <span class="spoken-phrase">${s.phrase}</span>
-                <span class="spoken-ts">${s.timestamp}</span>
+                <span class="spoken-phrase">${phrase}</span>
+                ${ts ? `<span class="spoken-ts">${ts}</span>` : ''}
               </div>
-              <div class="spoken-meaning">${s.meaning}</div>
-              <div class="spoken-quote">"${s.quote}"</div>
-              <div class="spoken-phonetic">发音重点：${s.pronunciation}</div>
+              ${meaning ? `<div class="spoken-meaning">${meaning}</div>` : ''}
+              ${quote ? `<div class="spoken-quote">"${quote}"</div>` : ''}
+              ${pron ? `<div class="spoken-phonetic">发音重点：${pron}</div>` : ''}
             </div>
-          `).join('');
+            `;
+          }).join('');
         } else {
           spokenContainer.innerHTML = '<div style="color: var(--text-muted); font-size: 0.78rem;">本期重点融入段落与双语练习中。</div>';
         }
@@ -1744,13 +1751,19 @@
       const grammarContainer = document.getElementById('studyGrammarList');
       if (grammarContainer) {
         if (ep.grammar && ep.grammar.length > 0) {
-          grammarContainer.innerHTML = ep.grammar.map(g => `
+          grammarContainer.innerHTML = ep.grammar.map(g => {
+            const name = g.name || g.pattern || g.structure || '高阶语法解析';
+            const ts = g.timestamp || g.sceneTime || g.time || '';
+            const quote = g.quote || g.example || '';
+            const expl = g.explanation || g.analysis || '';
+            return `
             <div class="grammar-item-card">
-              <div class="grammar-name">${g.name} (${g.timestamp})</div>
-              <div class="grammar-quote">"${g.quote}"</div>
-              <div class="grammar-expl">${g.explanation}</div>
+              <div class="grammar-name">${name}${ts ? ` (${ts})` : ''}</div>
+              ${quote ? `<div class="grammar-quote">"${quote}"</div>` : ''}
+              ${expl ? `<div class="grammar-expl">${expl}</div>` : ''}
             </div>
-          `).join('');
+            `;
+          }).join('');
         } else {
           grammarContainer.innerHTML = '<div style="color: var(--text-muted); font-size: 0.78rem;">结合原声段落体会结构意蕴。</div>';
         }
@@ -1762,17 +1775,24 @@
         if (ep.vocab && ep.vocab.length > 0) {
           vocabContainer.innerHTML = `
             <table class="vocab-table">
-              ${ep.vocab.map(v => `
+              ${ep.vocab.map(v => {
+                const word = v.word || '';
+                const colloc = v.collocation || '';
+                const displayTerm = colloc && word && colloc !== word ? `${word} · ${colloc}` : (colloc || word);
+                const meaning = v.meaning || '';
+                const detail = v.detail || [v.phonetic ? `[${v.phonetic}]` : '', v.pos || '', (word && colloc && colloc !== word) ? `常用搭配: ${colloc}` : ''].filter(Boolean).join(' ') || meaning;
+                return `
                 <tr>
                   <td style="width: 38%;">
-                    <div class="vocab-collocation">${v.collocation}</div>
-                    <div class="vocab-meaning">${v.meaning}</div>
+                    <div class="vocab-collocation">${displayTerm}</div>
+                    <div class="vocab-meaning">${meaning}</div>
                   </td>
                   <td>
-                    <div class="vocab-detail">${v.detail}</div>
+                    <div class="vocab-detail">${detail}</div>
                   </td>
                 </tr>
-              `).join('')}
+                `;
+              }).join('')}
             </table>
           `;
         } else {
@@ -1968,19 +1988,30 @@
       if (currentEpisode.spoken && currentEpisode.spoken.length > 0) {
         content += `## 💬 黄金地道口语要点 (Spoken Expressions)\n\n`;
         currentEpisode.spoken.forEach(s => {
-          content += `### ${s.phrase} (${s.timestamp})\n`;
-          content += `- **语境释义**：${s.meaning}\n`;
-          content += `- **演讲原句**：*“${s.quote}”*\n`;
-          content += `- **发音重点**：${s.pronunciation}\n\n`;
+          const phrase = s.phrase || s.word || '';
+          const ts = s.timestamp || s.time || '';
+          const meaning = s.meaning || s.explanation || '';
+          const quote = s.quote || s.example || '';
+          const pron = s.pronunciation || s.pronunciationNote || (s.phonetic ? `音标：${s.phonetic}` : '');
+          content += `### ${phrase}${ts ? ` (${ts})` : ''}\n`;
+          if (meaning) content += `- **语境释义**：${meaning}\n`;
+          if (quote) content += `- **演讲原句**：*“${quote}”*\n`;
+          if (pron) content += `- **发音重点**：${pron}\n`;
+          content += `\n`;
         });
       }
 
       if (currentEpisode.grammar && currentEpisode.grammar.length > 0) {
         content += `## 📐 语境语法深度拆解 (Grammar in Context)\n\n`;
         currentEpisode.grammar.forEach(g => {
-          content += `### ${g.name} (${g.timestamp})\n`;
-          content += `- **原句剖析**：*“${g.quote}”*\n`;
-          content += `- **语法精髓**：${g.explanation}\n\n`;
+          const name = g.name || g.pattern || g.structure || '高阶语法解析';
+          const ts = g.timestamp || g.sceneTime || g.time || '';
+          const quote = g.quote || g.example || '';
+          const expl = g.explanation || g.analysis || '';
+          content += `### ${name}${ts ? ` (${ts})` : ''}\n`;
+          if (quote) content += `- **原句剖析**：*“${quote}”*\n`;
+          if (expl) content += `- **语法精髓**：${expl}\n`;
+          content += `\n`;
         });
       }
 
@@ -1989,7 +2020,12 @@
         content += `| 英文搭配 | 语境释义 | 深度解析与辨析 |\n`;
         content += `| :--- | :--- | :--- |\n`;
         currentEpisode.vocab.forEach(v => {
-          content += `| **${v.collocation}** | ${v.meaning} | ${v.detail} |\n`;
+          const word = v.word || '';
+          const colloc = v.collocation || '';
+          const displayTerm = colloc && word && colloc !== word ? `${word} · ${colloc}` : (colloc || word);
+          const meaning = v.meaning || '';
+          const detail = v.detail || [v.phonetic ? `[${v.phonetic}]` : '', v.pos || '', (word && colloc && colloc !== word) ? `常用搭配: ${colloc}` : ''].filter(Boolean).join(' ') || meaning;
+          content += `| **${displayTerm}** | ${meaning} | ${detail} |\n`;
         });
         content += `\n`;
       }
