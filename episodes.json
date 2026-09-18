@@ -1,5 +1,178 @@
 [
   {
+    "id": "ari-matusiak",
+    "slug": "ari-matusiak",
+    "title": "How to make AI companies pay your energy bill",
+    "chineseTitle": "When you open your power bills · How to make AI companies pay your energy bill",
+    "speaker": "Ari Matusiak",
+    "speakerTitle": "TED演讲嘉宾",
+    "category": "人文与艺术",
+    "subCategory": "核心精选",
+    "duration": "12:36",
+    "durationSeconds": 756.7,
+    "audioUrl": "https://audio.louisyu.top/ari-matusiak-clean.mp3",
+    "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188982/8dc90909-9667-418c-9994-c04edb94c86f/AriMatusiak_2026T-stageshot.jpg",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188982/8dc90909-9667-418c-9994-c04edb94c86f/AriMatusiak_2026T-stageshot.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188982/8dc90909-9667-418c-9994-c04edb94c86f/AriMatusiak_2026T-stageshot.jpg",
+    "quote": "When you open your power bills these days, do you notice they're a lot higher than they used to be? Behind that climbing",
+    "quoteTranslation": "When you open your power bills these days, do you notice they're a lot higher than they used to be? Behind that climbing",
+    "segments": [
+      {
+        "id": 1,
+        "time": "00:08",
+        "seconds": 8.7,
+        "endSeconds": 56.1,
+        "title": "第 1 幕：When you open your power bills these ...",
+        "original": "When you open your power bills these days, do you notice they're a lot higher than they used to be? Behind that climbing bill of yours is a straining energy grid where you live. Very likely, one major source of that strain, our AI data centers helping tech companies profit while you pay more. If you think about that for a second, it's a crazy deal. If it makes you angry or if the whole deal around AI makes you uncertain or worried, you certainly are not alone. I'm Ari Matuziak, and I'm part of a talented team that spends its time working to rewire America's energy system. And we believe we have a fix, one that cuts a new and better deal for you, your family, and your community.",
+        "translation": "When you open your power bills these days, do you notice they're a lot higher than they used to be? Behind that climbing bill of yours is a straining energy grid where you live. Very likely, one major source of that strain, our AI data centers helping tech companies profit while you pay more. If you think about that for a second, it's a crazy deal. If it makes you angry or if the whole deal around AI makes you uncertain or worried, you certainly are not alone. I'm Ari Matuziak, and I'm part of a talented team that spends its time working to rewire America's energy system. And we believe we have a fix, one that cuts a new and better deal for you, your family, and your community."
+      },
+      {
+        "id": 2,
+        "time": "00:56",
+        "seconds": 56.1,
+        "endSeconds": 104.7,
+        "title": "第 2 幕：A deal that's built on our shared power",
+        "original": "A deal that's built on our shared power. Nine out of ten workers in America say that their incomes have barely budged and they can't keep up with the cost of living. Energy costs are up 40% over the last five years. One in three households in America say that they are struggling to pay that power bill every month. In parts of West Virginia, that power bill rivals the mortgage. Think about that. What it costs some American families to heat and cool their homes is the same as what it costs them to own their home. The American energy system has traditionally had two sides. On the one side, supply. Giant steel and the ground power plants built by people in hard hats celebrated by people in suits at ribbon-cutting ceremonies that you're probably not invited to.",
+        "translation": "A deal that's built on our shared power. Nine out of ten workers in America say that their incomes have barely budged and they can't keep up with the cost of living. Energy costs are up 40% over the last five years. One in three households in America say that they are struggling to pay that power bill every month. In parts of West Virginia, that power bill rivals the mortgage. Think about that. What it costs some American families to heat and cool their homes is the same as what it costs them to own their home. The American energy system has traditionally had two sides. On the one side, supply. Giant steel and the ground power plants built by people in hard hats celebrated by people in suits at ribbon-cutting ceremonies that you're probably not invited to."
+      },
+      {
+        "id": 3,
+        "time": "01:44",
+        "seconds": 104.7,
+        "endSeconds": 165.3,
+        "title": "第 3 幕：On the other side, demand",
+        "original": "On the other side, demand. All of us. Paying for the energy that we need and contributing our share to the infrastructure costs over there to produce it. For 30 years, that was basically the deal. The price of energy went up some, the amount of energy we all used stayed basically the same. And really, none of us ever thought about it. We just sat at our kitchen tables and paid that bill. But then, five years ago, it broke. Energy demand surged. And one main reason? AI. Right now, there are over 3,400 AI data centers underway or planned in the United States, needing 270 gigawatts of power. What's a gigawatt? Well, it's a unit of energy, but like a lot of energy. And to put it in perspective, those 270 gigawatts are enough to power two out of three homes in America.",
+        "translation": "On the other side, demand. All of us. Paying for the energy that we need and contributing our share to the infrastructure costs over there to produce it. For 30 years, that was basically the deal. The price of energy went up some, the amount of energy we all used stayed basically the same. And really, none of us ever thought about it. We just sat at our kitchen tables and paid that bill. But then, five years ago, it broke. Energy demand surged. And one main reason? AI. Right now, there are over 3,400 AI data centers underway or planned in the United States, needing 270 gigawatts of power. What's a gigawatt? Well, it's a unit of energy, but like a lot of energy. And to put it in perspective, those 270 gigawatts are enough to power two out of three homes in America."
+      },
+      {
+        "id": 4,
+        "time": "02:45",
+        "seconds": 165.3,
+        "endSeconds": 219.1,
+        "title": "第 4 幕：All day, every day, as much Netflix a...",
+        "original": "All day, every day, as much Netflix as you want. And the projected demand for AI power just keeps going up. It's almost tripled in the last year alone. And so now we have the situation where we have power for all of us, and power for all of that, on a system that wasn't designed to support it. It's a mess. And if we keep going the same way, this mess will mean that you fund one of the largest buildouts of infrastructure in American history, comparable to the interstate highway system on your bill every month. Except, it will be going to all of that, not to you. Meanwhile, your furnace is getting older. Your water heater is about to give out. You are one hard winter or hot summer away from a repair bill you didn't budget for.",
+        "translation": "All day, every day, as much Netflix as you want. And the projected demand for AI power just keeps going up. It's almost tripled in the last year alone. And so now we have the situation where we have power for all of us, and power for all of that, on a system that wasn't designed to support it. It's a mess. And if we keep going the same way, this mess will mean that you fund one of the largest buildouts of infrastructure in American history, comparable to the interstate highway system on your bill every month. Except, it will be going to all of that, not to you. Meanwhile, your furnace is getting older. Your water heater is about to give out. You are one hard winter or hot summer away from a repair bill you didn't budget for."
+      },
+      {
+        "id": 5,
+        "time": "03:39",
+        "seconds": 219.1,
+        "endSeconds": 280.4,
+        "title": "第 5 幕：Not surprisingly, people do not like ...",
+        "original": "Not surprisingly, people do not like this deal. And all across the country, communities are fighting back, bans, protests, tens of billions of dollars of AI data center projects canceled or delayed. And still, these companies are pushing for more power because they need it. And that is our big, shared opportunity. The thing to remember about these AI tech companies is that they are in a global race, but they intend to win, and they will pay almost whatever it costs for the power that they need to win that race. They don't really care where the power comes from, they just need it fast and at scale. And so they are already investing in those power plant projects, but they take five to seven years to build. So to get power faster, some of these companies are literally buying old 747 jet engines and converting them into turbines to generate electricity 24-7.",
+        "translation": "Not surprisingly, people do not like this deal. And all across the country, communities are fighting back, bans, protests, tens of billions of dollars of AI data center projects canceled or delayed. And still, these companies are pushing for more power because they need it. And that is our big, shared opportunity. The thing to remember about these AI tech companies is that they are in a global race, but they intend to win, and they will pay almost whatever it costs for the power that they need to win that race. They don't really care where the power comes from, they just need it fast and at scale. And so they are already investing in those power plant projects, but they take five to seven years to build. So to get power faster, some of these companies are literally buying old 747 jet engines and converting them into turbines to generate electricity 24-7."
+      },
+      {
+        "id": 6,
+        "time": "04:40",
+        "seconds": 280.4,
+        "endSeconds": 335.9,
+        "title": "第 6 幕：Jet engines gets me every time",
+        "original": "Jet engines gets me every time. Imagine a whole batch of those things blasting away in your community. There's got to be a better way than that. Well, imagine that these tech companies could get some of the power that they need from simple home upgrades, solar on your rooftop, heat pumps, swapping out air conditioners, furnaces, water heaters, batteries in your garage and in your appliances, and software that connects you and your neighbor's homes together to provide power back to the grid. Nationally, households could provide 100 gigawatts of the 270 gigawatts that are needed for these data centers, more than a third. How? Because through those upgrades, we are making and storing our own power and using less of it overall, creating space on the grid for more demand while reducing your energy bill, not raising it.",
+        "translation": "Jet engines gets me every time. Imagine a whole batch of those things blasting away in your community. There's got to be a better way than that. Well, imagine that these tech companies could get some of the power that they need from simple home upgrades, solar on your rooftop, heat pumps, swapping out air conditioners, furnaces, water heaters, batteries in your garage and in your appliances, and software that connects you and your neighbor's homes together to provide power back to the grid. Nationally, households could provide 100 gigawatts of the 270 gigawatts that are needed for these data centers, more than a third. How? Because through those upgrades, we are making and storing our own power and using less of it overall, creating space on the grid for more demand while reducing your energy bill, not raising it."
+      },
+      {
+        "id": 7,
+        "time": "05:35",
+        "seconds": 335.9,
+        "endSeconds": 386.6,
+        "title": "第 7 幕：And who has the money for those home-...",
+        "original": "And who has the money for those home-grown energy upgrades? The tech companies that need their power right now. In response to the backlash, tech companies and elected officials across the political spectrum have said that these AI data center projects will bring their own power. They'll pay for what they need, not you. How does that work? Well, take it to your hometown. Imagine a tech company coming in and wanting to build a 200 megawatt data center. For a project of that size, they might spend a half a billion, a billion dollars, or more for the power that they need. But to get the project approved, they will likely also negotiate a community benefit agreement, another $10 million or $50 million on top, investing in programs in the community that you and your family can benefit from.",
+        "translation": "And who has the money for those home-grown energy upgrades? The tech companies that need their power right now. In response to the backlash, tech companies and elected officials across the political spectrum have said that these AI data center projects will bring their own power. They'll pay for what they need, not you. How does that work? Well, take it to your hometown. Imagine a tech company coming in and wanting to build a 200 megawatt data center. For a project of that size, they might spend a half a billion, a billion dollars, or more for the power that they need. But to get the project approved, they will likely also negotiate a community benefit agreement, another $10 million or $50 million on top, investing in programs in the community that you and your family can benefit from."
+      },
+      {
+        "id": 8,
+        "time": "06:26",
+        "seconds": 386.6,
+        "endSeconds": 442.5,
+        "title": "第 8 幕：Sounds pretty good? Does it solve the...",
+        "original": "Sounds pretty good? Does it solve the problem? No. Because this is about new power, not fixing the mess that you're already paying for. So your bill stays exactly the same. And that's why we propose cutting a new deal. Imagine this. You get a notice from your utility, 70% off of new appliances. Remember that old water heater? Your contractor comes and replaces it with a new efficient heat pump for a couple hundred bucks instead of a couple thousand. What does that work? Well, the tech company takes the half a billion dollars, the billion dollars or more that they otherwise would have invested, and puts it into you and your neighbors' homes instead. Roof top solar, batteries, heat pumps, across 50,000 households in your town, we estimate would generate that same 200 megawatts of power.",
+        "translation": "Sounds pretty good? Does it solve the problem? No. Because this is about new power, not fixing the mess that you're already paying for. So your bill stays exactly the same. And that's why we propose cutting a new deal. Imagine this. You get a notice from your utility, 70% off of new appliances. Remember that old water heater? Your contractor comes and replaces it with a new efficient heat pump for a couple hundred bucks instead of a couple thousand. What does that work? Well, the tech company takes the half a billion dollars, the billion dollars or more that they otherwise would have invested, and puts it into you and your neighbors' homes instead. Roof top solar, batteries, heat pumps, across 50,000 households in your town, we estimate would generate that same 200 megawatts of power."
+      },
+      {
+        "id": 9,
+        "time": "07:22",
+        "seconds": 442.5,
+        "endSeconds": 488.7,
+        "title": "第 9 幕：And this could be the new deal",
+        "original": "And this could be the new deal. And guess what? It turns out it gives the tech companies what they need and want to, speed to power. Because those upgrades, they can start next week, and they'll be done in a year or two years, not five to seven. The company gets the same credit that they would from a utility or regulator for making that investment as they would if they put it into a new power plant. And because the whole investment is a community benefit, it's more likely to get accepted and built in the first place. That's a better deal for them. For you and your neighbors, you get free or heavily discounted equipment that you own. We found that those upgrades can save you up to $2,000 per year on your energy bills.",
+        "translation": "And this could be the new deal. And guess what? It turns out it gives the tech companies what they need and want to, speed to power. Because those upgrades, they can start next week, and they'll be done in a year or two years, not five to seven. The company gets the same credit that they would from a utility or regulator for making that investment as they would if they put it into a new power plant. And because the whole investment is a community benefit, it's more likely to get accepted and built in the first place. That's a better deal for them. For you and your neighbors, you get free or heavily discounted equipment that you own. We found that those upgrades can save you up to $2,000 per year on your energy bills."
+      },
+      {
+        "id": 10,
+        "time": "08:08",
+        "seconds": 488.7,
+        "endSeconds": 543.4,
+        "title": "第 10 幕：Think of it like a community fund",
+        "original": "Think of it like a community fund. The tech company puts the money in. You and your neighbors take the discount out based on your need. Not first come first served, not who negotiates the hardest, everybody according to their needs. Families that need the most support, they get the biggest discount. Nobody's paying full price and nobody's doing this alone. We're all in this together, participating. And because we're all in this together, participating in that fund is sized to a number of households, manufacturers and contractors are willing to give discounts too. Because they're getting a lot of new business out of the deal. It's like Costco, but for energy, homegrown energy, is that even going to work? I mean, how many people get appliances? Well, it turns out a lot of people get appliances.",
+        "translation": "Think of it like a community fund. The tech company puts the money in. You and your neighbors take the discount out based on your need. Not first come first served, not who negotiates the hardest, everybody according to their needs. Families that need the most support, they get the biggest discount. Nobody's paying full price and nobody's doing this alone. We're all in this together, participating. And because we're all in this together, participating in that fund is sized to a number of households, manufacturers and contractors are willing to give discounts too. Because they're getting a lot of new business out of the deal. It's like Costco, but for energy, homegrown energy, is that even going to work? I mean, how many people get appliances? Well, it turns out a lot of people get appliances."
+      },
+      {
+        "id": 11,
+        "time": "09:03",
+        "seconds": 543.4,
+        "endSeconds": 592.7,
+        "title": "第 11 幕：Nearly 8 million Americans swap out t...",
+        "original": "Nearly 8 million Americans swap out their heating and cooling units every year. We buy millions of backup generators and batteries every year. A half a million households get rooftop solar, all on our own with our own money. Okay, but maybe you have other questions, like won't heat pumps add demand to the grid, for example? Sometimes, yes. But it turns out that in most of the country, the grid is the most strained in the summer. So replacing an inefficient air conditioner with an efficient heat pump lowers the demand on the grid. Who pays for the permits? Not you. That's the tech company, same as they would for a power plant. Who fixes the equipment if it breaks? Well, you do. Because it's your equipment, you own it.",
+        "translation": "Nearly 8 million Americans swap out their heating and cooling units every year. We buy millions of backup generators and batteries every year. A half a million households get rooftop solar, all on our own with our own money. Okay, but maybe you have other questions, like won't heat pumps add demand to the grid, for example? Sometimes, yes. But it turns out that in most of the country, the grid is the most strained in the summer. So replacing an inefficient air conditioner with an efficient heat pump lowers the demand on the grid. Who pays for the permits? Not you. That's the tech company, same as they would for a power plant. Who fixes the equipment if it breaks? Well, you do. Because it's your equipment, you own it."
+      },
+      {
+        "id": 12,
+        "time": "09:52",
+        "seconds": 592.7,
+        "endSeconds": 646.5,
+        "title": "第 12 幕：And it comes with a warranty and a nu...",
+        "original": "And it comes with a warranty and a number to call. Can this even work? Yes. There are already hundreds of networks around the country of households that are organized into what are called virtual power plants, putting 30 gigawatts of power or more back to the grid. Okay, so it will work. But the reality is, this is a deal we have to go get done. Homegrown energy doesn't exist today, but I'm confident that it's coming. Governor Cheryl in New Jersey, she just signed one of the most robust laws in the country that makes it possible for tech companies to get their power from households. New York and Virginia are right behind her, your state, your community could be next. And so the scale of it all creates an opportunity to rewire the system and make the deal work for all of us.",
+        "translation": "And it comes with a warranty and a number to call. Can this even work? Yes. There are already hundreds of networks around the country of households that are organized into what are called virtual power plants, putting 30 gigawatts of power or more back to the grid. Okay, so it will work. But the reality is, this is a deal we have to go get done. Homegrown energy doesn't exist today, but I'm confident that it's coming. Governor Cheryl in New Jersey, she just signed one of the most robust laws in the country that makes it possible for tech companies to get their power from households. New York and Virginia are right behind her, your state, your community could be next. And so the scale of it all creates an opportunity to rewire the system and make the deal work for all of us."
+      },
+      {
+        "id": 13,
+        "time": "10:46",
+        "seconds": 646.5,
+        "endSeconds": 698.2,
+        "title": "第 13 幕：And we should take that opportunity",
+        "original": "And we should take that opportunity. So if a data center is underway or planned in your community, you and your neighbors can flex your power and say that investing in you is the threshold for entry, the baseline. How do you do that? Three simple ways. Speak up. Maybe your neighbors on next door or on TikTok or whatever social, talking about that data center project, reply to that post. Tell them about a homegrown energy and make it the conversation. Rally your community. Don't wait for the company to come to you with a deal. Go to them together and insist that this is the deal. Maybe you don't want to be the one that goes to the town hall meeting, I get that. But let's be honest, we all know the person who does want to go.",
+        "translation": "And we should take that opportunity. So if a data center is underway or planned in your community, you and your neighbors can flex your power and say that investing in you is the threshold for entry, the baseline. How do you do that? Three simple ways. Speak up. Maybe your neighbors on next door or on TikTok or whatever social, talking about that data center project, reply to that post. Tell them about a homegrown energy and make it the conversation. Rally your community. Don't wait for the company to come to you with a deal. Go to them together and insist that this is the deal. Maybe you don't want to be the one that goes to the town hall meeting, I get that. But let's be honest, we all know the person who does want to go."
+      },
+      {
+        "id": 14,
+        "time": "11:38",
+        "seconds": 698.2,
+        "endSeconds": 751.9,
+        "title": "第 14 幕：So send them",
+        "original": "So send them. And then keep the momentum going. When you win the deal, use it. Have your neighbors use it. And then share what you and your neighbors accomplish with your network so that communities across the country can be inspired by your example and follow suit. Why would you do any of this? Maybe because it'll save you a bunch of money on your bills. Because it's better for the community and it is certainly better for our planet. And for once in this AI story, instead of feeling like the future is happening to us, we get to have a say in how the next chapter goes. That's shared power, our power in plain sight. And each of us, our communities, and America deserve nothing less. Thank you.",
+        "translation": "So send them. And then keep the momentum going. When you win the deal, use it. Have your neighbors use it. And then share what you and your neighbors accomplish with your network so that communities across the country can be inspired by your example and follow suit. Why would you do any of this? Maybe because it'll save you a bunch of money on your bills. Because it's better for the community and it is certainly better for our planet. And for once in this AI story, instead of feeling like the future is happening to us, we get to have a say in how the next chapter goes. That's shared power, our power in plain sight. And each of us, our communities, and America deserve nothing less. Thank you."
+      }
+    ],
+    "spoken": [],
+    "grammar": [],
+    "vocab": [],
+    "echoLoop": [
+      {
+        "step": 1,
+        "name": "盲听捕捉 (Blind Listening)",
+        "guide": "闭上双眼全篇盲听，记录第一遍捕捉到的核心脉络。"
+      },
+      {
+        "step": 2,
+        "name": "声学精听 (Acoustic Decoding)",
+        "guide": "对照中英双语分幕逐句精听，重点体会连读与语调起伏。"
+      },
+      {
+        "step": 3,
+        "name": "影子跟读 (Shadowing)",
+        "guide": "以 1.0x 正常语速跟随原声音频进行影子跟读练习。"
+      },
+      {
+        "step": 4,
+        "name": "自主复述 (Active Recall)",
+        "guide": "合上文本稿，尝试用英文复述演讲的核心观点。"
+      }
+    ],
+    "neteaseId": 3437824753,
+    "neteaseSongId": "3437824753"
+  },
+  {
     "id": "lindsay-scola",
     "slug": "lindsay-scola",
     "title": "I thought I was lazy. Turns out I had a sleep disorder",
