@@ -531,18 +531,18 @@
       background: linear-gradient(135deg, #151d2a 0%, #0e1520 100%);
       border: 1px solid var(--border);
       border-radius: 16px;
-      padding: 24px 28px;
-      margin-bottom: 24px;
+      padding: 16px 22px;
+      margin-bottom: 20px;
       display: flex;
-      gap: 24px;
+      gap: 20px;
       align-items: center;
       position: relative;
     }
 
     .study-header-cover {
-      width: 180px;
-      height: 108px;
-      border-radius: 10px;
+      width: 140px;
+      height: 86px;
+      border-radius: 8px;
       object-fit: cover;
       border: 1px solid var(--border);
       flex-shrink: 0;
@@ -660,226 +660,12 @@
     /* Study Two-Column Layout */
     .study-layout {
       display: grid;
-      grid-template-columns: 1fr 440px;
+      grid-template-columns: 1fr 460px;
       gap: 24px;
-      align-items: start;
-    }
-
-    /* Responsive Styles for Tablet and Mobile */
-    @media (max-width: 1080px) {
-      .study-layout {
-        grid-template-columns: 1fr;
-      }
-      .study-hero-header {
-        flex-direction: column;
-        align-items: stretch;
-      }
-      .study-header-cover {
-        width: 100%;
-        height: 220px;
-      }
-    }
-
-    @media (max-width: 768px) {
-      .site-header {
-        padding: 12px 16px;
-      }
-      .brand-sub {
-        display: none;
-      }
-      .brand-title {
-        font-size: 1.1rem;
-      }
-      .container {
-        padding: 16px 14px 40px;
-      }
-
-      /* Hero Banner Mobile */
-      .hero-banner {
-        flex-direction: column;
-        align-items: flex-start;
-        padding: 20px 18px;
-        gap: 16px;
-      }
-      .hero-content h1 {
-        font-size: 1.35rem;
-      }
-      .hero-content p {
-        font-size: 0.82rem;
-        line-height: 1.45;
-      }
-      .hero-stats {
-        width: 100%;
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        gap: 8px;
-      }
-      .stat-box {
-        min-width: 0;
-        padding: 8px 6px;
-      }
-      .stat-val {
-        font-size: 1.15rem;
-      }
-      .stat-label {
-        font-size: 0.65rem;
-      }
-
-      /* Filter & Search Mobile */
-      .filter-wrapper {
-        padding: 12px;
-        margin-bottom: 20px;
-        gap: 10px;
-        overflow: hidden;
-      }
-      .filter-primary-row {
-        flex-direction: column;
-        align-items: stretch;
-        gap: 10px;
-      }
-      .filter-tabs {
-        display: flex;
-        overflow-x: auto;
-        flex-wrap: nowrap;
-        gap: 6px;
-        padding: 2px 2px 4px;
-        -webkit-overflow-scrolling: touch;
-        scrollbar-width: none; /* Hide scrollbar for clean app feel */
-      }
-      .filter-tabs::-webkit-scrollbar {
-        display: none;
-      }
-      .filter-btn {
-        flex: 0 0 auto;
-        white-space: nowrap;
-        font-size: 0.78rem;
-        padding: 6px 13px;
-      }
-      .search-box {
-        width: 100%;
-        min-width: 0;
-      }
-      .filter-sub-row {
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 8px;
-        padding-top: 10px;
-        border-top: 1px dashed var(--border);
-      }
-      .sub-filter-label {
-        font-size: 0.72rem;
-        color: var(--text-muted);
-      }
-      #subCategoryTabs {
-        width: 100%;
-        display: flex;
-        overflow-x: auto;
-        flex-wrap: nowrap;
-        gap: 6px;
-        padding: 2px 2px 4px;
-        -webkit-overflow-scrolling: touch;
-        scrollbar-width: none;
-      }
-      #subCategoryTabs::-webkit-scrollbar {
-        display: none;
-      }
-      .sub-filter-btn {
-        flex: 0 0 auto;
-        white-space: nowrap;
-        font-size: 0.72rem;
-        padding: 4px 10px;
-      }
-
-      /* Waterfall Grid Mobile */
-      .waterfall-grid {
-        grid-template-columns: 1fr;
-        gap: 18px;
-      }
-      .card-body {
-        padding: 16px 14px;
-      }
-      .card-title-en {
-        font-size: 1.05rem;
-      }
-
-      /* Study View Mobile */
-      .study-hero-header {
-        padding: 16px 14px;
-        margin-bottom: 16px;
-      }
-      .study-header-cover {
-        height: 190px;
-      }
-      .study-main-title {
-        font-size: 1.18rem;
-      }
-      .study-cn-title {
-        font-size: 0.85rem;
-      }
-      .study-speaker-line {
-        font-size: 0.76rem;
-      }
-      .study-actions-row {
-        gap: 6px;
-      }
-      .btn-download-action {
-        font-size: 0.72rem;
-        padding: 5px 9px;
-      }
-
-      .audio-player-bar {
-        padding: 14px 14px;
-      }
-      .player-controls {
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 8px;
-      }
-      .toggle-group {
-        width: 100%;
-        justify-content: space-between;
-      }
-      .btn-toggle {
-        flex: 1;
-        text-align: center;
-        padding: 6px 4px;
-      }
-
-      .transcript-scroll {
-        padding: 14px 12px;
-        max-height: 520px;
-        gap: 12px;
-      }
-      .transcript-block {
-        padding: 12px 14px;
-      }
-      .seg-orig {
-        font-size: 0.86rem;
-        line-height: 1.5;
-      }
-      .seg-trans {
-        font-size: 0.8rem;
-        line-height: 1.45;
-      }
-
-      .study-sidebar {
-        gap: 16px;
-      }
-      .side-card-body {
-        padding: 14px 14px;
-      }
-      .quote-original {
-        font-size: 0.82rem;
-      }
-      .quote-translation {
-        font-size: 0.76rem;
-      }
-      .echo-step-desc {
-        font-size: 0.75rem;
-      }
-      .vocab-table {
-        font-size: 0.72rem;
-      }
+      align-items: stretch;
+      height: calc(100vh - 130px);
+      min-height: 680px;
+      max-height: 940px;
     }
 
     /* Left Column: Player & Transcript */
@@ -890,19 +676,21 @@
       overflow: hidden;
       display: flex;
       flex-direction: column;
+      height: 100%;
     }
 
     .audio-player-bar {
       background: #141c28;
       border-bottom: 1px solid var(--border);
-      padding: 18px 22px;
+      padding: 16px 20px;
+      flex-shrink: 0;
     }
 
     #mainAudio {
       width: 100%;
-      height: 42px;
+      height: 40px;
       outline: none;
-      margin-bottom: 12px;
+      margin-bottom: 10px;
       border-radius: 8px;
     }
 
@@ -952,8 +740,10 @@
     /* Transcript Scroll Area */
     .transcript-scroll {
       padding: 20px 24px;
-      max-height: 840px;
+      flex: 1;
+      min-height: 0;
       overflow-y: auto;
+      max-height: none;
       display: flex;
       flex-direction: column;
       gap: 16px;
@@ -1029,9 +819,81 @@
 
     /* Right Column: Echo Loop Gym + Language Teaching Cards */
     .study-right {
+      background: var(--panel-bg);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      overflow: hidden;
       display: flex;
       flex-direction: column;
-      gap: 20px;
+      height: 100%;
+    }
+
+    .study-right-header {
+      background: #141c28;
+      border-bottom: 1px solid var(--border);
+      padding: 12px 18px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-shrink: 0;
+      gap: 10px;
+    }
+
+    .study-right-title {
+      font-size: 0.88rem;
+      font-weight: 700;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      white-space: nowrap;
+    }
+
+    .study-tab-group {
+      display: flex;
+      gap: 4px;
+      align-items: center;
+    }
+
+    .study-tab-btn {
+      background: #1b2636;
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      padding: 4px 10px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 0.72rem;
+      transition: all 0.2s;
+      white-space: nowrap;
+    }
+
+    .study-tab-btn:hover {
+      background: #26354a;
+      color: var(--text-main);
+    }
+
+    .study-tab-btn.active {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+      font-weight: 600;
+    }
+
+    .study-right-body {
+      flex: 1;
+      min-height: 0;
+      overflow-y: auto;
+      padding: 18px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .study-right-body .study-card {
+      border: 1px solid rgba(255, 255, 255, 0.06);
+      background: #121824;
+      border-radius: 12px;
+      padding: 18px;
     }
 
     .study-card {
@@ -1276,6 +1138,229 @@
       color: #64748b;
       font-size: 0.7rem;
     }
+
+    /* ======================================================== */
+    /* Responsive Media Queries                                 */
+    /* ======================================================== */
+    @media (max-width: 1080px) {
+      .study-layout {
+        grid-template-columns: 1fr;
+        height: auto;
+        min-height: 0;
+        max-height: none;
+      }
+      .study-hero-header {
+        flex-direction: column;
+        align-items: stretch;
+      }
+      .study-header-cover {
+        width: 100%;
+        height: 200px;
+      }
+      .study-left {
+        height: auto;
+      }
+      .transcript-scroll {
+        max-height: 550px;
+      }
+      .study-right {
+        height: auto;
+      }
+      .study-right-body {
+        overflow-y: visible;
+        height: auto;
+      }
+    }
+
+    @media (max-width: 768px) {
+      .site-header {
+        padding: 12px 16px;
+      }
+      .brand-sub {
+        display: none;
+      }
+      .brand-title {
+        font-size: 1.1rem;
+      }
+      .container {
+        padding: 16px 14px 40px;
+      }
+
+      /* Hero Banner Mobile */
+      .hero-banner {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 20px 18px;
+        gap: 16px;
+      }
+      .hero-content h1 {
+        font-size: 1.35rem;
+      }
+      .hero-content p {
+        font-size: 0.82rem;
+        line-height: 1.45;
+      }
+      .hero-stats {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 8px;
+      }
+      .stat-box {
+        min-width: 0;
+        padding: 8px 6px;
+      }
+      .stat-val {
+        font-size: 1.15rem;
+      }
+      .stat-label {
+        font-size: 0.65rem;
+      }
+
+      /* Filter & Search Mobile */
+      .filter-wrapper {
+        padding: 12px;
+        margin-bottom: 20px;
+        gap: 10px;
+        overflow: hidden;
+      }
+      .filter-primary-row {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 10px;
+      }
+      .filter-tabs {
+        display: flex;
+        overflow-x: auto;
+        flex-wrap: nowrap;
+        gap: 6px;
+        padding: 2px 2px 4px;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+      }
+      .filter-tabs::-webkit-scrollbar {
+        display: none;
+      }
+      .filter-btn {
+        flex: 0 0 auto;
+        white-space: nowrap;
+        font-size: 0.78rem;
+        padding: 6px 13px;
+      }
+      .search-box {
+        width: 100%;
+        min-width: 0;
+      }
+      .filter-sub-row {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+        padding-top: 10px;
+        border-top: 1px dashed var(--border);
+      }
+      .sub-filter-label {
+        font-size: 0.72rem;
+        color: var(--text-muted);
+      }
+      #subCategoryTabs {
+        width: 100%;
+        display: flex;
+        overflow-x: auto;
+        flex-wrap: nowrap;
+        gap: 6px;
+        padding: 2px 2px 4px;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+      }
+      #subCategoryTabs::-webkit-scrollbar {
+        display: none;
+      }
+      .sub-filter-btn {
+        flex: 0 0 auto;
+        white-space: nowrap;
+        font-size: 0.72rem;
+        padding: 4px 10px;
+      }
+
+      /* Waterfall Grid Mobile */
+      .waterfall-grid {
+        grid-template-columns: 1fr;
+        gap: 18px;
+      }
+      .card-body {
+        padding: 16px 14px;
+      }
+      .card-title-en {
+        font-size: 1.05rem;
+      }
+
+      /* Study View Mobile */
+      .study-hero-header {
+        padding: 16px 14px;
+        margin-bottom: 16px;
+      }
+      .study-header-cover {
+        height: 190px;
+      }
+      .study-main-title {
+        font-size: 1.18rem;
+      }
+      .study-cn-title {
+        font-size: 0.85rem;
+      }
+      .study-speaker-line {
+        font-size: 0.76rem;
+      }
+      .study-actions-row {
+        gap: 6px;
+      }
+      .btn-download-action {
+        font-size: 0.72rem;
+        padding: 5px 9px;
+      }
+
+      .audio-player-bar {
+        padding: 14px 14px;
+      }
+      .player-controls {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+      }
+      .toggle-group {
+        width: 100%;
+        justify-content: space-between;
+      }
+      .btn-toggle {
+        flex: 1;
+        text-align: center;
+        padding: 6px 4px;
+      }
+
+      .transcript-scroll {
+        padding: 14px 12px;
+        max-height: 520px;
+        gap: 12px;
+      }
+      .transcript-block {
+        padding: 12px 14px;
+      }
+      .seg-orig {
+        font-size: 0.86rem;
+        line-height: 1.5;
+      }
+      .seg-trans {
+        font-size: 0.8rem;
+        line-height: 1.45;
+      }
+
+      .echo-step-desc {
+        font-size: 0.75rem;
+      }
+      .vocab-table {
+        font-size: 0.72rem;
+      }
+    }
   </style>
 </head>
 <body>
@@ -1415,65 +1500,81 @@
 
       <!-- Right Column: Echo Loop Gym + Language Teaching -->
       <div class="study-right">
-        <!-- Echo Loop Step Box -->
-        <div class="study-card">
-          <div class="study-card-title">
-            <span>🔁 Echo Loop 口语刻意练习舱</span>
-            <span class="study-badge badge-spoken">4步训练</span>
+        <div class="study-right-header">
+          <div class="study-right-title">
+            <span>🎯</span>
+            <span>精学核心舱</span>
           </div>
-          <div class="gym-steps" id="gymSteps">
-            <div class="gym-step-item active" onclick="setGymStep(1)">1. 盲听捕捉</div>
-            <div class="gym-step-item" onclick="setGymStep(2)">2. 声学精听</div>
-            <div class="gym-step-item" onclick="setGymStep(3)">3. 影子跟读</div>
-            <div class="gym-step-item" onclick="setGymStep(4)">4. 自主复述</div>
+          <div class="study-tab-group" id="studyTabGroup">
+            <button class="study-tab-btn active" data-tab="all" onclick="switchStudyTab('all', this)">全部</button>
+            <button class="study-tab-btn" data-tab="echo" onclick="switchStudyTab('echo', this)">练习</button>
+            <button class="study-tab-btn" data-tab="spoken" onclick="switchStudyTab('spoken', this)">口语</button>
+            <button class="study-tab-btn" data-tab="grammar" onclick="switchStudyTab('grammar', this)">语法</button>
+            <button class="study-tab-btn" data-tab="vocab" onclick="switchStudyTab('vocab', this)">词汇</button>
           </div>
+        </div>
 
-          <div class="step-guidance" id="stepGuidance">
-            🎧 <strong>步骤 1：盲听捕捉 (Blind Listening)</strong><br/>
-            不看文本，闭眼聆听下方精选原句 2-3 遍，让声音回声在脑中成型。
-          </div>
+        <div class="study-right-body" id="studyRightBody">
+          <!-- Echo Loop Step Box -->
+          <div class="study-card" data-study-card="echo">
+            <div class="study-card-title">
+              <span>🔁 Echo Loop 口语刻意练习舱</span>
+              <span class="study-badge badge-spoken">4步训练</span>
+            </div>
+            <div class="gym-steps" id="gymSteps">
+              <div class="gym-step-item active" onclick="setGymStep(1)">1. 盲听捕捉</div>
+              <div class="gym-step-item" onclick="setGymStep(2)">2. 声学精听</div>
+              <div class="gym-step-item" onclick="setGymStep(3)">3. 影子跟读</div>
+              <div class="gym-step-item" onclick="setGymStep(4)">4. 自主复述</div>
+            </div>
 
-          <!-- Quote Display Box -->
-          <div class="quote-display-box">
-            <div class="quote-en-text" id="quoteEn">"Quote"</div>
-            <div class="quote-cn-text" id="quoteCn">"金句译文"</div>
-            <div class="quote-audio-actions">
-              <button class="btn-quote-play" onclick="playQuoteOnce()">▶ 播放原声</button>
-              <button class="btn-quote-play" id="btnQuoteLoop" onclick="toggleQuoteLoop()">🔁 循环跟读</button>
+            <div class="step-guidance" id="stepGuidance">
+              🎧 <strong>步骤 1：盲听捕捉 (Blind Listening)</strong><br/>
+              不看文本，闭眼聆听下方精选原句 2-3 遍，让声音回声在脑中成型。
+            </div>
+
+            <!-- Quote Display Box -->
+            <div class="quote-display-box">
+              <div class="quote-en-text" id="quoteEn">"Quote"</div>
+              <div class="quote-cn-text" id="quoteCn">"金句译文"</div>
+              <div class="quote-audio-actions">
+                <button class="btn-quote-play" onclick="playQuoteOnce()">▶ 播放原声</button>
+                <button class="btn-quote-play" id="btnQuoteLoop" onclick="toggleQuoteLoop()">🔁 循环跟读</button>
+              </div>
             </div>
           </div>
-        </div>
 
-        <!-- Spoken English Expressions -->
-        <div class="study-card">
-          <div class="study-card-title">
-            <span>💬 黄金地道口语</span>
-            <span class="study-badge badge-spoken">Spoken Fluency</span>
+          <!-- Spoken English Expressions -->
+          <div class="study-card" data-study-card="spoken">
+            <div class="study-card-title">
+              <span>💬 黄金地道口语</span>
+              <span class="study-badge badge-spoken">Spoken Fluency</span>
+            </div>
+            <div id="studySpokenList">
+              <!-- Populated by JS -->
+            </div>
           </div>
-          <div id="studySpokenList">
-            <!-- Populated by JS -->
-          </div>
-        </div>
 
-        <!-- Grammar in Context -->
-        <div class="study-card">
-          <div class="study-card-title">
-            <span>📐 语境语法拆解</span>
-            <span class="study-badge badge-grammar">Grammar in Context</span>
+          <!-- Grammar in Context -->
+          <div class="study-card" data-study-card="grammar">
+            <div class="study-card-title">
+              <span>📐 语境语法拆解</span>
+              <span class="study-badge badge-grammar">Grammar in Context</span>
+            </div>
+            <div id="studyGrammarList">
+              <!-- Populated by JS -->
+            </div>
           </div>
-          <div id="studyGrammarList">
-            <!-- Populated by JS -->
-          </div>
-        </div>
 
-        <!-- Collocations & Vocab -->
-        <div class="study-card">
-          <div class="study-card-title">
-            <span>📚 高阶搭配与词汇</span>
-            <span class="study-badge badge-vocab">Collocations</span>
-          </div>
-          <div id="studyVocabList">
-            <!-- Populated by JS -->
+          <!-- Collocations & Vocab -->
+          <div class="study-card" data-study-card="vocab">
+            <div class="study-card-title">
+              <span>📚 高阶搭配与词汇</span>
+              <span class="study-badge badge-vocab">Collocations</span>
+            </div>
+            <div id="studyVocabList">
+              <!-- Populated by JS -->
+            </div>
           </div>
         </div>
       </div>
@@ -1802,6 +1903,30 @@
 
       // Update Segments Transcript
       renderTranscriptSegments(ep.segments || []);
+
+      // Reset study tab to 'all'
+      switchStudyTab('all');
+    }
+
+    function switchStudyTab(type, btn) {
+      document.querySelectorAll('#studyTabGroup .study-tab-btn').forEach(b => b.classList.remove('active'));
+      if (btn) {
+        btn.classList.add('active');
+      } else {
+        const targetBtn = document.querySelector(`#studyTabGroup .study-tab-btn[data-tab="${type}"]`);
+        if (targetBtn) targetBtn.classList.add('active');
+      }
+
+      const cards = document.querySelectorAll('#studyRightBody .study-card');
+      cards.forEach(card => {
+        if (type === 'all' || card.getAttribute('data-study-card') === type) {
+          card.style.display = 'block';
+        } else {
+          card.style.display = 'none';
+        }
+      });
+      const rightBody = document.getElementById('studyRightBody');
+      if (rightBody) rightBody.scrollTop = 0;
     }
 
     function renderTranscriptSegments(segments) {
