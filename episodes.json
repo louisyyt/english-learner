@@ -1,5 +1,115 @@
 [
   {
+    "id": "joojin-kim",
+    "slug": "joojin-kim",
+    "title": "How to clean up the world's dirtiest industry",
+    "chineseTitle": "如何清理世界上最肮脏的行业 · How to clean up the world's dirtiest industry",
+    "speaker": "Joojin Kim",
+    "speakerTitle": "TED演讲嘉宾",
+    "category": "社会与治理",
+    "subCategory": "核心精选",
+    "duration": "07:38",
+    "durationSeconds": 458.4,
+    "audioUrl": "https://audio.louisyu.top/joojin-kim-clean.mp3",
+    "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188021/8165efcf-c43d-4729-ab9d-4a3bb647a46f/JoojinKim_2026-stageshot.jpg",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188021/8165efcf-c43d-4729-ab9d-4a3bb647a46f/JoojinKim_2026-stageshot.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188021/8165efcf-c43d-4729-ab9d-4a3bb647a46f/JoojinKim_2026-stageshot.jpg",
+    "quote": "We have to identify the systems that can unlock many others, the places where one smart move can create ripple effects across the entire economy.",
+    "quoteTranslation": "我们必须找出可以解锁许多其他系统的系统，在这些系统中，一项明智的举措就可以在整个经济中产生连锁反应。",
+    "segments": [
+      {
+        "id": 1,
+        "time": "00:04",
+        "seconds": 4.2,
+        "endSeconds": 66.5,
+        "title": "第 1 幕：For those of us who are worried about...",
+        "original": "For those of us who are worried about climate change, it's no doubt challenging times. It feels like the end of the light of the tunnel gets further as companies and governments pull back. And I get it. It's hard to feel motivated with headlines like these. But that is not the full story. In reality, a shift towards a climate-solution-based economy is already underway. Not just because it protects the climate, but because it's becoming more profitable, more practical, and more affordable. Despite all the setbacks, we will solve this problem. However, we have to be strategic. We cannot solve every climate problem at once. We have to identify the systems that can unlock many others, the places where one smart move can create ripple effects across the entire economy.",
+        "translation": "对于我们这些担心气候变化的人来说，这无疑是一个充满挑战的时期。随着公司和政府的撤退，感觉隧道的尽头越来越远。我明白了。像这样的头条新闻很难让人感到有动力。但这还不是故事的全部。事实上，向基于气候解决方案的经济的转变已经在进行中。不仅因为它保护了气候，还因为它变得更有利可图、更实用、更便宜。尽管遇到种种挫折，我们还是会解决这个问题。然而，我们必须有策略。我们无法一次性解决所有气候问题。我们必须找出可以解锁许多其他系统的系统，在这些系统中，一项明智的举措就可以在整个经济中产生连锁反应。"
+      },
+      {
+        "id": 2,
+        "time": "01:06",
+        "seconds": 66.5,
+        "endSeconds": 121.5,
+        "title": "第 2 幕：One of the most strategic, most power...",
+        "original": "One of the most strategic, most powerful, but also most overlooked of those systems is shipping. If shipping was a country, it would be the sixth-largest greenhouse gas emitter in the world. Many of these ships aren't just powered by fossil fuels, they're built with fossil fuels, and they transport fossil fuels. Maritime shipping is a climate problem on three fronts, three. One, for the cargo it carries. Crude oil and gas account for roughly one-third of maritime trade. Around half of natural gas is shipped in a liquified form called LNG. An LNG trade has doubled during the past decade. Two, because of the fuel, ships burn. Most ships still burn heavy fuel oils, or increasingly LNG, which releases carbon dioxide and methane, a dirty super pollutant that accelerates climate change and air pollution.",
+        "translation": "这些系统中最具战略意义、最强大但也是最容易被忽视的系统之一就是运输。如果航运业是一个国家，它将成为世界第六大温室气体排放国。其中许多船舶不仅由化石燃料提供动力，它们也是用化石燃料建造的，并且运输化石燃料。海运是三个方面的气候问题。一，对于它所运载的货物。原油和天然气约占海上贸易的三分之一。大约一半的天然气以液化天然气（LNG）的形式运输。过去十年，液化天然气贸易量翻了一番。第二，由于燃料，船舶燃烧。大多数船舶仍然燃烧重质燃油，或者越来越多地燃烧液化天然气，这会释放二氧化碳和甲烷，这是一种肮脏的超级污染物，会加速气候变化和空气污染。"
+      },
+      {
+        "id": 3,
+        "time": "02:01",
+        "seconds": 121.5,
+        "endSeconds": 178.5,
+        "title": "第 3 幕：Three, because of the steel ships are...",
+        "original": "Three, because of the steel ships are made of. Most steel is made using dirty coal. Steel production is responsible for another 8% of global emissions. So shipping is not a side issue in the climate crisis. It is one of the biggest hidden levers in the entire climate fight. A system if pulled the right way, which can unlock a faster energy transition. It's tempting to think of oceans as diffused and decentralized, but when it comes to ships, their supply chains converge in one place. East Asia, South Korea in particular, dominates global shipbuilding, steel production for ships, and the public finance behind them. And we are now at a critical moment with Asia as a key leverage point. The world has experienced how volatile fossil fuels are with the war in Ukraine.",
+        "translation": "三、因为船舶是由钢制成的。大多数钢铁是用肮脏的煤炭制造的。钢铁生产排放量占全球排放量的另外 8%。因此，航运并不是气候危机中的一个次要问题。这是整个气候斗争中最大的隐藏杠杆之一。一个系统如果以正确的方式推动，就可以实现更快的能量转换。人们很容易认为海洋是分散和分散的，但对于船舶来说，它们的供应链汇聚在一处。东亚，尤其是韩国，主导着全球造船业、船舶钢铁生产及其背后的公共财政。我们现在正处于一个以亚洲为关键杠杆点的关键时刻。乌克兰战争让全世界都经历了化石燃料的不稳定。"
+      },
+      {
+        "id": 4,
+        "time": "02:58",
+        "seconds": 178.5,
+        "endSeconds": 235.1,
+        "title": "第 4 幕：Again, we are experiencing the same w...",
+        "original": "Again, we are experiencing the same with the war in the Middle East. Right now, East Asian economies are making a decision. Do we keep funding fossil fuels or pivot towards offshore wind installation vessels, green ammonia tankers, or ships made with clean steel? Because clean options don't scale just because they exist. They scale when policy, finance, and regulation align to make clean, attractive. My organization, Solutions for our Climate, works to do just that. And we're no beginner here. We've done it before with coal. From behind the scenes international negotiations to grassroots communities, from courtrooms to hilarious videos portraying dismal climate facts, we know what message to put in front of who, how, and when. Our work actually contributed to ending coal financing by the East Asian coal giants.",
+        "translation": "我们在中东战争中再次经历了同样的情况。目前，东亚经济体正在做出决定。我们是继续资助化石燃料，还是转向海上风电安装船、绿色氨油轮或清洁钢材制造的船舶？因为清洁选项不会仅仅因为存在而扩展。当政策、金融和监管协调一致时，它们就会扩大规模，从而变得清洁、有吸引力。我的组织“气候解决方案”致力于实现这一目标。我们并不是初学者。我们以前用煤炭做到过。从幕后国际谈判到基层社区，从法庭到描绘令人沮丧的气候事实的搞笑视频，我们知道该向谁、如何以及何时传达什么信息。我们的工作实际上有助于结束东亚煤炭巨头的煤炭融资。"
+      },
+      {
+        "id": 5,
+        "time": "03:55",
+        "seconds": 235.1,
+        "endSeconds": 301.5,
+        "title": "第 5 幕：And now, we're ready to take on shipp...",
+        "original": "And now, we're ready to take on shipping the same way. First, we expose emissions, policy gaps, financial risks. Take LNG transportation. Global LNG trade depends entirely on ships. Each LNG carrier ship costs $250 million, takes three years to build, and locks in decades of emissions. The system is surprisingly concentrated. 70% of these ships are built in one country, one country, South Korea. In 2022 alone, in one year, South Korean government banks provided more than $10 billion of financing for these ships. The technology around these ships are monopolized by a handful of companies. So this isn't just a business story. It's a political and financial choke point. Second, we redirect capital and governments away from fossil expansion. If we cut the financing of these ships, we will limit LNG expansion.",
+        "translation": "现在，我们已准备好以同样的方式进行运输。首先，我们揭露排放、政策差距和金融风险。以液化天然气运输为例。全球液化天然气贸易完全依赖船舶。每艘液化天然气运输船耗资 2.5 亿美元，需要三年时间建造，并锁定数十年的排放量。该系统的集中程度令人惊讶。这些船舶70%是在一个国家建造的，一个国家，韩国。仅 2022 年一年，韩国政府银行就为这些船舶提供了超过 100 亿美元的融资。这些船舶的技术被少数公司垄断。所以这不仅仅是一个商业故事。这是一个政治和金融的瓶颈。其次，我们引导资本和政府远离化石能源扩张。如果我们削减这些船舶的融资，我们将限制液化天然气的扩张。"
+      },
+      {
+        "id": 6,
+        "time": "05:01",
+        "seconds": 301.5,
+        "endSeconds": 363.2,
+        "title": "第 6 幕：Our aim is simple",
+        "original": "Our aim is simple. Make LNG a no investment zone. We're asking private banks to end the financing of these ships. We're pushing Asian lenders to adopt exclusion policies. Third, we build markets, demands, and rules for clean alternatives. The technology for clean steel or green shipping fuels is already here. What's missing is the supply chains in demand to meet it. Our push for finance, regulations, and infrastructure will change this. That means building clean fuel supply chains, creating new demand through green shipping quarters between ports. Over time, renewable rich regions will replace oil refineries as shipping fuel production hubs. We apply the same approach for clean steel. Green hydrogen will replace the rule, coal-served, and steel making. This isn't just aspirational. The work is already underway.",
+        "translation": "我们的目标很简单。使液化天然气成为非投资区。我们要求私人银行停止为这些船只提供融资。我们正在推动亚洲银行采取排除政策。第三，我们为清洁替代品建立市场、需求和规则。清洁钢铁或绿色运输燃料的技术已经存在。缺少的是满足这一需求的供应链。我们对金融、监管和基础设施的推动将改变这一点。这意味着建立清洁燃料供应链，通过港口之间的绿色航运区创造新的需求。随着时间的推移，可再生能源丰富的地区将取代炼油厂成为航运燃料生产中心。我们对洁净钢采用相同的方法。绿色氢将取代传统的燃煤和钢铁生产。这不仅仅是一个愿望。这项工作已经在进行中。"
+      },
+      {
+        "id": 7,
+        "time": "06:03",
+        "seconds": 363.2,
+        "endSeconds": 453.4,
+        "title": "第 7 幕：We've already convinced four European...",
+        "original": "We've already convinced four European banks to exit from a major LNG project in Mozambique. We've blocked new coal-based steel investments. We've secured financial support for hydrogen-based steel mills. We're doing the work and building the momentum. And now we will supercharge it through Navigate to Clean, a new initiative to clean up maritime shipping. With the generous support of the community of audacious donors, we will turn shipping from a conduit of dirty trade to a driver of clean trade. We are a team of marketers, diplomats, lawyers, shipping experts. We're a regional organization with global reach. We know the system and how to move it. We've done it with coal, and we can do it with shipping. It is difficult times, yes. But with the right strategy and leverage, we can illuminate up to 2.2 gigatons of emissions per year by 2032. That's almost one year's of emissions of the entire European Union. This is not a marginal fix. This is not tinkering at the edges. This is what it looks like to move a hidden engine of global economy and the climate movement with it. We're playing chess, not checkers, and we're here to win. Thank you.",
+        "translation": "我们已经说服四家欧洲银行退出莫桑比克的一个大型液化天然气项目。我们阻止了新的煤钢投资。我们已经为氢基钢厂提供了财政支持。我们正在做工作并积蓄动力。现在，我们将通过“导航清洁”（Navigate to Clean）来加强它，这是一项清洁海运的新举措。在大胆捐助者的慷慨支持下，我们将把航运从肮脏贸易的渠道转变为清洁贸易的驱动力。我们是一支由营销人员、外交官、律师、航运专家组成的团队。我们是一个具有全球影响力的区域组织。我们了解该系统以及如何移动它。我们已经用煤炭做到了这一点，我们也可以用航运做到这一点。是的，这是困难时期。但只要采取正确的策略和杠杆作用，到 2032 年，我们每年可以减少高达 2.2 亿吨的排放量。这几乎相当于整个欧盟一年的排放量。这不是边际修复。这并不是在边缘修修补补。这就是推动全球经济和气候运动的隐藏引擎的样子。我们是在下国际象棋，不是跳棋，我们是来赢的。谢谢。"
+      }
+    ],
+    "spoken": [],
+    "grammar": [],
+    "vocab": [],
+    "echoLoop": [
+      {
+        "step": 1,
+        "name": "盲听捕捉 (Blind Listening)",
+        "guide": "闭上双眼全篇盲听，记录第一遍捕捉到的核心脉络。"
+      },
+      {
+        "step": 2,
+        "name": "声学精听 (Acoustic Decoding)",
+        "guide": "对照中英双语分幕逐句精听，重点体会连读与语调起伏。"
+      },
+      {
+        "step": 3,
+        "name": "影子跟读 (Shadowing)",
+        "guide": "以 1.0x 正常语速跟随原声音频进行影子跟读练习。"
+      },
+      {
+        "step": 4,
+        "name": "自主复述 (Active Recall)",
+        "guide": "合上文本稿，尝试用英文复述演讲的核心观点。"
+      }
+    ],
+    "neteaseId": 3439647109,
+    "neteaseSongId": "3439647109"
+  },
+  {
     "id": "zack-abbott-and-dhruv-khullar",
     "slug": "zack-abbott-and-dhruv-khullar",
     "title": "How tech will (and won't) replace your doctor",
