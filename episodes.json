@@ -1,5 +1,160 @@
 [
   {
+    "id": "eric-zimmerman",
+    "slug": "eric-zimmerman",
+    "title": "What makes a good game?",
+    "chineseTitle": "怎样才是一款好游戏？ · What makes a good game?",
+    "speaker": "Eric Zimmerman",
+    "speakerTitle": "TED演讲嘉宾",
+    "category": "人文与艺术",
+    "subCategory": "核心精选",
+    "duration": "12:20",
+    "durationSeconds": 740.6,
+    "audioUrl": "https://audio.louisyu.top/eric-zimmerman-clean.mp3",
+    "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187280/4c49529e-0abc-484e-987a-71e813cd28c9/EricZimmerman_2026SS-stageshot.jpg",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187280/4c49529e-0abc-484e-987a-71e813cd28c9/EricZimmerman_2026SS-stageshot.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187280/4c49529e-0abc-484e-987a-71e813cd28c9/EricZimmerman_2026SS-stageshot.jpg",
+    "quote": "So if rules are logical and rigid and fixed and unchanging, play is spontaneous and creative and unexpected.",
+    "quoteTranslation": "因此，如果规则是合乎逻辑的、严格的、固定的、不变的，那么游戏就是自发的、创造性的和意想不到的。",
+    "segments": [
+      {
+        "id": 1,
+        "time": "00:04",
+        "seconds": 4.0,
+        "endSeconds": 58.1,
+        "title": "第 1 幕：Hello everybody, I'm Eric and I'm a g...",
+        "original": "Hello everybody, I'm Eric and I'm a game designer and that means that I make video games, I make tabletop games, I work with architect Natalie Potsi to do large-scale museum installations, and I also write books about game design and I teach at the NYU Game Center at Tisch School of the Arts, where we think about games as an art form and also play as a deep form of literacy. Today I want to talk to you from my point of view as a game designer about how to really make something that engages and grabs and hooks an audience, right? And how you can apply these ideas to whatever it is that you do. And how do we do that? We play with rules, right? I'm gonna, I'm gonna talk about that. I want to structure that in terms of a series of levels. I'm sorry about the level thing, but you know, I am a game designer, so here we are.",
+        "translation": "大家好，我是 Eric，我是一名游戏设计师，这意味着我制作视频游戏，制作桌面游戏，与建筑师 Natalie Potsi 合作制作大型博物馆装置，我还写有关游戏设计的书籍，并在蒂施艺术学院的纽约大学游戏中心任教，在那里我们将游戏视为一种艺术形式，也将游戏视为一种深层的读写能力。今天我想从我作为游戏设计师的角度与大家谈谈如何真正制作出吸引、吸引和吸引观众的东西，对吗？以及如何将这些想法应用到您所做的任何事情中。我们该如何做到这一点？我们玩游戏是有规则的，对吧？我要，我要谈谈这个。我想根据一系列级别来构建它。我对关卡问题感到抱歉，但你知道，我是一名游戏设计师，所以我们就到这里了。"
+      },
+      {
+        "id": 2,
+        "time": "00:58",
+        "seconds": 58.2,
+        "endSeconds": 109.4,
+        "title": "第 2 幕：So let's start at the beginning, righ...",
+        "original": "So let's start at the beginning, right? Rules. Okay, what are rules? What do I mean by rules? Well, think about when you buy a board game. What do you actually buy? Well, you have like, you know, maybe a pretty box. There are some cards and dice and little pieces, but what you're really buying is rules, right? Rules from one point of view is the essence of what a game is. Rules tell you what to do each turn and how to win. If you're like playing the game and it's like, oh, we landed on a red space. What does that mean? I don't know. We have to clarify this ambiguity by referring to the rules, right? Let me, let me give you another example. Let's say you're playing baseball, right? And you say, okay, this, this tree here is second base. Okay, so I'm playing, I'm here on second base. And then while the next batter is up, I'm like, oh, maybe I can like hold on to this little twig like way over here and get as close as I can to third base, right?",
+        "translation": "那么让我们从头开始吧？规则。好吧，规则是什么？我所说的规则是什么意思？好吧，想想当你购买棋盘游戏时。你实际上买什么？嗯，你知道，也许有一个漂亮的盒子。有一些卡片、骰子和小碎片，但你真正购买的是规则，对吗？从某种角度来看，规则是游戏的本质。规则告诉你每回合该做什么以及如何获胜。如果你喜欢玩这个游戏，就像，哦，我们降落在一个红色的空间上。这意味着什么？我不知道。我们必须通过参考规则来澄清这个歧义，对吧？让我，让我再举一个例子。假设你正在打棒球，对吧？你说，好吧，这棵树是二垒。好吧，我在打球，我在二垒。然后当下一个击球手上场时，我想，哦，也许我可以像这里一样抓住这根小树枝，尽可能接近三垒，对吧？"
+      },
+      {
+        "id": 3,
+        "time": "01:49",
+        "seconds": 109.4,
+        "endSeconds": 163.2,
+        "title": "第 3 幕：And then I'm tagged out",
+        "original": "And then I'm tagged out. And I'm like, wait, what a second. I'm on second base. You're not on second base. Second base is the tree. It's not the tree. It's the trunk of the tree, right? Okay, there's an argument here. And in order to actually play the game of baseball, we'd have to resolve this ambiguity, right, in order to move the game forward. So from this point of view, like games don't sound like that much fun, right? Rules are like rigid and fixed and logical, right? But the amazing thing about games is that if you decide to enter into those rules, right? If you decide to play, then what happens is play and plays the opposite of rules. Right? So if rules are logical and rigid and fixed and unchanging, play is spontaneous and creative and unexpected. And it's so much the opposite of rules, right? But we need those rules in order to help facilitate that play, which brings us to our next level play, right?",
+        "translation": "然后我就被标记了。我想，等等，等一下。我在二垒。你不在二垒。第二个基地是树。这不是树。这是树干吧？好吧，这里有一个争论。为了真正进行棒球比赛，我们必须解决这种歧义，对吧，以便推动比赛向前发展。所以从这个角度来看，游戏听起来并没有那么有趣，对吧？规则就像是僵化的、固定的、合乎逻辑的，对吧？但游戏的奇妙之处在于，如果你决定遵守这些规则，对吗？如果你决定玩，那么就会发生与规则相反的游戏。正确的？因此，如果规则是合乎逻辑的、严格的、固定的、不变的，那么游戏就是自发的、创造性的和意想不到的。这与规则完全相反，对吧？但我们需要这些规则来帮助促进比赛，从而使我们进入下一个级别的比赛，对吧？"
+      },
+      {
+        "id": 4,
+        "time": "02:43",
+        "seconds": 163.2,
+        "endSeconds": 220.5,
+        "title": "第 4 幕：Okay, play is not something that just...",
+        "original": "Okay, play is not something that just happens on its own. With play, we always play, we always play with something, right? Let me explain what I mean. Let's take, like we can play with any system. Even this is a system, just like walking, right? So here's walking, let me demonstrate walking for you. Walking, I'm walking, right? So that's like the logical sort of efficient transportation idea of walking, just getting from point A to point B. But if you imagine in your head a child walking playfully, something else is happening, right? What is happening? What are you imagining? Somebody shout it out. Skipping, okay, so I will demonstrate. Okay, skipping, what's another one? Wait, running? Wandering, right, okay, we're gonna fall off stage here. Okay, wait, so wandering, what's another one? Hopping, okay, you guys are really putting me to work up here. One more? Oh, yeah, right, all right. This would be coming like masochistic, I think.",
+        "translation": "好吧，玩耍并不是自然而然发生的事情。玩的时候，我们总是在玩，我们总是在玩一些东西，对吧？让我解释一下我的意思。让我们假设我们可以使用任何系统。连这也是一个系统，就像走路一样吧？那么这里是步行，让我为您演示一下步行。走路，我走路，对吗？所以这就像逻辑上步行的高效交通理念，只是从 A 点到 B 点。但是如果你在脑海中想象一个孩子顽皮地行走，那么就会发生其他事情，对吧？怎么了？你在想象什么？有人大声喊出来。跳过，好吧，那我来演示一下。好吧，跳过，还有一个吗？等等，跑步？徘徊，好吧，好吧，我们要从这里掉下来了。好吧，等等，这么徘徊，还有另一个吗？跳，好吧，你们真的让我在这里工作。再来一张？哦，是的，好吧，好吧。我认为这就像受虐狂一样。"
+      },
+      {
+        "id": 5,
+        "time": "03:40",
+        "seconds": 220.5,
+        "endSeconds": 274.9,
+        "title": "第 5 幕：Okay, so I, all right, all right",
+        "original": "Okay, so I, all right, all right. So what is happening here? What's going on? Well, I'm playing with the rules of walking, right? So however we see a kid avoiding cracks or skipping or hopping, they're playing with, well, they're certainly playing with space and time, right? This idea of walking as this efficient transportation, they're playing with their bodies, they're playing with gravity, they're playing with maybe with like the social etiquette of the sidewalk because they're getting in people's ways, right? Because they're doing things that are that are unexpected and inappropriate, right? But that's play. And play, it's like a very collaborative parasite. It's like it grabs on to something, but instead of sucking the life out of it, it does the opposite, it just adds joy. And this is why play is creativity. Because if we wanted to invent new forms of walking, this is what we would do. We would look at those structures, what are the rules of walking?",
+        "translation": "好吧，那我，好吧，好吧。那么这里发生了什么？这是怎么回事？好吧，我正在遵守步行规则，对吗？所以，无论我们看到一个孩子如何避免裂缝、跳跃或跳跃，他们都是在玩，嗯，他们肯定是在玩空间和时间，对吧？将步行作为一种有效的交通工具，他们在玩弄自己的身体，他们在玩弄重力，他们可能在玩弄人行道上的社交礼仪，因为它们妨碍了人们，对吧？因为他们正在做一些意想不到的、不恰当的事情，对吗？但这就是玩。玩耍时，它就像一个非常协作的寄生虫。就好像它抓住了某样东西，但它并没有吸走它的生命，而是做了相反的事情，它只是增加了欢乐。这就是为什么游戏是创造力的原因。因为如果我们想发明新的步行方式，我们就会这么做。我们会看看那些结构，行走的规则是什么？"
+      },
+      {
+        "id": 6,
+        "time": "04:34",
+        "seconds": 274.9,
+        "endSeconds": 323.5,
+        "title": "第 6 幕：What are the leverage points where we...",
+        "original": "What are the leverage points where we can start playing around with those structures? And how can we then start to sort of poke and prod in them to play with those structures and maybe invent something completely new? All right, back to our levels. Where are our next level? Design, all right? We looked at what rules are. We looked at how we can play with systems. And now I want to talk about how game designers actually create a game. How we build games out of constraints. And I actually need two volunteers from the audience for this. Do I have a couple of volunteers? Okay, one, I saw you two. Come on up. Okay, so come on up on stage. Let's give a round of applause for our brave volunteers. All right, and have you two stand over here. Stand right over here. Okay, so what are your names? Mila. Mila and. Ida. Ida. Okay, we're going to play a game.",
+        "translation": "我们可以从哪些杠杆点开始尝试这些结构？然后我们怎样才能开始对它们进行刺激和刺激来玩弄这些结构，甚至发明一些全新的东西呢？好吧，回到我们的水平。我们的下一个层次在哪里？设计，好吗？我们研究了规则是什么。我们研究了如何使用系统。现在我想谈谈游戏设计师实际上是如何创造游戏的。我们如何摆脱限制来构建游戏。为此，我实际上需要两名观众志愿者。我有几个志愿者吗？好吧，一，我看到你们两个了。上来吧。好吧，那么请上台吧。让我们为勇敢的志愿者们鼓掌。好吧，请你们两个站在这里。站在这里。好吧，那你叫什么名字？米拉.米拉和.艾达。艾达。好吧，我们要玩一个游戏。"
+      },
+      {
+        "id": 7,
+        "time": "05:23",
+        "seconds": 323.5,
+        "endSeconds": 376.6,
+        "title": "第 7 幕：And this game may not work at first",
+        "original": "And this game may not work at first. So you will just take it step by step. Okay, I'm going to give you some rules. Mila will start with you. And what I want you two to do is just alternate saying a word. Okay, it can be any word. And the only rule is that you can't repeat a word that's already been said. Okay, go ahead. Cheese. Cheese. Play. Yellow. Freedom. Red. Okay, that's a start. Maybe not really a fun game yet, but that's okay. That's not your fault. That's on me, I'm the game designer. Okay, I'm going to add another rule. We're going to keep all of the rules that we had before. So you're going to alternate saying words. You're not going to repeat a word that's already been said. But I want to add a restriction. I like your cheese opening. That was a very interesting opening. We're going to restrict it just to food.",
+        "translation": "而且这款游戏一开始可能无法运行。所以你只要一步一步来就可以了。好吧，我给你一些规则。米拉将从你开始。我希望你们两个做的只是交替说一个词。好的，可以是任何单词。唯一的规则是你不能重复已经说过的单词。好的，继续吧。奶酪。奶酪。玩。黄色的。自由。红色的。好吧，这是一个开始。也许还不是一个真正有趣的游戏，但没关系。那不是你的错。这是我的事，我是游戏设计师。好的，我要添加另一条规则。我们将保留之前的所有规则。所以你要交替说的话。你不会重复已经说过的一句话。但我想添加一个限制。我喜欢你的奶酪开口。这是一个非常有趣的开场白。我们将把它限制在食物上。"
+      },
+      {
+        "id": 8,
+        "time": "06:16",
+        "seconds": 376.6,
+        "endSeconds": 440.5,
+        "title": "第 8 幕：So things you eat or drink, ingredien...",
+        "original": "So things you eat or drink, ingredients, dishes. Otherwise the same rules. Okay? Okay. All right. Whenever you're ready. Go ahead. Ketchup. Mustard. Pizza. Hot dogs. Okay. Water. Water. Okay, I like that. That may actually have been less interesting than our first version. That's okay. It's not on you. I'm the game designer. I'm responsible here. So what we're going to do is we're going to add one more rule. Okay. I'm going to keep everything we had before. You two are going to alternate saying rules. So you can't repeat a word that's been said before. We're going to stick to edibles, beverages, dishes, things that you can eat or drink. But when Milla says a word, the last letter of your word is going to be the first letter of your word, Ida. And vice versa. The last letter of Ida's word is going to be the first letter of Milla's word. Let's see how this goes.",
+        "translation": "所以你吃或喝的东西、配料、菜肴。否则规则相同。好的？好的。好的。每当你准备好时。前进。番茄酱。芥末。比萨。热狗。好的。水。水。好吧，我喜欢这样。实际上，这可能没有我们的第一个版本那么有趣。没关系。这不取决于你。我是游戏设计师。我在这里负责。所以我们要做的是再添加一条规则。好的。我会保留我们之前拥有的一切。你们两个将交替说出规则。所以你不能重复以前说过的一句话。我们将坚持食用食品、饮料、菜肴以及你可以吃或喝的东西。但是当米拉说一个词时，你这个词的最后一个字母将成为你这个词的第一个字母，艾达。反之亦然。艾达单词的最后一个字母将是米拉单词的第一个字母。让我们看看情况如何。"
+      },
+      {
+        "id": 9,
+        "time": "07:20",
+        "seconds": 440.5,
+        "endSeconds": 519.1,
+        "title": "第 9 幕：Okay",
+        "original": "Okay. Whenever you're ready, take a step forward. Yes. Yes. Let's go. Cake. Cake. Avian is a type of drink. Does that word? Avian ends with an N. Bye. Nudhara. Almonds. Oh. Yes. Shirley Temple. Oh, wow. Let's give it up for our two volunteers. Amazing. I love it. Thank you so much. Thank you so much. Here's what I want to point out. Something happened that third time around, right? When we were adding rules, something happened in that final version of the game. It wasn't just that these two suddenly got much more focused and intensely wanting to play the game well. But I also heard everybody starting to lean forward. I heard whisperings. I heard suggestions coming from the audience, some of which were taken, right? We also started to see some amazing play with the rules, right? We sort of switched over to some brand names. We got some sort of multi-like Shirley Temple. Was an awesome closing move there.",
+        "translation": "好的。当你准备好时，就向前迈出一步。是的。是的。我们走吧。蛋糕。蛋糕。禽类是一种饮料。有这个词吗？ Avian 以“N.再见”结束。努陀罗。杏仁。哦。是的。秀兰·邓波儿。哦，哇。为了我们的两个志愿者，我们就放弃吧。惊人的。我喜欢它。太感谢了。太感谢了。这就是我想指出的。第三次发生了一些事情，对吗？当我们添加规则时，游戏的最终版本中发生了一些事情。不仅仅是这两个人突然变得更加专注并且强烈地想要打好比赛。但我也听到每个人都开始向前倾。我听到窃窃私语。我听到了观众的建议，其中一些被采纳了，对吗？我们也开始看到一些令人惊奇的规则玩法，对吧？我们有点转向一些品牌名称。我们有一些像秀兰·邓波儿那样的人。这是一个很棒的结束动作。"
+      },
+      {
+        "id": 10,
+        "time": "08:40",
+        "seconds": 520.1,
+        "endSeconds": 582.3,
+        "title": "第 10 幕：So, what game designers do is work wi...",
+        "original": "So, what game designers do is work with these constraints, right? These constraints focus and guide the play of players. Now it may seem when you're playing a video game that it's the opposite, that it's like video game lets you go anywhere and do anything and be anyone. But actually from a designer's point of view, we work with constraints. And those constraints guide and focus the creative activity. And it can be that too many constraints or a problem, right? I could have said, oh, let's also now make it only seven letter words, right? And you probably would have thrown me off stage. So, finding that balance, right? Finding the right amount of constraints to move the game forward into that creative space of play, that's game design. And when you see players just like we did here and all of you actually joining in, not just playing in the system, but starting to play with the system and kind of bending and breaking rules like audience suggestions, for example, that's when we know we've really got something cooking and percolating and we're in that amazing space of play.",
+        "translation": "那么，游戏设计师要做的就是克服这些限制，对吗？这些限制集中并指导玩家的游戏。现在，当你玩电子游戏时，情况可能恰恰相反，电子游戏可以让你去任何地方、做任何事、成为任何人。但实际上从设计师的角度来看，我们的工作受到限制。这些限制引导并集中创造性活动。这可能是太多的限制或问题，对吧？我本可以说，哦，我们现在也把它变成只有七个字母的单词，对吧？你可能会把我赶下舞台。那么，找到这种平衡，对吗？找到适当的限制来将游戏推进到创造性的游戏空间，这就是游戏设计。当你看到像我们在这里所做的那样的玩家并且所有人都真正加入进来时，不仅仅是在系统中玩，而是开始玩系统并弯曲和打破规则（例如观众建议），那时我们就知道我们确实有一些东西正在烹饪和渗透，我们正处于那个令人惊叹的游戏空间中。"
+      },
+      {
+        "id": 11,
+        "time": "09:42",
+        "seconds": 582.3,
+        "endSeconds": 637.8,
+        "title": "第 11 幕：We've looked at rules, playing with s...",
+        "original": "We've looked at rules, playing with systems and how to design with constraints. And the boss level here is thinking about how to apply this to what you do, to your project or organization, because there's a methodology here, right? The methodology is looking at and understanding the system. How does the system work? How is it structured? And then what are those leverage points for play? How can you start poking around and playing with the system maybe in ways that are unexpected and even inappropriate? And then as you start building this experience, don't be afraid of constraints, right? Use those constraints to kind of guide and focus the behavior of your audiences. I want to finish just with a few quick examples. I was at a dinner party recently, like a big fancy dinner party, roomful of interesting people, like kind of like all of you here today. But I was only at a table with like a handful of them.",
+        "translation": "我们研究了规则、使用系统以及如何在约束条件下进行设计。这里的老板级别正在考虑如何将其应用到你所做的事情、你的项目或组织中，因为这里有一个方法论，对吧？该方法论是观察和理解系统。系统如何运作？它的结构如何？那么游戏的杠杆点是什么呢？你怎么可能开始以意想不到的甚至不合适的方式探索和玩弄系统呢？然后当你开始构建这种体验时，不要害怕限制，对吧？使用这些限制来引导和集中受众的行为。我想用几个简单的例子来结束本文。我最近参加了一个晚宴，就像一场盛大的豪华晚宴，满屋子都是有趣的人，就像今天在座的所有人一样。但我只和他们几个人坐在一张桌子旁。"
+      },
+      {
+        "id": 12,
+        "time": "10:37",
+        "seconds": 637.8,
+        "endSeconds": 737.4,
+        "title": "第 12 幕：And I thought to myself, how can I ac...",
+        "original": "And I thought to myself, how can I actually interact with more people here and not be just for the same people all evening? Well, after the first course, I stole all the name tags at the table and I randomly put them around at different tables. Luckily everyone played along, but that little bit of playful design made a huge difference on everyone's experience. Another example, there's a wonderful performance space not too far from here in Brooklyn, St. Anne's warehouse. And there's a wonderful example of playful architectural design there in the bathrooms. So the bathrooms have these giant signs, like men over here and women over here and like giant, like taller than a person sign. And so you sort of, you go in these grand entrances and then when you go in, you realize, oh, wait a second, they actually both connect to the same space inside, right? And so I love that it's so unexpected. It's playing with our expectations, but it's also playing with the sort of notion of a gender binary, right? And that sort of social etiquette of bathrooms. And it's just so delightful and a wonderful example of designed play. And finally, final example, I've been working with these amazing organizations, Games for Change and Action for Democracy. And we've been thinking about democracy as a design problem. And this summer, we're bringing together game designers and policy experts to think about how can we play with the structures of democracy and maybe poke around in those systems, do something unexpected and inappropriate and maybe move them playfully into a new and better space. I don't know what's going to happen there, but definitely wish me luck. We'll need it. Whatever you do, keep playing. And thank you very much.",
+        "translation": "我心想，我怎样才能真正在这里与更多的人互动，而不是整个晚上只为同一个人服务呢？好吧，第一道菜结束后，我偷了桌子上所有的名牌，然后随机把它们放在不同的桌子上。幸运的是，每个人都参与其中，但这一点有趣的设计对每个人的体验都产生了巨大的影响。再比如，在离这里不远的布鲁克林，圣安妮仓库，有一个很棒的表演空间。浴室里有一个有趣的建筑设计的精彩例子。所以浴室里有这些巨大的标志，就像男人在这里，女人在这里，就像巨人，就像比人高的标志。所以你进入这些宏伟的入口，然后当你进去时，你意识到，哦，等一下，它们实际上都连接到内部同一个空间，对吧？所以我喜欢它如此出乎意料。它在玩弄我们的期望，但它也在玩弄性别二元概念，对吗？还有那种浴室的社交礼仪。这实在是太令人愉快了，也是精心设计的游戏的一个精彩例子。最后，最后一个例子，我一直在与这些令人惊叹的组织合作，“变革游戏”和“民主行动”。我们一直将民主视为一个设计问题。今年夏天，我们将游戏设计师和政策专家聚集在一起，思考如何利用民主结构，也许可以在这些系统中探索，做一些意想不到的和不适当的事情，也许可以有趣地将它们转移到一个新的、更好的空间。我不知道那里会发生什么，但祝我好运。我们会需要它。不管你做什么，继续玩。非常感谢。"
+      }
+    ],
+    "spoken": [],
+    "grammar": [],
+    "vocab": [],
+    "echoLoop": [
+      {
+        "step": 1,
+        "name": "盲听捕捉 (Blind Listening)",
+        "guide": "闭上双眼全篇盲听，记录第一遍捕捉到的核心脉络。"
+      },
+      {
+        "step": 2,
+        "name": "声学精听 (Acoustic Decoding)",
+        "guide": "对照中英双语分幕逐句精听，重点体会连读与语调起伏。"
+      },
+      {
+        "step": 3,
+        "name": "影子跟读 (Shadowing)",
+        "guide": "以 1.0x 正常语速跟随原声音频进行影子跟读练习。"
+      },
+      {
+        "step": 4,
+        "name": "自主复述 (Active Recall)",
+        "guide": "合上文本稿，尝试用英文复述演讲的核心观点。"
+      }
+    ],
+    "neteaseId": 3439986641,
+    "neteaseSongId": "3439986641"
+  },
+  {
     "id": "joojin-kim",
     "slug": "joojin-kim",
     "title": "How to clean up the world's dirtiest industry",
