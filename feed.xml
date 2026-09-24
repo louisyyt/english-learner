@@ -9,7 +9,7 @@
     <description><![CDATA[为深度英语学习者打造的 TED 纯净原声随身听。每天由 AI 自动化流水线精准剥离商业赞助广告与主持人闲聊，从 00:00:00 登台演讲第一句起播。配套分幕时间轴、地道口语发音弱读点拨与核心高阶词汇。支持 Apple 播客、小宇宙、Pocket Casts 点击时间戳跳转。访问 english.louisyu.top 体验全屏精听与双语对照。]]></description>
     <language>en-US</language>
     <copyright>© 2026 EchoGym &amp; TED Conferences, LLC</copyright>
-    <lastBuildDate>Tue, 22 Sep 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 08:00:00 +0000</lastBuildDate>
     <atom:link href="https://english.louisyu.top/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:type>episodic</itunes:type>
     <itunes:author><![CDATA[Louis Yu & EchoGym]]></itunes:author>
@@ -25,6 +25,51 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title><![CDATA[为什么我们炸毁了四座水坝，拯救了一条河流 · Why we blew up four dams — and saved a river · Amy Bowers Cordalis]]></title>
+      <itunes:title><![CDATA[为什么我们炸毁了四座水坝，拯救了一条河流 · Why we blew up four dams — and saved a river · Amy Bowers Cordalis]]></itunes:title>
+      <itunes:author><![CDATA[Amy Bowers Cordalis]]></itunes:author>
+      <itunes:episode>52</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">echogym-ted-amy-bowers-cordalis</guid>
+      <pubDate>Thu, 24 Sep 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://audio.louisyu.top/amy-bowers-cordalis-clean.mp3" length="15000000" type="audio/mpeg"/>
+      <itunes:duration>12:56</itunes:duration>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_189436/933b0b6f-2b7c-465a-a432-f8e33912fde3/AmyBowersCordalis_2026-stageshot.jpg"/>
+      <description><![CDATA[【Amy Bowers Cordalis】为什么我们炸毁了四座水坝，拯救了一条河流 · Why we blew up four dams — and saved a river
+金句：And it seemed to declare, do not call this the comeback I have been here for years. (这似乎宣称，不要称之为我在这里多年的复出。)
+
+【节目时间轴】
+00:03 第 1 幕：In the beginning, there were shapeles...
+01:33 第 2 幕：Since time immemorial, my nation has ...
+03:04 第 3 幕：The reservoirs behind the dams emitte...
+04:26 第 4 幕：Now, I did not know a lawyer, and I t...
+05:40 第 5 幕：The original instructions, thousands ...
+07:17 第 6 幕：Yeah, right? Yeah, there's that commo...
+08:52 第 7 幕：Later at Irongate, the lowest dam, an...
+10:18 第 8 幕：The many indigenous peoples of the Kl...
+
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
+网页端：https://english.louisyu.top]]></description>
+      <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Amy Bowers Cordalis（TED演讲嘉宾）</p>
+<p><strong>【核心主题】</strong>自然与科学 · 核心精选</p>
+<blockquote><p><strong>💡 核心金句：</strong><br/>“And it seemed to declare, do not call this the comeback I have been here for years.”<br/><em>这似乎宣称，不要称之为我在这里多年的复出。</em></p></blockquote>
+<hr/>
+<h3>⏱️ 分幕时间轴与导航</h3>
+<p><em>提示：在支持时间轴的客户端中，点击下方时间戳即可直接跳转收听。</em></p>
+<p><strong>00:03</strong> 第 1 幕：In the beginning, there were shapeles...</p>
+<p><strong>01:33</strong> 第 2 幕：Since time immemorial, my nation has ...</p>
+<p><strong>03:04</strong> 第 3 幕：The reservoirs behind the dams emitte...</p>
+<p><strong>04:26</strong> 第 4 幕：Now, I did not know a lawyer, and I t...</p>
+<p><strong>05:40</strong> 第 5 幕：The original instructions, thousands ...</p>
+<p><strong>07:17</strong> 第 6 幕：Yeah, right? Yeah, there's that commo...</p>
+<p><strong>08:52</strong> 第 7 幕：Later at Irongate, the lowest dam, an...</p>
+<p><strong>10:18</strong> 第 8 幕：The many indigenous peoples of the Kl...</p>
+<hr/>
+<p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title><![CDATA[怎样才是一款好游戏？ · What makes a good game? · Eric Zimmerman]]></title>
       <itunes:title><![CDATA[怎样才是一款好游戏？ · What makes a good game? · Eric Zimmerman]]></itunes:title>
       <itunes:author><![CDATA[Eric Zimmerman]]></itunes:author>
@@ -32,7 +77,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-eric-zimmerman</guid>
-      <pubDate>Tue, 22 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/eric-zimmerman-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>12:20</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187280/4c49529e-0abc-484e-987a-71e813cd28c9/EricZimmerman_2026SS-stageshot.jpg"/>
@@ -85,7 +130,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-joojin-kim</guid>
-      <pubDate>Mon, 21 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/joojin-kim-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>07:38</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188021/8165efcf-c43d-4729-ab9d-4a3bb647a46f/JoojinKim_2026-stageshot.jpg"/>
@@ -128,7 +173,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-zack-abbott-and-dhruv-khullar</guid>
-      <pubDate>Sun, 20 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/zack-abbott-and-dhruv-khullar-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>25:58</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188005/63551ec9-06d2-42f1-9756-91b82229f23d/TED_Intersections_S4_Template_Ep3_1920x1080_2.jpg"/>
@@ -192,7 +237,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-ari-matusiak</guid>
-      <pubDate>Sat, 19 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Sun, 20 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/ari-matusiak-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>12:36</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188982/8dc90909-9667-418c-9994-c04edb94c86f/AriMatusiak_2026T-stageshot.jpg"/>
@@ -249,7 +294,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-lindsay-scola</guid>
-      <pubDate>Fri, 18 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/lindsay-scola-clean-v2.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>08:54</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_189125/9b29a6ff-6588-4be5-be23-b678fff3835b/LindsayScola_2026X-stageshot.jpg"/>
@@ -313,7 +358,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-jacob-collier</guid>
-      <pubDate>Thu, 17 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/jacob-collier-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>10:14</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_189224/baf2851f-7ecf-4f6f-89de-cd66bbcc5f82/JacobCollier_2026-stageshot.jpg"/>
@@ -377,7 +422,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-kelly-boesch</guid>
-      <pubDate>Wed, 16 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/kelly-boesch-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>06:28</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188340/1a48776b-cefe-4f7a-96d1-25cc0e618ec7/KellyABoesch_2026-stageshot.jpg"/>
@@ -439,7 +484,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-amy-shoenthal</guid>
-      <pubDate>Tue, 15 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/amy-shoenthal-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>15:33</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_142742/2452d5ab-9218-4a0b-92c9-2ef62300e13b/AmyShoenthal_2024X-embed.jpg"/>
@@ -507,7 +552,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-joshua-johnson-blake-mycoskie</guid>
-      <pubDate>Mon, 14 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/joshua-johnson-blake-mycoskie-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>27:20</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188004/64e13b89-de80-4bf7-a4c8-67ffa29484bc/ted_intersections_s4_template_ep2_1920x1080_2_960.jpg"/>
@@ -581,7 +626,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-schendy-kernizan</guid>
-      <pubDate>Sun, 13 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/schendy-kernizan-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>04:37</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187143/00b9f4d8-a665-4425-884a-08a8a6621f5f/Schendy_2880x1620.jpg"/>
@@ -641,7 +686,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-george-butler</guid>
-      <pubDate>Sat, 12 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Sun, 13 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/george-butler-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>08:27</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188026/5974a7f6-17e2-4ad5-af65-bf1f7df5c83f/GeorgeButler_2026-embed.jpg"/>
@@ -709,7 +754,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-amy-cuddy</guid>
-      <pubDate>Fri, 11 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/amy-cuddy-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>14:24</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188341/a26b578d-e72a-4014-81f1-b9c5b895a48a/AmyCuddy_2026-embed.jpg"/>
@@ -779,7 +824,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-xochitl-gonzalez</guid>
-      <pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/xochitl-gonzalez-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>10:35</itunes:duration>
       <itunes:image href="https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80"/>
@@ -851,7 +896,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-rita-pierson</guid>
-      <pubDate>Wed, 09 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/rita-pierson-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>07:29</itunes:duration>
       <itunes:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/1788548121532-97600c0a-21d8-4c66-af63-27d79876c9cc.jpeg"/>
@@ -915,7 +960,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-reed-hastings</guid>
-      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Wed, 09 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/reed-hastings-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>16:23</itunes:duration>
       <itunes:image href="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
@@ -981,7 +1026,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-joe-whale</guid>
-      <pubDate>Mon, 07 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/joe-whale-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>05:47</itunes:duration>
       <itunes:image href="https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
@@ -1032,7 +1077,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-ariel-ekblaw-and-meghan-sullivan</guid>
-      <pubDate>Sun, 06 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/ariel-ekblaw-and-meghan-sullivan-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>12:27</itunes:duration>
       <itunes:image href="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
@@ -1089,7 +1134,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-gabriella-di-laccio-the-missing-half-of-music-history</guid>
-      <pubDate>Sat, 05 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/gabriella-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>07:43</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_181354/450999ec-9bb2-4142-b5be-4439c36604ef/GabriellaDiLaccio_2026-embed.jpg?quality=85&amp;w=800"/>
@@ -1155,7 +1200,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-ryosuke-takashima-meet the youngest-ever mayor i</guid>
-      <pubDate>Fri, 04 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/ryosuke-takashima-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>33:26</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187133/3ade9e00-1ce4-4131-9f20-3e78f23e3672/Ryosuke_2880x1620.jpg"/>
@@ -1224,7 +1269,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-yongey-mingyur-rinpoche</guid>
-      <pubDate>Thu, 03 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/yongey-mingyur-rinpoche-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>10:52</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/d183d59b-416a-452d-b7f3-ffdcc018b46c/YongeyMingyurRinpoche_2022-embed.jpg"/>
@@ -1288,7 +1333,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-chris-fenning-the-60-seconds-that-make-or-break-a-conversation</guid>
-      <pubDate>Wed, 02 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/chris-fenning-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>11:05</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187529/c54446aa-2db7-42e8-a159-c7be42a0fe96/ChrisFenning_2024X-embed.jpg?quality=85&amp;w=800"/>
@@ -1354,7 +1399,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-mark-whittle-this is what the birth of the </guid>
-      <pubDate>Tue, 01 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/mark-whittle-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>12:22</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188036/b73412b8-2d39-4e04-8e3d-0078c676d276/MarkWhittle_2026-embed.jpg"/>
@@ -1413,7 +1458,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-ann-patchett-the art of the novel</guid>
-      <pubDate>Mon, 31 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/ann-patchett-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>54:53</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185926/cbbdb2d0-9b33-4af5-8d63-dfe35b959a01/annpatchettart.jpg"/>
@@ -1480,7 +1525,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-trinity-tran-who controls your city's money</guid>
-      <pubDate>Sun, 30 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Mon, 31 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/trinity-tran-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>38:14</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_181354/450999ec-9bb2-4142-b5be-4439c36604ef/GabriellaDiLaccio_2026-embed.jpg"/>
@@ -1549,7 +1594,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-maria-telesheva-the shape-shifting sounds of t</guid>
-      <pubDate>Sat, 29 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/maria-telesheva-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>10:24</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185832/0e6ef522-ee6c-4cec-9a98-a2f1e00652ee/MariaTelesheva_2026S-embed.jpg"/>
@@ -1604,7 +1649,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-rebecca-toh-how 180 strangers built a libr</guid>
-      <pubDate>Fri, 28 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Sat, 29 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/rebecca-toh-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>10:23</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187233/f81cda17-b2a4-4e45-9c1d-83d6a76ba40b/RebeccaToh_2024X-embed.jpg"/>
@@ -1659,7 +1704,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-rapelang-rabana-how to fix africa's learning c</guid>
-      <pubDate>Thu, 27 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/rapelang-rabana-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>34:41</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187528/e9dd658b-c14f-48d7-bb4c-8860899df24e/RapelangRabana_2026-embed.jpg"/>
@@ -1728,7 +1773,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-mark-rober-how to make learning impossibl</guid>
-      <pubDate>Wed, 26 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/mark-rober-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>41:22</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187588/444eb29d-3e3a-4b35-8fdd-f79d72500019/TED-Membership_Exclusive_Thumbnail-Marc_Rober-1920x1080_A.jpg"/>
@@ -1797,7 +1842,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-sandra-matz</guid>
-      <pubDate>Tue, 25 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/sandra-matz-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>13:36</itunes:duration>
       <itunes:image href="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
@@ -1859,7 +1904,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-stephen-nobles</guid>
-      <pubDate>Mon, 24 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/stephen-nobles-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>15:43</itunes:duration>
       <itunes:image href="https://images.unsplash.com/photo-1509062522246-3755977927d7?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
@@ -1925,7 +1970,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-susan-burton-how i’m helping thousands rebu</guid>
-      <pubDate>Sun, 23 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/susan-burton-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>10:59</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186806/bbdcc27e-a586-4462-acb0-53b3fa88ec96/SusanBurton_2026-embed.jpg"/>
@@ -1982,7 +2027,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-matthew-prince</guid>
-      <pubDate>Sat, 22 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/matthew-prince-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>12:40</itunes:duration>
       <itunes:image href="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
@@ -2044,7 +2089,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-saloni-dattani-we’ve solved many medical myst</guid>
-      <pubDate>Fri, 21 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/saloni-dattani-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>10:10</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186807/dcdd73d6-c39c-4cde-81a3-7b5a726de3ee/SaloniDattani_2026-embed.jpg"/>
@@ -2101,7 +2146,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-worklife-with-molly-graham-lessons what to do when you ge</guid>
-      <pubDate>Thu, 20 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/worklife-with-molly-graham-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>27:42</itunes:duration>
       <itunes:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png"/>
@@ -2170,7 +2215,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-priya-parker-3 steps to turn everyday get-t</guid>
-      <pubDate>Wed, 19 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/priya-parker-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>10:00</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/e58eb1e5-213e-4f78-bd4b-58b8371d94ee/PriyaParker_2019-1350x675.jpg"/>
@@ -2225,7 +2270,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-ron-finley-a guerrilla gardener in south </guid>
-      <pubDate>Tue, 18 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/ron-finley-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>10:00</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b76d38c6-feaf-4846-98f2-626795162cfa/RonFinley_2013-embed.jpg"/>
@@ -2280,7 +2325,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-olivia-affuso-3 ways community creates a hea</guid>
-      <pubDate>Mon, 17 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/olivia-affuso-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>08:54</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/f317f845-0b2a-4f66-96a1-cd6e3cd799f8/OliviaAffuso_2021S-embed.jpg"/>
@@ -2329,7 +2374,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-jerome-hunter-3 skills every middle school b</guid>
-      <pubDate>Sun, 16 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/jerome-hunter-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>09:18</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b54311da-2f4c-4812-b8ed-ef0b7fc05f39/JeromeHunter_2023S-embed.jpg"/>
@@ -2384,7 +2429,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-laura-miele-the power of gaming together i</guid>
-      <pubDate>Sat, 15 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/laura-miele-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>09:03</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_147329/143bffbd-82c6-4a78-ae4a-0dd36ba7fb36/LauraMiele_2024N-embed.jpg"/>
@@ -2439,7 +2484,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-salehe-bembury-the creative genius of sneaker</guid>
-      <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/salehe-bembury-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>14:26</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186133/b715ba26-3099-4715-b0d2-dcbb5c15b5d1/SaleheBembury_2026S-embed.jpg"/>
@@ -2502,7 +2547,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-mas-vocal-bridge over troubled water — l</guid>
-      <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/mas-vocal-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>07:51</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186364/0deb7eed-ad76-472e-90ce-32c4b8318485/MASVocal_2026-embed.jpg"/>
@@ -2551,7 +2596,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-susan-cain-and-min-kym-the hidden power of sad songs </guid>
-      <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/susan-cain-and-min-kym-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>15:52</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b74e715f-d47f-4722-9c83-1797455c674a/SusanCain_MinKym_2019T-1350x675.jpg"/>
@@ -2616,7 +2661,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-robbie-schingler-how satellites and ai can prot</guid>
-      <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/robbie-schingler-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>13:45</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186804/dfa9a8f4-6f7e-4e12-9ed9-23fefe7f264c/RobbieSchingler_2026-embed.jpg"/>
@@ -2677,7 +2722,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-jon-alexander-how citizens (not politicians)</guid>
-      <pubDate>Mon, 10 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/jon-alexander-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>09:39</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186867/04d98e61-1974-4ffc-b983-4ee4049c7866/JonAlexander_2026S-embed.jpg"/>
@@ -2732,7 +2777,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-bill-mckibben-our last, best chance to cool </guid>
-      <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/bill-mckibben-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>31:49</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185546/98c8e886-17e8-4f7d-b988-bedce21640df/BillMcKibben_2026-embed.jpg"/>
@@ -2801,7 +2846,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-jessica-malaty-rivera-the infodemic — and the scient</guid>
-      <pubDate>Sat, 08 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/jessica-malaty-rivera-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>19:08</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185664/543767a6-eb01-4995-903f-160567334294/JessicaMalatyRivera_2025N-embed.jpg"/>
@@ -2870,7 +2915,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-christina-costa</guid>
-      <pubDate>Fri, 07 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Sat, 08 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/christina-costa-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>10:05</itunes:duration>
       <itunes:image href="https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
@@ -2918,7 +2963,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-yinka-ilori-how i turn joy into art</guid>
-      <pubDate>Thu, 06 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/yinka-ilori-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>08:28</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186190/0fbea6ed-fb91-4425-89fc-2f31b74f3f43/YinkaIlori_2026-embed.jpg"/>
@@ -2971,7 +3016,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-chris-wheatley</guid>
-      <pubDate>Wed, 05 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/chris-wheatley-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>12:28</itunes:duration>
       <itunes:image href="https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
@@ -3023,7 +3068,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-joshua-johnson-idiots are everywhere. here's </guid>
-      <pubDate>Tue, 04 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/joshua-johnson-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>06:13</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185828/9f23e63c-fcdb-4d07-8d41-50d064c7a2c4/JoshuaJohnson_2026-embed.jpg"/>
@@ -3076,7 +3121,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">echogym-ted-ian-bremmer-two wars, no clear exit plan. </guid>
-      <pubDate>Mon, 03 Aug 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/ian-bremmer-clean.mp3" length="15000000" type="audio/mpeg"/>
       <itunes:duration>39:58</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_186191/a6d85908-d10c-472d-a211-414ff451442f/TEDExplains_Episode_2026-07-28_1920x1080.jpg"/>
