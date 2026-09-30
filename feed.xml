@@ -9,7 +9,7 @@
     <description><![CDATA[为深度英语学习者打造的 TED 纯净原声随身听。每天由 AI 自动化流水线精准剥离商业赞助广告与主持人闲聊，从 00:00:00 登台演讲第一句起播。配套分幕时间轴、地道口语发音弱读点拨与核心高阶词汇。支持 Apple 播客、小宇宙、Pocket Casts 点击时间戳跳转。访问 english.louisyu.top 体验全屏精听与双语对照。]]></description>
     <language>en-US</language>
     <copyright>© 2026 EchoGym &amp; TED Conferences, LLC</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 08:00:00 +0000</lastBuildDate>
     <atom:link href="https://english.louisyu.top/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:type>episodic</itunes:type>
     <itunes:author><![CDATA[Louis Yu & EchoGym]]></itunes:author>
@@ -24,6 +24,57 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title><![CDATA[人工智能和孤独的终结 · AI and the end of loneliness · Paul Bloom]]></title>
+      <itunes:title><![CDATA[人工智能和孤独的终结 · AI and the end of loneliness · Paul Bloom]]></itunes:title>
+      <itunes:author><![CDATA[Paul Bloom]]></itunes:author>
+      <itunes:episode>57</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">echogym-ted-paul-bloom</guid>
+      <pubDate>Wed, 30 Sep 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://audio.louisyu.top/paul-bloom-clean.mp3" length="15000000" type="audio/mpeg"/>
+      <itunes:duration>12:14</itunes:duration>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188342/eb12f891-307e-4d95-a708-0a0a6cea674d/PaulBloom_2026-stageshot.jpg"/>
+      <description><![CDATA[【Paul Bloom】人工智能和孤独的终结 · AI and the end of loneliness
+金句：But like a powerful painkiller, this can sometimes come at a terrible cost. (但就像强大的止痛药一样，这有时会付出巨大的代价。)
+
+【节目时间轴】
+00:03 第 1 幕：I have a couple of questions for you,...
+01:01 第 2 幕：And she concludes with this, I have s...
+01:57 第 3 幕：Studies in the United States, United ...
+02:59 第 4 幕：Last year, some friends I wrote an ar...
+03:54 第 5 幕：And AI's never gonna say, dude, I'm b...
+05:00 第 6 幕：Like a powerful painkiller, it can al...
+06:06 第 7 幕：A second thing that loneliness does i...
+07:15 第 8 幕：Imagine an adult who never learned to...
+08:32 第 9 幕：And he has his daughters tell him how...
+09:28 第 10 幕：And then finally, in a very satisfyin...
+10:37 第 11 幕：The second reason I don't want to ban...
+
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
+网页端：https://english.louisyu.top]]></description>
+      <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Paul Bloom（TED演讲嘉宾）</p>
+<p><strong>【核心主题】</strong>科技与AI · 核心精选</p>
+<blockquote><p><strong>💡 核心金句：</strong><br/>“But like a powerful painkiller, this can sometimes come at a terrible cost.”<br/><em>但就像强大的止痛药一样，这有时会付出巨大的代价。</em></p></blockquote>
+<hr/>
+<h3>⏱️ 分幕时间轴与导航</h3>
+<p><em>提示：在支持时间轴的客户端中，点击下方时间戳即可直接跳转收听。</em></p>
+<p><strong>00:03</strong> 第 1 幕：I have a couple of questions for you,...</p>
+<p><strong>01:01</strong> 第 2 幕：And she concludes with this, I have s...</p>
+<p><strong>01:57</strong> 第 3 幕：Studies in the United States, United ...</p>
+<p><strong>02:59</strong> 第 4 幕：Last year, some friends I wrote an ar...</p>
+<p><strong>03:54</strong> 第 5 幕：And AI's never gonna say, dude, I'm b...</p>
+<p><strong>05:00</strong> 第 6 幕：Like a powerful painkiller, it can al...</p>
+<p><strong>06:06</strong> 第 7 幕：A second thing that loneliness does i...</p>
+<p><strong>07:15</strong> 第 8 幕：Imagine an adult who never learned to...</p>
+<p><strong>08:32</strong> 第 9 幕：And he has his daughters tell him how...</p>
+<p><strong>09:28</strong> 第 10 幕：And then finally, in a very satisfyin...</p>
+<p><strong>10:37</strong> 第 11 幕：The second reason I don't want to ban...</p>
+<hr/>
+<p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title><![CDATA[为什么我们应该设计像迪士尼这样的城市 · Why we should design cities like Disney · Zach DeBoer]]></title>
       <itunes:title><![CDATA[为什么我们应该设计像迪士尼这样的城市 · Why we should design cities like Disney · Zach DeBoer]]></itunes:title>

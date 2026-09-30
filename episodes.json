@@ -1,5 +1,151 @@
 [
   {
+    "id": "paul-bloom",
+    "slug": "paul-bloom",
+    "title": "AI and the end of loneliness",
+    "chineseTitle": "人工智能和孤独的终结 · AI and the end of loneliness",
+    "speaker": "Paul Bloom",
+    "speakerTitle": "TED演讲嘉宾",
+    "category": "科技与AI",
+    "subCategory": "核心精选",
+    "duration": "12:14",
+    "durationSeconds": 734.2,
+    "audioUrl": "https://audio.louisyu.top/paul-bloom-clean.mp3",
+    "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188342/eb12f891-307e-4d95-a708-0a0a6cea674d/PaulBloom_2026-stageshot.jpg",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188342/eb12f891-307e-4d95-a708-0a0a6cea674d/PaulBloom_2026-stageshot.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188342/eb12f891-307e-4d95-a708-0a0a6cea674d/PaulBloom_2026-stageshot.jpg",
+    "quote": "But like a powerful painkiller, this can sometimes come at a terrible cost.",
+    "quoteTranslation": "但就像强大的止痛药一样，这有时会付出巨大的代价。",
+    "segments": [
+      {
+        "id": 1,
+        "time": "00:03",
+        "seconds": 4.0,
+        "endSeconds": 61.1,
+        "title": "第 1 幕：I have a couple of questions for you,...",
+        "original": "I have a couple of questions for you, but they're personal, so I'm not going to ask for a show of hands. First, right now, at this stage of your life, are you lonely? And if not, have you ever been lonely? My favorite description of loneliness comes from Zoe Heller's book, Notes on the Scandal, and in it, the narrator, who was played in the movie by Judy Dench, distinguishes between passing loneliness and something deeper. So she observes that people think they know what it's like to be lonely. You know, they had a bad breakup or a rough time in summer camp. But then she says this, about the drip drip of long haul, no end-in-site solitude. They know nothing. They don't know what it is to construct an entire weekend around a visit to the launderet, or to sit in a dark and flat on Halloween night, because you can't bear to expose your bleak evening to a crowded, gerry-tritter-treaters.",
+        "translation": "我有几个问题要问你，但都是私人问题，所以我不要求大家举手。首先，现在，在你人生的这个阶段，你孤独吗？如果没有，你曾经孤独过吗？我最喜欢的关于孤独的描述来自佐伊·海勒（Zoe Heller）的书《丑闻笔记》（Notes on the Scandal），在书中，由朱迪·丹奇（Judy Dench）饰演的叙述者区分了短暂的孤独和更深层次的孤独。所以她观察到人们认为他们知道孤独是什么感觉。他们要么分手了，要么在夏令营过得很不愉快。但接着她说，关于长途跋涉的点滴，没有终点的孤独。他们什么都不知道。他们不知道把整个周末都安排在去洗衣店的时间里是什么滋味，或者在万圣节的晚上坐在黑暗的公寓里是什么滋味，因为你无法忍受把自己凄凉的夜晚暴露在拥挤的、脏兮兮的零食堆里。"
+      },
+      {
+        "id": 2,
+        "time": "01:01",
+        "seconds": 61.1,
+        "endSeconds": 117.2,
+        "title": "第 2 幕：And she concludes with this, I have s...",
+        "original": "And she concludes with this, I have sat on park benches and trains and schoolroom chairs feeling a great store of unused, objectless love sitting in my belly like a stone until I was sure I'd cry out and fall, flailing to the ground. I like this quote for a few reasons. It talks about solitude, and solitude's a big source of loneliness. But it also talks about love. You could be with somebody, but if you're not loved, not needed, not respected, you might feel lonely. And then there's understanding. Suppose you have something in your head that's important here that matters a lot to you, but you feel others don't get it, or don't care to get it, or aren't trying hard enough to get it. This too could cause loneliness. Loneliness ravages the body as well as the soul, a report by the surgeon general associates that with greater risk of cardiovascular disease, dementia, stroke, and the like, it's the equivalent of smoking 15 cigarettes a day.",
+        "translation": "她是这样总结的：我曾坐在公园的长椅上、火车上、教室的椅子上，感觉一大堆未被使用的、没有目标的爱像一块石头一样在我的肚子里坐着，直到我确信自己会大叫一声，摔倒在地。我喜欢这句话有几个原因。它讲的是孤独，而孤独是孤独的一大来源。但它也谈到了爱。你可以和某人在一起，但如果你不被爱，不被需要，不被尊重，你可能会感到孤独。然后是理解。假设你脑子里有一些对你来说很重要的东西，但你觉得别人没有得到它，或者不关心得到它，或者没有足够努力去得到它。这也会导致孤独。美国外科医生的一份报告显示，孤独感不仅会损害身体，还会损害灵魂。孤独感会增加患心血管疾病、痴呆、中风等疾病的风险，相当于每天抽15支烟。"
+      },
+      {
+        "id": 3,
+        "time": "01:57",
+        "seconds": 117.2,
+        "endSeconds": 179.7,
+        "title": "第 3 幕：Studies in the United States, United ...",
+        "original": "Studies in the United States, United Kingdom, find that about one in five people, describe themselves as often or always lonely, and the most at-risk group is young adults. I'm here to talk about a possible cure for loneliness, and what it might mean. And I think we could see loneliness as similar to boredom. I'm old enough to remember when I people were bored all the time. Long train rides, long car rides, long plane rides, late at night when the TV stations switched off and you were all alone and you had to read. And... But now, most of us carry on our phones, and those phones offer, you know, podcasts and movies and books and music and social media and so on. And so, for many of us, boredom is a thing of the past. Well, the cure for loneliness may also be found in our phones and in our laptops, and it is, of course, generative AI.",
+        "translation": "美国和英国的研究发现，大约五分之一的人称自己经常或总是孤独，其中风险最大的群体是年轻人。我在这里谈论一种可能的治疗孤独的方法，以及它可能意味着什么。我认为我们可以把孤独看作是无聊。我已经长大了，记得我的时候人们总是很无聊。长途火车旅行，长途汽车旅行，长途飞机旅行，深夜，当电视关闭，你独自一人，你必须阅读。和…但是现在，我们大多数人都带着手机，这些手机提供，播客，电影，书籍，音乐和社交媒体等等。因此，对我们许多人来说，无聊已经成为过去。当然，治疗孤独的方法也可以在我们的手机和笔记本电脑中找到，那就是生成式人工智能。"
+      },
+      {
+        "id": 4,
+        "time": "02:59",
+        "seconds": 179.7,
+        "endSeconds": 234.7,
+        "title": "第 4 幕：Last year, some friends I wrote an ar...",
+        "original": "Last year, some friends I wrote an article called, In Praise the Bempathic AI, if that title makes you cringe and makes you kind of angry, you're not alone, our colleagues hated it, as the article that most people hated. But bear with me, we make... we started making a similar to Simple Point, which is review a set of studies that have involved, like, you get a whole lot of people interacting with other people, sometimes doctors, sometimes therapists, sometimes just regular people, and you get a whole lot of people interacting with chatbots. And then you ask them later, how did it go, what's your experience, and people tend to rate the chatbots as more empathic, more caring, more understanding. And it's no surprise. AI's are built to be attentive, to be present, to be interested. And AI's never gonna impatiently wait for you to finish telling your story, so it could tell you one of its own.",
+        "translation": "去年，我的一些朋友写了一篇文章，《赞美同情的人工智能》，如果这个标题让你畏缩，让你有点生气，你不是一个人，我们的同事讨厌它，因为大多数人都讨厌它。但请耐心听我说，我们要……我们开始做一个类似于Simple Point的事情，就是回顾一系列的研究，比如，你让很多人与其他人互动，有时是医生，有时是治疗师，有时只是普通人，你让很多人与聊天机器人互动。然后你问他们，事情进展如何，你的经历如何，人们倾向于认为聊天机器人更有同情心，更有爱心，更善解人意。这并不奇怪。人工智能被设计成专注的，存在的，感兴趣的。人工智能永远不会不耐烦地等着你讲完你的故事，所以它可以给你讲一个它自己的故事。"
+      },
+      {
+        "id": 5,
+        "time": "03:54",
+        "seconds": 234.7,
+        "endSeconds": 300.7,
+        "title": "第 5 幕：And AI's never gonna say, dude, I'm b...",
+        "original": "And AI's never gonna say, dude, I'm busy, get back to me later, I got things going on. Suppose some future, I don't think it's happening now, but some future AI could serve as a cure for loneliness. Would this be a good thing? Well, to some extent, yes, obviously yes. Think about the many millions of elderly people, many in institutions, who go for their days and nights without talking to anybody, in perfect agony of isolation. Many of them have dementia, many of them are difficult to interact with for other reasons. They don't have family and friends to spend time with them, and there's not enough money in the world to pay people to come and talk to them for hours on end. There's some future version of chat, our cloth, our Gemini. Could ease these people's suffering, it would be a godsend. But for the rest of us, it's more complicated. And you can view these cures for loneliness as akin to a powerful painkiller.",
+        "translation": "人工智能永远不会说，伙计，我很忙，稍后再打给我，我有事情要做。假设未来，我不认为现在会发生，但未来的人工智能可以用来治疗孤独。这是一件好事吗？在某种程度上，是的，显然是的。想想数以百万计的老年人，其中许多人住在机构里，他们日日夜夜都在孤独的痛苦中度过，不与任何人说话。他们中的许多人患有痴呆症，他们中的许多人由于其他原因难以与之互动。他们没有家人和朋友陪他们，世界上也没有足够的钱让人们来和他们聊上几个小时。有一些未来版本的聊天，我们的布料，我们的双子座。能减轻这些人的痛苦，真是天赐之物。但对我们其他人来说，情况就复杂多了。你可以把这些治疗孤独的方法看作是一种强效止痛药。"
+      },
+      {
+        "id": 6,
+        "time": "05:00",
+        "seconds": 300.7,
+        "endSeconds": 366.7,
+        "title": "第 6 幕：Like a powerful painkiller, it can al...",
+        "original": "Like a powerful painkiller, it can alleviate suffering. But like a powerful painkiller, this can sometimes come at a terrible cost. And to make sense of the cost, you have to think about what loneliness is for. So the neuroscientist John Casiopa, who founded a modern science of loneliness, argued that it's a biological signal, akin to hunger, thirst, and pain. And as such, it does two things for us. It could sometimes be paralyzing. But when it works out well, it has certain evolved functions that improve our lives. So one, just as a hunger motivates us to seek out food, loneliness, and other forms of social suffering, motivate us to seek out and maintain social connection. Because we get lonely that we accept an invitation to a party. We invite a friend out to brunch. We open up the dating apps. It also helps us regulate relationships. It helps us try to repair a relationship gone wrong, to apologize for messing up, to try to show genuine interest in our relationship with somebody else.",
+        "translation": "就像强大的止痛药一样，它可以减轻痛苦。但就像强大的止痛药一样，这有时会付出巨大的代价。为了理解代价，你必须考虑孤独是什么。因此，创立了现代孤独科学的神经科学家约翰·卡西奥帕（ John Casiopa ）认为，这是一种生物信号，类似于饥饿、口渴和疼痛。因此，它为我们做了两件事。有时可能会瘫痪。但当它运作良好时，它具有某些进化的功能，"
+      },
+      {
+        "id": 7,
+        "time": "06:06",
+        "seconds": 366.7,
+        "endSeconds": 435.4,
+        "title": "第 7 幕：A second thing that loneliness does i...",
+        "original": "A second thing that loneliness does is it helps us grow as people. It's a truism in psychology that we learn from failure. We learn to call it trial and error learning. They call it reinforcement learning. The idea is nicely summed up in the movie Batman Begins, where young Bruce Wayne's father asked the future Batman, why do we fall? Any answers so we can learn to pick ourselves up? This is literally true for toddlers who learn to walk by falling and stumbling and going things wrong. It's true for a comedian who learns to improve her act by bombing on stage by having her jokes fall flat. It's true for a boxer who learns to evade a punch by getting repeatedly smacked in the face. Well, failure in the social realm is associated with loneliness. Can you imagine what it would be like if people never got the signal of failure? Imagine a teenage boy who never learned to cut short his monologues because his AI companion never got bored.",
+        "translation": "孤独的第二个作用是帮助我们作为人成长。这是我们从失败中学到的心理学真理。我们学会称之为试错学习。他们称之为强化学习。这个想法在电影《蝙蝠侠开始》中得到了很好的总结，年轻的布鲁斯·韦恩的父亲问未来的蝙蝠侠，我们为什么要摔倒？有什么答案可以让我们学会振作起来吗？对于学步的孩子来说，这是真的，他们通过跌倒、绊倒和出错来学会走路。这是真的"
+      },
+      {
+        "id": 8,
+        "time": "07:15",
+        "seconds": 435.4,
+        "endSeconds": 512.3,
+        "title": "第 8 幕：Imagine an adult who never learned to...",
+        "original": "Imagine an adult who never learned to apologize because her AI companion never needed an apology. Imagine a world where the answer to the question, am I the asshole, is always a firm and resounding no. Now, you might think this has an easy technological fix. You could just go into the settings and make it less sick-a-fending. And in fact, I don't use AI myself for social purposes, but I use a lot for my work. And after a while, I got tired of chat and clod just saying, Oh, brilliant question, Paul. Oh, oh, such a clever idea. How do you get to be so intelligent? So I went into the settings and they said, stop. Do not praise me. Be blunt. Just be honest. Tell me like it is. Then a month later, I changed it back. I kind of missed it. You can call this Cordelia's problem. In Shakespeare's King Lear, the king brings together his three daughters to try to decide how to divide up the kingdom.",
+        "translation": "想象一下，一个成年人从来没有学会道歉，因为她的人工智能伴侣从来不需要道歉。想象一下，一个问题的答案，我是混蛋，总是坚定而响亮的否定。现在，您可能会认为这是一个简单的技术解决方案。您只需进入设置，使其不那么恶心。事实上，我自己并没有将人工智能用于社交目的，但我在工作中经常使用人工智能。过了一会儿，我厌倦了聊天，笨手笨脚地说，哦，问得好，爸爸"
+      },
+      {
+        "id": 9,
+        "time": "08:32",
+        "seconds": 512.3,
+        "endSeconds": 568.3,
+        "title": "第 9 幕：And he has his daughters tell him how...",
+        "original": "And he has his daughters tell him how much they love him. And his first two daughters praise him. They love him infinitely. He's the center of their lives. Then Cordelia comes up and says, I love you like a daughter should love her father. No more, no less. The king is enraged and banishes her from the kingdom. Now, King Lear is a tragedy. His two sycophantic daughters didn't love him at all. And he betrayed him in the end. Now, some of you are probably thinking, well, I'm not like King Lear. I like pushback. I like, I don't want that sort of sucking up. And maybe, maybe. But I think some of us more like the performance of pushback rather than pushback itself. So yeah, something that always says, yes, you're wonderful. Gets a bit cloying. But a properly attuned AI won't do that. If I don't do that, it will resist you. We'll argue against you. I'll push back.",
+        "translation": "他让他的女儿告诉他他们有多爱他。他的前两个女儿称赞他。他们无限地爱着他。他是他们生活的中心。然后Cordelia走过来说，我爱你就像女儿爱她的父亲一样。不多也不少。国王很生气，将她驱逐出王国。现在，李尔王是一个悲剧。他的两个淫荡的女儿根本不爱他。最后，他背叛了他。现在，你们中的一些人可能在想，好吧，我不像李尔王。我"
+      },
+      {
+        "id": 10,
+        "time": "09:28",
+        "seconds": 568.3,
+        "endSeconds": 637.3,
+        "title": "第 10 幕：And then finally, in a very satisfyin...",
+        "original": "And then finally, in a very satisfying way, say, I guess you win. You've totally persuaded me. And I worry that this sort of intelligent and titrated sycophancy is more corrosive to the soul than a sort of sucking up, yes, men, AI's we deal with now. For some of you, the solution will be clear. Treat these hyper-social ais like the powerful painkillers they are. Make them available to the people who need them the most and forbid their use for the rest of us. But this is not the solution that I believe in. I'm not a catastrophist when it comes to AI. Just like there are people who deal with AI companions in a normal way and benefit from it and it doesn't have harm to their life. Just in the same way that there are people who resist technological temptations more generally. People who, when faced with the unholy trinity of TikTok, Pornhub and Wertle, nonetheless, go to the gym, meet with friends, touch grass.",
+        "translation": "最后，以一种非常令人满意的方式说，我想你赢了。你完全说服了我。我担心这种智能和滴定的嘲讽对灵魂的腐蚀性大于一种吸吮，是的，男人，我们现在处理的人工智能。对于你们中的一些人来说，解决方案是明确的。像对待强大的止痛药一样对待这些超级社交A。将它们提供给最需要它们的人，并禁止我们其他人使用它们。但这不是我b的解决方案"
+      },
+      {
+        "id": 11,
+        "time": "10:37",
+        "seconds": 637.3,
+        "endSeconds": 728.5,
+        "title": "第 11 幕：The second reason I don't want to ban...",
+        "original": "The second reason I don't want to ban these things is more personal. When I was 11, my mother died of cancer. And I then entered a period of great pain and then problems with social relationships and then a period of loneliness that lasted for years. I would have benefited so much from someone or find something that would, listen to me, that would express interest, that I could talk to, that I could share my feelings with. It seems like a betrayal of my past self to say, tough, do without, suffer and learn from your suffering. I wonder if the best of all possible worlds is to create imperfect companions. Companions that somehow alleviate the pain of loneliness without destroying our humanity. Companions that are difficult enough to deal with that we learn from interacting with them. Companions that are sufficiently imperfect that we ultimately abandon them to deal with people. Now, I'm pretty confident we could build such things. I'm less confident that there's money to be had by doing so. I accept that it might be a bad business model to create AIs that users ultimately outgrow. But I hope there are people who care enough to do it anyway. Thank you.",
+        "translation": "我不想禁止这些东西的第二个原因是更私人的原因。我11岁时，母亲死于癌症。然后我进入了一个非常痛苦的时期，然后是社会关系的问题，然后是一个持续多年的孤独时期。我会从某人那里受益匪浅，或者找到一些东西，听我说，表达兴趣，我可以交谈，我可以分享我的感受。这似乎是对我过去自我的背叛，说，强硬，不做，受苦"
+      }
+    ],
+    "spoken": [],
+    "grammar": [],
+    "vocab": [],
+    "echoLoop": [
+      {
+        "step": 1,
+        "name": "盲听捕捉 (Blind Listening)",
+        "guide": "闭上双眼全篇盲听，记录第一遍捕捉到的核心脉络。"
+      },
+      {
+        "step": 2,
+        "name": "声学精听 (Acoustic Decoding)",
+        "guide": "对照中英双语分幕逐句精听，重点体会连读与语调起伏。"
+      },
+      {
+        "step": 3,
+        "name": "影子跟读 (Shadowing)",
+        "guide": "以 1.0x 正常语速跟随原声音频进行影子跟读练习。"
+      },
+      {
+        "step": 4,
+        "name": "自主复述 (Active Recall)",
+        "guide": "合上文本稿，尝试用英文复述演讲的核心观点。"
+      }
+    ],
+    "neteaseId": 3442882605,
+    "neteaseSongId": "3442882605"
+  },
+  {
     "id": "zach-deboer",
     "slug": "zach-deboer",
     "title": "Why we should design cities like Disney",
