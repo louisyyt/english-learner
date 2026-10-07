@@ -9,7 +9,7 @@
     <description><![CDATA[为深度英语学习者打造的 TED 纯净原声随身听。每天由 AI 自动化流水线精准剥离商业赞助广告与主持人闲聊，从 00:00:00 登台演讲第一句起播。配套分幕时间轴、地道口语发音弱读点拨与核心高阶词汇。支持 Apple 播客、小宇宙、Pocket Casts 点击时间戳跳转。访问 english.louisyu.top 体验全屏精听与双语对照。]]></description>
     <language>en-US</language>
     <copyright>© 2026 EchoGym &amp; TED Conferences, LLC</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 08:00:00 +0000</lastBuildDate>
     <atom:link href="https://english.louisyu.top/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:type>episodic</itunes:type>
     <itunes:author><![CDATA[Louis Yu & EchoGym]]></itunes:author>
@@ -24,6 +24,53 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title><![CDATA[这是我政治上分裂的家庭教给我的 · What my politically divided family teaches me · Tami Pyfer]]></title>
+      <itunes:title><![CDATA[这是我政治上分裂的家庭教给我的 · What my politically divided family teaches me · Tami Pyfer]]></itunes:title>
+      <itunes:author><![CDATA[Tami Pyfer]]></itunes:author>
+      <itunes:episode>60</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">echogym-ted-tami-pyfer</guid>
+      <pubDate>Wed, 07 Oct 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://audio.louisyu.top/tami-pyfer-clean.mp3" length="15000000" type="audio/mpeg"/>
+      <itunes:duration>11:48</itunes:duration>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190163/16c5c6f9-4c33-4bd7-9a1e-f5738e03c237/TamiPyfer_2026S-stageshot.jpg"/>
+      <description><![CDATA[【Tami Pyfer】这是我政治上分裂的家庭教给我的 · What my politically divided family teaches me
+金句：And if contempt says, I see myself above you, dignity says, I see myself in you. (如果轻蔑说，我认为自己高于你，那么尊严说，我在你身上看到了自己。)
+
+【节目时间轴】
+00:00 第 1 幕：policy advisor for the governor of Ut...
+01:07 第 2 幕：How fantastic is this, right? The blu...
+02:19 第 3 幕：And it just might be the key to stren...
+03:36 第 4 幕：Slowly, I recognize something else co...
+04:54 第 5 幕：In our families, our communities, and...
+06:03 第 6 幕：Let's give it a try
+07:27 第 7 幕：Where you're going to work with peopl...
+08:36 第 8 幕：That shift can change a political con...
+09:50 第 9 幕：The speeches were fiery
+
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
+网页端：https://english.louisyu.top]]></description>
+      <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Tami Pyfer（TED演讲嘉宾）</p>
+<p><strong>【核心主题】</strong>社会与治理 · 核心精选</p>
+<blockquote><p><strong>💡 核心金句：</strong><br/>“And if contempt says, I see myself above you, dignity says, I see myself in you.”<br/><em>如果轻蔑说，我认为自己高于你，那么尊严说，我在你身上看到了自己。</em></p></blockquote>
+<hr/>
+<h3>⏱️ 分幕时间轴与导航</h3>
+<p><em>提示：在支持时间轴的客户端中，点击下方时间戳即可直接跳转收听。</em></p>
+<p><strong>00:00</strong> 第 1 幕：policy advisor for the governor of Ut...</p>
+<p><strong>01:07</strong> 第 2 幕：How fantastic is this, right? The blu...</p>
+<p><strong>02:19</strong> 第 3 幕：And it just might be the key to stren...</p>
+<p><strong>03:36</strong> 第 4 幕：Slowly, I recognize something else co...</p>
+<p><strong>04:54</strong> 第 5 幕：In our families, our communities, and...</p>
+<p><strong>06:03</strong> 第 6 幕：Let's give it a try</p>
+<p><strong>07:27</strong> 第 7 幕：Where you're going to work with peopl...</p>
+<p><strong>08:36</strong> 第 8 幕：That shift can change a political con...</p>
+<p><strong>09:50</strong> 第 9 幕：The speeches were fiery</p>
+<hr/>
+<p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title><![CDATA[举重的奇迹 · The wonder of weightlifting · Jaime Seeman (re-release)]]></title>
       <itunes:title><![CDATA[举重的奇迹 · The wonder of weightlifting · Jaime Seeman (re-release)]]></itunes:title>
