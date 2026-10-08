@@ -1,5 +1,169 @@
 [
   {
+    "id": "anna-rainio",
+    "slug": "anna-rainio",
+    "title": "How imaginary worlds help kids learn",
+    "chineseTitle": "想象世界如何帮助孩子学习 · How imaginary worlds help kids learn",
+    "speaker": "Anna Rainio",
+    "speakerTitle": "TED演讲嘉宾",
+    "category": "人文与艺术",
+    "subCategory": "核心精选",
+    "duration": "14:57",
+    "durationSeconds": 897.6,
+    "audioUrl": "https://audio.louisyu.top/anna-rainio-clean.mp3",
+    "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190490/5e78dac3-4558-4242-a67b-57f41cc734c1/AnnaRainio_2026SS-stageshot.jpg",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190490/5e78dac3-4558-4242-a67b-57f41cc734c1/AnnaRainio_2026SS-stageshot.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190490/5e78dac3-4558-4242-a67b-57f41cc734c1/AnnaRainio_2026SS-stageshot.jpg",
+    "quote": "And in play world, the children, not the adults, are the experts.",
+    "quoteTranslation": "在游戏世界里，孩子才是专家，而不是大人。",
+    "segments": [
+      {
+        "id": 1,
+        "time": "00:00",
+        "seconds": 0.0,
+        "endSeconds": 76.7,
+        "title": "第 1 幕：I'd love for you to think about a cla...",
+        "original": "I'd love for you to think about a classroom full of, let's say, 20, seven-year-old children. They are all different. They're so tired, full of school, and can easily concentrate through noise. Another child needs a lot of physical comfort and happily climbs to his teacher's lap if it's free. One student has to fit it to concentrate. The one at the back learned early on that adults and they promises cannot be trusted. Sitra the key, per distance. Now imagine you are a teacher in this classroom, and it is your task to include all these different children in one activity. It's easy to see what happens. One or two children do not fit in and become excluded. Why is that? In most other phases of our lives, it would be odd to think that everybody was able to do the same activity in so similar things or develop at the same pace. Schools however are historically places where sameness is expected from all.",
+        "translation": "我想让你想象一下，一个满是20、7岁孩子的教室。它们都是不同的。他们太累了，满脑子都是功课，很容易在噪音中集中注意力。另一个孩子需要很多身体上的舒适，如果老师有空，他会很高兴地爬到老师的腿上。只有一个学生才能集中注意力。坐在后面的那只很早就知道，成年人和他们的承诺是不可信的。每隔一段距离按键。现在想象一下，你是这个教室里的老师，你的任务是让所有这些不同的孩子参与一个活动。很容易看出发生了什么。一个或两个孩子不适应，被排除在外。为什么呢？在我们生命的大多数其他阶段，如果每个人都能在如此相似的事情上做同样的事情，或者以同样的速度发展，那将是很奇怪的。然而，从历史上看，学校是一个要求所有人都保持一致的地方。"
+      },
+      {
+        "id": 2,
+        "time": "01:16",
+        "seconds": 76.7,
+        "endSeconds": 156.8,
+        "title": "第 2 幕：This makes many children and adults a...",
+        "original": "This makes many children and adults alike suffer in these institutions. I am a researcher and teacher educator in Finland, and I believe that this does not need to be the case. Radical inclusion is possible in any early learning classroom through something called playwords. Playwords are adult-siled, toyed play, or frustrated around a piece of literature or a work of art, like a movie in Charles Playword or Alice in Wonderland Playword. They were already developed by a Swedish scholar, Gunila Lindquist, and they are now studied worldwide by our research teams. The adults and children create the world of a chosen story in the classroom, and then the class plays, interacts, and undertakes adventures together with both adults and children in roles. The children take initiative, and the adults listen carefully. I've had the privilege of learning from modern dozens of playwords, and to get there with my colleagues, and I want to mention here especially Beth Fairhold.",
+        "translation": "这使得许多儿童和成年人都在这些机构中受苦。我是芬兰的一名研究人员和教师教育工作者，我相信这是不需要的。通过一种叫做游戏词的东西，激进的包容在任何早期学习课堂上都是可能的。Playwords是指成人对文学作品或艺术作品（如电影《Charles Playword》或《爱丽丝梦游仙境》中的Playword）的嘲笑、玩转或沮丧。瑞典学者古尼拉·林德奎斯特（Gunila Lindquist）已经开发出了它们，现在我们的研究团队正在全球范围内研究它们。成人和儿童在课堂上创造一个选定故事的世界，然后全班一起扮演角色，与成人和儿童互动并进行冒险。孩子们主动出击，大人们认真倾听。我有幸学习了很多现代的游戏词，并和我的同事们一起学习，我想在这里特别提到贝丝·费尔霍尔德。"
+      },
+      {
+        "id": 3,
+        "time": "02:36",
+        "seconds": 156.8,
+        "endSeconds": 222.7,
+        "title": "第 3 幕：We have seen how playwords can change...",
+        "original": "We have seen how playwords can change the way schools are. Let me give you an example of how a playword might look like in a kindergarten class. And just to note that these are fictional examples to protect the privacy of the participants, kind of composite stories of all the things we've seen in the many playwords we've studied. So the teacher Johanna studied by reading aloud the first half of a famous Slavic folk day by Bajakan to the children. But instead of reading aloud the second half of the story, the class collectively wrote and directed their own resolution to the story's central conflicts. These are the set pieces and props that the class created over the course of a year. Arda shows a series of photographs featuring colorful handmade and hand-painted props that her students designed together from the world of Bajaga. This is Baba Yaga's tower, and these are magical create-source caves that the children created.",
+        "translation": "我们已经看到了游戏语是如何改变学校的。让我给你举个例子，看看幼儿园课堂上的游戏词是什么样子的。需要注意的是，这些都是虚构的例子，是为了保护参与者的隐私，是我们在研究过的许多游戏中看到的所有事情的综合故事。因此，约翰娜老师通过大声朗读巴贾坎著名的斯拉夫民间节日的前半部分来学习。但是，学生们并没有大声朗读故事的后半部分，而是集体写作，并针对故事的中心冲突提出自己的解决方案。这些都是这个班级在一年的时间里创造出来的套路和道具。Arda展示了一系列照片，其中包括她的学生从Bajaga的世界中共同设计的彩色手工和手绘道具。这是巴巴亚迦的塔，这些是孩子们创造的神奇的生物洞穴。"
+      },
+      {
+        "id": 4,
+        "time": "03:42",
+        "seconds": 222.8,
+        "endSeconds": 285.0,
+        "title": "第 4 幕：And that is Baba Yaga's trap in which...",
+        "original": "And that is Baba Yaga's trap in which they love to captivate everybody she could. And these are the trees and a lamp post in the forest of the story. And this is a drawing by a child of a hut on the second legs. It's very important in the story of Baba Yaga. And it was created in the classroom. And this is the wardrobe inside the hut that became a portal from the everyday life of the classroom to the magical reality of the play world. Even the adults used it to keep the magical life. But in this classroom, like in many others, there were some children who had hard time participating in classroom activities. Viola was often inattentive and disruptive. And when the class was discussing how to bring everyone's safety from the evil Baba Yaga, Viola's had tested blowing up the whole school to save the magical creators from Baba Yaga's trap. It's easy to see how Viola and her plan would be excluded from a normal classroom.",
+        "translation": "那是巴巴亚嘎的陷阱，他们喜欢迷住每一个她能迷住的人。这就是故事里森林里的树和灯柱。这是一个孩子画的第二腿上的小屋。这在巴巴亚迦的故事中非常重要。它是在教室里创造出来的。这是小屋里的衣柜它成为了从教室的日常生活到游戏世界的神奇现实的入口。即使是成年人也用它来保持神奇的生命。但在这个教室里，就像在许多其他教室里一样，有些孩子很难参加课堂活动。维奥拉经常心不在焉，爱捣乱。当全班讨论如何从邪恶的巴巴亚加手中拯救每个人的安全时，维奥拉已经试过炸毁整个学校，从巴巴亚加的陷阱中拯救魔法创造者。很容易看出，维奥拉和她的计划将被排除在正常的课堂之外。"
+      },
+      {
+        "id": 5,
+        "time": "04:44",
+        "seconds": 285.0,
+        "endSeconds": 353.4,
+        "title": "第 5 幕：But this is a play world",
+        "original": "But this is a play world. And in play world, the children, not the adults, are the experts. So the children negotiated with Viola and asked whether she could consider blowing up some props instead of an entire school. And Viola agreed and said, this is a good plan because everybody gets to do their own plan. But the following week, Viola was again inattentive, disruptive, so the teacher had to speak directly to her. And the teacher said, Viola cannot be part of the plan unless he commits the code through with it because everybody is dependent on her to save the magical creators from the Baba Yaga. And her disruptive behavior might alert Baba Yaga. So something extraordinary happened. Viola agreed to participate. And when it was her time to carry out her part of the plan, she first carefully checked that everyone is protected, then drew the bomb to Baba Yaga's trap and engaged everyone in a dramatic countdown to the explosion.",
+        "translation": "但这是一个游戏世界。在游戏世界里，孩子才是专家，而不是大人。于是孩子们和维奥拉商量，问她是否可以考虑炸掉一些道具，而不是炸毁整个学校。维奥拉同意说，这是个好计划，因为每个人都有自己的计划。但在接下来的一周，维奥拉又一次心不在焉，捣乱，所以老师不得不直接和她说话。老师说，维奥拉不能参与计划，除非他把代码完成，因为每个人都依赖她从巴巴亚加手中拯救魔法创造者。她的破坏行为可能会引起巴巴亚加的注意。于是，不寻常的事情发生了。维奥拉同意参加。到了她执行计划的时候，她首先仔细检查了每个人是否都受到了保护，然后把炸弹拉到巴巴亚加的陷阱旁，让每个人都开始倒计时，等待爆炸的到来。"
+      },
+      {
+        "id": 6,
+        "time": "05:53",
+        "seconds": 353.4,
+        "endSeconds": 430.5,
+        "title": "第 6 幕：Now here's why I find this example so...",
+        "original": "Now here's why I find this example so powerful. In most other classroom settings, Viola's behavior would be considered problematic or something that we should be preventing from happening. But inside a play world, it made sense and it even solved some problems. Viola's story is also a great example of a phrase. I believe teachers, mentors, parents should be saying as much as possible. Why not? If a child turns to you to ask for something or suggest something, it's often cognitively difficult for us adults because it means sensing our plans, right? Or going into different direction or as we perceive it, wasting our precious time. So our first intuition is to say no or maybe later. But before you rush to respond, try asking yourself why not. And sometimes there's a clear reason to say no. But often there isn't. And when there isn't, you can go along with your children in that unpredictable direction and doors will open.",
+        "translation": "这就是为什么我觉得这个例子如此有力。在大多数其他课堂环境中，维奥拉的行为会被认为是有问题的，或者是我们应该阻止的事情。但在游戏世界中，它是有意义的，甚至解决了一些问题。维奥拉的故事也是一个很好的短语例子。我相信老师、导师、家长应该尽可能多地说。为什么不呢?如果一个孩子向你提出要求或建议，这对我们成年人来说通常是认知困难的，因为这意味着感知我们的计划，对吧？或者朝着不同的方向，或者像我们认为的那样，浪费我们宝贵的时间。所以我们的第一直觉是说不，或者以后再说。但在你急于回应之前，试着问问自己为什么不这样做。有时候，拒绝的理由很明显。但通常不是这样。如果没有，你可以和你的孩子一起朝着那个不可预知的方向前进，门就会打开。"
+      },
+      {
+        "id": 7,
+        "time": "07:10",
+        "seconds": 430.5,
+        "endSeconds": 501.4,
+        "title": "第 7 幕：Here is another example I love and th...",
+        "original": "Here is another example I love and this time, let's say from a first grade classroom. The teacher Tom wanted to develop a play world based on a children's book of Ruben, a bird who accidentally flies in through a child's bedroom window and needs that child's help to get back home. So the children read the story and image in how Ruben might look but then COVID hits. But the children continue thinking and talking about Ruben. And then after several months of distance learning, the children return to class that one morning to find Ruben an actual puppet on a window sill of the classroom. Tom the teacher plays Ruben and the children just love it. They want to include it in all activities. They sing their favorite songs to it, they feed it, they build a nest for it during the art classes and they even teach some math to it. But at this semester also in these classrooms and children were seriously on the edge of disengagement.",
+        "translation": "这是我喜欢的另一个例子，这次是在一年级的教室里。汤姆老师想根据鲁本的一本儿童读物开发一个游戏世界，鲁本是一只不小心从孩子卧室窗户飞进来的小鸟，需要孩子的帮助才能回家。因此，孩子们读了鲁本可能的样子的故事和图像，但随后新冠病毒爆发了。但孩子们继续思考和谈论鲁本。经过几个月的远程学习，孩子们在那天早上回到课堂，发现教室的窗台上有一个真正的木偶鲁本。老师汤姆扮演鲁本，孩子们非常喜欢。他们希望将其纳入所有活动中。他们给它唱最喜欢的歌曲，给它喂食，在艺术课上为它筑巢，甚至教它一些数学。但在这个学期，在这些教室里，孩子们也严重处于脱离的边缘。"
+      },
+      {
+        "id": 8,
+        "time": "08:21",
+        "seconds": 501.4,
+        "endSeconds": 569.4,
+        "title": "第 8 幕：There was Alma for whom it was diffic...",
+        "original": "There was Alma for whom it was difficult to sit still, follow all those old school tasks. And there was Luca who was so disruptive that the teachers had made special arrangements for him to leave school early. You can imagine how this made him feel even more excluded. Until these children started to develop a special bond with Ruben. For example, the puppet sent private email to Alma saying that it felt really lonely in the class during the night and Alma responded asking whether Ruben needed a friend, her own soft toy, sunny from home. Ruben said yes, please. Slowly these children became really close to Ruben. It often sat in Alma's lap in activities that were difficult for her and that made her calm and more attentive. On a school field trip, Tom the teacher put Luca in sets of Ruben and that was a huge win. Luca often couldn't join these trips because of his behaviour, but Ruben made it possible for him to go.",
+        "translation": "对阿尔玛来说，她很难安静地坐着，完成所有那些老旧的学校任务。还有卢卡，他的捣乱行为非常严重，老师们特意安排他提前退学。你可以想象这让他感觉更加被排斥。直到这些孩子开始与鲁本建立起特殊的联系。例如，木偶向阿尔玛发送私人电子邮件，说晚上在课堂上感到非常孤独，阿尔玛回复询问鲁本是否需要一个朋友，她自己的毛绒玩具，在家阳光明媚。鲁本说是的，请吧。慢慢地，这些孩子和鲁本变得非常亲近。它经常坐在阿尔玛的腿上，从事对她来说困难的活动，这让她平静下来，更加专心。在一次学校实地考察中，汤姆老师把卢卡放在鲁本的组里，这是一个巨大的胜利。卢卡经常因为他的行为而无法参加这些旅行，但鲁本让他可以去。"
+      },
+      {
+        "id": 9,
+        "time": "09:29",
+        "seconds": 569.4,
+        "endSeconds": 640.9,
+        "title": "第 9 幕：Perhaps you can see best how Ruben he...",
+        "original": "Perhaps you can see best how Ruben helped these children through this drawing. It's an illustration of Luca on a classroom whiteboard. It's Ruben and Luca together. It looks kind of like Ruben is lifting Luca up, perhaps making him feel happier, lighter. And for me as a researcher, I really love this picture because I think it is the seven-year-old who was able through this drawing to best crystallise for us what development is and what imagination can do if adults take it seriously. Now it would have been easy to write off children like Luca, Viola or Alma and say that the classroom just isn't a place for them. But this story shows us how adult-siled toy play can start changing these systems from the inside. But, and this is my strongest message for you today, the value of adult-siled toy play needs to be better recognised in early learning and teachers who play need to be supported and trusted by their school systems.",
+        "translation": "也许你可以最好地看到鲁本是如何帮助这些孩子完成这幅画的。这是教室白板上Luca的插图。Ruben和Luca在一起。这看起来有点像鲁本把卢卡举起来，也许会让他感觉更快乐、更轻松。对我来说，作为一名研究人员，我真的很喜欢这张照片，因为我认为七岁的孩子能够通过这张图为我们最好地结晶什么是发展，以及如果成年人认真对待它，想象力可以做什么。现在它会"
+      },
+      {
+        "id": 10,
+        "time": "10:40",
+        "seconds": 640.9,
+        "endSeconds": 713.2,
+        "title": "第 10 幕：If this happens, templates can help u...",
+        "original": "If this happens, templates can help us imagine and build better futures without children. Futures where everyone could have an important role to play. It is through these roles and those relationships that our most excluded students can find their rightful place and we all benefit. And this can happen again and again and again if imaginative play is given the place it deserves. Thank you. That was Anna Rhaenio at Play At Head in 2026. And now here's Ted Curator, Chloe Shashaprooks. Hi. Thanks for listening to Anna Rhaenio's talk. I'm Chloe Shashaprooks, speaking to you from New York City. I find it very cool when sociological or psychological research is designed to find ways for people's differences to coexist and maybe even thrive. When I first found Anna's work, it was that element of her research that stood out to me. She came to our exploratory video call with a deck of images that moved me way more than I was prepared for.",
+        "translation": "如果发生这种情况，模板可以帮助我们想象和构建没有孩子的更美好的未来。每个人都可以发挥重要作用的未来。正是通过这些角色和关系，我们最受排斥的学生才能找到自己应有的位置，我们都受益。如果想象力游戏得到应有的地位，这种情况可能会一次又一次地发生。谢谢。这是 2026 年 Play At Head 的 Anna Rhaenio。现在是 Ted 策展人 Chloe Shashaprooks。你好。感谢您聆听安娜·雷尼奥的演讲。我是克洛伊·沙沙普鲁克斯，在纽约与您交谈。当社会学或心理学研究旨在寻找人们的差异共存甚至繁荣的方法时，我发现这非常酷。当我第一次发现安娜的作品时，她的研究中的这一点对我来说很突出。她带着一系列图片参加了我们的探索性视频通话，这些图片让我感动得超出了我的预期。"
+      },
+      {
+        "id": 11,
+        "time": "11:53",
+        "seconds": 713.2,
+        "endSeconds": 768.4,
+        "title": "第 11 幕：She was talking about neurodivergent ...",
+        "original": "She was talking about neurodivergent children's struggles to participate in the classroom and showed me photos of play worlds that the teachers had created to include these kids. Young children wearing paper hats and costumes, hugging stuffed animals, sitting in small groups while building things, and then my favorite one, a photo of a coat closet taken from a child's perspective, just the lower half of it. This closet was located inside of a classroom and the kids all treated it as a portal to another world. The coat tails and cuffs leaves draping at varying heights and this surprisingly intimate photo took me back to my childhood, to the smell of wool and dust, to an age where we were all small enough for the bottom seams of jackets and hangers to graze the tops of our heads, an age when it felt frictionless to treat closets as time machines or as a door to another dimension. And that memory made everything that Anna was saying about these play worlds come together for me.",
+        "translation": "她在谈论神经发散的孩子们参与课堂的斗争，并向我展示了老师们为这些孩子创造的游戏世界的照片。年幼的孩子戴着纸帽和服装，拥抱填充动物，在建造东西时坐在小团体中，然后是我最喜欢的一张照片，一张从孩子的角度拍摄的大衣柜的照片，只是它的下半部分。这个壁橱位于教室内，孩子们都把它当作"
+      },
+      {
+        "id": 12,
+        "time": "12:48",
+        "seconds": 768.4,
+        "endSeconds": 814.6,
+        "title": "第 12 幕：It makes so much sense that children ...",
+        "original": "It makes so much sense that children who are struggling to fit in or follow directions would feel more at ease in a classroom if they had the space and were maybe even encouraged to step into a fantasy world. Maybe then it would feel like they already fit in or like the directions within that world were fun rather than a bore. Anna herself didn't directly teach these kids in a classroom but she partnered with the teachers to study the effectiveness of play worlds. And even though she didn't spend much time with these kids, her passion and care for these children came through in our conversations, her desire to find a way for them to thrive. This particularly came through when she talked about this idea of why not, as you heard in her talk. Some kids just don't want to do what everyone else is doing. Why make them be like everyone else when it doesn't always have to disrupt the other kids?",
+        "translation": "这是非常有意义的，如果有空间，那些努力融入或遵循指示的孩子在教室里会感到更自在，甚至可能被鼓励进入一个幻想世界。也许那时他们会觉得他们已经融入了，或者那个世界里的方向很有趣而不是无聊。安娜本人并没有直接在课堂上教这些孩子，但她与老师合作研究游戏世界的有效性。尽管她没有花太多时间和这些孩子在一起，但她对这些孩子的热情和关怀在我们的谈话中流露出来，她渴望找到让他们茁壮成长的方法。正如您在她的演讲中听到的那样，当她谈到“为什么不”的想法时，这一点尤其明显。有些孩子只是不想做其他人正在做的事情。当不必总是打扰其他孩子时，为什么要让他们像其他人一样呢？"
+      },
+      {
+        "id": 13,
+        "time": "13:34",
+        "seconds": 814.6,
+        "endSeconds": 897.1,
+        "title": "第 13 幕：You may have noticed that in her talk...",
+        "original": "You may have noticed that in her talk she mentioned that the stories were fictional examples, that they were composite stories to protect the privacy of students and teachers. Anna is very ethical with her research and explained that obscuring the details was necessary for her to be able to present on the TED stage. But I must admit, I was sad about it because the original images of the stories of students and specific details from play worlds that she shared with me on that first call were so compelling and charming that I was worried the magic wouldn't come through anymore. For example, she had to change the names of the books that the students based their play worlds around and therefore the details from those books that students focused on, as well as the images of the actual objects that students made or grew attached to. Fortunately, she did such a good job of preserving the levels and types of details in her altered stories and images that I think she succeeded at sharing her authentic insights and passion in this talk. Working with Anna and diving into her research has actually impacted me as a parent, albeit in the less serious but nevertheless delightful way. When one of my kids is unwilling to do something that we need them to do, I sometimes bring them into an invented story that they already love, like Moana or the Lion King. You can be Moana's little sister and I'll be Moana and you can run into my arms and I'll catch you and then you know I put her shoes on. If you're curious about Ted's curation, visit Ted.com slash curation guidelines.",
+        "translation": "您可能已经注意到，她在演讲中提到这些故事是虚构的例子，它们是为了保护学生和老师的隐私而合成的故事。安娜对她的研究非常有道德，并解释说，为了能够在 TED 舞台上展示，隐藏细节是必要的。但我必须承认，我对此感到难过，因为她在第一次通话时与我分享的学生故事的原始图像和游戏世界的具体细节是如此引人注目和迷人，以至于我担心魔法不会再出现。例如，她必须更改学生游戏世界所依据的书籍的名称，从而更改学生关注的书籍的细节，以及学生制作或逐渐喜欢的实际物体的图像。幸运的是，她在保留修改后的故事和图像中细节的层次和类型方面做得非常好，我认为她在这次演讲中成功地分享了她真实的见解和热情。与安娜一起工作并深入研究她的研究实际上对我作为一名家长产生了影响，尽管方式不那么严肃，但仍然令人愉快。当我的一个孩子不愿意做我们需要他们做的事情时，我有时会把他们带入一个他们已经喜欢的虚构故事中，比如莫阿娜或狮子王。你可以成为莫阿娜的小妹妹，我就是莫阿娜，你可以跑进我的怀里，我会抓住你，然后你就知道我给她穿上了鞋子。如果您对 Ted 的策展感到好奇，请访问 Ted.com 斜杠策展指南。"
+      }
+    ],
+    "spoken": [],
+    "grammar": [],
+    "vocab": [],
+    "echoLoop": [
+      {
+        "step": 1,
+        "name": "盲听捕捉 (Blind Listening)",
+        "guide": "闭上双眼全篇盲听，记录第一遍捕捉到的核心脉络。"
+      },
+      {
+        "step": 2,
+        "name": "声学精听 (Acoustic Decoding)",
+        "guide": "对照中英双语分幕逐句精听，重点体会连读与语调起伏。"
+      },
+      {
+        "step": 3,
+        "name": "影子跟读 (Shadowing)",
+        "guide": "以 1.0x 正常语速跟随原声音频进行影子跟读练习。"
+      },
+      {
+        "step": 4,
+        "name": "自主复述 (Active Recall)",
+        "guide": "合上文本稿，尝试用英文复述演讲的核心观点。"
+      }
+    ],
+    "neteaseId": 3445715581,
+    "neteaseSongId": "3445715581"
+  },
+  {
     "id": "tami-pyfer",
     "slug": "tami-pyfer",
     "title": "What my politically divided family teaches me",
