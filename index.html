@@ -1687,6 +1687,326 @@
       border-left: 2px solid #79c0ff;
     }
 
+  
+    /* ======================================================== */
+    /* 🎤 KTV Karaoke Word-Level Subtitle Styling               */
+    /* ======================================================== */
+    .seg-en-text {
+      font-size: 1.05rem;
+      line-height: 1.85;
+      color: #cbd5e1;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+      margin-bottom: 8px;
+      letter-spacing: 0.015em;
+      user-select: text;
+    }
+
+    .ktv-word {
+      display: inline-block;
+      padding: 1px 3px;
+      margin: 0 1px;
+      border-radius: 4px;
+      cursor: pointer;
+      position: relative;
+      transition: color 0.12s ease, text-shadow 0.12s ease, transform 0.12s ease, background 0.12s ease;
+    }
+
+    .ktv-word:hover {
+      background: rgba(56, 189, 248, 0.25);
+      color: #38bdf8;
+    }
+
+    /* KTV Future Word: Not yet spoken (soft dimmed) */
+    .ktv-word.ktv-future {
+      color: rgba(148, 163, 184, 0.6);
+      font-weight: 400;
+    }
+
+    /* KTV Passed Word: Already spoken (clean high-contrast white) */
+    .ktv-word.ktv-passed {
+      color: #f8fafc;
+      font-weight: 500;
+    }
+
+    /* KTV Active Word: Currently sung/spoken right now (Vibrant KTV Glow!) */
+    .ktv-word.ktv-active {
+      color: #38bdf8;
+      font-weight: 800;
+      background: rgba(56, 189, 248, 0.28);
+      border-radius: 4px;
+      box-shadow: 0 0 14px rgba(56, 189, 248, 0.7);
+      text-shadow: 0 0 12px rgba(56, 189, 248, 0.95), 0 0 24px rgba(56, 189, 248, 0.6);
+      transform: scale(1.12);
+      z-index: 3;
+    }
+
+    /* ======================================================== */
+    /* 🎯 Brand-New Study Core Hub (全新的精学核心舱架构)       */
+    /* ======================================================== */
+    .study-hub-nav-bar {
+      display: flex;
+      gap: 8px;
+      padding: 6px;
+      background: #0d141f;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      margin-bottom: 14px;
+    }
+
+    .hub-nav-btn {
+      flex: 1;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      padding: 10px 14px;
+      background: transparent;
+      border: 1px solid transparent;
+      border-radius: 8px;
+      color: var(--text-muted);
+      font-size: 0.84rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .hub-nav-btn:hover {
+      color: #f1f5f9;
+      background: rgba(255, 255, 255, 0.05);
+    }
+
+    .hub-nav-btn.active {
+      background: #1e293b;
+      color: #38bdf8;
+      border-color: rgba(56, 189, 248, 0.4);
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+    }
+
+    .hub-nav-badge {
+      font-size: 0.72rem;
+      background: rgba(56, 189, 248, 0.15);
+      color: #38bdf8;
+      padding: 2px 7px;
+      border-radius: 12px;
+      border: 1px solid rgba(56, 189, 248, 0.3);
+    }
+
+    .hub-nav-btn.active .hub-nav-badge {
+      background: #38bdf8;
+      color: #0f172a;
+      font-weight: 700;
+    }
+
+    /* Hub Search Input */
+    .hub-search-box {
+      margin-bottom: 14px;
+      position: relative;
+    }
+
+    .hub-search-box input {
+      width: 100%;
+      background: #0d141f;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px 14px 10px 36px;
+      color: #f1f5f9;
+      font-size: 0.82rem;
+      outline: none;
+      box-sizing: border-box;
+      transition: all 0.2s ease;
+    }
+
+    .hub-search-box input:focus {
+      border-color: #38bdf8;
+      box-shadow: 0 0 12px rgba(56, 189, 248, 0.2);
+    }
+
+    .hub-search-icon {
+      position: absolute;
+      left: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 0.84rem;
+      color: var(--text-muted);
+      pointer-events: none;
+    }
+
+    /* Master Vocab Card */
+    .hub-vocab-card {
+      background: #131b26;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 14px 16px;
+      margin-bottom: 12px;
+      transition: all 0.2s ease;
+    }
+
+    .hub-vocab-card:hover {
+      border-color: rgba(56, 189, 248, 0.45);
+      background: #182332;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
+    }
+
+    .hub-vocab-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 8px;
+    }
+
+    .hub-vocab-word-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .hub-vocab-word {
+      font-size: 1.12rem;
+      font-weight: 800;
+      color: #38bdf8;
+      cursor: pointer;
+      letter-spacing: 0.02em;
+    }
+
+    .hub-vocab-word:hover {
+      text-decoration: underline;
+    }
+
+    .hub-speak-btn {
+      background: rgba(56, 189, 248, 0.12);
+      border: 1px solid rgba(56, 189, 248, 0.3);
+      color: #38bdf8;
+      border-radius: 6px;
+      padding: 2px 7px;
+      font-size: 0.72rem;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .hub-speak-btn:hover {
+      background: #38bdf8;
+      color: #0f172a;
+    }
+
+    .hub-phonetic-pill {
+      font-family: monospace;
+      font-size: 0.76rem;
+      color: #c084fc;
+      background: rgba(168, 85, 247, 0.14);
+      border: 1px solid rgba(168, 85, 247, 0.3);
+      padding: 2px 7px;
+      border-radius: 6px;
+    }
+
+    .hub-jump-pill {
+      font-family: monospace;
+      font-size: 0.72rem;
+      color: #94a3b8;
+      background: #0a1018;
+      border: 1px solid var(--border);
+      padding: 3px 8px;
+      border-radius: 6px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      transition: all 0.15s;
+    }
+
+    .hub-jump-pill:hover {
+      color: #38bdf8;
+      border-color: #38bdf8;
+      background: rgba(56, 189, 248, 0.1);
+    }
+
+    .hub-vocab-meaning {
+      font-size: 0.85rem;
+      color: #e2e8f0;
+      line-height: 1.5;
+      margin-bottom: 8px;
+      font-weight: 500;
+    }
+
+    .hub-vocab-context {
+      font-size: 0.78rem;
+      color: #94a3b8;
+      font-style: italic;
+      background: rgba(0, 0, 0, 0.3);
+      padding: 8px 12px;
+      border-radius: 8px;
+      border-left: 3px solid #38bdf8;
+      line-height: 1.45;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+
+    .hub-vocab-context:hover {
+      background: rgba(0, 0, 0, 0.45);
+    }
+
+    .hub-vocab-context mark {
+      background: transparent;
+      color: #38bdf8;
+      font-weight: 700;
+      text-decoration: underline;
+    }
+
+    /* Master Sentence Pattern Card */
+    .hub-sentence-card {
+      background: #131b26;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 16px 18px;
+      margin-bottom: 14px;
+      transition: all 0.2s ease;
+    }
+
+    .hub-sentence-card:hover {
+      border-color: rgba(121, 192, 255, 0.45);
+      background: #182332;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
+    }
+
+    .hub-sentence-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 10px;
+    }
+
+    .hub-pattern-pill {
+      font-size: 0.76rem;
+      font-weight: 700;
+      color: #79c0ff;
+      background: rgba(56, 139, 253, 0.15);
+      border: 1px solid rgba(56, 139, 253, 0.35);
+      padding: 3px 10px;
+      border-radius: 6px;
+    }
+
+    .hub-sentence-en {
+      font-size: 0.95rem;
+      color: #f8fafc;
+      font-weight: 600;
+      line-height: 1.55;
+      margin-bottom: 10px;
+      font-family: Georgia, Cambria, serif;
+    }
+
+    .hub-sentence-note {
+      font-size: 0.78rem;
+      color: #94a3b8;
+      line-height: 1.5;
+      background: rgba(0, 0, 0, 0.3);
+      padding: 8px 12px;
+      border-radius: 8px;
+      border-left: 3px solid #79c0ff;
+    }
+
   </style>
 </head>
 <body>
@@ -1712,7 +2032,7 @@
       <div class="hero-content">
         <h1>TED Talks Daily 深度原声英语精学舱</h1>
         <p>
-          专为高阶进阶者打造的极简沉浸式语言训练空间：剔除商业片头广告，全量 R2 云端 CDN 毫秒级跳转，中英双语精准对齐，结合 Echo Loop 四步口语刻意练习与地道语法剖析。
+          专为高阶进阶者打造的极简沉浸式语言训练空间：剔除商业片头广告，全量 R2 云端 CDN 毫秒级跳转，中英双语精准对齐，融合 KTV 级逐词原声走字字幕与 CET-4+ 高阶词汇句型精研舱。
         </p>
       </div>
       <div class="hero-stats">
@@ -1725,8 +2045,8 @@
           <div class="stat-label">纯净正文原声</div>
         </div>
         <div class="stat-box">
-          <div class="stat-val">Echo</div>
-          <div class="stat-label">4步跟读训练</div>
+          <div class="stat-val">KTV</div>
+          <div class="stat-label">逐词走字字幕</div>
         </div>
       </div>
     </div>
@@ -1810,11 +2130,12 @@
           </audio>
           <div class="player-controls">
             <div class="toggle-group">
-              <button class="btn-toggle active" id="btnToggleTrans" onclick="toggleBilingual()">中英双语 / 仅英文</button>
+              <button class="btn-toggle active" id="btnToggleTrans" onclick="toggleBilingual()">中英双语 [开]</button>
               <button class="btn-toggle" id="btnToggleLoop" onclick="toggleSegmentLoop()">段落循环 [关]</button>
+              <button class="btn-toggle active" id="btnToggleKtv" onclick="toggleKtvMode()">🎤 KTV 逐词走字 [开]</button>
             </div>
             <div class="playback-tip" id="playbackTip">
-              💡 点击文稿任意段落可精确跳转播放
+              💡 正在播放时英文字幕如 KTV 逐词点亮，点击任意单词或段落均可秒级跳转
             </div>
           </div>
         </div>
@@ -1824,43 +2145,45 @@
         </div>
       </div>
 
-      <!-- Right Column: Echo Loop Gym + Language Teaching -->
+      <!-- Right Column: Brand-New Deep Study Hub (全新的精学核心舱架构) -->
       <div class="study-right">
         <div class="study-right-header">
           <div class="study-right-title">
             <span>🎯</span>
-            <span>精学核心舱</span>
-          </div>
-          <div class="study-tab-group" id="studyTabGroup">
-            <button class="study-tab-btn active" data-tab="all" onclick="switchStudyTab('all', this)">全部</button>
-            <button class="study-tab-btn" data-tab="vocab" onclick="switchStudyTab('vocab', this)">🔤 CET-4+ 词汇</button>
-            <button class="study-tab-btn" data-tab="patterns" onclick="switchStudyTab('patterns', this)">💎 重要句型</button>
+            <span>精学核心舱 · Deep Study Hub</span>
           </div>
         </div>
 
+        <!-- Mode Navigation Bar -->
+        <div class="study-hub-nav-bar" id="studyHubNav">
+          <button class="hub-nav-btn active" id="btnHubVocab" onclick="switchHubMode('vocab')">
+            <span>🔤 CET-4+ 词汇精研</span>
+            <span class="hub-nav-badge" id="hubVocabCountBadge">0 词</span>
+          </button>
+          <button class="hub-nav-btn" id="btnHubPatterns" onclick="switchHubMode('patterns')">
+            <span>💎 核心句型精析</span>
+            <span class="hub-nav-badge" id="hubPatternsCountBadge">0 句</span>
+          </button>
+        </div>
+
+        <!-- Quick Search Bar -->
+        <div class="hub-search-box">
+          <span class="hub-search-icon">🔍</span>
+          <input type="text" id="hubSearchInput" placeholder="输入词汇、音标或中文释义极速查找..." oninput="onHubSearchInput()" />
+        </div>
+
         <div class="study-right-body" id="studyRightBody">
-          <!-- CET-4+ Vocabulary Hub -->
-          <div class="study-card" data-study-card="vocab">
-            <div class="study-card-title">
-              <span>🔤 全文 CET-4+ 重点词汇精选</span>
-              <span class="study-badge badge-vocab" id="cet4VocabBadge">CET-4+ 核心库</span>
-            </div>
-            <div class="vocab-search-row">
-              <input type="text" id="vocabFilterInput" placeholder="🔍 快速搜索本期生词..." oninput="filterVocabList()" />
-            </div>
+          <!-- Hub Section 1: CET-4+ Vocabulary -->
+          <div id="hubVocabSection">
             <div id="studyVocabList">
-              <!-- Populated by JS -->
+              <!-- Populated dynamically by JS -->
             </div>
           </div>
 
-          <!-- Key Sentence Patterns -->
-          <div class="study-card" data-study-card="patterns">
-            <div class="study-card-title">
-              <span>💎 核心句型与修辞篇章摘录</span>
-              <span class="study-badge badge-grammar" id="keySentencesBadge">重要句型精析</span>
-            </div>
+          <!-- Hub Section 2: Key Sentence Patterns -->
+          <div id="hubPatternsSection" style="display: none;">
             <div id="studySentencesList">
-              <!-- Populated by JS -->
+              <!-- Populated dynamically by JS -->
             </div>
           </div>
         </div>
@@ -2155,19 +2478,244 @@
     window.addEventListener('hashchange', handleHashChange);
 
     // =====================================
-    // Populate Study View (CET-4+ Vocab & Key Sentence Patterns Hub)
+    // 🎤 KTV Word-Level Subtitle Tokenizer & High-Precision Timing
+    // =====================================
+    let ktvModeEnabled = true;
+    let ktvAnimationId = null;
+    let allSegmentWords = []; // Array of word objects for the current episode
+    let lastActiveWordSpan = null;
+    let activeHubMode = 'vocab';
+
+    function toggleKtvMode() {
+      ktvModeEnabled = !ktvModeEnabled;
+      const btn = document.getElementById('btnToggleKtv');
+      if (btn) {
+        btn.textContent = ktvModeEnabled ? '🎤 KTV 逐词走字 [开]' : '🎤 KTV 逐词走字 [关]';
+        btn.classList.toggle('active', ktvModeEnabled);
+      }
+      if (!ktvModeEnabled) {
+        document.querySelectorAll('.ktv-word').forEach(w => {
+          w.className = 'ktv-word ktv-passed';
+        });
+      } else {
+        updateKtvSubtitles(mainAudio.currentTime, true);
+      }
+    }
+
+    function tokenizeKtvWords(text, startSec, endSec, segIndex) {
+      const dur = Math.max(1.0, endSec - startSec);
+      
+      // Match sentences with punctuation
+      const rawSentences = text.match(/[^.?!;]+[.?!;]*\s*/g) || [text];
+      
+      const sentWeights = [];
+      rawSentences.forEach(s => {
+        const trimmed = s.trim();
+        const hasTerminal = /[.?!;]$/.test(trimmed);
+        const w = trimmed.length + (hasTerminal ? 8 : 0);
+        sentWeights.push(Math.max(4, w));
+      });
+      
+      const totSentWeight = sentWeights.reduce((a, b) => a + b, 0) || 1;
+      const wordsData = [];
+      let currTime = startSec;
+      
+      rawSentences.forEach((s, sIdx) => {
+        const sentDur = dur * (sentWeights[sIdx] / totSentWeight);
+        const sentEnd = currTime + sentDur;
+        const rawWords = s.trim().split(/\s+/);
+        
+        if (rawWords.length === 0 || (rawWords.length === 1 && !rawWords[0])) {
+          currTime = sentEnd;
+          return;
+        }
+        
+        const wordWeights = [];
+        rawWords.forEach(w => {
+          const clean = w.replace(/[^a-zA-Z0-9]/g, '');
+          const cleanLen = clean.length || 1;
+          let pauseBonus = 0;
+          if (/[,:\-]$/.test(w)) pauseBonus = 2.0;
+          else if (/[.?!;]$/.test(w)) pauseBonus = 3.8;
+          wordWeights.push(cleanLen + pauseBonus);
+        });
+        
+        const totWordWeight = wordWeights.reduce((a, b) => a + b, 0) || 1;
+        let wTime = currTime;
+        
+        rawWords.forEach((w, wIdx) => {
+          const wDur = sentDur * (wordWeights[wIdx] / totWordWeight);
+          const wStart = Math.round(wTime * 100) / 100;
+          const wEnd = Math.round((wTime + wDur) * 100) / 100;
+          
+          wordsData.push({
+            id: `w-${segIndex}-${wordsData.length}`,
+            word: w,
+            segIndex: segIndex,
+            start: wStart,
+            end: wEnd
+          });
+          wTime += wDur;
+        });
+        
+        currTime = sentEnd;
+      });
+      
+      return wordsData;
+    }
+
+    function jumpToKtvWord(startSec, e) {
+      if (e) e.stopPropagation();
+      mainAudio.currentTime = Math.max(0, startSec - 0.05);
+      mainAudio.play();
+      updateKtvSubtitles(mainAudio.currentTime, true);
+    }
+
+    // High-performance 60fps word highlight & centered scrolling
+    function updateKtvSubtitles(curTime, forceScroll = false) {
+      if (!currentEpisode || !currentEpisode.segments || allSegmentWords.length === 0) return;
+      
+      if (!ktvModeEnabled) {
+        // Fallback to standard block highlight
+        const segs = currentEpisode.segments;
+        for (let i = 0; i < segs.length; i++) {
+          const sSec = timeToSeconds(segs[i].time);
+          const nSec = i < segs.length - 1 ? timeToSeconds(segs[i + 1].time) : sSec + 300;
+          if (curTime >= sSec && curTime < nSec) {
+            if (activeSegmentIndex !== i) {
+              highlightSegment(i, true);
+            }
+            break;
+          }
+        }
+        return;
+      }
+
+      let activeWord = null;
+      let activeSegIdx = -1;
+
+      // Locate active word
+      for (let i = 0; i < allSegmentWords.length; i++) {
+        const w = allSegmentWords[i];
+        const span = document.getElementById(w.id);
+        if (!span) continue;
+
+        if (curTime >= w.start && curTime < w.end) {
+          activeWord = w;
+          activeSegIdx = w.segIndex;
+          if (span !== lastActiveWordSpan) {
+            span.className = 'ktv-word ktv-active';
+          }
+        } else if (curTime >= w.end) {
+          if (span.className !== 'ktv-word ktv-passed') {
+            span.className = 'ktv-word ktv-passed';
+          }
+        } else {
+          if (span.className !== 'ktv-word ktv-future') {
+            span.className = 'ktv-word ktv-future';
+          }
+        }
+      }
+
+      // Highlight segment card
+      if (activeSegIdx >= 0 && activeSegIdx !== activeSegmentIndex) {
+        highlightSegment(activeSegIdx, true);
+      }
+
+      // Keep active word in focus
+      if (activeWord) {
+        const activeSpan = document.getElementById(activeWord.id);
+        if (activeSpan && (activeSpan !== lastActiveWordSpan || forceScroll)) {
+          lastActiveWordSpan = activeSpan;
+          // Smooth center scrolling if segment block active
+          const block = document.getElementById(`seg-block-${activeWord.segIndex}`);
+          if (block && (forceScroll || activeSegIdx !== activeSegmentIndex)) {
+            block.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          }
+        }
+      }
+    }
+
+    function startKtvRafLoop() {
+      if (ktvAnimationId) cancelAnimationFrame(ktvAnimationId);
+      function frame() {
+        if (!mainAudio.paused) {
+          updateKtvSubtitles(mainAudio.currentTime);
+          ktvAnimationId = requestAnimationFrame(frame);
+        }
+      }
+      ktvAnimationId = requestAnimationFrame(frame);
+    }
+
+    mainAudio.addEventListener('play', startKtvRafLoop);
+    mainAudio.addEventListener('pause', () => {
+      if (ktvAnimationId) cancelAnimationFrame(ktvAnimationId);
+    });
+    mainAudio.addEventListener('timeupdate', () => {
+      updateKtvSubtitles(mainAudio.currentTime);
+    });
+
+    // =====================================
+    // 🎯 Brand-New Study Core Hub Operations
+    // =====================================
+    function switchHubMode(mode) {
+      activeHubMode = mode;
+      const btnVocab = document.getElementById('btnHubVocab');
+      const btnPatterns = document.getElementById('btnHubPatterns');
+      const secVocab = document.getElementById('hubVocabSection');
+      const secPatterns = document.getElementById('hubPatternsSection');
+
+      if (mode === 'vocab') {
+        btnVocab.classList.add('active');
+        btnPatterns.classList.remove('active');
+        secVocab.style.display = 'block';
+        secPatterns.style.display = 'none';
+      } else {
+        btnVocab.classList.remove('active');
+        btnPatterns.classList.add('active');
+        secVocab.style.display = 'none';
+        secPatterns.style.display = 'block';
+      }
+      const rightBody = document.getElementById('studyRightBody');
+      if (rightBody) rightBody.scrollTop = 0;
+    }
+
+    function onHubSearchInput() {
+      const q = (document.getElementById('hubSearchInput')?.value || '').trim().toLowerCase();
+      
+      // Filter Vocab Cards
+      document.querySelectorAll('.hub-vocab-card').forEach(card => {
+        const word = card.getAttribute('data-word') || '';
+        const meaning = card.getAttribute('data-meaning') || '';
+        const phonetic = card.getAttribute('data-phonetic') || '';
+        if (!q || word.includes(q) || meaning.includes(q) || phonetic.includes(q)) {
+          card.style.display = 'block';
+        } else {
+          card.style.display = 'none';
+        }
+      });
+
+      // Filter Sentence Cards
+      document.querySelectorAll('.hub-sentence-card').forEach(card => {
+        const text = card.textContent.toLowerCase();
+        if (!q || text.includes(q)) {
+          card.style.display = 'block';
+        } else {
+          card.style.display = 'none';
+        }
+      });
+    }
+
+    // =====================================
+    // Populate Study View (KTV Subtitles + Brand-New Study Core Hub)
     // =====================================
     function populateStudyView(ep) {
       // Update Top Hero
       const studyCover = document.getElementById('studyCover');
       const coverSrc = ep.cover || ep.coverUrl || ep.coverImage || '';
       studyCover.src = coverSrc;
-      studyCover.onerror = function() {
-        this.style.display = 'none';
-      };
-      studyCover.onload = function() {
-        this.style.display = 'block';
-      };
+      studyCover.onerror = function() { this.style.display = 'none'; };
+      studyCover.onload = function() { this.style.display = 'block'; };
 
       document.getElementById('studyTitle').textContent = ep.title;
       document.getElementById('studyChineseTitle').textContent = ep.chineseTitle || '';
@@ -2177,22 +2725,23 @@
       document.getElementById('studySubCatBadge').textContent = ep.subCategory || '深度精研';
       document.getElementById('studyDurationBadge').textContent = '⏱️ 纯净原声 ' + ep.duration;
 
-      // Update Audio Player
+      // Reset Audio Player
       mainAudio.src = ep.audioUrl;
       mainAudio.load();
 
-      // Reset Vocab Search
-      const searchBox = document.getElementById('vocabFilterInput');
+      // Reset Search & Hub mode
+      const searchBox = document.getElementById('hubSearchInput');
       if (searchBox) searchBox.value = '';
+      switchHubMode('vocab');
 
       // 1. Populate CET-4+ Vocabulary Hub
       const vocabContainer = document.getElementById('studyVocabList');
-      const cet4Badge = document.getElementById('cet4VocabBadge');
       const vocabList = ep.cet4Vocab || [];
+      const vocabBadge = document.getElementById('hubVocabCountBadge');
+      if (vocabBadge) vocabBadge.textContent = `${vocabList.length} 词`;
 
       if (vocabContainer) {
         if (vocabList && vocabList.length > 0) {
-          if (cet4Badge) cet4Badge.textContent = `收录 ${vocabList.length} 核心词`;
           vocabContainer.innerHTML = vocabList.map(v => {
             const word = v.word || '';
             const phonetic = v.phonetic || '';
@@ -2203,96 +2752,74 @@
 
             let highlightedContext = context;
             if (word && context) {
-              const reg = new RegExp(`\b(${word})\b`, 'gi');
+              const reg = new RegExp(`\\b(${word})\\b`, 'gi');
               highlightedContext = context.replace(reg, '<mark>$1</mark>');
             }
 
             return `
-            <div class="vocab-item-card" data-word="${word.toLowerCase()}" data-meaning="${meaning.toLowerCase()}">
-              <div class="vocab-item-top">
-                <div class="vocab-word-group">
-                  <span class="vocab-word" onclick="speakWord('${word}', event)" title="点击朗读发音">${word}</span>
-                  <button class="vocab-speak-btn" onclick="speakWord('${word}', event)" title="原声发音">🔊</button>
-                  ${phonetic ? `<span class="vocab-phonetic-badge">${phonetic}</span>` : ''}
+            <div class="hub-vocab-card" data-word="${word.toLowerCase()}" data-meaning="${meaning.toLowerCase()}" data-phonetic="${phonetic.toLowerCase()}">
+              <div class="hub-vocab-top">
+                <div class="hub-vocab-word-row">
+                  <span class="hub-vocab-word" onclick="speakWord('${word}', event)" title="点击朗读发音">${word}</span>
+                  <button class="hub-speak-btn" onclick="speakWord('${word}', event)" title="真人发音">🔊 朗读</button>
+                  ${phonetic ? `<span class="hub-phonetic-pill">${phonetic}</span>` : ''}
                 </div>
-                ${timeStr ? `<button class="vocab-jump-btn" onclick="jumpToSegment(${timeSec}, -1)" title="跳转到原文对应音频">⏱️ ${timeStr}</button>` : ''}
+                ${timeStr ? `<button class="hub-jump-pill" onclick="jumpToSegment(${timeSec}, -1)" title="跳转到原声该处精听">⏱️ ${timeStr} 原声</button>` : ''}
               </div>
-              <div class="vocab-meaning-text">${meaning}</div>
+              <div class="hub-vocab-meaning">${meaning}</div>
               ${highlightedContext ? `
-              <div class="vocab-context-box">
-                "${highlightedContext}"
+              <div class="hub-vocab-context" onclick="jumpToSegment(${timeSec}, -1)" title="点击跳转至原声例句位置">
+                “${highlightedContext}”
               </div>` : ''}
             </div>
             `;
           }).join('');
         } else {
-          if (cet4Badge) cet4Badge.textContent = '结合文稿研读';
-          vocabContainer.innerHTML = '<div style="color: var(--text-muted); font-size: 0.82rem; padding: 12px 0;">词汇已与文稿段落深度对齐。</div>';
+          vocabContainer.innerHTML = '<div style="color: var(--text-muted); font-size: 0.82rem; padding: 20px; text-align: center;">本期词汇已与双语段落全面对齐。</div>';
         }
       }
 
       // 2. Populate Key Sentence Patterns
       const sentencesContainer = document.getElementById('studySentencesList');
-      const sentBadge = document.getElementById('keySentencesBadge');
-      const sentencesList = ep.keySentences || [];
+      const sentList = ep.keySentences || [];
+      const patternsBadge = document.getElementById('hubPatternsCountBadge');
+      if (patternsBadge) patternsBadge.textContent = `${sentList.length} 句`;
 
       if (sentencesContainer) {
-        if (sentencesList && sentencesList.length > 0) {
-          if (sentBadge) sentBadge.textContent = `收录 ${sentencesList.length} 大核心句型`;
-          sentencesContainer.innerHTML = sentencesList.map(s => {
-            const pattern = s.pattern || '核心句型剖析';
+        if (sentList && sentList.length > 0) {
+          sentencesContainer.innerHTML = sentList.map(s => {
+            const pattern = s.pattern || '核心句式与论述框架';
             const sentence = s.sentence || '';
             const note = s.note || '';
             const timeStr = s.time || '';
             const timeSec = timeToSeconds(timeStr);
 
             return `
-            <div class="sentence-item-card">
-              <div class="sentence-item-top">
-                <span class="sentence-pattern-badge">${pattern}</span>
-                ${timeStr ? `<button class="vocab-jump-btn" onclick="jumpToSegment(${timeSec}, -1)" title="跳转到原声位置">⏱️ ${timeStr}</button>` : ''}
+            <div class="hub-sentence-card">
+              <div class="hub-sentence-top">
+                <span class="hub-pattern-pill">${pattern}</span>
+                ${timeStr ? `<button class="hub-jump-pill" onclick="jumpToSegment(${timeSec}, -1)" title="跳转到原声音频位置">⏱️ ${timeStr} 原声</button>` : ''}
               </div>
-              <div class="sentence-en">"${sentence}"</div>
-              ${note ? `<div class="sentence-note">💡 ${note}</div>` : ''}
+              <div class="hub-sentence-en">“${sentence}”</div>
+              ${note ? `<div class="hub-sentence-note">💡 <strong>修辞精析与写作迁移：</strong>${note}</div>` : ''}
             </div>
             `;
           }).join('');
         } else {
-          if (sentBadge) sentBadge.textContent = '结合文稿研读';
-          sentencesContainer.innerHTML = '<div style="color: var(--text-muted); font-size: 0.82rem; padding: 12px 0;">详见文稿各幕自然论述。</div>';
+          sentencesContainer.innerHTML = '<div style="color: var(--text-muted); font-size: 0.82rem; padding: 20px; text-align: center;">详见文稿各幕自然论述。</div>';
         }
       }
 
-      // Update Segments Transcript
+      // 3. Render Segments with KTV Word Tokens
       renderTranscriptSegments(ep.segments || []);
-
-      // Reset study tab to 'all'
-      switchStudyTab('all');
-    }
-
-    function switchStudyTab(type, btn) {
-      document.querySelectorAll('#studyTabGroup .study-tab-btn').forEach(b => b.classList.remove('active'));
-      if (btn) {
-        btn.classList.add('active');
-      } else {
-        const targetBtn = document.querySelector(`#studyTabGroup .study-tab-btn[data-tab="${type}"]`);
-        if (targetBtn) targetBtn.classList.add('active');
-      }
-
-      const cards = document.querySelectorAll('#studyRightBody .study-card');
-      cards.forEach(card => {
-        if (type === 'all' || card.getAttribute('data-study-card') === type) {
-          card.style.display = 'block';
-        } else {
-          card.style.display = 'none';
-        }
-      });
-      const rightBody = document.getElementById('studyRightBody');
-      if (rightBody) rightBody.scrollTop = 0;
     }
 
     function renderTranscriptSegments(segments) {
       transcriptContainer.innerHTML = '';
+      allSegmentWords = [];
+      lastActiveWordSpan = null;
+      activeSegmentIndex = -1;
+
       if (!segments || segments.length === 0) {
         transcriptContainer.innerHTML = '<div style="color: var(--text-muted); padding: 20px;">文稿分段加载中...</div>';
         return;
@@ -2302,10 +2829,21 @@
         const startSec = timeToSeconds(seg.time);
         const endSec = idx < segments.length - 1 ? timeToSeconds(segments[idx + 1].time) : startSec + 120;
 
+        // Tokenize words with acoustic/phonetic timing
+        const words = tokenizeKtvWords(seg.original || '', startSec, endSec, idx);
+        words.forEach(w => allSegmentWords.push(w));
+
+        const wordsHtml = words.map(w => {
+          return `<span class="ktv-word ktv-future" id="${w.id}" data-start="${w.start}" data-end="${w.end}" onclick="jumpToKtvWord(${w.start}, event)">${w.word} </span>`;
+        }).join('');
+
         const block = document.createElement('div');
         block.className = 'transcript-block';
         block.id = `seg-block-${idx}`;
-        block.onclick = () => jumpToSegment(startSec, idx);
+        block.onclick = (e) => {
+          if (e.target.classList.contains('ktv-word')) return;
+          jumpToSegment(startSec, idx);
+        };
 
         block.innerHTML = `
           <div class="seg-header-row">
@@ -2315,11 +2853,14 @@
             </span>
             <span class="seg-timestamp">${seg.time}</span>
           </div>
-          <div class="seg-en-text">${seg.original}</div>
+          <div class="seg-en-text" id="seg-en-${idx}">${wordsHtml}</div>
           <div class="seg-cn-text" style="display: ${showChinese ? 'block' : 'none'};">${seg.translation}</div>
         `;
         transcriptContainer.appendChild(block);
       });
+
+      // Initial pass
+      updateKtvSubtitles(0, false);
     }
 
     // =====================================
@@ -2339,6 +2880,7 @@
       if (idx >= 0) {
         highlightSegment(idx, true);
       }
+      updateKtvSubtitles(sec, true);
     }
 
     function highlightSegment(idx, shouldScroll = true) {
@@ -2350,7 +2892,6 @@
       const activeBlock = document.getElementById(`seg-block-${idx}`);
       if (activeBlock) {
         activeBlock.classList.add('active-playing');
-        // Add playing indicator pill in header
         const headerRow = activeBlock.querySelector('.seg-header-row');
         if (headerRow && !headerRow.querySelector('.seg-playing-pill')) {
           const pill = document.createElement('span');
@@ -2363,7 +2904,6 @@
             headerRow.appendChild(pill);
           }
         }
-        // Smooth scroll active block into center view
         if (shouldScroll) {
           activeBlock.scrollIntoView({ behavior: 'smooth', block: 'center' });
         }
@@ -2386,65 +2926,6 @@
       const btn = document.getElementById('btnToggleLoop');
       btn.textContent = loopCurrentSegment ? '段落循环 [开]' : '段落循环 [关]';
       btn.classList.toggle('active', loopCurrentSegment);
-    }
-
-    // Realtime audio tracking for segment loop & highlight
-    mainAudio.addEventListener('timeupdate', () => {
-      if (!currentEpisode || !currentEpisode.segments) return;
-      const cur = mainAudio.currentTime;
-      const segs = currentEpisode.segments;
-
-      for (let i = 0; i < segs.length; i++) {
-        const startSec = timeToSeconds(segs[i].time);
-        const nextStart = i < segs.length - 1 ? timeToSeconds(segs[i + 1].time) : startSec + 300;
-
-        if (cur >= startSec && cur < nextStart) {
-          if (activeSegmentIndex !== i) {
-            highlightSegment(i, true);
-          }
-          if (loopCurrentSegment && cur >= nextStart - 0.3) {
-            mainAudio.currentTime = startSec;
-            mainAudio.play();
-          }
-          break;
-        }
-      }
-    });
-
-    // =====================================
-    // Echo Loop Gym Actions
-    // =====================================
-    const GUIDANCE_TEXTS = {
-      1: "🎧 <strong>步骤 1：盲听捕捉 (Blind Listening)</strong><br/>不看文本，闭眼聆听下方金句 2-3 遍，捕捉节奏、语调起伏与句末重音。",
-      2: "🔍 <strong>步骤 2：声学精听 (Precision Acoustic)</strong><br/>对照下方英文与发音指南，关注单词间的连读同化与弱读音变，理解语篇结构。",
-      3: "🗣️ <strong>步骤 3：影子跟读 (Shadowing)</strong><br/>开启原声播放，延迟半个单词（0.2-0.5s）同频模仿发音、语调与情感能量。",
-      4: "💡 <strong>步骤 4：自主复述 (Recall & Produce)</strong><br/>脱离原声与文字稿，自主脱口说出金句，并尝试替换关键词进行口语输出造句。"
-    };
-
-    function setGymStep(step) {
-      document.querySelectorAll('.gym-step-item').forEach((item, idx) => {
-        item.classList.toggle('active', idx + 1 === step);
-      });
-      document.getElementById('stepGuidance').innerHTML = GUIDANCE_TEXTS[step] || '';
-    }
-
-    function playQuoteOnce() {
-      if (!currentEpisode) return;
-      quoteLoopActive = false;
-      document.getElementById('btnQuoteLoop').textContent = '🔁 循环跟读';
-      // Jump to first segment or quote timestamp
-      mainAudio.currentTime = 0;
-      mainAudio.play();
-    }
-
-    function toggleQuoteLoop() {
-      quoteLoopActive = !quoteLoopActive;
-      const btn = document.getElementById('btnQuoteLoop');
-      btn.textContent = quoteLoopActive ? '🔁 循环中 [开]' : '🔁 循环跟读';
-      if (quoteLoopActive) {
-        mainAudio.currentTime = 0;
-        mainAudio.play();
-      }
     }
 
     // =====================================
