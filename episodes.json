@@ -8,7 +8,7 @@
     "speakerTitle": "TED演讲嘉宾",
     "category": "个人成长与心理",
     "subCategory": "核心精选",
-    "duration": "15:28",
+    "duration": "15:30",
     "durationSeconds": 928.9,
     "audioUrl": "https://audio.louisyu.top/blake-mycoskie-clean.mp3",
     "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188521/d21467c1-72b9-4f37-933c-e1521f1f350c/BlakeMycoskie_2026-stageshot.jpg",
@@ -18,94 +18,58 @@
     "quoteTranslation": "我告诉你，沉默是致命的。",
     "segments": [
       {
-        "id": 1,
+        "scene": "第 1 幕",
         "time": "00:00",
-        "seconds": 0.8,
-        "endSeconds": 86.9,
-        "title": "第 1 幕：When I started Tom's shoes, I lived o...",
-        "original": "When I started Tom's shoes, I lived on a 45 foot sailboat in Marina del Rey. I didn't have much, a few bags of clothes, a bike, a surfboard, and a laptop. That was it. And those were some of the happiest years of my life. I woke up to the ocean rocking me. I made coffee barefoot. I felt clear, inspired, and alive. Now, let's fast forward 20 years. Tom's had become a global brand. Our one-for-one model had given over a hundred million shoes to children in need around the world. And personally, I had made more money than I ever thought was possible. And yet, 23 months ago, I had become so lost, so hopeless, and so depressed that I made a plan to end my life. And I chose that boat as the place to do it on. Not because I wanted to die there, but because I didn't want my family to be the ones who found me.",
-        "translation": "当我开始做Tom的鞋子时，我住在Marina del Rey的一艘45英尺长的帆船上。我没有什么东西，只有几袋衣服、一辆自行车、一块冲浪板和一台笔记本电脑。就是这样。那是我一生中最快乐的时光。我醒来时，大海在摇晃着我。我赤脚煮咖啡。我感到头脑清晰，充满灵感，充满活力。现在，让我们快进20年。Tom's已经成为一个全球品牌。我们的“一对一”模式已经为世界各地有需要的儿童捐赠了超过一亿双鞋子。就我个人而言，我赚的钱比我想象的要多。然而，23个月前，我变得如此迷茫，如此绝望，如此沮丧，以至于我做了一个结束生命的计划。我选择了那艘船来做实验。不是因为我想死在那里，而是因为我不想让我的家人成为找到我的人。"
+        "original": "When I started TOMS Shoes, I lived on a 45-foot sailboat in Marina del Rey. I didn't have much -- a few bags of clothes, a bike, a surfboard and a laptop. That was it. And those were some of the happiest years of my life. I woke up to the ocean rocking me. I made coffee barefoot. I felt clear, inspired and alive. Now let’s fast-forward 20 years. TOMS had become a global brand. Our one-for-one model had given over 100 million shoes to children in need around the world. And personally, I had made more money than I ever thought was possible. And yet, 23 months ago, I had become so lost, so hopeless and so depressed that I made a plan to end my life. And I chose that boat as the place to do it on Not because I wanted to die there, but because I didn't want my family to be the ones who found me. Knowing that I was going to say that today, here on the stage, is definitely the hardest part of preparing for this talk.",
+        "chinese": "创立TOMS鞋业时，我住在加州玛丽安德尔湾一艘45英尺长的帆船上。那时我身无长物——几包衣服、一辆自行车、一块冲浪板和一台笔记本电脑，仅此而已。但那却是我人生中最快乐的几年。每天清晨，我在海浪温柔的摇晃中醒来，光着脚煮咖啡。我思路清晰，灵感迸发，充满生机。现在，让我们把时间快进20年。TOMS已经成长为一个全球品牌；我们的“买一捐一”模式，已经为全世界有需要的儿童送去了超过一亿双鞋；而就个人而言，我赚到了远超我想象的财富。然而，就在23个月前，我陷入了极度的迷茫、绝望和抑郁，以至于我制定了结束自己生命的计划。我选择在那艘帆船上离开人世，并不是因为我想死在那里，而是因为我不想让家人成为发现我遗体的人。我知道自己今天站在这里、站在这个舞台上要把这件事说出来，这绝对是我准备这场演讲时最艰难的部分。"
       },
       {
-        "id": 2,
-        "time": "01:30",
-        "seconds": 90.2,
-        "endSeconds": 182.5,
-        "title": "第 2 幕：Knowing that I was going to say that ...",
-        "original": "Knowing that I was going to say that today here on the stage is definitely the hardest part of preparing for this talk. Thankfully, I did not act on that plan. Instead, I reached out to my friends and my family, and I told them the truth. Not that I was stressed, not that I lost my purpose. I told them I wasn't okay. And that decision saved my life. I then met an incredible psychiatrist who helped me really slow down and understand how I got there. Not just what I was feeling, but why. We then spent five months weaning me off for different medications I had been put on when I was misdiagnosed as bipolar. Five months. And during that time, the anxiety did not get better, it got worse. And the racing thoughts in my head almost became unbearable. But eventually my mind started to settle and something became impossible to ignore. There was a core wound underneath it all.",
-        "translation": "知道我今天要在台上说这句话绝对是准备这次演讲最困难的部分。谢天谢地，我没有按照那个计划行事。相反，我联系了我的朋友和家人，告诉了他们真相。不是因为我有压力，也不是因为我失去了目标。我告诉他们我不舒服。这个决定救了我的命。然后我遇到了一位非常棒的精神病医生，他帮助我真正放慢了速度，并理解了我是如何到达那里的。不仅仅是我的感受，还有为什么。然后我们花了五个月的时间让我戒掉在我被误诊为双相情感障碍时服用的不同药物。5个月。在这段时间里，焦虑并没有减轻，反而加重了。脑子里的思绪几乎让我无法忍受。但最终我的思绪开始平静下来，有些事情变得无法忽视。这下面有个核心伤口。"
+        "scene": "第 2 幕",
+        "time": "01:33",
+        "original": "Thankfully, I did not act on that plan. Instead, I reached out to my friends and my family and I told them the truth. Not that I was stressed, not that I lost my purpose. I told them I wasn’t OK -- and that decision saved my life. I then met an incredible psychiatrist who helped me really slow down and understand how I got there. Not just what I was feeling, but why. We then spent five months weaning me off four different medications I had been put on when I was misdiagnosed as bipolar. Five months. And during that time, the anxiety did not get better -- it got worse. And the racing thoughts in my head almost became unbearable. But eventually, my mind started to settle, and something became impossible to ignore. There was a core wound underneath it all ... a very, very old one. And it said this: \"You are not enough.\" The truth is, I had never felt that I was enough. Not as a kid, not as an athlete, not as a founder, not as a human.",
+        "chinese": "庆幸的是，我没有执行那个计划。相反，我向朋友和家人敞开心扉，告诉了他们真相。我没有说我压力大，也没有说我失去了人生目标，而是告诉他们：我很不好——正是这个决定，救了我的命。随后，我遇到了一位极具天赋的精神科医生，他帮我真正慢下脚步，去弄清自己为何会走到这一步——不仅理清我感受到了什么，更弄清了为什么会这样。接着，我们花了整整五个月的时间，帮我逐步停服了因被误诊为双相情感障碍而服用的四种药物。整整五个月啊。在那段时间里，焦虑不仅没有减轻，反而愈演愈烈；脑海中奔腾不息的杂念几乎让我难以承受。但最终，我的心绪开始平静下来，而心底的某样东西也变得无法忽视。在这一切的深处，隐藏着一个核心创伤……一个极其古老的创伤。它一直在对我说：“你不够好。”事实是，我从未觉得自己足够好过。不管是作为孩子、运动员、创业者，还是作为一个普通人，我从未觉得自己足够好过。"
       },
       {
-        "id": 3,
-        "time": "03:03",
-        "seconds": 183.5,
-        "endSeconds": 280.0,
-        "title": "第 3 幕：A very, very old one",
-        "original": "A very, very old one. And it said this, you are not enough. The truth is I had never felt that I was enough. Not as a kid, not as an athlete, not as a founder, not as a human. And when I looked honestly at my life, I saw something that was really painful. Everything I had done for the first 48 years was an attempt to earn my worth. Becoming a championship tennis player, starting multiple businesses, building toms and becoming the poster child of conscious capitalism. I mean, there were the magazine covers, the stages, just like this one, the awards and the accolades because I believed that achievement would quiet that voice. Instead, it made it louder. And it got so loud inside my mind that I didn't want to be alive anymore. But one day, during a deep healing session with my therapist, something finally shifted. I began to see my life not as a success story, but as a strategy.",
-        "translation": "一个非常非常古老的。它说，你还不够。事实是，我从来没有觉得自己已经足够了。不是作为一个孩子，不是作为一个运动员，不是作为一个创始人，不是作为一个人。当我诚实地审视我的生活时，我看到了一些非常痛苦的事情。在最初的48年里，我所做的一切都是为了争取自己的价值。成为一名网球冠军，创办多家企业，建造汤姆，成为有意识资本主义的典型代表。我的意思是，有杂志封面，舞台，就像这个，奖项和荣誉，因为我相信成就会平息那个声音。相反，它让声音更大了。它在我的脑海里变得如此响亮以至于我不想再活下去了。但有一天，在与我的治疗师进行深度治疗的过程中，事情终于发生了变化。我开始不再把我的生活看作是一个成功的故事，而是一种战略。"
+        "scene": "第 3 幕",
+        "time": "03:27",
+        "original": "And when I looked honestly at my life, I saw something that was really painful. Everything I had done for the first 48 years was an attempt to earn my worth -- becoming a championship tennis player, starting multiple businesses, building TOMS and becoming the poster child of conscious capitalism. I mean, there were the magazine covers, the stages just like this one, the awards and the accolades, because I believed that achievement would quiet that voice. Instead, it made it louder. And it got so loud inside my mind that I didn't want to be alive anymore. But one day, during a deep healing session with my therapist, something finally shifted. I began to see my life not as a success story, but as a strategy. A strategy to earn worth. And when that strategy failed, my whole world had collapsed. So my therapist suggested something one day that honestly sounded ridiculous at first. He said, “Blake, for over 40 years your mind has been telling you that you’re not enough, so you are going to live with this limiting belief the rest of your life, unless we reprogram your subconscious and rewire your neural pathways.\" So we made a commitment for the next 40 days.",
+        "chinese": "当我坦诚审视自己的人生时，我看到了极其痛苦的一幕：在过去的48年里，我所做的一切，不过是在试图证明自己的价值——成为网球冠军、多次创业、创立TOMS并成为“良知资本主义”的代表人物。杂志封面、像今天这样的演讲舞台、数不清的奖项与赞誉……这一切都是因为我相信，卓越的成就能够平息心中的那个声音。然而，它反而叫嚣得更响了。它在我的脑海中咆哮得如此剧烈，以至于我甚至不想再活下去。直到有一天，在与心理治疗师进行的一次深度疗愈中，某些东西终于发生了转变。我开始意识到，我的人生不是一个成功的故事，而是一种策略——一种用来赢取自我价值的策略。而当这种策略失效时，我的整个世界就彻底崩塌了。于是有一天，治疗师提出了一个坦白讲起初听起来十分荒谬的建议。他说：“布雷克，四十多年来，你的大脑一直在告诉你‘你不够好’。除非我们重新对你的潜意识编程、重塑你的神经通路，否则你的余生都将活在这种受限的信念中。”因此，我们定下了一个为期40天的约定。"
       },
       {
-        "id": 4,
-        "time": "04:41",
-        "seconds": 281.5,
-        "endSeconds": 378.7,
-        "title": "第 4 幕：A strategy to earn worth",
-        "original": "A strategy to earn worth. And when that strategy failed, my whole world had collapsed. So my therapist suggested something one day that honestly sounded ridiculous at first. He said, Blake, for over 40 years, your mind has been telling you that you're not enough. So you are going to live with this limiting belief the rest of your life unless we reprogram your subconscious and rewire your neural pathways. So we made a commitment. For the next 40 days, I would wake up every morning immediately, sit up in bed and repeat one sentence over and over again for 20 minutes. With my eyes closed. I am enough. I've always been enough. And then before going to bed later that night, I would do it again. I am enough. I've always been enough. 20 minutes in the morning. 20 minutes at night for 40 days. Now, the first few weeks were brutal. 20 minutes felt like two hours. And the whole practice felt so trivial.",
-        "translation": "赚取价值的策略。当这个策略失败时，我的整个世界都崩溃了。所以有一天，我的心理医生提出了一个起初听起来很荒谬的建议。他说，布莱克，40多年来，你的大脑一直在告诉你，你还不够。所以，除非我们重新规划你的潜意识，重新连接你的神经通路，否则你的余生都将带着这种限制性的信念生活。所以我们做出了承诺。在接下来的40天里，我每天早上马上醒来，坐在床上，一遍又一遍地重复一句话，持续20分钟。闭着眼睛。有我就够了。我已经足够了。然后在晚上睡觉前，我又做了一遍。有我就够了。我已经足够了。早上20分钟。每晚20分钟，连续40天。最初的几周很难熬。20分钟感觉像两个小时。整个练习都显得那么微不足道。"
+        "scene": "第 4 幕",
+        "time": "05:23",
+        "original": "I would wake up every morning, immediately sit up in bed, and repeat one sentence over and over again, for 20 minutes, with my eyes closed. \"I am enough, I've always been enough.\" And then, before going to bed later that night, I would do it again. \"I am enough, I've always been enough.\" 20 minutes in the morning, 20 minutes at night, for 40 days. Now the first few weeks, honestly, were brutal. 20 minutes felt like two hours, and the whole practice felt so trivial. After three weeks, I didn't feel any different. So I almost quit and changed therapists. But I was so damn desperate to feel better, and nothing else had worked, so I decided to stick with it. And on the 28th day, around there, I was sitting up in bed, saying the words, and all of a sudden, I felt almost, like, an electric shock go through my body, and a lightness and a peace I had never felt. And what had been a generic mantra for the past couple of weeks actually felt true.",
+        "chinese": "每天早晨醒来，我都会立刻在床上坐直，闭上双眼，反反复复默念一句话，持续20分钟：“我足够好，我一直都足够好。”然后，在晚上入睡前，我会再做一次：“我足够好，我一直都足够好。”早上20分钟，晚上20分钟，坚持40天。坦白说，最初的几周非常煎熬。20分钟漫长得像两个小时，整个练习显得如此琐碎且毫无意义。三周过去了，我没有任何感觉，我差点就放弃并打算换个治疗师了。但我太渴望能好起来了，而且其他方法全都无济于事，所以我决定咬牙坚持下去。大概在第28天的时候，我坐在床上念着那句话。突然之间，我感到一阵电流穿过全身，一种从未有过的轻盈与平静涌上心头。过去几周里那句空洞的口头禅，在这一刻，真正成了内心的真实确信。"
       },
       {
-        "id": 5,
-        "time": "06:21",
-        "seconds": 381.8,
-        "endSeconds": 457.5,
-        "title": "第 5 幕：After three weeks, I didn't feel any ...",
-        "original": "After three weeks, I didn't feel any different. So I almost quit and changed therapists. But I was so damn desperate to feel better. And nothing else had worked. So I decided to stick with it. And on the 28th day around there, I was sitting up in bed saying the words and all of a sudden I felt almost like an electric shock go through my body. And a lightness and a peace I had never felt. And what had been a generic mantra for the past couple of weeks actually felt true. I am enough. And I always have been. Not because of what I've done. Not because of what I've built. And definitely not because of what the world thinks of me. But just because I exist. Thank you. And when that stopped being something that day that I set out loud and something I felt in my body, everything changed. I simplified my life again. I stripped away the noise.",
-        "translation": "三周后，我没有感觉有什么不同。所以我差点放弃，换了治疗师。但我太想感觉好点了。其他方法都不起作用。所以我决定坚持下去。在第28天，我坐在床上说着这些话，突然间，我感觉好像被电击了一样。还有一种我从未感受过的轻松与安宁。在过去的几周里，这句老生常谈的口头禅现在感觉是真的。有我就够了。我一直都是。不是因为我的所作所为不是因为我的成就。而且绝对不是因为世人对我的看法。而是因为我的存在。谢谢你！当那一天不再是我大声说出的东西，不再是我身体里感受到的东西时，一切都变了。我又简化了我的生活。我把噪音去掉了。"
+        "scene": "第 5 幕",
+        "time": "07:03",
+        "original": "\"I am enough, and I always have been.\" Not because of what I've done, not because of what I've built, and definitely not because of what the world thinks of me, but just because I exist. Thank you. And when that stopped being something I said out loud and [became] something I felt in my body, everything changed. I simplified my life again. I stripped away the noise, and I stopped performing. And I realized this: If I [could] spend decades trying to earn my worth, and if I could almost lose my life ... trying to earn it, then this wound is everywhere, and no one is immune to it. Right now, when someone experiences anxiety, depression or a mental illness, we treat it like a shocking failure, like something went wrong. But think about physical illness. We expect it. We expect colds, we expect broken bones. We plan for them, we talk about them. But mental illness? We whisper. We isolate. We pretend that we are fine.",
+        "chinese": "“我足够好，而且我一直都足够好。”不是因为我做过什么，不是因为我创立过什么，更不是因为世人如何评价我，而仅仅是因为我的存在本身。（谢谢）当这句话不再只是嘴上念出的台词，而是变成一种由内而外的真切体会时，一切都变了。我重新简化了自己的生活。我剥离了所有的喧嚣杂音，不再戴着面具去迎合表演。我意识到了一件事：如果连我都花了数十年去争取自己的价值，如果连我都几乎为了证明它而丢掉性命……那么这种创伤必然无处不在，没有任何人能对此免疫。在当下，当有人经历焦虑、抑郁或心理疾病时，我们往往将其视作某种惊人的失败，仿佛是哪里出了严重的差错。但想想身体上的疾病吧——我们习以为常。我们预料到自己会感冒，会骨折。我们会提前防备，也会公开谈论。可是面对心理疾病呢？我们窃窃私语，我们避而远之，我们假装自己一切都好。"
       },
       {
-        "id": 6,
-        "time": "07:39",
-        "seconds": 459.5,
-        "endSeconds": 558.2,
-        "title": "第 6 幕：And I stopped performing",
-        "original": "And I stopped performing. And I realized this. If I could spend decades trying to earn my worth. And if I could almost lose my life trying to earn it. Then this wound is everywhere. And no one is immune to it. Right now. When someone experiences anxiety or depression or a mental illness. We treat it like a shocking failure. Like something went wrong. But think about physical illness. We expect it. We expect colds. We expect broken bones. We plan for them. We talk about them. Mental illness. We whisper. We isolate. We pretend that we are fine. And I'm telling you that silence is deadly. I almost became part of a statistic not because I was weak. But because I was too ashamed to tell my friends how I was really doing. Today I would like to ask everyone here two questions. Please raise your hand if you have ever broken a bone. Thank you. So it looks like about 40% of the room.",
-        "translation": "我停止了表演。我意识到这一点。如果我能花几十年的时间来争取自己的价值。如果我为了赢得它而差点丧命。那么这个伤口到处都是。没有人能幸免于此。现在。当某人经历焦虑、抑郁或精神疾病时。我们把它当作一个惊人的失败。好像出了什么问题。但是想想身体疾病。我们期待它。我们预料会感冒。我们期待骨折。我们为他们做计划。我们谈论他们。精神疾病。我们耳语。我们分离。我们假装很好。我告诉你，沉默是致命的。我差点成为统计数据的一部分，不是因为我软弱。而是因为我太羞于告诉我的朋友我的真实情况。今天我想问大家两个问题。如果你曾经骨折过，请举手。谢谢你！所以它看起来占了整个房间的40%"
+        "scene": "第 6 幕",
+        "time": "08:39",
+        "original": "And I'm telling you that silence is deadly. I almost became part of a statistic. Not because I was weak, but because I was too ashamed to tell my friends how I was really doing. Today, I'd like to ask everyone here two questions. Please raise your hand if you have ever broken a bone. Thank you. So it looks like about 40 percent of the room, which is interesting, because that's what my dad, who's actually an orthopedic surgeon, said it would be, so he got that one right. A harder question now. If you've ever been diagnosed with severe anxiety, depression, bipolar disorder or a mental health condition, would you please raise your hand? Thank you for your bravery. Notice, a lot fewer hands went up. But according to the US Department of Health, we should have seen about the same number of hands for both questions. In fact, 50 percent of all people will be diagnosed with a mental health condition during their lifetime. So why do we plan for one and are ashamed of the other?",
+        "chinese": "我想告诉大家，沉默是致命的。我差一点就成了统计数据中一个冷冰冰的数字。不是因为我软弱，而是因为我感到太羞耻，以至于不敢向朋友坦白自己的真实处境。今天，我想向在座的各位提两个问题。如果你曾经骨折过，请举手。谢谢。看起来全场大概有40%的人举了手，这很有意思，因为我父亲其实就是一名骨科医生，他的预测正是这个比例，看来他猜对了。现在是一个更难回答的问题：如果你曾被确诊患有重度焦虑、抑郁、双相情感障碍或任何心理健康疾病，可以请你举手吗？谢谢你们的勇敢。大家注意到了吗，举起的手少了很多。但根据美国卫生部的数据，这两个问题举手的人数其实应该差不多。事实上，有50%的人在一生中都会被诊断出心理健康问题。那么，为什么我们对一种疾病泰然处之，却对另一种深感羞耻呢？"
       },
       {
-        "id": 7,
-        "time": "09:19",
-        "seconds": 559.2,
-        "endSeconds": 645.4,
-        "title": "第 7 幕：Which is interesting because that's w...",
-        "original": "Which is interesting because that's what my dad said. Who's actually an orthopedic surgeon said it would be. So he got that one right. A harder question now. If you've ever been diagnosed with severe anxiety. Depression. Bipolar disorder. Or a mental health condition. Would you please raise your hand. Thank you for your bravery. Notice a lot fewer hands went up. But according to the US Department of Health. We should have seen about the same number of hands for both questions. In fact 50% of all people will be diagnosed with a mental health condition during their lifetime. So why do we plan for one and are ashamed of the other. What if we expected mental illness the same way we expect physical illness. When you expect it you're less ashamed when it arrives. You reach out sooner. You get help faster. And fewer people die. This is not abstract. The research is absolutely clear. Talking about how you're really doing with at least one person.",
-        "translation": "这很有趣，因为我爸爸就是这么说的。一位实际上是骨科医生的人说会的。所以他做对了。现在是一个更难的问题。如果您曾经被诊断出患有严重焦虑症。沮丧。躁郁症。或者是心理健康状况。请举手好吗？谢谢你的勇敢。请注意，举手的人少了很多。但根据美国卫生部的说法。我们应该看到这两个问题的手数大约相同。事实上，50% 的人在一生中会被诊断出患有心理健康问题。那么，为什么我们为其中一个做好计划，却为另一个感到羞耻呢？如果我们像预期身体疾病一样预期精神疾病会怎样？当你期待它时，当它到来时你就不会那么羞愧了。你早点伸出援手。您可以更快地获得帮助。死亡人数也更少。这并不抽象。研究结果绝对清楚。与至少一个人谈论你的真实情况。"
+        "scene": "第 7 幕",
+        "time": "10:13",
+        "original": "What if we expected mental illness the same way we expect physical illness? When you expect it, you're less ashamed when it arrives. You reach out sooner. You get help faster and fewer people die. This is not abstract. The research is absolutely clear: talking about how you’re really doing with at least one person greatly reduces suicide risk. Silence does not protect us. It isolates us. Shame creates silence. Silence creates isolation. Isolation creates risk. I know because I lived that chain reaction. And now, I'm dedicating my life and my resources to starting a new chain. It’s called the “We are ENOUGH” giving chain. It started with me creating a simple beaded bracelet to wear every single day as a reminder to myself that I am enough. But then, I realized something. The real power of this bracelet was not wearing it myself. It was sharing it with someone I love so that they would know every day that I’ve got their back. That they're not alone.",
+        "chinese": "如果我们像对待生理疾病一样，对心理疾病也抱着平常心，会怎样呢？当你早有预期，当它降临时你就不会那么羞耻。你会更早求助，更快得到治疗，逝去的生命也会随之减少。这绝非空谈。科学研究表明得一清二楚：哪怕只向一个人吐露自己的真实状态，自杀风险就会大幅降低。沉默保护不了我们，只会让我们画地为牢。羞耻滋生沉默，沉默导致孤立，孤立带来致命危险。我深知这一点，因为我曾亲身经历过这种连锁反应。而现在，我正倾尽余生和所有资源，去开启一条全新的链条。它被称为“我们本自足”（We are ENOUGH）爱心传递链。这一切始于我做的一条简单串珠手链，我每天戴着它，提醒自己“我足够好”。但后来，我意识到了一件事：这条手链真正的力量并不在于我自己佩戴，而在于将它送给我爱的人，让他们每天都知道：有我在背后支持他们，他们并不孤单。"
       },
       {
-        "id": 8,
-        "time": "10:46",
-        "seconds": 646.4,
-        "endSeconds": 740.7,
-        "title": "第 8 幕：Greatly reduces suicide risk",
-        "original": "Greatly reduces suicide risk. Silence. Does not protect us. It isolates us. Shame creates silence. Silence creates isolation. Isolation creates risk. I know because I lived that chain reaction. And now I'm dedicating my life and my resources to starting a new chain. It's called the we are enough giving chain. It started with me creating a simple beaded bracelet to wear every single day as a reminder to myself that I am enough. But then I realized something. The real power of this bracelet was not wearing it myself. It was sharing it with someone I love. So that they would know every day that I got their back. That they're not alone. That we are all enough. And today the way it works is simple. Every person that is given an enough bracelet. We ask them to send it to just one more person. Now I'd like to ask you to do something with me real quickly. Please close your eyes.",
-        "translation": "大大降低自杀风险。沉默。并不能保护我们。它孤立了我们。羞耻创造了沉默。沉默会带来孤立。孤立会带来风险。我知道，因为我经历了连锁反应。现在，我将把自己的一生和资源用于开创一个新的连锁店。它被称为我们足够的捐赠链。它始于我创造了一个简单的串珠手镯，每天佩戴，以提醒自己我已经足够了。但后来我意识到了一些事情。这只手镯真正的力量是没有"
+        "scene": "第 8 幕",
+        "time": "11:55",
+        "original": "That we are all enough. And today, the way it works is simple. Every person [who] is given an ENOUGH bracelet, we ask them to send it to just one more person. Now I’d like to ask you to do something with me real quickly. Please close your eyes. And I'd like you to think of the one person in your life right now that could use this message, or think of the one person in your life that has always made you feel enough. OK, open your eyes. I ask that you take 60 seconds and send one to that person, because if we all take this simple task and wear these bracelets, I believe we will see a reduction in suicides and an improvement in our collective mental health. And here's why. When you do not feel enough, you are constantly living in the past, obsessing over the mistakes that you've made and the shame and the guilt you carry because of them. And also, when you do not feel enough, and, very much like me, you're constantly living in the future thinking, “What can I do, achieve or obtain to finally feel enough?” But when you start your day, and you ground your day in the fact that you are already enough, just as you are, you get to live in the present.",
+        "chinese": "让他们知道，我们每个人都本自具足，都足够好。今天，它的运作机制非常简单：每一个收到这串“足够”手链的人，我们都会请他们再送给另一个人。现在，我想请大家跟我一起做一件简短的事。请闭上眼睛。我想请你想一想，在你的生命中，有哪一个人此刻正需要听到这句话？或者想一想，有哪一个人总能让你感到自己已经足够好？好的，请睁开眼睛。我请大家花上60秒，把手链送给那个人。因为如果我们每个人都完成这个简单的举动并戴上手链，我相信自杀率将会下降，我们整体的心理健康状况也将得到改善。原因就在于：当你觉得自己不够好时，你会不断活在过去，纠结于自己犯过的错误，深陷于随之而来的羞耻与自责；同时，正如曾经的我一样，你还会永远活在未来，不断去想：“我还能做些什么、达成什么或获得什么，才能最终觉得自己足够好？”但当你开启新的一天，并深信原本的你就已经足够好时，你才能真正活在当下。"
       },
       {
-        "id": 9,
-        "time": "12:21",
-        "seconds": 741.7,
-        "endSeconds": 815.2,
-        "title": "第 9 幕：And I'd like you to think of the one ...",
-        "original": "And I'd like you to think of the one person in your life right now that could use this message. Or think of the one person in your life that has always made you feel enough. Okay, open your eyes. I ask that you take 60 seconds and send one to that person. Because if we all take this simple task and wear these bracelets, I believe we will see a reduction in suicides and an improvement in our collective mental health. And here's why. When you do not feel enough, you are constantly living in the past. Obsessing over the mistakes that you've made and the shame and the guilt you carry because of them. And also when you do not feel enough and very much like me, you're constantly living in the future. Thinking what can I do, achieve or obtain to finally feel enough? But when you start your day and you ground your day in the fact that you are already enough just as you are, you get to live in the present.",
-        "translation": "我希望你想想你生命中现在有一个人可以使用这条信息。或者想想你生命中那个总是让你感觉足够的人。好吧，睁开眼睛。我请求您花 60 秒的时间向该人发送一封。因为如果我们都承担起这个简单的任务并佩戴这些手镯，我相信我们会看到自杀率的减少和集体心理健康的改善。原因如下。当你感觉不够时，你就一直活在过去。沉迷于自己所犯的错误以及因此而承受的羞耻和内疚。而且，当你感觉不够像我时，你就一直生活在未来。思考我能做什么、实现或获得什么才能最终感觉足够？但当你开始新的一天，并以这样一个事实为基础：你已经足够了，你就可以活在当下。"
-      },
-      {
-        "id": 10,
-        "time": "13:36",
-        "seconds": 816.2,
-        "endSeconds": 928.8,
-        "title": "第 10 幕：And almost every spiritual teacher th...",
-        "original": "And almost every spiritual teacher throughout all of history agrees on only one thing and that is the only place we can access. Peace and joy consistently is in the present moment. Now, when you wear this bracelet, you are helping to destigmatize mental health. But I would say it's much more personal than that. When you wear this bracelet, you're sending a signal. A signal to those around you that says, you can talk to me. You can tell me how you're really doing. And just that is proven to save lives. Now, my vision is not just about a bracelet. It's about a world where we stop hiding. It's about a world where we expect mental illness and respond and care instead of shame. It's about a world where we tell each other how we're really doing. Because honest conversation saves lives. I'm here today because I reached out. I'm also here because someone listened and I'm so, so thankful to be here today to share this with you. You are not broken. You are not weak. You are not alone. You are enough. And you always will be.",
-        "translation": "历史上几乎所有的灵性导师都只同意一件事，那就是我们唯一可以进入的地方。和平与欢乐始终存在于当下。现在，当您佩戴这款手镯时，您正在帮助消除心理健康的耻辱感。但我想说的是，它比这更个人化。当您佩戴这款手镯时，您就是在发出信号。向你周围的人发出一个信号，你可以和我说话。你可以告诉我你真正的表现如何。事实证明，这可以节省"
+        "scene": "第 9 幕",
+        "time": "13:33",
+        "original": "And almost every spiritual teacher throughout all of history agrees on only one thing: the only place we can access peace and joy consistently is in the present moment. Now, when you wear this bracelet, you are helping to destigmatize mental health. But I would say it's much more personal than that. When you wear this bracelet, you're sending a signal, a signal to those around you that says, “You can talk to me. You can tell me how you're really doing.\" And just that [has been] proven to save lives. Now my vision is not just about a bracelet. It’s about a world where we stop hiding. It’s about a world where we expect mental illness and respond [with] care instead of shame. And it's about a world where we tell each other how we're really doing, because honest conversation saves lives. I'm here today because I reached out. I'm also here because someone listened. And I’m so, so thankful to be here today to share this with you. You are not broken. You are not weak. You're not alone. You are enough, and you always will be. Thank you.",
+        "chinese": "纵观历史，几乎所有的心灵导师在这一点上都达成了共识：我们能够持久获得平静与喜悦的唯一所在，就是当下。当你戴上这串手链时，你是在帮助消除大众对心理疾病的污名化。但我想说，它的意义远比这更加亲切、深刻。当你戴上它，你是在向身边的人传递一个信号，这个信号在说：“你可以跟我倾诉，你可以告诉我你真实的感受。”事实证明，仅凭这一点，就能挽救生命。我的愿景不仅仅关乎一条手链，而是关乎一个我们不再躲藏的世界；关乎一个我们将心理疾病视为常态、给予关怀而非羞辱的世界；关乎一个我们能坦诚分享彼此真实感受的世界——因为坦诚的对话能够拯救生命。今天我能站在这里，是因为我曾主动求助；我能站在这里，也因为当时有人倾听。我由衷地感恩今天能在这里与大家分享这些。你没有残缺，你并不软弱，你更非孤身一人。你足够好，而且永远都足够好。谢谢大家。"
       }
     ],
     "spoken": [],
@@ -137,153 +101,134 @@
     "neteaseSongId": "3446153069",
     "cet4Vocab": [
       {
-        "word": "mental",
-        "phonetic": "[ˈment(ə)l]",
-        "meaning": "adj. 存在于大脑中的，思考的；精神的，思想的，智力的；精神病治疗的，精神健康的；<非正式>疯癫的，不正常的",
-        "context": "When someone experiences anxiety or depression or a mental illness.",
-        "time": "07:39"
+        "word": "unbearable",
+        "phonetic": "[ʌnˈberəb(ə)l]",
+        "meaning": "adj. 难以忍受的；承受不住的",
+        "context": "And the racing thoughts in my head almost became unbearable.",
+        "time": "[01:33]"
       },
       {
-        "word": "bracelet",
-        "phonetic": "[ˈbreɪslət]",
-        "meaning": "n. 手镯，臂镯",
-        "context": "It started with me creating a simple beaded bracelet to wear every single day as a reminder to myself that I am enough.",
-        "time": "10:46"
+        "word": "accolades",
+        "phonetic": "[ˈækəleɪdz]",
+        "meaning": "n. 赞美，表扬（accolade 的复数形式）；称号",
+        "context": "I mean, there were the magazine covers, the stages just like this one, the awards and the accolades, because I believed that achievement would quiet that voice.",
+        "time": "[03:27]"
       },
       {
-        "word": "illness",
-        "phonetic": "[ˈɪlnəs]",
-        "meaning": "n. 疾病；（某种）病，患病期",
-        "context": "When someone experiences anxiety or depression or a mental illness.",
-        "time": "07:39"
+        "word": "collapsed",
+        "phonetic": "[kəˈlæpst]",
+        "meaning": "adj. 倒塌的；暴跌的；收缩的；倾陷了的; v. 倒塌；崩溃（collapse 的过去分词）；价格...",
+        "context": "And when that strategy failed, my whole world had collapsed.",
+        "time": "[03:27]"
       },
       {
-        "word": "expect",
-        "phonetic": "[ɪkˈspekt]",
-        "meaning": "v. 期待；预计；要求，指望；认为；怀孕",
-        "context": "We expect it.",
-        "time": "07:39"
+        "word": "subconscious",
+        "phonetic": "[ˌsʌbˈkɑːnʃəs]",
+        "meaning": "adj. 下意识的，潜意识的; n. 下意识，潜意识",
+        "context": "...unless we reprogram your subconscious and rewire your neural pathways.",
+        "time": "[03:27]"
       },
       {
-        "word": "health",
-        "phonetic": "[helθ]",
-        "meaning": "n. 身体状况；健康；医疗，卫生；（组织或系统的）运行状况，运作状况；发达，兴旺",
-        "context": "Or a mental health condition.",
-        "time": "09:19"
+        "word": "trivial",
+        "phonetic": "[ˈtrɪviəl]",
+        "meaning": "adj. 琐碎的，不重要的；容易解决的，不费吹灰之力的；（人）务小的，浅薄的；（数学）平凡的",
+        "context": "20 minutes felt like two hours, and the whole practice felt so trivial.",
+        "time": "[05:23]"
       },
       {
-        "word": "minutes",
-        "phonetic": "[ˈmɪnɪts]",
-        "meaning": "n. 分钟（minute 的复数）；会议记录；备忘录；v. 把……记录在案；为……测定时间（minute 的单三形式）",
-        "context": "For the next 40 days, I would wake up every morning immediately, sit up in bed and repeat one sentence over and over again for 20 minutes.",
-        "time": "04:41"
+        "word": "desperate",
+        "phonetic": "[ˈdespərət]",
+        "meaning": "adj. 不顾一切的，拼命的；极需要的，渴望的；极严重的，极危险的；绝望的，无望的；绝望的，无望的",
+        "context": "But I was so damn desperate to feel better, and nothing else had worked, so I decided to stick with it.",
+        "time": "[05:23]"
       },
       {
-        "word": "years",
+        "word": "mantra",
+        "phonetic": "[ˈmɑːntrəˌˈmæntrə]",
+        "meaning": "n. 咒语（尤指四吠陀经典内作为咒文或祷告唱念的）；颂歌; n. （Mantra）人名；（印尼）曼特...",
+        "context": "And what had been a generic mantra for the past couple of weeks actually felt true.",
+        "time": "[05:23]"
+      },
+      {
+        "word": "immune",
+        "phonetic": "[ɪˈmjuːn]",
+        "meaning": "adj. 免疫的；不受影响的；免除的，豁免的; n. 免疫者，免除者",
+        "context": "...then this wound is everywhere, and no one is immune to it.",
+        "time": "[07:03]"
+      },
+      {
+        "word": "isolate",
+        "phonetic": "[ˈaɪsəleɪt]",
+        "meaning": "v. 孤立，分离；隔离；单独考虑，区别看待；使（某物质、细胞等）分离; n. 被隔离的人（或物）；（...",
+        "context": "We whisper. We isolate. We pretend that we are fine.",
+        "time": "[07:03]"
+      },
+      {
+        "word": "diagnosed",
+        "phonetic": "[ˌdaɪəɡˈnoʊst]",
+        "meaning": "v. 诊断；被诊断为（diagnose 的过去式和过去分词）",
+        "context": "In fact, 50 percent of all people will be diagnosed with a mental health condition during their lifetime.",
+        "time": "[08:39]"
+      },
+      {
+        "word": "abstract",
+        "phonetic": "[ˈæbstrækt]",
+        "meaning": "adj. 抽象的，纯概念的；（艺术）抽象派的；理论上的，不切实际的; n. 摘要，梗概；抽象画，抽象...",
+        "context": "This is not abstract.",
+        "time": "[10:13]"
+      },
+      {
+        "word": "obsessing",
+        "phonetic": "[əbˈsesɪŋ]",
+        "meaning": "困扰",
+        "context": "When you do not feel enough, you are constantly living in the past, obsessing over the mistakes that you've made...",
+        "time": "[11:55]"
+      },
+      {
+        "word": "consistently",
+        "phonetic": "[kənˈsɪstəntli]",
+        "meaning": "adv. 一贯地，始终；一致地",
+        "context": "...the only place we can access peace and joy consistently is in the present moment.",
+        "time": "[13:33]"
+      },
+      {
+        "word": "destigmatize",
         "phonetic": "",
-        "meaning": "n. 年，日历年，一年时间（year 的复数）；年龄，岁数（用于 years old、years of age）；很久，多年（常用于 for years）；岁月，年华，人生中的时期（如 teenage years、formative years）；老年，老态（如 show one's years）",
-        "context": "And those were some of the happiest years of my life.",
-        "time": "00:00"
-      },
-      {
-        "word": "earn",
-        "phonetic": "[ɜːn]",
-        "meaning": "v. 赚得，挣钱；盈（利），生（利）；赢得，博得；【名】 （Earn）（泰）炎（人名）",
-        "context": "Everything I had done for the first 48 years was an attempt to earn my worth.",
-        "time": "03:03"
-      },
-      {
-        "word": "strategy",
-        "phonetic": "[ˈstrætədʒi]",
-        "meaning": "n. （尤指为获得某物制定长期的）策略，行动计划；战略，战略学",
-        "context": "I began to see my life not as a success story, but as a strategy.",
-        "time": "03:03"
-      },
-      {
-        "word": "started",
-        "phonetic": "[ˈstɑːtɪd]",
-        "meaning": "v. 开始，着手；使发生，引发；开动，发动（机器）；创立，创始，开办；出发，启程（start 的过去式和过去分词）",
-        "context": "When I started Tom's shoes, I lived on a 45 foot sailboat in Marina del Rey.",
-        "time": "00:00"
-      },
-      {
-        "word": "anxiety",
-        "phonetic": "[æŋˈzaɪəti]",
-        "meaning": "n. 焦虑，忧虑；令人焦虑的事；渴望；焦虑症",
-        "context": "And during that time, the anxiety did not get better, it got worse.",
-        "time": "01:30"
-      },
-      {
-        "word": "ashamed",
-        "phonetic": "[əˈʃeɪmd]",
-        "meaning": "adj. 感到羞愧，感到羞耻；羞于（做某事）",
-        "context": "But because I was too ashamed to tell my friends how I was really doing.",
-        "time": "07:39"
-      },
-      {
-        "word": "creates",
-        "phonetic": "[kriːˈeɪts]",
-        "meaning": "vt. （动词 create 的第三人称单数现在时形式）创造，创作；造成，引起，产生；创建，设立",
-        "context": "Shame creates silence.",
-        "time": "10:46"
-      },
-      {
-        "word": "months",
-        "phonetic": "[mʌnθs]",
-        "meaning": "n. 月份（month 的复数）；约四周的多个时间段（month 的复数，常与数词连用表示时长）",
-        "context": "And yet, 23 months ago, I had become so lost, so hopeless, and so depressed that I made a plan to end my life.",
-        "time": "00:00"
-      },
-      {
-        "word": "broken",
-        "phonetic": "[ˈbrəʊkən]",
-        "meaning": "adj. 损坏的，破碎的；衰弱的，颓丧的；间断的，不连续的；破裂的，终止的；违背的，未遵守的；蹩脚的，不流利的；凹凸不平的，坎坷的；v. 打碎；弄坏；违反（break 的过去分词形式）",
-        "context": "We expect broken bones.",
-        "time": "07:39"
-      },
-      {
-        "word": "going",
-        "phonetic": "[ˈɡəʊɪŋ]",
-        "meaning": "n. 离开，离去；进展速度，难度；（尤指赛马场的）地面状况；（受路况影响的）行进；<非正式>条件有利；adj. 活着的，可得到的；（价格、工资等）现行的；<非正式>条件有利的",
-        "context": "Knowing that I was going to say that today here on the stage is definitely the hardest part of preparing for this talk.",
-        "time": "01:30"
+        "meaning": "vt. 去污名化，消除对……的偏见",
+        "context": "Now, when you wear this bracelet, you are helping to destigmatize mental health.",
+        "time": "[13:33]"
       }
     ],
     "keySentences": [
       {
-        "pattern": "程度结果因果句 (So... that...)",
-        "sentence": "And yet, 23 months ago, I had become so lost, so hopeless, and so depressed that I made a plan to end my life.",
-        "note": "由极端程度直接推导出震撼结果，极具戏剧张力。",
-        "time": "00:00",
-        "scene": "第 1 幕：When I started Tom's shoes, I lived o..."
+        "pattern": "双重原因转折对比句 (Not because... but because...)",
+        "sentence": "And I chose that boat as the place to do it on Not because I wanted to die there, but because I didn't want my family to be the ones who found me.",
+        "time": "[00:00]",
+        "note": "通过否定表面动机并揭示深层隐秘原因，形成鲜明对照与强烈的情感震慑力；适用于写作中打破刻板臆测、直击内心真实动机的场景。"
       },
       {
-        "pattern": "程度结果因果句 (So... that...)",
-        "sentence": "And it got so loud inside my mind that I didn't want to be alive anymore.",
-        "note": "由极端程度直接推导出震撼结果，极具戏剧张力。",
-        "time": "03:03",
-        "scene": "第 3 幕：A very, very old one"
+        "pattern": "排比修饰与程度结果因果句 (So + adj. list + that...)",
+        "sentence": "And yet, 23 months ago, I had become so lost, so hopeless and so depressed that I made a plan to end my life.",
+        "time": "[00:00]",
+        "note": "连用三个程度副词“so”引导的形容词进行层层铺垫，推向极端的结果状语从句，极具戏剧张力；适合在叙事中渲染危机的爆发与心理崩溃点。"
       },
       {
-        "pattern": "程度结果因果句 (So... that...)",
-        "sentence": "So my therapist suggested something one day that honestly sounded ridiculous at first.",
-        "note": "由极端程度直接推导出震撼结果，极具戏剧张力。",
-        "time": "04:41",
-        "scene": "第 4 幕：A strategy to earn worth"
+        "pattern": "认知重塑与界定句 (not as A, but as B)",
+        "sentence": "I began to see my life not as a success story, but as a strategy.",
+        "time": "[03:27]",
+        "note": "采用“不是……而是……”对既有定义进行反思与解构，化繁为简地点出本质；非常适合议论文写作中用于颠覆常识认知、提出独到洞见的转折点。"
       },
       {
-        "pattern": "程度结果因果句 (So... that...)",
-        "sentence": "So that they would know every day that I got their back.",
-        "note": "由极端程度直接推导出震撼结果，极具戏剧张力。",
-        "time": "10:46",
-        "scene": "第 8 幕：Greatly reduces suicide risk"
+        "pattern": "顶真修辞与递进因果链 (Anadiplosis / Chain Reaction)",
+        "sentence": "Shame creates silence. Silence creates isolation. Isolation creates risk.",
+        "time": "[10:13]",
+        "note": "运用短小有力的顶真结构，首尾相接推演恶性循环的形成过程，语调铿锵紧凑；适用于论证抽象问题演变为严重危机的机理机制。"
       },
       {
-        "pattern": "鲜明排他对比句 (Rather than / Instead of...)",
-        "sentence": "It's about a world where we expect mental illness and respond and care instead of shame.",
-        "note": "以否定反面对照正面倡导，形成鲜明的心智冲击力。",
-        "time": "13:36",
-        "scene": "第 10 幕：And almost every spiritual teacher th..."
+        "pattern": "条件推进与排比行动效益句 (When..., you... / Parallel comparatives)",
+        "sentence": "When you expect it, you're less ashamed when it arrives. You reach out sooner. You get help faster and fewer people die.",
+        "time": "[10:13]",
+        "note": "以条件句引出由“sooner, faster, fewer”构成的简短排比句，动作连贯、说服力极强；极佳地适用于呼吁性文本（Call to Action）中阐述观念变革带来的连锁正向效益。"
       }
     ]
   },
@@ -296,7 +241,7 @@
     "speakerTitle": "TED演讲嘉宾",
     "category": "人文与艺术",
     "subCategory": "核心精选",
-    "duration": "14:57",
+    "duration": "14:34",
     "durationSeconds": 897.6,
     "audioUrl": "https://audio.louisyu.top/anna-rainio-clean.mp3",
     "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190490/5e78dac3-4558-4242-a67b-57f41cc734c1/AnnaRainio_2026SS-stageshot.jpg",
@@ -306,121 +251,82 @@
     "quoteTranslation": "在游戏世界里，孩子才是专家，而不是大人。",
     "segments": [
       {
-        "id": 1,
+        "scene": "第 1 幕",
         "time": "00:00",
-        "seconds": 0.0,
-        "endSeconds": 76.7,
-        "title": "第 1 幕：I'd love for you to think about a cla...",
         "original": "I'd love for you to think about a classroom full of, let's say, 20, seven-year-old children. They are all different. They're so tired, full of school, and can easily concentrate through noise. Another child needs a lot of physical comfort and happily climbs to his teacher's lap if it's free. One student has to fit it to concentrate. The one at the back learned early on that adults and they promises cannot be trusted. Sitra the key, per distance. Now imagine you are a teacher in this classroom, and it is your task to include all these different children in one activity. It's easy to see what happens. One or two children do not fit in and become excluded. Why is that? In most other phases of our lives, it would be odd to think that everybody was able to do the same activity in so similar things or develop at the same pace. Schools however are historically places where sameness is expected from all.",
-        "translation": "我想让你想象一下，一个满是20、7岁孩子的教室。它们都是不同的。他们太累了，满脑子都是功课，很容易在噪音中集中注意力。另一个孩子需要很多身体上的舒适，如果老师有空，他会很高兴地爬到老师的腿上。只有一个学生才能集中注意力。坐在后面的那只很早就知道，成年人和他们的承诺是不可信的。每隔一段距离按键。现在想象一下，你是这个教室里的老师，你的任务是让所有这些不同的孩子参与一个活动。很容易看出发生了什么。一个或两个孩子不适应，被排除在外。为什么呢？在我们生命的大多数其他阶段，如果每个人都能在如此相似的事情上做同样的事情，或者以同样的速度发展，那将是很奇怪的。然而，从历史上看，学校是一个要求所有人都保持一致的地方。"
+        "chinese": "请大家想象这样一个场景：一间教室里坐着，比方说，20个七岁的孩子。他们个性迥异。有的精力充沛，哪怕周围嘈杂也能专注投入；有的孩子则需要很多肢体安抚，只要老师腿上有空，就会开开心心爬上去坐着；有的学生必须手里摆弄着小物件才能集中精神；而坐在后排的那个孩子很早就懂得，大人和他们的诺言并不可信，因而宁愿与人保持距离。现在，设想你是这个班的老师，你的任务是让所有这些性格各异的孩子共同参与同一项活动。结果显而易见：总会有一两个孩子无法融入，最终被排斥在外。为什么会这样？在我们人生的大多数其他阶段，如果要求每个人都做完全相同的事、喜欢完全一样的东西，或者以同样的步调成长，这都会显得很荒谬。然而，在历史上，学校偏偏是一个要求所有人整齐划一的地方。"
       },
       {
-        "id": 2,
+        "scene": "第 2 幕",
         "time": "01:16",
-        "seconds": 76.7,
-        "endSeconds": 156.8,
-        "title": "第 2 幕：This makes many children and adults a...",
         "original": "This makes many children and adults alike suffer in these institutions. I am a researcher and teacher educator in Finland, and I believe that this does not need to be the case. Radical inclusion is possible in any early learning classroom through something called playwords. Playwords are adult-siled, toyed play, or frustrated around a piece of literature or a work of art, like a movie in Charles Playword or Alice in Wonderland Playword. They were already developed by a Swedish scholar, Gunila Lindquist, and they are now studied worldwide by our research teams. The adults and children create the world of a chosen story in the classroom, and then the class plays, interacts, and undertakes adventures together with both adults and children in roles. The children take initiative, and the adults listen carefully. I've had the privilege of learning from modern dozens of playwords, and to get there with my colleagues, and I want to mention here especially Beth Fairhold.",
-        "translation": "这使得许多儿童和成年人都在这些机构中受苦。我是芬兰的一名研究人员和教师教育工作者，我相信这是不需要的。通过一种叫做游戏词的东西，激进的包容在任何早期学习课堂上都是可能的。Playwords是指成人对文学作品或艺术作品（如电影《Charles Playword》或《爱丽丝梦游仙境》中的Playword）的嘲笑、玩转或沮丧。瑞典学者古尼拉·林德奎斯特（Gunila Lindquist）已经开发出了它们，现在我们的研究团队正在全球范围内研究它们。成人和儿童在课堂上创造一个选定故事的世界，然后全班一起扮演角色，与成人和儿童互动并进行冒险。孩子们主动出击，大人们认真倾听。我有幸学习了很多现代的游戏词，并和我的同事们一起学习，我想在这里特别提到贝丝·费尔霍尔德。"
+        "chinese": "这让许多身处其中的孩子和成人都倍感煎熬。我是一名来自芬兰的研究员和教师培训导师，我认为情况本不必如此。在任何早期教育的课堂中，只要借助一种名为“游戏世界”（Playworlds）的方法，就有可能实现彻底的包容。“游戏世界”是一种成人与儿童共同参与的戏剧游戏，通常围绕一部文学作品或艺术创作展开，比如以《查理和巧克力工厂》或《爱丽丝梦游仙境》为蓝本的游戏世界。这一理念最初由瑞典学者古妮拉·林德奎斯特开创，如今我们的研究团队正与世界各地的同行共同对此进行深入探究。师生们在教室里共同搭建起选定故事的奇妙世界，随后全班同学沉浸其中，大小朋友各司其职，一同互动、冒险。孩子们主动探索，大人们倾听配合。我有幸从数十个游戏世界案例中汲取灵感，并与同事们并肩探索，在此我想特别感谢贝丝·费尔霍尔德。"
       },
       {
-        "id": 3,
+        "scene": "第 3 幕",
         "time": "02:36",
-        "seconds": 156.8,
-        "endSeconds": 222.7,
-        "title": "第 3 幕：We have seen how playwords can change...",
         "original": "We have seen how playwords can change the way schools are. Let me give you an example of how a playword might look like in a kindergarten class. And just to note that these are fictional examples to protect the privacy of the participants, kind of composite stories of all the things we've seen in the many playwords we've studied. So the teacher Johanna studied by reading aloud the first half of a famous Slavic folk day by Bajakan to the children. But instead of reading aloud the second half of the story, the class collectively wrote and directed their own resolution to the story's central conflicts. These are the set pieces and props that the class created over the course of a year. Arda shows a series of photographs featuring colorful handmade and hand-painted props that her students designed together from the world of Bajaga. This is Baba Yaga's tower, and these are magical create-source caves that the children created.",
-        "translation": "我们已经看到了游戏语是如何改变学校的。让我给你举个例子，看看幼儿园课堂上的游戏词是什么样子的。需要注意的是，这些都是虚构的例子，是为了保护参与者的隐私，是我们在研究过的许多游戏中看到的所有事情的综合故事。因此，约翰娜老师通过大声朗读巴贾坎著名的斯拉夫民间节日的前半部分来学习。但是，学生们并没有大声朗读故事的后半部分，而是集体写作，并针对故事的中心冲突提出自己的解决方案。这些都是这个班级在一年的时间里创造出来的套路和道具。Arda展示了一系列照片，其中包括她的学生从Bajaga的世界中共同设计的彩色手工和手绘道具。这是巴巴亚迦的塔，这些是孩子们创造的神奇的生物洞穴。"
+        "chinese": "我们亲眼见证了“游戏世界”如何重塑学校的面貌。让我为大家举一个幼儿园里的实际案例。顺便说明一下，为了保护参与者的隐私，这些都是基于我们研究过的众多案例提炼而成的虚构故事。在这间教室里，约翰娜老师先给孩子们朗读了著名的斯拉夫民间故事《女巫芭芭雅嘎》的前半部分。但她没有直接读出后半段，而是让全班同学集思广益，共同编写并导演了他们自己的大结局，以此化解故事的核心冲突。这些展出的道具和布景，是孩子们历时一整年共同制作的心血。这里展示的一组照片，呈现了学生们亲手制作、彩绘的各种道具，灵感均源自芭芭雅嘎的世界：这是芭芭雅嘎的城堡，这是孩子们搭建的神奇生物洞穴。"
       },
       {
-        "id": 4,
+        "scene": "第 4 幕",
         "time": "03:42",
-        "seconds": 222.8,
-        "endSeconds": 285.0,
-        "title": "第 4 幕：And that is Baba Yaga's trap in which...",
         "original": "And that is Baba Yaga's trap in which they love to captivate everybody she could. And these are the trees and a lamp post in the forest of the story. And this is a drawing by a child of a hut on the second legs. It's very important in the story of Baba Yaga. And it was created in the classroom. And this is the wardrobe inside the hut that became a portal from the everyday life of the classroom to the magical reality of the play world. Even the adults used it to keep the magical life. But in this classroom, like in many others, there were some children who had hard time participating in classroom activities. Viola was often inattentive and disruptive. And when the class was discussing how to bring everyone's safety from the evil Baba Yaga, Viola's had tested blowing up the whole school to save the magical creators from Baba Yaga's trap. It's easy to see how Viola and her plan would be excluded from a normal classroom.",
-        "translation": "那是巴巴亚嘎的陷阱，他们喜欢迷住每一个她能迷住的人。这就是故事里森林里的树和灯柱。这是一个孩子画的第二腿上的小屋。这在巴巴亚迦的故事中非常重要。它是在教室里创造出来的。这是小屋里的衣柜它成为了从教室的日常生活到游戏世界的神奇现实的入口。即使是成年人也用它来保持神奇的生命。但在这个教室里，就像在许多其他教室里一样，有些孩子很难参加课堂活动。维奥拉经常心不在焉，爱捣乱。当全班讨论如何从邪恶的巴巴亚加手中拯救每个人的安全时，维奥拉已经试过炸毁整个学校，从巴巴亚加的陷阱中拯救魔法创造者。很容易看出，维奥拉和她的计划将被排除在正常的课堂之外。"
+        "chinese": "那是芭芭雅嘎用来抓捕所有人的陷阱；这些是故事森林里的树木和街灯；还有这幅画，画的是女巫故事中标志性的“鸡爪屋”，是孩子们在教室里画出来的。而木屋里的这个衣柜，则成了从平凡的教室通往奇幻“游戏世界”的传送门，连大人们也会走进去，让魔法在此刻成真。然而，就像许多其他班级一样，这个班里也有几个在日常教学中难以融入的孩子。维奥拉平日里经常心不在焉、调皮捣乱。当大家讨论如何逃离邪恶女巫的魔爪时，维奥拉竟然提议把整座学校炸掉，以解救被关在陷阱里的魔法生物。不难想象，在常规课堂上，维奥拉和她的荒唐提议立刻就会被直接否决。"
       },
       {
-        "id": 5,
+        "scene": "第 5 幕",
         "time": "04:44",
-        "seconds": 285.0,
-        "endSeconds": 353.4,
-        "title": "第 5 幕：But this is a play world",
         "original": "But this is a play world. And in play world, the children, not the adults, are the experts. So the children negotiated with Viola and asked whether she could consider blowing up some props instead of an entire school. And Viola agreed and said, this is a good plan because everybody gets to do their own plan. But the following week, Viola was again inattentive, disruptive, so the teacher had to speak directly to her. And the teacher said, Viola cannot be part of the plan unless he commits the code through with it because everybody is dependent on her to save the magical creators from the Baba Yaga. And her disruptive behavior might alert Baba Yaga. So something extraordinary happened. Viola agreed to participate. And when it was her time to carry out her part of the plan, she first carefully checked that everyone is protected, then drew the bomb to Baba Yaga's trap and engaged everyone in a dramatic countdown to the explosion.",
-        "translation": "但这是一个游戏世界。在游戏世界里，孩子才是专家，而不是大人。于是孩子们和维奥拉商量，问她是否可以考虑炸掉一些道具，而不是炸毁整个学校。维奥拉同意说，这是个好计划，因为每个人都有自己的计划。但在接下来的一周，维奥拉又一次心不在焉，捣乱，所以老师不得不直接和她说话。老师说，维奥拉不能参与计划，除非他把代码完成，因为每个人都依赖她从巴巴亚加手中拯救魔法创造者。她的破坏行为可能会引起巴巴亚加的注意。于是，不寻常的事情发生了。维奥拉同意参加。到了她执行计划的时候，她首先仔细检查了每个人是否都受到了保护，然后把炸弹拉到巴巴亚加的陷阱旁，让每个人都开始倒计时，等待爆炸的到来。"
+        "chinese": "但这里是一个“游戏世界”。在游戏世界里，真正的专家是孩子，而不是大人。于是，其他孩子主动与维奥拉协商，问她能不能只炸掉部分道具，而不是炸毁整座学校。维奥拉欣然同意，并说：“这是个好主意，因为这样每个人都能执行自己的计划了。”可到了下一周，维奥拉又开始走神、捣乱，老师不得不私下找她谈心。老师告诉她：要拯救陷阱里的魔法生物，大家都指望她呢；如果她无法坚持到底，就不能参与这个计划，而且捣乱的行为还可能会惊动芭芭雅嘎。不可思议的事情发生了——维奥拉郑重答应参与。当轮到她执行自己的任务时，她先是仔细确认每个人的安全，随后将“炸弹”扔向陷阱，并带领全班进入了激动人心的爆炸倒计时。"
       },
       {
-        "id": 6,
+        "scene": "第 6 幕",
         "time": "05:53",
-        "seconds": 353.4,
-        "endSeconds": 430.5,
-        "title": "第 6 幕：Now here's why I find this example so...",
         "original": "Now here's why I find this example so powerful. In most other classroom settings, Viola's behavior would be considered problematic or something that we should be preventing from happening. But inside a play world, it made sense and it even solved some problems. Viola's story is also a great example of a phrase. I believe teachers, mentors, parents should be saying as much as possible. Why not? If a child turns to you to ask for something or suggest something, it's often cognitively difficult for us adults because it means sensing our plans, right? Or going into different direction or as we perceive it, wasting our precious time. So our first intuition is to say no or maybe later. But before you rush to respond, try asking yourself why not. And sometimes there's a clear reason to say no. But often there isn't. And when there isn't, you can go along with your children in that unpredictable direction and doors will open.",
-        "translation": "这就是为什么我觉得这个例子如此有力。在大多数其他课堂环境中，维奥拉的行为会被认为是有问题的，或者是我们应该阻止的事情。但在游戏世界中，它是有意义的，甚至解决了一些问题。维奥拉的故事也是一个很好的短语例子。我相信老师、导师、家长应该尽可能多地说。为什么不呢?如果一个孩子向你提出要求或建议，这对我们成年人来说通常是认知困难的，因为这意味着感知我们的计划，对吧？或者朝着不同的方向，或者像我们认为的那样，浪费我们宝贵的时间。所以我们的第一直觉是说不，或者以后再说。但在你急于回应之前，试着问问自己为什么不这样做。有时候，拒绝的理由很明显。但通常不是这样。如果没有，你可以和你的孩子一起朝着那个不可预知的方向前进，门就会打开。"
+        "chinese": "这就是为什么我认为这个案例如此震撼。在普通的课堂环境中，维奥拉的行为会被视作问题儿童的越界表现，是大人们千方百计要制止的。但在游戏世界里，她的举动不仅合情合理，甚至化解了危机。维奥拉的故事还完美印证了一句话，我认为老师、导师和家长们都应该尽可能多说这句话，那就是：“为什么不呢？”当孩子向你求助或提出建议时，对成年人来说，往往在心理上很难顺应，因为这意味着我们要推翻原有计划、偏离既定轨道，甚至在我们看来是“浪费宝贵的时间”。因此，我们的第一本能往往是说“不行”或“以后再说”。但在急于拒绝之前，不妨试着问问自己：为什么不呢？有时候确实有明确的理由拒绝；但更多时候并没有。而当没有阻碍时，不妨顺着孩子那天马行空的思路走下去，你会发现，无数扇新的大门就此敞开。"
       },
       {
-        "id": 7,
+        "scene": "第 7 幕",
         "time": "07:10",
-        "seconds": 430.5,
-        "endSeconds": 501.4,
-        "title": "第 7 幕：Here is another example I love and th...",
         "original": "Here is another example I love and this time, let's say from a first grade classroom. The teacher Tom wanted to develop a play world based on a children's book of Ruben, a bird who accidentally flies in through a child's bedroom window and needs that child's help to get back home. So the children read the story and image in how Ruben might look but then COVID hits. But the children continue thinking and talking about Ruben. And then after several months of distance learning, the children return to class that one morning to find Ruben an actual puppet on a window sill of the classroom. Tom the teacher plays Ruben and the children just love it. They want to include it in all activities. They sing their favorite songs to it, they feed it, they build a nest for it during the art classes and they even teach some math to it. But at this semester also in these classrooms and children were seriously on the edge of disengagement.",
-        "translation": "这是我喜欢的另一个例子，这次是在一年级的教室里。汤姆老师想根据鲁本的一本儿童读物开发一个游戏世界，鲁本是一只不小心从孩子卧室窗户飞进来的小鸟，需要孩子的帮助才能回家。因此，孩子们读了鲁本可能的样子的故事和图像，但随后新冠病毒爆发了。但孩子们继续思考和谈论鲁本。经过几个月的远程学习，孩子们在那天早上回到课堂，发现教室的窗台上有一个真正的木偶鲁本。老师汤姆扮演鲁本，孩子们非常喜欢。他们希望将其纳入所有活动中。他们给它唱最喜欢的歌曲，给它喂食，在艺术课上为它筑巢，甚至教它一些数学。但在这个学期，在这些教室里，孩子们也严重处于脱离的边缘。"
+        "chinese": "这里还有另一个我非常喜欢的案例，发生在一年级教室里。汤姆老师想根据一本绘本打造一个游戏世界。故事讲的是一只叫鲁本的小鸟，不小心飞进了一个孩子的卧室窗户，需要那个孩子的帮助才能重返家园。孩子们读了故事，想象着鲁本的模样。可就在这时，疫情爆发了。但即便在网课期间，孩子们依然在惦念、讨论着鲁本。几个月后，孩子们终于重返校园，那天早晨他们惊喜地发现，窗台上真的出现了一只鲁本布偶！汤姆老师扮演起鲁本，孩子们爱不释手。他们做任何活动都想带着它：给它唱最喜欢的歌、给它喂食、在美术课上给它筑巢，甚至还煞有介事地教它数学。但在这学期里，教室里同样有几个孩子几乎濒临掉队。"
       },
       {
-        "id": 8,
+        "scene": "第 8 幕",
         "time": "08:21",
-        "seconds": 501.4,
-        "endSeconds": 569.4,
-        "title": "第 8 幕：There was Alma for whom it was diffic...",
         "original": "There was Alma for whom it was difficult to sit still, follow all those old school tasks. And there was Luca who was so disruptive that the teachers had made special arrangements for him to leave school early. You can imagine how this made him feel even more excluded. Until these children started to develop a special bond with Ruben. For example, the puppet sent private email to Alma saying that it felt really lonely in the class during the night and Alma responded asking whether Ruben needed a friend, her own soft toy, sunny from home. Ruben said yes, please. Slowly these children became really close to Ruben. It often sat in Alma's lap in activities that were difficult for her and that made her calm and more attentive. On a school field trip, Tom the teacher put Luca in sets of Ruben and that was a huge win. Luca often couldn't join these trips because of his behaviour, but Ruben made it possible for him to go.",
-        "translation": "对阿尔玛来说，她很难安静地坐着，完成所有那些老旧的学校任务。还有卢卡，他的捣乱行为非常严重，老师们特意安排他提前退学。你可以想象这让他感觉更加被排斥。直到这些孩子开始与鲁本建立起特殊的联系。例如，木偶向阿尔玛发送私人电子邮件，说晚上在课堂上感到非常孤独，阿尔玛回复询问鲁本是否需要一个朋友，她自己的毛绒玩具，在家阳光明媚。鲁本说是的，请吧。慢慢地，这些孩子和鲁本变得非常亲近。它经常坐在阿尔玛的腿上，从事对她来说困难的活动，这让她平静下来，更加专心。在一次学校实地考察中，汤姆老师把卢卡放在鲁本的组里，这是一个巨大的胜利。卢卡经常因为他的行为而无法参加这些旅行，但鲁本让他可以去。"
+        "chinese": "其中一个是阿尔玛，她很难安安静静坐着完成那些枯燥的常规课业；另一个是卢卡，他过于调皮捣乱，以至于老师甚至专门安排他提前放学。你可以想象，这种待遇让他感到何其边缘化。直到这些孩子与鲁本建立起一种特殊的情感联结。比如，布偶给阿尔玛发了一封私信，说夜里独自留在教室感觉特别孤单，阿尔玛回复问鲁本是否需要一个朋友——她从家里带来心爱的毛绒玩具“桑妮”陪它，鲁本欣然接受。渐渐地，这些孩子和鲁本变得形影不离。在阿尔玛感到困难的课堂上，鲁本常常坐在她的膝盖上，这让她变得平静而专注。而在一次春游中，汤姆老师任命卢卡负责照顾鲁本，这成了一次巨大的转折。以前卢卡常因行为问题无法参加集体出行，但鲁本的到来让他终于能融入其中。"
       },
       {
-        "id": 9,
+        "scene": "第 9 幕",
         "time": "09:29",
-        "seconds": 569.4,
-        "endSeconds": 640.9,
-        "title": "第 9 幕：Perhaps you can see best how Ruben he...",
         "original": "Perhaps you can see best how Ruben helped these children through this drawing. It's an illustration of Luca on a classroom whiteboard. It's Ruben and Luca together. It looks kind of like Ruben is lifting Luca up, perhaps making him feel happier, lighter. And for me as a researcher, I really love this picture because I think it is the seven-year-old who was able through this drawing to best crystallise for us what development is and what imagination can do if adults take it seriously. Now it would have been easy to write off children like Luca, Viola or Alma and say that the classroom just isn't a place for them. But this story shows us how adult-siled toy play can start changing these systems from the inside. But, and this is my strongest message for you today, the value of adult-siled toy play needs to be better recognised in early learning and teachers who play need to be supported and trusted by their school systems.",
-        "translation": "也许你可以最好地看到鲁本是如何帮助这些孩子完成这幅画的。这是教室白板上Luca的插图。Ruben和Luca在一起。这看起来有点像鲁本把卢卡举起来，也许会让他感觉更快乐、更轻松。对我来说，作为一名研究人员，我真的很喜欢这张照片，因为我认为七岁的孩子能够通过这张图为我们最好地结晶什么是发展，以及如果成年人认真对待它，想象力可以做什么。现在它会"
+        "chinese": "或许这幅画能最好地诠释鲁本是如何帮助这些孩子的。这是画在教室白板上的一幅卢卡的肖像画，画中鲁本和卢卡紧紧依偎在一起。看起来就像鲁本托起了卢卡，让他感到更快乐、更轻松。作为一名研究者，我由衷喜爱这幅画，因为正是这个七岁的孩子，用他的画笔为我们最纯粹地展现了成长的真谛，以及当成年人认真对待想象力时，它所能迸发出的巨大能量。面对卢卡、维奥拉或阿尔玛这样的孩子，放弃他们并断定教室不适合他们，是再容易不过的事。但这个故事向我们证明，成人与儿童共同的游戏能够从内部悄然改变既有体系。不过——这也是我今天最想传达的核心观点：在早期教育中，成人与儿童共同游戏的价值必须得到更广泛的认可，而那些善于玩耍的教师，也迫切需要学校系统的全力支持与信任。"
       },
       {
-        "id": 10,
+        "scene": "第 10 幕",
         "time": "10:40",
-        "seconds": 640.9,
-        "endSeconds": 713.2,
-        "title": "第 10 幕：If this happens, templates can help u...",
         "original": "If this happens, templates can help us imagine and build better futures without children. Futures where everyone could have an important role to play. It is through these roles and those relationships that our most excluded students can find their rightful place and we all benefit. And this can happen again and again and again if imaginative play is given the place it deserves. Thank you. That was Anna Rhaenio at Play At Head in 2026. And now here's Ted Curator, Chloe Shashaprooks. Hi. Thanks for listening to Anna Rhaenio's talk. I'm Chloe Shashaprooks, speaking to you from New York City. I find it very cool when sociological or psychological research is designed to find ways for people's differences to coexist and maybe even thrive. When I first found Anna's work, it was that element of her research that stood out to me. She came to our exploratory video call with a deck of images that moved me way more than I was prepared for.",
-        "translation": "如果发生这种情况，模板可以帮助我们想象和构建没有孩子的更美好的未来。每个人都可以发挥重要作用的未来。正是通过这些角色和关系，我们最受排斥的学生才能找到自己应有的位置，我们都受益。如果想象力游戏得到应有的地位，这种情况可能会一次又一次地发生。谢谢。这是 2026 年 Play At Head 的 Anna Rhaenio。现在是 Ted 策展人 Chloe Shashaprooks。你好。感谢您聆听安娜·雷尼奥的演讲。我是克洛伊·沙沙普鲁克斯，在纽约与您交谈。当社会学或心理学研究旨在寻找人们的差异共存甚至繁荣的方法时，我发现这非常酷。当我第一次发现安娜的作品时，她的研究中的这一点对我来说很突出。她带着一系列图片参加了我们的探索性视频通话，这些图片让我感动得超出了我的预期。"
+        "chinese": "唯有如此，游戏世界才能帮助我们与孩子们一起构想并创造更美好的未来——在那个未来里，每个人都能找到自己不可或缺的角色。正是在这些角色与人际联结中，最被边缘化的学生才能找到属于自己的位置，而我们所有人也将从中受益。只要我们赋予想象力应有的空间，这样的奇迹就能一次又一次地上演。谢谢大家。以上是安娜·莱尼奥在演讲中的精彩分享。接下来让我们连线TED策展人克洛伊·沙莎·布鲁克斯。大家好，感谢收听安娜·莱尼奥的演讲。我是克洛伊·沙莎·布鲁克斯，在纽约向大家问好。每当看到社会学或心理学研究旨在探索如何让差异共存、甚至让每一种不同都能茁壮成长时，我都觉得格外酷。当我第一次接触到安娜的研究时，最打动我的正是这一点。初次视频沟通时，她带来的一组图片深深触动了我，其震撼程度远超我的预期。"
       },
       {
-        "id": 11,
+        "scene": "第 11 幕",
         "time": "11:53",
-        "seconds": 713.2,
-        "endSeconds": 768.4,
-        "title": "第 11 幕：She was talking about neurodivergent ...",
         "original": "She was talking about neurodivergent children's struggles to participate in the classroom and showed me photos of play worlds that the teachers had created to include these kids. Young children wearing paper hats and costumes, hugging stuffed animals, sitting in small groups while building things, and then my favorite one, a photo of a coat closet taken from a child's perspective, just the lower half of it. This closet was located inside of a classroom and the kids all treated it as a portal to another world. The coat tails and cuffs leaves draping at varying heights and this surprisingly intimate photo took me back to my childhood, to the smell of wool and dust, to an age where we were all small enough for the bottom seams of jackets and hangers to graze the tops of our heads, an age when it felt frictionless to treat closets as time machines or as a door to another dimension. And that memory made everything that Anna was saying about these play worlds come together for me.",
-        "translation": "她在谈论神经发散的孩子们参与课堂的斗争，并向我展示了老师们为这些孩子创造的游戏世界的照片。年幼的孩子戴着纸帽和服装，拥抱填充动物，在建造东西时坐在小团体中，然后是我最喜欢的一张照片，一张从孩子的角度拍摄的大衣柜的照片，只是它的下半部分。这个壁橱位于教室内，孩子们都把它当作"
+        "chinese": "她谈到了神经多样性儿童在传统课堂中融入的艰难，并向我展示了老师们为了接纳这些孩子而搭建的“游戏世界”照片。年幼的孩子们戴着纸帽、身着戏服，抱着毛绒玩具，三五成群围坐在一起动手搭建；而我最喜欢的一张，是从孩子的视角拍摄的壁橱特写——只拍了下半部分。这个衣柜就设在教室里，孩子们都把它当作通往另一个世界的传送门。大衣的下摆和袖口高低错落地垂挂着，这张充满温情的照片瞬间将我拉回了童年：重温羊毛与尘土交织的气味，重温那个头顶刚好能蹭到夹克下摆和衣架边缘的年纪。在那个纯真的岁月里，把衣柜当作时光机或通往异次元的通道，是一件多么自然而然的事。那一刻的记忆，让我瞬间读懂了安娜所说的一切。"
       },
       {
-        "id": 12,
+        "scene": "第 12 幕",
         "time": "12:48",
-        "seconds": 768.4,
-        "endSeconds": 814.6,
-        "title": "第 12 幕：It makes so much sense that children ...",
         "original": "It makes so much sense that children who are struggling to fit in or follow directions would feel more at ease in a classroom if they had the space and were maybe even encouraged to step into a fantasy world. Maybe then it would feel like they already fit in or like the directions within that world were fun rather than a bore. Anna herself didn't directly teach these kids in a classroom but she partnered with the teachers to study the effectiveness of play worlds. And even though she didn't spend much time with these kids, her passion and care for these children came through in our conversations, her desire to find a way for them to thrive. This particularly came through when she talked about this idea of why not, as you heard in her talk. Some kids just don't want to do what everyone else is doing. Why make them be like everyone else when it doesn't always have to disrupt the other kids?",
-        "translation": "这是非常有意义的，如果有空间，那些努力融入或遵循指示的孩子在教室里会感到更自在，甚至可能被鼓励进入一个幻想世界。也许那时他们会觉得他们已经融入了，或者那个世界里的方向很有趣而不是无聊。安娜本人并没有直接在课堂上教这些孩子，但她与老师合作研究游戏世界的有效性。尽管她没有花太多时间和这些孩子在一起，但她对这些孩子的热情和关怀在我们的谈话中流露出来，她渴望找到让他们茁壮成长的方法。正如您在她的演讲中听到的那样，当她谈到“为什么不”的想法时，这一点尤其明显。有些孩子只是不想做其他人正在做的事情。当不必总是打扰其他孩子时，为什么要让他们像其他人一样呢？"
+        "chinese": "一切都变得如此合情合理：那些难以融入集体或服从指令的孩子，如果在课堂上能拥有自己的天地，甚至被鼓励踏入幻想世界，他们自然会感到更加自在。或许在那个奇幻世界里，他们会觉得自己本就归属于此，其中的指引也变成了趣味冒险，而非枯燥的说教。安娜本人并没有直接在一线课堂执教，但她与教师紧密合作，共同研究游戏世界的实际成效。尽管她并未与孩子们朝夕相处，但在我们的交流中，她对这些孩子的关爱与热情溢于言表，渴望为他们的成长开辟一条宽广的道路。正如你在演讲中所听到的，当她谈及“为什么不呢”这个理念时，这种关切尤为动人。有些孩子就是不想随波逐流，如果这并不影响他人，我们又何必强求他们整齐划一？"
       },
       {
-        "id": 13,
+        "scene": "第 13 幕",
         "time": "13:34",
-        "seconds": 814.6,
-        "endSeconds": 897.1,
-        "title": "第 13 幕：You may have noticed that in her talk...",
         "original": "You may have noticed that in her talk she mentioned that the stories were fictional examples, that they were composite stories to protect the privacy of students and teachers. Anna is very ethical with her research and explained that obscuring the details was necessary for her to be able to present on the TED stage. But I must admit, I was sad about it because the original images of the stories of students and specific details from play worlds that she shared with me on that first call were so compelling and charming that I was worried the magic wouldn't come through anymore. For example, she had to change the names of the books that the students based their play worlds around and therefore the details from those books that students focused on, as well as the images of the actual objects that students made or grew attached to. Fortunately, she did such a good job of preserving the levels and types of details in her altered stories and images that I think she succeeded at sharing her authentic insights and passion in this talk. Working with Anna and diving into her research has actually impacted me as a parent, albeit in the less serious but nevertheless delightful way. When one of my kids is unwilling to do something that we need them to do, I sometimes bring them into an invented story that they already love, like Moana or the Lion King. You can be Moana's little sister and I'll be Moana and you can run into my arms and I'll catch you and then you know I put her shoes on. If you're curious about Ted's curation, visit Ted.com slash curation guidelines.",
-        "translation": "您可能已经注意到，她在演讲中提到这些故事是虚构的例子，它们是为了保护学生和老师的隐私而合成的故事。安娜对她的研究非常有道德，并解释说，为了能够在 TED 舞台上展示，隐藏细节是必要的。但我必须承认，我对此感到难过，因为她在第一次通话时与我分享的学生故事的原始图像和游戏世界的具体细节是如此引人注目和迷人，以至于我担心魔法不会再出现。例如，她必须更改学生游戏世界所依据的书籍的名称，从而更改学生关注的书籍的细节，以及学生制作或逐渐喜欢的实际物体的图像。幸运的是，她在保留修改后的故事和图像中细节的层次和类型方面做得非常好，我认为她在这次演讲中成功地分享了她真实的见解和热情。与安娜一起工作并深入研究她的研究实际上对我作为一名家长产生了影响，尽管方式不那么严肃，但仍然令人愉快。当我的一个孩子不愿意做我们需要他们做的事情时，我有时会把他们带入一个他们已经喜欢的虚构故事中，比如莫阿娜或狮子王。你可以成为莫阿娜的小妹妹，我就是莫阿娜，你可以跑进我的怀里，我会抓住你，然后你就知道我给她穿上了鞋子。如果您对 Ted 的策展感到好奇，请访问 Ted.com 斜杠策展指南。"
+        "chinese": "你可能注意到了，她在演讲中提到那些故事都是虚构的复合案例，是为了保护师生隐私而作的艺术加工。安娜对学术伦理秉持极其严谨的态度，她解释说，为了能在TED舞台上分享，模糊具体细节是必不可少的。但我必须承认，我一度感到些许惋惜，因为在初次通话中，她分享的那些真实照片、学生故事以及游戏世界的细腻点滴实在太过鲜活迷人，我曾担心改编后会冲淡那份魔力。比如，她不得不隐去孩子们以之为蓝本的真实书名，随之调整了书中细节，就连孩子们亲手制作、视若珍宝的原版道具照片也无法直接展出。令人欣慰的是，她在重构的故事与画面中极为精准地保留了原貌的情感深度与细节质感，成功在演讲中传递了她最真挚的洞见与热情。与安娜共事并深入研读她的成果，甚至在潜移默化中影响了我为人父母的方式——虽然是以一种更轻松却同样美妙的方式：当我的孩子抗拒做某件必须做的事时，我有时会把他们带入他们喜爱的虚构故事中，比如《海洋奇缘》或《狮子王》。“你当莫阿娜的小妹妹，我当莫阿娜，你冲进我的怀抱，我接住你——然后，顺便就把鞋子穿上了。”如果你对TED的策展理念感兴趣，欢迎访问TED官网相关页面了解详情。"
       }
     ],
     "spoken": [],
@@ -452,153 +358,141 @@
     "neteaseSongId": "3445715581",
     "cet4Vocab": [
       {
-        "word": "classroom",
-        "phonetic": "[ˈklɑːsruːm]",
-        "meaning": "n. 教室，课堂（教学环境）",
-        "context": "I'd love for you to think about a classroom full of, let's say, 20, seven-year-old children.",
-        "time": "00:00"
-      },
-      {
-        "word": "ruben",
-        "phonetic": "",
-        "meaning": "n. 鲁本（男子名，等于 Reuben）",
-        "context": "The teacher Tom wanted to develop a play world based on a children's book of Ruben, a bird who accidentally flies in through a child's bedroom window and needs that child's help to get back home.",
-        "time": "07:10"
-      },
-      {
-        "word": "viola",
-        "phonetic": "[viˈəʊlə]",
-        "meaning": "n. 中提琴（乐器）；中提琴演奏者；堇菜属植物（如堇菜、三色堇等，该义读 /ˈvaɪələ/）；（Viola）堇菜属；（Viola）维奥拉，薇奥拉（人名，英语女子名；俄、意、罗、匈、葡、塞、捷、瑞典作维奥拉，西班牙作比奥拉）",
-        "context": "Viola was often inattentive and disruptive.",
-        "time": "03:42"
-      },
-      {
-        "word": "adults",
-        "phonetic": "[ˈædʌlts]",
-        "meaning": "n. 成年人（adult 的复数形式）；（生物学）成年动物（adult 的复数形式，如成虫、成体）",
-        "context": "The one at the back learned early on that adults and they promises cannot be trusted.",
-        "time": "00:00"
-      },
-      {
-        "word": "baba",
-        "phonetic": "[ˈbɑːbɑː]",
-        "meaning": "n. 朗姆糕（兰姆糕）：用酵母面团制成、常浸朗姆酒糖浆的小蛋糕，亦作 rum baba；（Baba）（南亚、中东、非洲等地）爸爸；对长者、圣人、精神导师等的尊称；（Baba）人名或姓氏：巴巴（阿拉伯、土耳其、非洲及中东欧等地）；马场（日）；姆巴姆巴（斐济）",
-        "context": "This is Baba Yaga's tower, and these are magical create-source caves that the children created.",
-        "time": "02:36"
-      },
-      {
-        "word": "yaga",
-        "phonetic": "",
-        "meaning": "n．巴巴·约加：东欧民间传说中的一位女巫，以其长鼻、钩爪和在森林中的小屋（通常以鸡腿支撑）而闻名。",
-        "context": "This is Baba Yaga's tower, and these are magical create-source caves that the children created.",
-        "time": "02:36"
-      },
-      {
-        "word": "students",
-        "phonetic": "[ˈstjʊdnts]",
-        "meaning": "n. 学生（student 的复数）",
-        "context": "Arda shows a series of photographs featuring colorful handmade and hand-painted props that her students designed together from the world of Bajaga.",
-        "time": "02:36"
-      },
-      {
-        "word": "class",
-        "phonetic": "[klɑːs]",
-        "meaning": "n. 班级；（一节）课，上课时间；（某一科目的）课程；阶级，阶层；等级划分，等级制度；（货物、服务或人的）等级，类别；（飞机、火车等的）舱位等级，车厢等级；品味；同届毕业生；<英>（英国大学的）学位等级；（生物）（植物或动物分类的）纲；（比赛的）组别；v. 把……归类，把……看作；把……编入某一班级；属于……类（或等级），被列为某类（或某级）",
-        "context": "The adults and children create the world of a chosen story in the classroom, and then the class plays, interacts, and undertakes adventures together with both adults and children in roles.",
+        "word": "radical",
+        "phonetic": "[ˈrædɪk(ə)l]",
+        "meaning": "adj. 根本的，彻底的；激进的，极端的；全新的，不同凡响的；（增减）急剧的，大幅度的；（人，物）原...",
+        "context": "Radical inclusion is possible in any early learning classroom through something called playwords.",
         "time": "01:16"
       },
       {
-        "word": "luca",
-        "phonetic": "",
-        "meaning": "n. 卢卡（Lucca 的别名，意大利中北部的城市）；（意，罗马，葡）卢卡（男子名）；《夏日友晴天》（迪士尼·皮克斯电影）",
-        "context": "And there was Luca who was so disruptive that the teachers had made special arrangements for him to leave school early.",
-        "time": "08:21"
-      },
-      {
-        "word": "anna",
-        "phonetic": "[ˈʌnə]",
-        "meaning": "n. 安那（印度旧时的货币单位，等于1卢布的1/16）；n. （Anna）安娜（女子名）",
-        "context": "That was Anna Rhaenio at Play At Head in 2026.",
-        "time": "10:40"
-      },
-      {
-        "word": "kids",
-        "phonetic": "[kidz]",
-        "meaning": "n. （kid 的复数）<非正式>小孩，孩子；<非正式>年轻人；小山羊；小山羊皮革；（尤指水手食堂盛格罗酒或配额食物用的）小木桶；v. （kid 的第三人称单数）<非正式>开玩笑，拿……开玩笑，（善意地）取笑；（山羊）产羔；欺骗，常与 oneself 连用时表示“欺骗自己”",
-        "context": "She was talking about neurodivergent children's struggles to participate in the classroom and showed me photos of play worlds that the teachers had created to include these kids.",
-        "time": "11:53"
-      },
-      {
-        "word": "teachers",
-        "phonetic": "[ˈtiːtʃə(r)z]",
-        "meaning": "n. 教师，老师（teacher 的复数）",
-        "context": "I believe teachers, mentors, parents should be saying as much as possible.",
-        "time": "05:53"
-      },
-      {
-        "word": "example",
-        "phonetic": "[ɪɡˈzɑːmp(ə)l]",
-        "meaning": "n. 例子，例证；榜样，楷模；典型，范例；例句，例题；警戒，受罚（以示警告）者；v. 得到说明，可加以举例说明",
-        "context": "Let me give you an example of how a playword might look like in a kindergarten class.",
-        "time": "02:36"
-      },
-      {
-        "word": "research",
-        "phonetic": "[rɪˈsɜːtʃ]",
-        "meaning": "n. （尤指大学或科研机构进行的）研究，探讨；研究工作，调查工作；v. 研究，探索；为……收集资料，调查",
-        "context": "They were already developed by a Swedish scholar, Gunila Lindquist, and they are now studied worldwide by our research teams.",
+        "word": "initiative",
+        "phonetic": "[ɪˈnɪʃətɪv]",
+        "meaning": "n. 措施，倡议；主动性，积极性；主动权；（美国某些州的）公民立法提案程序",
+        "context": "The children take initiative, and the adults listen carefully.",
         "time": "01:16"
       },
       {
-        "word": "stories",
-        "phonetic": "[ˈstɔːriz]",
-        "meaning": "n. （story 的复数）故事，叙述；新闻报道；谎言，虚假的借口；<美>楼层；（社交媒体）动态，快拍；v. 讲述，叙述；用历史故事画装饰（story 的第三人称单数）",
+        "word": "composite",
+        "phonetic": "[kəmˈpɑːzət]",
+        "meaning": "adj. 合成的，复合的；（火车车厢）综合的；菊科的；（柱式）混合的; n. 合成物，复合材料；罪犯...",
         "context": "And just to note that these are fictional examples to protect the privacy of the participants, kind of composite stories of all the things we've seen in the many playwords we've studied.",
         "time": "02:36"
       },
       {
-        "word": "magical",
-        "phonetic": "[ˈmædʒɪk(ə)l]",
-        "meaning": "adj. 魔法的，魔术的；神奇的，迷人的",
-        "context": "This is Baba Yaga's tower, and these are magical create-source caves that the children created.",
+        "word": "resolution",
+        "phonetic": "[ˌrezəˈluːʃ(ə)n]",
+        "meaning": "n. 决议，正式决定；（冲突、问题等的）解决，解决办法；决心，决定；坚决，果断；（电视、照相机、显微...",
+        "context": "But instead of reading aloud the second half of the story, the class collectively wrote and directed their own resolution to the story's central conflicts.",
         "time": "02:36"
+      },
+      {
+        "word": "disruptive",
+        "phonetic": "[dɪsˈrʌptɪv]",
+        "meaning": "adj. 引起混乱的，破坏的；创新的，开拓性的",
+        "context": "Viola was often inattentive and disruptive.",
+        "time": "03:42"
+      },
+      {
+        "word": "intuition",
+        "phonetic": "[ˌɪntuˈɪʃ(ə)n]",
+        "meaning": "n. 直觉力；直觉感知，直觉知识",
+        "context": "So our first intuition is to say no or maybe later.",
+        "time": "05:53"
+      },
+      {
+        "word": "unpredictable",
+        "phonetic": "[ˌʌnprɪˈdɪktəb(ə)l]",
+        "meaning": "adj. 无法预测的，不定的；（人）善变的，难以捉摸的; n. 不可预言的事",
+        "context": "And when there isn't, you can go along with your children in that unpredictable direction and doors will open.",
+        "time": "05:53"
+      },
+      {
+        "word": "disengagement",
+        "phonetic": "[ˌdɪsɪnˈɡeɪdʒmənt]",
+        "meaning": "n. 脱离；分开",
+        "context": "But at this semester also in these classrooms and children were seriously on the edge of disengagement.",
+        "time": "07:10"
+      },
+      {
+        "word": "crystallise",
+        "phonetic": "[ˈkrɪstəlaɪz]",
+        "meaning": "vt. 使…结晶；使具体化；使（想法，计划等）变得明朗而具体（同 crystallize）",
+        "context": "And for me as a researcher, I really love this picture because I think it is the seven-year-old who was able through this drawing to best crystallise for us what development is and what imagination can do if adults take it seriously.",
+        "time": "09:29"
+      },
+      {
+        "word": "neurodivergent",
+        "phonetic": "",
+        "meaning": "adj. 大脑功能异于常人的",
+        "context": "She was talking about neurodivergent children's struggles to participate in the classroom and showed me photos of play worlds that the teachers had created to include these kids.",
+        "time": "11:53"
+      },
+      {
+        "word": "perspective",
+        "phonetic": "[pərˈspektɪv]",
+        "meaning": "n. （观察问题的）视角，观点；透视（画）法；（几何）透视关系，投影比例；洞察力，判断力；景观，远景...",
+        "context": "Young children wearing paper hats and costumes, hugging stuffed animals, sitting in small groups while building things, and then my favorite one, a photo of a coat closet taken from a child's perspective, just the lower half of it.",
+        "time": "11:53"
+      },
+      {
+        "word": "intimate",
+        "phonetic": "[ˈɪntɪmət]",
+        "meaning": "adj. 亲密的；个人的，隐私的；温馨的，幽静舒适的；详尽的，精通的；密切的，紧密的；有性关系的，暧...",
+        "context": "The coat tails and cuffs leaves draping at varying heights and this surprisingly intimate photo took me back to my childhood, to the smell of wool and dust, to an age where we were all small enough for the bottom seams of jackets and hangers to graze the tops of our heads, an age when it felt frictionless to treat closets as time machines or as a door to another dimension.",
+        "time": "11:53"
+      },
+      {
+        "word": "obscuring",
+        "phonetic": "[əbˈskjʊr]",
+        "meaning": "n. 模糊; v. 使……含糊；隐藏（obscure 的 ing 形式）",
+        "context": "Anna is very ethical with her research and explained that obscuring the details was necessary for her to be able to present on the TED stage.",
+        "time": "13:34"
+      },
+      {
+        "word": "compelling",
+        "phonetic": "[kəmˈpelɪŋ]",
+        "meaning": "adj. 令人信服的，有说服力的；引人入胜的，扣人心弦的；非常强烈的，不可抗拒的; v. 强迫，迫使...",
+        "context": "But I must admit, I was sad about it because the original images of the stories of students and specific details from play worlds that she shared with me on that first call were so compelling and charming that I was worried the magic wouldn't come through anymore.",
+        "time": "13:34"
+      },
+      {
+        "word": "authentic",
+        "phonetic": "[ɔːˈθentɪk]",
+        "meaning": "adj. 原作的，真迹的；传统的，正宗的；逼真的，仿真的；真实的，可靠的",
+        "context": "Fortunately, she did such a good job of preserving the levels and types of details in her altered stories and images that I think she succeeded at sharing her authentic insights and passion in this talk.",
+        "time": "13:34"
       }
     ],
     "keySentences": [
       {
-        "pattern": "鲜明排他对比句 (Rather than / Instead of...)",
-        "sentence": "But instead of reading aloud the second half of the story, the class collectively wrote and directed their own resolution to the story's central conflicts.",
-        "note": "以否定反面对照正面倡导，形成鲜明的心智冲击力。",
-        "time": "02:36",
-        "scene": "第 3 幕：We have seen how playwords can change..."
+        "pattern": "对照转折对比句 (In most other... however...)",
+        "sentence": "In most other phases of our lives, it would be odd to think that everybody was able to do the same activity in so similar things or develop at the same pace. Schools however are historically places where sameness is expected from all.",
+        "time": "00:00",
+        "note": "通过将日常生活中的多元常态与传统学校体制对统一性（sameness）的严苛要求进行对比，凸显出现行教育机制的荒谬与局限。非常适合在议论文开头建立反差、引出核心论题。"
       },
       {
-        "pattern": "鲜明排他对比句 (Rather than / Instead of...)",
-        "sentence": "So the children negotiated with Viola and asked whether she could consider blowing up some props instead of an entire school.",
-        "note": "以否定反面对照正面倡导，形成鲜明的心智冲击力。",
-        "time": "04:44",
-        "scene": "第 5 幕：But this is a play world"
+        "pattern": "让步反驳立论句 (It would have been easy to... But... shows...)",
+        "sentence": "Now it would have been easy to write off children like Luca, Viola or Alma and say that the classroom just isn't a place for them. But this story shows us how adult-siled toy play can start changing these systems from the inside.",
+        "time": "09:29",
+        "note": "先用虚拟语气退让一步承认“放弃问题学生是顺应现状的最简便做法”，随后用强有力的转折指出创新实践从内部重塑体系的潜力。可直接迁移用于学术或社会评论写作中驳斥消极现状并提出解法。"
       },
       {
-        "pattern": "程度结果因果句 (So... that...)",
-        "sentence": "And there was Luca who was so disruptive that the teachers had made special arrangements for him to leave school early.",
-        "note": "由极端程度直接推导出震撼结果，极具戏剧张力。",
-        "time": "08:21",
-        "scene": "第 8 幕：There was Alma for whom it was diffic..."
-      },
-      {
-        "pattern": "分裂强调句 (It is... that...)",
+        "pattern": "分裂强调与共赢升华句 (It is through... that... and we all...)",
         "sentence": "It is through these roles and those relationships that our most excluded students can find their rightful place and we all benefit.",
-        "note": "将核心名词或状语置于主位，强化演讲者的笃定语气与焦点。",
         "time": "10:40",
-        "scene": "第 10 幕：If this happens, templates can help u..."
+        "note": "使用强调句型（It is through... that...）突出了特定路径（角色与关系）的核心价值，并在句末升华到集体获益的高度。极具感召力，适用于演讲结语或倡议类写作的升华收尾。"
       },
       {
-        "pattern": "鲜明排他对比句 (Rather than / Instead of...)",
-        "sentence": "Maybe then it would feel like they already fit in or like the directions within that world were fun rather than a bore.",
-        "note": "以否定反面对照正面倡导，形成鲜明的心智冲击力。",
+        "pattern": "程度结果因果句 (so... that...)",
+        "sentence": "And there was Luca who was so disruptive that the teachers had made special arrangements for him to leave school early.",
+        "time": "08:21",
+        "note": "借助“so... that...”引导的结果状语从句直观呈现学生行为带来的极端体制反应，强化问题的严重性与情感张力。适合在例证段落中做事实铺垫。"
+      },
+      {
+        "pattern": "让步递进与同位语拓展句 (Even though..., [Main Clause], [Noun Phrase Appositive])",
+        "sentence": "And even though she didn't spend much time with these kids, her passion and care for these children came through in our conversations, her desire to find a way for them to thrive.",
         "time": "12:48",
-        "scene": "第 12 幕：It makes so much sense that children ..."
+        "note": "先以让步从句消除听众潜在疑虑，主句直接点明核心特质，句尾再借由同位语短语展开具体内涵。行文节奏舒缓而层层递进，非常适合人物描写或研究价值的深度评述。"
       }
     ]
   },
@@ -611,7 +505,7 @@
     "speakerTitle": "TED演讲嘉宾",
     "category": "社会与治理",
     "subCategory": "核心精选",
-    "duration": "11:48",
+    "duration": "10:58",
     "durationSeconds": 708.2,
     "audioUrl": "https://audio.louisyu.top/tami-pyfer-clean.mp3",
     "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190163/16c5c6f9-4c33-4bd7-9a1e-f5738e03c237/TamiPyfer_2026S-stageshot.jpg",
@@ -621,85 +515,58 @@
     "quoteTranslation": "如果轻蔑说，我认为自己高于你，那么尊严说，我在你身上看到了自己。",
     "segments": [
       {
-        "id": 1,
+        "scene": "第 1 幕",
         "time": "00:00",
-        "seconds": 0.5,
-        "endSeconds": 66.0,
-        "title": "第 1 幕：policy advisor for the governor of Ut...",
-        "original": "policy advisor for the governor of Utah, I was approached by a group of elementary school These young entrepreneurs were learning how to create their own businesses and they had If you sent them a photo and $6 they would sketch your portrait. Well, I was eager to support these students and so I sent this photo of my oldest son. Tammy shows a black and white picture of her oldest son. He has a serious look on his face as he looks downward to the left away from the camera. He's holding a guitar and standing against an elaborate tapestry. He's a musician and I've always thought that this picture really captured his personality. So I sent in my $6 and waited. This is what I got back. Tammy shows an image clearly hand drawn by children. The depiction of her son has a large round head with an etched in beard. His body looks disproportionately small compared to his head and he blends into the tapestry behind him.",
-        "translation": "当时我是犹他州州长的政策顾问，一群小学生找到我，这些年轻的企业家正在学习如何创建自己的企业，如果你给他们寄一张照片和6美元，他们就会给你画一张肖像。嗯，我很想支持这些学生，所以我寄了这张我大儿子的照片。塔米展示了一张她大儿子的黑白照片。他的脸上带着严肃的表情，他向下看向左边，远离镜头。他拿着一把吉他，站在一幅精美的挂毯前。他是一个音乐家，我一直认为这张照片真的捕捉到了他的个性。于是我把6美元寄了进去，然后等着。这是我得到的。塔米展示了一幅明显是孩子们手绘的图画。她儿子的画像有一个又大又圆的脑袋，还有一个蚀刻的胡须。与他的头相比，他的身体看起来不成比例地小，他融入了他身后的挂毯。"
+        "original": "When I was working as the education policy advisor for the governor of Utah, I was approached by a group of elementary school students who reached out asking for my help. These young entrepreneurs were learning how to create their own businesses, and they had decided to create a portrait business. If you sent them a photo and $6, they would sketch your portrait. Well I was eager to support these students, and so I sent this photo of my oldest son. He's a musician. And I've always thought that this picture really captured his personality. So I sent in my $6 and waited. This is what I got back. How fantastic is this, right? The blue beard, the whole vibe. My son loved this so much that it's hanging in his studio. I loved it so much, I wanted them to draw me. So I sent this photo of my husband and me.",
+        "chinese": "我在犹他州州长办公室担任教育政策顾问时，遇到了一群小学生，他们找到我寻求帮助。这些小小创业者正在学习如何开创自己的事业，并决定做一门肖像画的生意：只要寄给他们一张照片和6美元，他们就会为你画一张素描肖像。我非常想支持这些孩子，于是寄去了我大儿子的这张照片。他是一名音乐人，我一直觉得这张照片特别能凸显他的个性。我付了6美元，然后耐心等待。收到的是这样一幅画。太棒了，对吧？蓝色的胡子，整个感觉都对了。我儿子特别喜欢，至今还挂在他的工作室里。我也喜欢得不行，便想让他们也给我画一张，于是寄出了这张我和丈夫的合影。"
       },
       {
-        "id": 2,
-        "time": "01:07",
-        "seconds": 67.0,
-        "endSeconds": 138.7,
-        "title": "第 2 幕：How fantastic is this, right? The blu...",
-        "original": "How fantastic is this, right? The blue beard, the whole vibe. My son loved this so much that it's hanging in his studio. I loved it so much I wanted them to draw me. So I sent this photo of my husband and me. We were out to dinner for my birthday. It's one of my favorite photos. For $6 this is what I got back. Tammy shows side by side images. The image to the left is a photograph of her and her husband at a restaurant. The image to the right is a hand drawn illustration of their faces squished together. They have big grins with two rows of oversized teeth. Tammy's depiction has large round eyes that are darkly outlined. Her husband's eyes are too filled in dots. Ouch. It can be a little painful when you realize that the way you see yourself is dramatically, dramatically different from how other people see you. But that gap, that difference in perspective, can also be powerful. Because when we learn to see ourselves through a new lens, it can open a path to growth.",
-        "translation": "这太棒了，对吧？蓝胡子，整个氛围。我儿子非常喜欢这幅画，挂在他的画室里。我太喜欢它了，我想让他们画我。所以我发了这张我和我丈夫的照片。我们出去吃晚餐庆祝我的生日。这是我最喜欢的照片之一。我花了6美元就得到了这个。塔米展示了并排的图片。左边的照片是她和丈夫在一家餐馆的照片。右边的图片是他们的脸被压在一起的手绘插图。它们有大大的笑容和两排超大的牙齿。塔米的画像有一双又大又圆的眼睛，黑色的轮廓。她丈夫的眼睛里满是点。哎哟。当你意识到你对自己的看法和别人对你的看法截然不同时，你可能会有点痛苦。但这种差距，这种观点上的差异，也可能是强大的。因为当我们学会从一个新的角度看待自己时，它可以打开一条成长的道路。"
+        "scene": "第 2 幕",
+        "time": "01:00",
+        "original": "We were out to dinner for my birthday. It's one of my favorite photos. For $6, this is what I got back. Ouch. It can be a little painful when you realize that the way you see yourself is dramatically -- Dramatically different from how other people see you. But that gap, that difference in perspective, can also be powerful. Because when we learn to see ourselves through a new lens, it can open a path to growth. And it just might be the key to strengthening democracy. A few years ago, my family was struggling, not because we didn't love each other, but because like a lot of families, our political differences had started to impact the way we interacted with each other. We're a politically diverse family. I have five kids who belong to five political parties. I have an independent, a Democrat, a Democratic socialist, a libertarian and a Republican.",
+        "chinese": "那天是我们出去庆祝我的生日，这是我最喜欢的照片之一。花了6美元，我收到的却是这个——哎呀，真扎心。当你意识到自我认知与别人眼中的你有着天壤之别——截然不同时，心里确实会有点不好受。但那种落差，那种视角的差异，也可以蕴含强大的力量。因为当我们学会换一个视角来审视自己，就会开启一条成长之路；而这，或许正是巩固民主的关键所在。几年前，我们家也陷入了困境。不是因为我们不相爱，而是像许多家庭一样，政治分歧开始侵蚀我们彼此相处的方式。我们是一个政治立场多元的家庭。我有五个孩子，分别属于五个不同的政治派别：一个独立派、一个民主党人、一个民主社会主义者、一个自由意志主义者，还有一个共和党人。"
       },
       {
-        "id": 3,
-        "time": "02:19",
-        "seconds": 139.7,
-        "endSeconds": 215.0,
-        "title": "第 3 幕：And it just might be the key to stren...",
-        "original": "And it just might be the key to strengthening democracy. A few years ago, my family was struggling. Not because we didn't love each other. But because like a lot of families, our political differences had started to impact the way we interacted with each other. We're a politically diverse family. I have five kids who belong to five political parties. I have an independent, a Democrat, a democratic socialist, a libertarian, and a republican. And my husband and I have different political views as well. He is an unaffiliated conservative and I am a moderate Republican. We're basically our own focus group. I've always considered raising kids with independent views a parenting win. But during this time, it didn't feel like anyone was winning. Conversations got tense. Sometimes we argue, but mostly we just avoided talking about anything that could stir controversy. Our Thanksgiving dinners, we implemented the no politics rule. But even then, an unguarded comment could break the truth.",
-        "translation": "这可能是加强民主的关键。几年前，我的家庭举步维艰。不是因为我们不爱对方。而是因为像许多家庭一样，我们的政治分歧已经开始影响我们彼此交往的方式。我们是一个政治多元化的家庭。我有五个孩子，他们分别属于五个政党。我有一个无党派人士，一个民主党人，一个民主社会主义者，一个自由主义者和一个共和党人。我丈夫和我也有不同的政治观点。他是无党派的保守派，而我是温和派的共和党人。我们基本上是我们自己的焦点小组。我一直认为把孩子培养成有独立观点的人是父母的胜利。但在这段时间里，我感觉没有人是赢家。谈话变得紧张起来。有时我们会争论，但大多数时候我们只是避免谈论任何可能引起争议的事情。我们的感恩节晚餐，我们实行了不涉及政治的规定。但即便如此，一个不加防范的评论也可能会泄露真相。"
+        "scene": "第 3 幕",
+        "time": "02:17",
+        "original": "And my husband and I have different political views as well. He is an unaffiliated conservative, and I am a moderate Republican. We're basically our own focus group. I've always considered raising kids with independent views a parenting win. But during this time, it didn't feel like anyone was winning. Conversations got tense. Sometimes we argued, but mostly we just avoided talking about anything that could stir controversy. [At] our Thanksgiving dinners, we implemented the no-politics rule. But even then, an unguarded comment could break the truce. Slowly, I recognized something else coming into our conversations and our interactions. It was more than disagreement. It was more than conflict. It was contempt. Now we’re living in a culture of contempt. You see it everywhere: on social media, on cable news, on talk radio and especially in politics. Contempt is this feeling that you're better than those people, that their views aren't just wrong, but dangerous.",
+        "chinese": "我和丈夫的政治观点也不尽相同。他是一个无党派保守派，而我是个温和派共和党人。可以说，我们家本身就是一个微型民意调研组。我一直把培养出拥有独立见解的孩子视为家庭教育的成功；但在那段时期，感觉没有谁是赢家。对话变得剑拔弩张。有时我们会争吵，但大多数时候，大家干脆避开任何可能引发争议的话题。感恩节晚餐上，我们定下了“莫谈政治”的规矩。但即便如此，一句毫无防备的话就可能打破停火协议。渐渐地，我意识到在我们的交谈和互动中，悄然滋生出一种别样的东西。那不仅是分歧，也不仅仅是冲突，那是轻蔑。如今我们正生活在一种轻蔑文化之中。它无处不在：社交媒体上、有线电视新闻里、谈话广播中，尤其是在政治领域。轻蔑就是这样一种感觉：自认为高人一等，觉得对方的观点不仅是错误的，更是危险的。"
       },
       {
-        "id": 4,
-        "time": "03:36",
-        "seconds": 216.0,
-        "endSeconds": 293.0,
-        "title": "第 4 幕：Slowly, I recognize something else co...",
-        "original": "Slowly, I recognize something else coming into our conversations and our interactions. It was more than disagreement. It was more than conflict. It was contempt. Now, we're living in a culture of contempt. You see it everywhere on social media, on cable news, on talk radio, and especially in politics. Contempt is this feeling that you're better than those people. That their views aren't just wrong, but dangerous. And they're not just mistaken, they're evil. And when contempt enters a conversation, everything changes. It changes the way we see each other. It erodes trust. It weakens relationships and divides communities. Over time, it damages democracy itself. The antidote to contempt is dignity. Dignity is the inherent worth of every human being. Not because of what we believe, not because of what we achieve, but because we are human. And if contempt says, I see myself above you, dignity says, I see myself in you. And when contempt pulls us apart, dignity can bring us back together.",
-        "translation": "慢慢地，我意识到我们的谈话和互动中出现了别的东西。这不仅仅是意见分歧。这不仅仅是冲突。这是轻蔑。现在，我们生活在一种鄙视的文化中。你在社交媒体、有线电视新闻、谈话电台，尤其是政治领域，随处可见。蔑视是一种你比别人强的感觉。他们的观点不仅是错误的，而且是危险的。他们不仅错了，而且是邪恶的。当轻蔑进入谈话时，一切都改变了。它改变了我们看待彼此的方式。它侵蚀了信任。它削弱了人际关系，分裂了社区。久而久之，它会损害民主本身。蔑视的解药是尊严。尊严是每个人的内在价值。不是因为我们相信什么，不是因为我们取得了什么成就，而是因为我们是人。如果轻蔑说，我认为自己高于你，那么尊严说，我在你身上看到了自己。当轻蔑把我们分开时，尊严能让我们重新走到一起。"
+        "scene": "第 4 幕",
+        "time": "03:31",
+        "original": "And they’re not just mistaken -- they're evil. And when contempt enters a conversation, everything changes. It changes the way we see each other. It erodes trust. It weakens relationships and divides communities. Over time, it damages democracy itself. The antidote to contempt is dignity. Dignity is the inherent worth of every human being. Not because of what we believe, not because of what we achieve, but because we are human. And if contempt says, “I see myself above you,” dignity says, “I see myself in you.” And when contempt pulls us apart, dignity can bring us back together. In our families, our communities and our country. Now if contempt is so damaging and dignity is so healing, what if we had a way to see both more clearly? That question led my colleagues and me to create something called “The Dignity Index.” It’s a simple scale that measures how we treat each other, or the language that we use when we disagree.",
+        "chinese": "甚至觉得他们不仅是犯了错，而且是邪恶的。一旦轻蔑渗入对话，一切都变了。它改变了我们看待彼此的目光，侵蚀了信任，削弱了人际关系，分裂了社区。久而久之，它摧毁了民主本身。轻蔑的解药是尊严。尊严是每个人与生俱来的价值——不因我们的信仰，不因我们的成就，只因我们是人。如果轻蔑说的是“我凌驾于你之上”，那么尊严说的则是“我在你身上看到了我自己”。当轻蔑将我们撕裂，尊严能让我们重新凝聚——在我们的家庭中、社区中，以及我们的国家里。既然轻蔑如此具有破坏性，而尊严又如此具有治愈力，那么如果我们有一种方法能更清晰地看清这两者，会怎样呢？正是这个问题，促使我和同事们创立了“尊严指数”（The Dignity Index）。这是一个简单的量表，用来衡量我们如何对待彼此，或者说衡量我们在发生分歧时所使用的语言。"
       },
       {
-        "id": 5,
-        "time": "04:54",
-        "seconds": 294.0,
-        "endSeconds": 362.0,
-        "title": "第 5 幕：In our families, our communities, and...",
-        "original": "In our families, our communities, and our country. Now, if contempt is so damaging and dignity so healing, what if we had a way to see both more clearly? That question led my colleagues and me to create something called the dignity index. It's a simple scale that measures how we treat each other, or the language that we use when we disagree. The scale goes from one to eight, and on one side of the scale is contempt. This is where we dismiss others. Maybe we mock them. We dehumanize. And we ultimately condone or even commit acts of violence and feel virtuous about it. On the other side of the scale is dignity. Dignity is where we listen. We seek common ground. We admit mistakes. And we're able to see each other's humanity even in disagreement, even in conflict. Now, the dignity index scores language, not people. No one is a three, no one is a seven. We all have the ability to move up and down the scale every day.",
-        "translation": "在我们的家庭，我们的社区，我们的国家。现在，如果轻蔑是如此有害，而尊严是如此治愈，如果我们有办法更清楚地看到两者呢？这个问题促使我和我的同事们创造了一个叫做尊严指数的东西。这是一个简单的量表，用来衡量我们如何对待彼此，或者我们在意见不一致时使用的语言。等级从1到8，在等级的一边是轻蔑。这就是我们轻视别人的地方。也许我们嘲笑他们。我们失去人性。我们最终会宽恕甚至犯下暴力行为，并为此感到高尚。天平的另一端是尊严。尊严是我们倾听的地方。我们寻求共同点。我们承认错误。我们能够看到彼此的人性，即使在分歧中，即使在冲突中。现在，尊严指数给语言打分，而不是人。没有人是3号，也没有人是7号。我们每天都有能力在天平上上下移动。"
+        "scene": "第 5 幕",
+        "time": "04:42",
+        "original": "The scale goes from one to eight, and on one side of the scale is contempt. This is where we dismiss others. Maybe we mock them, we dehumanize, and we ultimately condone or even commit acts of violence and feel virtuous about it. On the other side of the scale is dignity. Dignity is where we listen. We seek common ground. We admit mistakes. And we're able to see each other's humanity even in disagreement, even in conflict. Now The Dignity Index scores language, not people. No one is a three, no one is a seven. We all have the ability to move up and down the scale every day. Let's give it a try. Let's score this quote. This is from Senator John McCain in his concession speech to then-Senator Barack Obama in 2008. Senator McCain said, \"I've always believed that America offers opportunity to all who have the industry and will to seize it.",
+        "chinese": "这个量表共分为一到八级。量表的一端是轻蔑：在这个层面上，我们蔑视他人，嘲讽、非人化贬低他们，最终甚至纵容乃至实施暴力，还自诩正义。量表的另一端则是尊严：在尊严的层面上，我们倾听对方，求同存异，承认错误；即便身处分歧与冲突之中，我们依然能看到对方的人性。需要说明的是，“尊严指数”评估的是语言，而不是人。没有人永远是“3级”，也没有人永远是“7级”。我们每个人每天都在这个量表上上下浮动。让我们来试一下，给这段话打个分。这是参议员约翰·麦凯恩在2008年向当时的参议员巴拉克·奥巴马发表承认败选演讲时说的一段话。麦凯恩参议员说：“我一直坚信，美国会向所有勤奋且有意志去把握机会的人敞开大门。"
       },
       {
-        "id": 6,
-        "time": "06:03",
-        "seconds": 363.0,
-        "endSeconds": 446.0,
-        "title": "第 6 幕：Let's give it a try",
-        "original": "Let's give it a try. Let's score this quote. This is from Senator John McCain in his concession speech to then Senator Barack Obama in 2008. The Senator McCain said, I've always believed that America offers opportunity to all who have the industry and will to seize it. Senator Obama believes that too. This scores a six. We're always looking for those things that we have in common, the values and interests that we share, because we have more in common than we think. Let's score this quote. This is from a political fundraising email. The American dream is under attack by the Wolke left radical right, fill in the blank. The fight is no longer at our doorstep. It's entered our homes and personal lives. This is a two. Those people are evil and they're going to destroy everything if we let them. They're a danger to everything that we value. We're going to score one last quote here. This one is from Benjamin Franklin. And this was on the last night of the constitutional convention. He was advocating for approval of the Constitution, even though he disagreed with several points in the Constitution, saying I've experienced many instances of being obliged by better information or fuller consideration to change opinions, even on important subjects. This is a beautiful seven.",
-        "translation": "让我们尝试一下。让我们为这句话打分。这是参议员约翰·麦凯恩在2008年向时任参议员巴拉克·奥巴马发表的败选演讲中说的。麦凯恩参议员说，我一直相信美国为所有拥有该行业并愿意抓住它的人提供机会。奥巴马参议员也这么认为。这得六分。我们总是在寻找我们的共同点，我们共同的价值观和兴趣，因为我们的共同点比我们想象的要多。让我们为这句话打分。这是一封政治筹款电子邮件。美国梦正受到沃尔克左翼激进右翼的攻击，填补了空白。战斗不再是在我们家门口。它已经进入我们的家庭和个人生活。这是一个二。那些人是邪恶的，如果我们放任他们的话，他们就会摧毁一切。它们对我们珍视的一切构成威胁。我们将在这里引用最后一句话。这是本杰明·富兰克林的作品。这是制宪会议的最后一个晚上。他主张批准宪法，尽管他不同意宪法中的一些观点，并说我经历过很多情况，被迫通过更好的信息或更充分的考虑来改变观点，即使是在重要的主题上。这是一个美丽的七。"
+        "scene": "第 6 幕",
+        "time": "05:44",
+        "original": "Senator Obama believes that, too.\" This score is a six. We're always looking for those things that we have in common, the values and interests that we share, because we have more in common than we think. Let's score this quote. This is from a political fundraising email. \"The American Dream is under attack by the -- woke left, radical right -- fill in the blank. The fight is no longer at our doorstep. It's entered our homes and personal lives.\" This is a two. Those people are evil and they're going to destroy everything if we let them. They're a danger to everything that we value. We're going to score one last quote here. This one is from Benjamin Franklin, and this was on the last night of the Constitutional Convention. He was advocating for approval of the Constitution, even though he disagreed with several points in the Constitution, saying, \"I've experienced many instances of being obliged by better information or fuller consideration to change opinions, even on important subjects.\" This is a beautiful seven -- where you're going to work with people who think differently than you do.",
+        "chinese": "奥巴马参议员也是这么认为的。”这句话可以打6分。我们在努力寻找彼此的共同点，寻找共同的价值观和利益，因为我们之间的共通之处其实远比想象的要多。我们再给这段话打个分。这是一封政治筹款邮件里的内容：“美国梦正遭受——觉醒左翼、激进右翼（此处可填入任意政治标签）——的攻击。战场已不再只是家门口，它已经侵入了我们的家园和私人生活。”这是一个2分——潜台词是那些人是邪恶的，如果放任不管，他们会毁掉一切，他们是对我们所珍视的一切的威胁。我们来给最后一段话打分。这段话出自本杰明·富兰克林，是在制宪会议的最后一个晚上说的。当时他在呼吁批准宪法，尽管他并不赞同其中的某些条款。他说：“在很多情况下，随着掌握了更充分的信息或进行了更深思熟虑的考量，我不得不改变自己的观点，即便在重大问题上也是如此。”这是一个令人赞叹的7分——意味着你愿意与观点不同的人携手合作。"
       },
       {
-        "id": 7,
-        "time": "07:27",
-        "seconds": 447.0,
-        "endSeconds": 516.0,
-        "title": "第 7 幕：Where you're going to work with peopl...",
-        "original": "Where you're going to work with people who think differently than you do, that you're going to be open to admitting that you might make a mistake or that you changed your mind. That's how you use the dignity index. See how easy it is? Now, when we first created the dignity index, we designed it to score political speech. And that's how most people tend to think about it when they start to learn the scale. As a tool for judging others, they're Senator. Maybe they're boss. Maybe they're spouse. But then something unexpected happens. They remember a conversation they've had where they maybe dismissed or mocked someone because of their views or they rolled their eyes. And they think, oh, wow, that was contempt. And that was me. We call this the mirror effect. It's the mirror effect. It's the moment we see our own role in division and realize we can choose something better. Because when we use contempt, it's hard to see it. But once we see it, it becomes harder to use it. And the dignity index helps us see it.",
-        "translation": "当你要与与你想法不同的人一起工作时，你会愿意承认你可能会犯错误或者你改变了主意。这就是你如何使用尊严指数。看看这有多容易吗？现在，当我们第一次创建尊严指数时，我们设计它是为了对政治言论进行评分。这就是大多数人在开始学习音阶时倾向于思考的问题。作为评判他人的工具，他们是参议员。也许他们是老板。也许他们是夫妻。但随后发生了意想不到的事情。他们记得有一次谈话，他们可能因为某人的观点而解雇或嘲笑某人，或者他们翻白眼。他们认为，哦，哇，那是蔑视。那就是我。我们称之为镜面效应。这就是镜面效果。正是在这个时刻，我们看到了自己在分裂中的角色，并意识到我们可以选择更好的东西。因为当我们使用蔑视时，很难看到它。但一旦我们看到它，使用它就变得更加困难。尊严指数可以帮助我们看到这一点。"
+        "scene": "第 7 幕",
+        "time": "06:54",
+        "original": "That you’re going to be open to admitting that you might’ve made a mistake, or that you changed your mind. That's how you use the Dignity Index. See how easy it is? Now when we first created the Dignity Index, we designed it to score political speech. And that's how most people tend to think about it when they start to learn the scale. As a tool for judging others. Their senator, maybe their boss, maybe their spouse. But then something unexpected happens. They remember a conversation they may [have] been dismissed or mocked someone because of their views, or they rolled their eyes. And they think, \"Oh wow, that was contempt. And that was me.\" We call this the mirror effect. It's the moment we see our own role in division and realize we can choose something better. Because when we use contempt, it's hard to see it. But once we see it, it becomes harder to use it.",
+        "chinese": "意味着你愿意坦承自己可能犯了错，或者自己改变了主意。这就是“尊严指数”的用法。看，是不是很简单？最初创立尊严指数时，我们设计的初衷是评估政治言论。这也是大多数人在刚开始了解这个量表时的用法——把它当作评判他人的工具：评判参议员、老板，或是自己的伴侣。但随后，意想不到的事情发生了。他们会回想起某次对话，想起自己曾经因为别人的观点而对其不屑一顾、冷嘲热讽，或者翻过白眼。他们会恍然大悟：“天哪，那就是轻蔑，而做出这种举动的，正是我自己。”我们把这称为“镜像效应”。那一刻，我们看清了自己在撕裂与对立中扮演的角色，并意识到我们可以做出更好的选择。因为当我们诉诸轻蔑时，往往浑然不觉；可一旦看清了它，我们就很难再轻易用它去对待别人。"
       },
       {
-        "id": 8,
-        "time": "08:36",
-        "seconds": 516.0,
-        "endSeconds": 590.0,
-        "title": "第 8 幕：That shift can change a political con...",
-        "original": "That shift can change a political conversation. It can also change a workplace or a community, even a family. Earlier, I introduced my family by their political labels. But those beliefs are just a small part of who they really are. My kids are also thoughtful, loyal, creative, generous, genuine. My husband is steadfast. And me, I am determined. In the midst of our differences, we have to remind ourselves of these humanizing qualities in each other. And sometimes, it's hard work. We still do not agree on politics. But we do agree that we should treat each other with dignity. There was one experience that really brought this home for me. I was invited to speak at a political event in a large metropolitan city. It was my first formal presentation on the dignity index. And my husband had come along for support. As we walked into the event, I looked around and realized that I should not be there.",
-        "translation": "这种转变可能会改变政治对话。它还可以改变工作场所或社区，甚至家庭。早些时候，我通过政治标签介绍了我的家人。但这些信念只是他们真实身份的一小部分。我的孩子们也很体贴、忠诚、有创造力、慷慨、真诚。我丈夫很坚定。而我，我也下定了决心。在我们存在分歧的同时，我们必须提醒自己彼此身上的这些人性化品质。有时，这是一项艰苦的工作。我们在政治上仍然没有达成一致。但我们确实同意，我们应该有尊严地对待彼此。有一次经历让我真正体会到了这一点。我受邀在一个大城市的一次政治活动上发表演讲。这是我第一次正式介绍尊严指数。我丈夫也来寻求支持。当我们走进活动现场时，我环顾四周，意识到我不应该在那里。"
+        "scene": "第 8 幕",
+        "time": "07:56",
+        "original": "And The Dignity Index helps us see it. That shift can change a political conversation. It can also change a workplace or a community, even a family. Earlier, I introduced my family by their political labels. But those beliefs are just a small part of who they really are. My kids are also thoughtful, loyal, creative, generous, genuine. My husband is steadfast. And me, I am determined. In the midst of our differences, we have to remind ourselves of these humanizing qualities in each other. And sometimes it's hard work. We still do not agree on politics. But we do agree that we should treat each other with dignity. There was one experience that really brought this home for me. I was invited to speak at a political event in a large metropolitan city. It was my first formal presentation on the Dignity Index, and my husband had come along for support. As we walked into the event, I looked around and realized that I should not be there.",
+        "chinese": "而“尊严指数”正是帮助我们看清这一点的明镜。这种转变能够改变一场政治对话，也能改变一个职场、一个社区，甚至一个家庭。前面我用政治标签介绍了我的家人，但那些政治信仰仅仅代表了他们真实自我的一小部分。我的孩子们同样体贴、忠诚、富有创造力、慷慨而真诚。我的丈夫沉稳坚定，而我则坚韧执着。即使存在分歧，我们也要不断提醒自己看到彼此身上这些充满人性温度的品质。有时这确实不容易。我们在政治上依然意见不合，但我们一致认同：应当以尊严相待。有一次经历让我对此有了切身体会。我受邀在一座大都市的政治集会上演讲，那是我第一次正式宣讲“尊严指数”，我丈夫特地陪我一起去支持我。当我们走进会场环顾四周，我立刻意识到，我根本不该来这里。"
       },
       {
-        "id": 9,
-        "time": "09:50",
-        "seconds": 590.0,
-        "endSeconds": 690.4,
-        "title": "第 9 幕：The speeches were fiery",
-        "original": "The speeches were fiery. And the topics were the exact ones that had caused tensions between my husband and me. I felt like these were his people. And I was about to be attacked. So we sat at the back of the room and waited. I braced myself and leaned over to my husband and said, a speech on dignity is not going to land here. And he leaned over and said, this is the right message. You can do this. Let me help you. And he coached me on how to speak to this group, how to connect, how to help them feel understood while not compromising what I believed. That was a breakthrough because we couldn't have done that just a few years earlier. We would not have known how to cross that divide, the divide in the room, and the divide between us. But we were doing the work. We were learning how to disagree with dignity. And that changed everything. There is no America without democracy. There is no democracy without healthy debate. And there is no healthy debate unless we treat each other with dignity. And it often begins with something as simple as looking in the mirror. Because when we learn to see ourselves clearly, we begin choosing more dignity and less contempt. And that small shift multiplied across families, communities, and our country is exactly what democracy needs most. Thank you.",
-        "translation": "演讲非常激烈。这些话题正是引起我丈夫和我之间紧张关系的话题。我觉得这些人就是他的子民。而我就要被袭击了。所以我们坐在房间的后面等着。我振作起来，俯身向丈夫说，关于尊严的演讲不会在这里落地。他俯身说，这是正确的信息。你可以做到这一点。我来帮你。他指导我如何与这个小组交谈，如何联系，如何帮助他们"
+        "scene": "第 9 幕",
+        "time": "09:12",
+        "original": "The speeches were fiery, and the topics were the exact ones that had caused tensions between my husband and me. I felt like these were his people. And I was about to be attacked. So we sat at the back of the room and waited. I braced myself and leaned over to my husband and said, \"A speech on dignity is not going to land here.\" And he leaned over and said, \"This is the right message. You can do this. Let me help you.\" And he coached me on how to speak to this group, how to connect, how to help them feel understood while not compromising what I believed. That was a breakthrough because we couldn't have done that just a few years earlier. We would not have known how to cross that divide. The divide in the room and the divide between us. But we were doing the work, we were learning how to disagree with dignity. And that changed everything. There is no America without democracy. There is no democracy without healthy debate. And there is no healthy debate unless we treat each other with dignity. And it often begins with something as simple as looking in the mirror. Because when we learn to see ourselves clearly, we begin choosing more dignity and less contempt. And that small shift multiplied across families, communities and our country, is exactly what democracy needs most. Thank you.",
+        "chinese": "现场的演讲群情激愤，辩论的话题恰恰曾是我和丈夫之间引起剑拔弩张的那些症结。我感觉台下全都是“他那个阵营的人”，而我马上就要成为众矢之的。于是我们坐在后排静静等待。我深吸一口气，凑到丈夫身边说：“在这里讲尊严，根本不会有人听得进去。”他倾过身对我说：“这正是他们需要的声音。你能做到的，让我来帮你。”他耐心地指导我如何与这个群体沟通，如何建立连接，如何在不妥协自己信念的前提下让他们感受到被理解。那是一次巨大的突破，因为就在几年前，我们根本不可能做到这一点。我们那时根本不知道该如何跨越那道鸿沟——无论是会场里的鸿沟，还是我们彼此之间的鸿沟。但我们一直在努力，我们在学习如何带着尊严去面对分歧。而这改变了一切。没有民主，就没有美国；没有健康的辩论，就没有民主；而如果我们不能以尊严彼此相待，就绝不会有健康的辩论。而这一切，往往始于照镜子这样简单的小事。因为当我们学会清晰地审视自己，就会开始选择更多的尊严，更少的轻蔑。当这种微小的转变在无数家庭、社区乃至整个国家中不断放大扩散，那恰恰正是民主最需要的东西。谢谢大家。"
       }
     ],
     "spoken": [],
@@ -729,146 +596,134 @@
     ],
     "cet4Vocab": [
       {
-        "word": "dignity",
-        "phonetic": "[ˈdɪɡnəti]",
-        "meaning": "n. 尊严，自尊；庄严，端庄，庄重；尊贵，高贵，高尚；高位，显职",
-        "context": "The antidote to contempt is dignity.",
-        "time": "03:36"
+        "word": "entrepreneur",
+        "phonetic": "[ˌɑːntrəprəˈnɜːr]",
+        "meaning": "n. 企业家，创业者；主办者，提倡者",
+        "context": "These young entrepreneurs were learning how to create their own businesses, and they had decided to create a portrait business.",
+        "time": "00:00"
+      },
+      {
+        "word": "dramatically",
+        "phonetic": "[drəˈmætɪkli]",
+        "meaning": "adv. 剧烈地，明显地；戏剧性地，夸张地",
+        "context": "It can be a little painful when you realize that the way you see yourself is dramatically -- Dramatically different from how other people see you.",
+        "time": "01:00"
+      },
+      {
+        "word": "truce",
+        "phonetic": "[truːs]",
+        "meaning": "n. 停战协定，休战，停战期; v. 停战；以休战结束; 【名】 （Truce）（英）特鲁斯（人名）",
+        "context": "At our Thanksgiving dinners, we implemented the no-politics rule. But even then, an unguarded comment could break the truce.",
+        "time": "02:17"
       },
       {
         "word": "contempt",
         "phonetic": "[kənˈtempt]",
         "meaning": "n. 轻视，蔑视；忽视，不顾；藐视法庭",
-        "context": "It was contempt.",
-        "time": "03:36"
+        "context": "It was more than disagreement. It was more than conflict. It was contempt.",
+        "time": "02:17"
       },
       {
-        "word": "political",
-        "phonetic": "[pəˈlɪtɪk(ə)l]",
-        "meaning": "adj. 政治（上）的，政府的；政党的，党派的；对政治感兴趣的，参与政治的；反政府的；（组织内部人际间）牵涉权力关系的，争权夺利的",
-        "context": "But because like a lot of families, our political differences had started to impact the way we interacted with each other.",
-        "time": "02:19"
+        "word": "erode",
+        "phonetic": "[ɪˈroʊd]",
+        "meaning": "v. 侵蚀，腐蚀；削弱，降低",
+        "context": "It changes the way we see each other. It erodes trust. It weakens relationships and divides communities.",
+        "time": "03:31"
       },
       {
-        "word": "index",
-        "phonetic": "[ˈɪndeks]",
-        "meaning": "n. 索引；（物价和工资等）指数；指标，量度；幂，根指数；指针；v. 为……编索引，将……编入索引；使指数化，将（工资）等与（物价水平等）挂钩；（机器，部件）转位",
-        "context": "That question led my colleagues and me to create something called the dignity index.",
-        "time": "04:54"
+        "word": "antidote",
+        "phonetic": "[ˈæntidoʊt]",
+        "meaning": "n. 解毒药，解毒剂；矫正方法，对策",
+        "context": "The antidote to contempt is dignity.",
+        "time": "03:31"
       },
       {
-        "word": "scale",
-        "phonetic": "[skeɪl]",
-        "meaning": "n. 规模，范围；等级，级别；刻度，标度；秤；比例，比例尺；音阶；鳞，鳞片；水垢；牙垢；天平盘；天秤（星）座（the Scales）；（加热后金属上形成的）氧化皮；（数）进位制；（摄）影调范围；v. 攀登，翻越；刮鳞；剔除（牙垢）；（按比例）缩小（或放大）；（尤指皮肤）生成鳞屑；（成片状）脱落，剥落；称得重量为；（数量，财产） 按一定比例调节；<美>估算（树木的）产木材量",
-        "context": "It's a simple scale that measures how we treat each other, or the language that we use when we disagree.",
-        "time": "04:54"
+        "word": "inherent",
+        "phonetic": "[ɪnˈherənt]",
+        "meaning": "adj. 内在的，固有的；<法律>（权利，特权）固定属于（某人）的；（形容词）作定语和表语时意义相同...",
+        "context": "Dignity is the inherent worth of every human being.",
+        "time": "03:31"
       },
       {
-        "word": "democracy",
-        "phonetic": "[dɪˈmɒkrəsi]",
-        "meaning": "n. 民主政体；民主国家；民主，民主精神",
-        "context": "And it just might be the key to strengthening democracy.",
-        "time": "02:19"
+        "word": "condone",
+        "phonetic": "[kənˈdoʊn]",
+        "meaning": "vt. 宽恕；赦免",
+        "context": "Maybe we mock them, we dehumanize, and we ultimately condone or even commit acts of violence and feel virtuous about it.",
+        "time": "04:42"
       },
       {
-        "word": "senator",
-        "phonetic": "[ˈsenətə(r)]",
-        "meaning": "n. 参议员，（古罗马的）元老院议员，（大学理事会的）理事；<苏格兰>庭长；【名】 （Senator）（瑞典、斯威）塞纳托尔（人名）",
-        "context": "This is from Senator John McCain in his concession speech to then Senator Barack Obama in 2008.",
-        "time": "06:03"
+        "word": "virtuous",
+        "phonetic": "[ˈvɜːrtʃuəs]",
+        "meaning": "adj. 道德高尚的，品行端正的；自命清高的，自鸣得意的；<旧>（尤指妇女）贞洁的；有效力的",
+        "context": "Maybe we mock them, we dehumanize, and we ultimately condone or even commit acts of violence and feel virtuous about it.",
+        "time": "04:42"
       },
       {
-        "word": "going",
-        "phonetic": "[ˈɡəʊɪŋ]",
-        "meaning": "n. 离开，离去；进展速度，难度；（尤指赛马场的）地面状况；（受路况影响的）行进；<非正式>条件有利；adj. 活着的，可得到的；（价格、工资等）现行的；<非正式>条件有利的",
-        "context": "Those people are evil and they're going to destroy everything if we let them.",
-        "time": "06:03"
+        "word": "concession",
+        "phonetic": "[kənˈseʃ(ə)n]",
+        "meaning": "n. 让步，妥协；特许权；<英>优惠价，减价；商铺；小摊卖的东西；认输",
+        "context": "This is from Senator John McCain in his concession speech to then-Senator Barack Obama in 2008.",
+        "time": "04:42"
       },
       {
-        "word": "tammy",
-        "phonetic": "[ˈtæmi]",
-        "meaning": "n. 一种苏格兰式羊毛便帽（等于 tam-o'-shanter）；棉经毛纬平纹呢（旧时多用于衬里、服装和窗帘；等于 tammie）；粗制滤汁布（旧时用于过滤汤、酱汁）；（Tammy，通常首字母大写）塔米，英语女子名",
-        "context": "Tammy shows a black and white picture of her oldest son.",
-        "time": "00:00"
+        "word": "advocate",
+        "phonetic": "[ˈædvəkeɪt]",
+        "meaning": "v. 拥护，提倡; n. 拥护者，提倡者；辩护律师；（为某一类人）谋利益者；（一项事业或个组织的）工...",
+        "context": "He was advocating for approval of the Constitution, even though he disagreed with several points in the Constitution...",
+        "time": "05:44"
       },
       {
-        "word": "views",
-        "phonetic": "[vˈju:z]",
-        "meaning": "n. 观点，见解，看法；景色，风景，景观；视野；景点；查看；浏览量，观看次数；（计算机、数据库、工程制图）视图（view 的复数）；v. 认为，看待，把……视为；观看，察看（view 的第三人称单数）",
-        "context": "And my husband and I have different political views as well.",
-        "time": "02:19"
+        "word": "obliged",
+        "phonetic": "[əˈblaɪdʒd]",
+        "meaning": "adj. <正式>感激，感谢；<正式>被迫做某事，必须做某事; v. （以法律、义务等）强迫，迫使；...",
+        "context": "...saying, 'I've experienced many instances of being obliged by better information or fuller consideration to change opinions, even on important subjects.'",
+        "time": "05:44"
       },
       {
-        "word": "those",
-        "phonetic": "[ðəʊz]",
-        "meaning": "det. 那些（that 的复数；用于复数可数名词前，指已提及、双方共知或较远的人或事物）；pron. 那些（that 的复数；单独指代已提及或语境中明确的人或事物）",
-        "context": "Contempt is this feeling that you're better than those people.",
-        "time": "03:36"
+        "word": "steadfast",
+        "phonetic": "[ˈstedfæst]",
+        "meaning": "adj. 忠诚的，坚定的",
+        "context": "My kids are also thoughtful, loyal, creative, generous, genuine. My husband is steadfast.",
+        "time": "07:56"
       },
       {
-        "word": "score",
-        "phonetic": "[skɔː(r)]",
-        "meaning": "n. （游戏或比赛中的）得分，比分；（测验的）评分，分数；<非正式>实情，真相（the score）；<非正式>毒品到手；<非正式>犯罪所得；<正式>二十，约二十个（复数 score）；<正式>很多，大量（scores）；（一首乐曲的）总谱；（电影或戏剧的）配乐；刻痕，划痕；宿怨；<史>（尤指酒馆中有对应顾客名字刻痕的）往来账户；v. （在运动、比赛或考试中）得（分）；评分，打分数；（在游戏或比赛中）记分；（棒球）使（队友）得分；<非正式>（使）成功，赢得；<英，非正式> （尤指在辩论等活动中机灵地）驳倒，挫败（score off）；<非正式>购买，弄到（毒品）；<美，非正式>得到（某事物）；<非正式>（通常指与新认识的人）发生性关系；为……写总谱，为……配乐；（在表面上）刻痕，画线；画掉，删去（score sth. out/through）；检测（实验细胞、菌落等），并记录有某种特征的数量",
-        "context": "Let's score this quote.",
-        "time": "06:03"
-      },
-      {
-        "word": "sent",
-        "phonetic": "[sent]",
-        "meaning": "v. 送，寄出，派遣（send 的过去式和过去分词）；驱逐离场；寄出，派出（send off 的过去式和过去分词）；adj. 已寄出的，已发送的（常作定语，多用于邮件、消息等）",
-        "context": "policy advisor for the governor of Utah, I was approached by a group of elementary school These young entrepreneurs were learning how to create their own businesses and they had If you sent them a photo and $6 they would sketch your portrait.",
-        "time": "00:00"
-      },
-      {
-        "word": "conversation",
-        "phonetic": "[ˌkɒnvəˈseɪʃ(ə)n]",
-        "meaning": "n. （非正式的）谈话，交谈；<旧>社交，交际",
-        "context": "And when contempt enters a conversation, everything changes.",
-        "time": "03:36"
-      },
-      {
-        "word": "communities",
-        "phonetic": "[kəˈmjuːnətiz]",
-        "meaning": "n. 社区；团体，群体；（生态）群落（community 的复数形式）",
-        "context": "It weakens relationships and divides communities.",
-        "time": "03:36"
-      },
-      {
-        "word": "ourselves",
-        "phonetic": "[ɑːˈselvz]",
-        "meaning": "pron. 用作反身代词，作动词或介词宾语，指包括说话者在内的一组人自身，也可泛指人们；作强调用法时表示“我们亲自”，正式英语中有时代替 us 作宾语；固定搭配 by ourselves 意为“独自地；靠我们自己”，between ourselves 意为“只限于咱们之间；秘密地”。",
-        "context": "Because when we learn to see ourselves through a new lens, it can open a path to growth.",
-        "time": "01:07"
+        "word": "compromise",
+        "phonetic": "[ˈkɑːmprəmaɪz]",
+        "meaning": "n. 折中，妥协；妥协方案，折中办法; v. 妥协，让步；危及，损害",
+        "context": "And he coached me on how to speak to this group, how to connect, how to help them feel understood while not compromising what I believed.",
+        "time": "09:12"
       }
     ],
     "keySentences": [
       {
-        "pattern": "程度结果因果句 (So... that...)",
-        "sentence": "My son loved this so much that it's hanging in his studio.",
-        "note": "由极端程度直接推导出震撼结果，极具戏剧张力。",
-        "time": "01:07",
-        "scene": "第 2 幕：How fantastic is this, right? The blu..."
+        "pattern": "因果转折澄清句 (Not because... but because...)",
+        "sentence": "A few years ago, my family was struggling, not because we didn't love each other, but because like a lot of families, our political differences had started to impact the way we interacted with each other.",
+        "time": "01:00",
+        "note": "通过‘not because... but because...’排除容易产生的表面误解，直指核心诱因；在议论文中非常适合用来纠正刻板印象并引出核心争鸣点。"
       },
       {
-        "pattern": "推演假想设问句 (What if...?)",
-        "sentence": "Now, if contempt is so damaging and dignity so healing, what if we had a way to see both more clearly?",
-        "note": "引导听众跳脱当下认知局限，构想全新的可能性未来。",
-        "time": "04:54",
-        "scene": "第 5 幕：In our families, our communities, and..."
+        "pattern": "拟人对照排比句 (If A says X, B says Y)",
+        "sentence": "And if contempt says, “I see myself above you,” dignity says, “I see myself in you.”",
+        "time": "03:31",
+        "note": "将抽象概念拟人化并赋予直接引语，以极简且对称的句式对立“蔑视”与“尊严”的心态本质，修辞张力极强，适于演讲或议论文的核心概念界定。"
       },
       {
-        "pattern": "核心长难句精析 (Advanced Discourse Structure)",
-        "sentence": "Well, I was eager to support these students and so I sent this photo of my oldest son.",
-        "note": "层层递进的篇章骨架，融合经典口语修辞与深度思辨。",
-        "time": "00:00",
-        "scene": "第 1 幕：policy advisor for the governor of Ut..."
+        "pattern": "双重让步递进句 (even in..., even in...)",
+        "sentence": "And we're able to see each other's humanity even in disagreement, even in conflict.",
+        "time": "04:42",
+        "note": "连续使用‘even in’介词短语构成递进式补足，强调核心原则在遭遇摩擦甚至严重冲突时的不可动摇性，常用于提出行动呼吁与价值坚守。"
       },
       {
-        "pattern": "核心长难句精析 (Advanced Discourse Structure)",
-        "sentence": "He has a serious look on his face as he looks downward to the left away from the camera.",
-        "note": "层层递进的篇章骨架，融合经典口语修辞与深度思辨。",
-        "time": "00:00",
-        "scene": "第 1 幕：policy advisor for the governor of Ut..."
+        "pattern": "镜像认知因果链 (When... but once... it becomes harder to...)",
+        "sentence": "Because when we use contempt, it's hard to see it. But once we see it, it becomes harder to use it.",
+        "time": "06:54",
+        "note": "通过‘when’与‘once’的时间认知顺序对比，配合词位交错（hard to see it / harder to use it），展示了自我觉察对行为改变的决定性作用，说理透彻深刻。"
+      },
+      {
+        "pattern": "层递连锁推导句 (There is no A without B... unless C)",
+        "sentence": "There is no America without democracy. There is no democracy without healthy debate. And there is no healthy debate unless we treat each other with dignity.",
+        "time": "09:12",
+        "note": "经典的顶真连锁（Anadiplosis）逻辑链结构，层层下移并最终收拢到全文核心主题，排比推进且气势雄浑，是议论文结篇与升华主旨的绝佳模板。"
       }
     ]
   },
@@ -881,7 +736,7 @@
     "speakerTitle": "TED演讲嘉宾",
     "category": "自然与科学",
     "subCategory": "核心精选",
-    "duration": "10:34",
+    "duration": "10:14",
     "durationSeconds": 634.6,
     "audioUrl": "https://audio.louisyu.top/jaime-seeman-re-release-clean.mp3",
     "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_158395/6aa4a7f3-4f0c-43c2-81bb-4e5e5a419aa4/JaimeSeeman_2023X-embed.jpg?quality=82&w=1200",
@@ -891,85 +746,58 @@
     "quoteTranslation": "我相信，如果我们能创造一种新的文化，把关注的焦点从美学转移到健康上，那么女性的健康，坦率地说，每个人的健康，都将永远改变。",
     "segments": [
       {
-        "id": 1,
-        "time": "00:00",
-        "seconds": 0.0,
-        "endSeconds": 58.6,
-        "title": "第 1 幕：A little girl, I loved playing sports",
-        "original": "A little girl, I loved playing sports. I also loved painting my fingernails and parading around my mother's house in her high-heeled shoes. From the beginning of time, I have lived in contrasting worlds, contrasting and often conflicting ideas about what women should and shouldn't do, or maybe how we should and shouldn't look. A pivotal moment came for me when I was a sophomore in high school. My mother took me to an audition for a modeling agency. And I can't tell you how nervous I was that day, or even what I was wearing, but I will never forget the way I felt the next morning. As I was walking into school, I got a phone call. They wanted to sign me as a plus-size model. I was a size 10, by the way. If I could go back and talk to that 16-year-old version of myself, I would tell her exactly what my own mother told me that day.",
-        "translation": "作为一个小女孩，我喜欢运动。我还喜欢涂指甲油，穿着妈妈的高跟鞋在她的房子里走来走去。从一开始，我就生活在两个截然不同的世界里，关于女性应该做什么和不应该做什么，或者我们应该看起来和不应该看起来如何，这些观点都是截然不同的，而且经常是相互冲突的。在我高二的时候，一个关键的时刻到来了。我妈妈带我去一家模特公司试镜。我不能告诉你那天我有多紧张，甚至不能告诉你我穿了什么，但我永远不会忘记第二天早上的感觉。当我走进学校的时候，我接到了一个电话。他们想签我做大码模特。顺便说一下，我穿的是10码。如果我能回到过去，和16岁的自己说话，我会把我母亲那天对我说的话一模一样地告诉她。"
+        "scene": "第 1 幕",
+        "time": "00:01",
+        "original": "As a little girl, I loved playing sports. I also loved painting my fingernails and parading around my mother's house in her high-heeled shoes. From the beginning of time, I have lived in contrasting worlds. Contrasting and often conflicting ideas about what women should and shouldn't do, or maybe how we should and shouldn't look. A pivotal moment came for me when I was a sophomore in high school. My mother took me to an audition for a modeling agency, and I can't tell you how nervous I was that day or even what I was wearing. But I will never forget the way I felt the next morning. As I was walking into school, I got a phone call. They wanted to sign me. As a plus-size model. I was a size 10, by the way. If I could go back and talk to that 16-year-old version of myself, I would tell her exactly what my own mother told me that day.",
+        "chinese": "小时候，我很喜欢体育运动。但同时我也喜欢涂指甲油，踩着妈妈的高跟鞋在家里昂首阔步。从记事起，我就一直生活在两个截然不同的世界里。关于女性“该做什么与不该做什么”，甚至是“该长成什么样与不该长成什么样”，充斥着对立甚至冲突的观念。高二那年，我迎来了人生的一个转折点。妈妈带我去参加一家模特经纪公司的试镜，那天我紧张得不行，甚至都记不清自己穿了什么。但我永远忘不了第二天早晨的那种感受。当我正走进校门时，接到了一个电话：他们想和我签约，做一名大码模特。顺便提一句，我当时穿的是10码。如果我能回到过去，对16岁的自己说几句话，我会一字不差地告诉她我母亲那天对我说的话："
       },
       {
-        "id": 2,
-        "time": "00:58",
-        "seconds": 58.6,
-        "endSeconds": 124.6,
-        "title": "第 2 幕：You were built for bigger and better ...",
-        "original": "You were built for bigger and better things. So I turned down their offer, and I went on to play NCAA College Softball, where I was a weightlifter of the year, twice. I loved being in the gym, and I loved throwing those heavy weights around, but what I really loved the most was the confidence that my physical strength instilled in me. But there was always this nagging feeling, this sort of whisper in the back of my mind, and it sounded a lot like the voice on the phone that day, telling me that I was different, somehow not ideal, because I would shrink inside every time somebody commented on my muscular body. You see at the time, the only social media we had was something called Cosmopolitan Magazine. And those Cosmo cover girls, well, they didn't have a lot of muscles. Frankly, they looked kind of frail, somewhat unhealthy, but to the world, they were beautiful, and they were idolized.",
-        "translation": "你生来就是为了做更大更好的事。所以我拒绝了他们的邀请，我继续参加NCAA大学垒球，两次获得年度最佳举重运动员。我喜欢呆在健身房，也喜欢把重物扔来扔去，但我最喜欢的是我的身体力量给我带来的自信。但总有一种挥之不去的感觉，在我的脑海里嘀咕着，听起来很像那天电话里的声音，告诉我我与众不同，不知怎么的不理想，因为每次有人评论我肌肉发达的身体时，我都会缩在心里。当时，我们唯一的社交媒体是《大都会》杂志。而那些《时尚》的封面女郎，她们都没有那么多肌肉。坦率地说，他们看起来有点虚弱，有点不健康，但对世人来说，他们是美丽的，他们是偶像。"
+        "scene": "第 2 幕",
+        "time": "00:55",
+        "original": "\"You were built for bigger and better things.\" So I turned down their offer, and I went on to play NCAA college softball, where I was a weightlifter of the year, twice. I loved being in the gym and I loved throwing those heavy weights around, but what I really loved the most was the confidence that my physical strength instilled in me. But there was always this nagging feeling, this sort of whisper in the back of my mind, and it sounded a lot like the voice on the phone that day. Telling me that I was different, somehow not ideal. Because I would shrink inside every time somebody commented on my muscular body. You see, at the time, the only social media we had was something called “Cosmopolitan Magazine.” And those Cosmo cover girls, well, they didn't have a lot of muscles. Frankly, they looked kind of frail, somewhat unhealthy.",
+        "chinese": "“你的身躯，生来是为了成就更宏大、更有意义的事情。”于是我拒绝了签约，后来去打了NCAA大学垒球联赛，并在那里两次荣膺“年度最佳举重运动员”。我热爱泡在健身房里，享受搬动那些沉重铁块的感觉；但最让我着迷的，是身体的力量赋予我的那种自信。然而，我的脑海深处总有一种挥之不去的萦绕声，一种若有若无的低语，听起来就像那天电话里的那个声音。它在告诉我：你和别人不一样，你不够完美。因为每当有人对我肌肉发达的身材品头论足时，我的内心都会退缩。要知道，在那个年代，我们唯一的“社交媒体”就是一本叫《大都会》（Cosmopolitan）的杂志。而那些封面女郎呢，身上可没有什么肌肉。坦白讲，她们看起来弱不禁风，甚至有些病态。"
       },
       {
-        "id": 3,
-        "time": "02:04",
-        "seconds": 124.6,
-        "endSeconds": 187.8,
-        "title": "第 3 幕：And as a young girl, I let that frame...",
-        "original": "And as a young girl, I let that frame the way that I looked and thought about myself. And this is the problem. Even though something like weightlifting has a multitude of proven health benefits, there continues to be a stigma for women based on cultural and societal myths about what women shouldn't do. I believe that if we can create a new culture that shifts the focus from aesthetics to health, that women's health, and frankly everybody's health, could be transformed forever. Now I'd like to be able to tell you that after college, I continued to train really hard in the gym, ate a perfect diet amidst a family and children and a stressful career, but that is not what happened. What really happened is I went to medical school, I survived residency, I got married and had three children, and I woke up one day dealing with the same metabolic diseases that I was helping my own patients manage through medication.",
-        "translation": "当我还是个小女孩的时候，我让它框定了我看待自己和思考自己的方式。这就是问题所在。尽管像举重这样的运动被证明对健康有很多好处，但基于文化和社会对女性不应该做什么的误解，女性仍然被认为是一种耻辱。我相信，如果我们能创造一种新的文化，把关注的焦点从美学转移到健康上，那么女性的健康，坦率地说，每个人的健康，都将永远改变。现在我想告诉你，大学毕业后，我继续在健身房刻苦训练，在家庭、孩子和充满压力的职业生涯中保持完美的饮食，但事实并非如此。真正发生的事情是，我上了医学院，度过了住院实习期，结了婚，生了三个孩子。有一天，我醒来时面对的代谢疾病和我帮助自己的病人通过药物治疗时遇到的疾病是一样的。"
+        "scene": "第 3 幕",
+        "time": "01:58",
+        "original": "But to the world, they were beautiful and they were idolized. And as a young girl, I let that frame the way that I looked and thought about myself. And this is the problem. Even though something like weightlifting has a multitude of proven health benefits, there continues to be a stigma for women based on cultural and societal myths about what women should and shouldn't do. I believe that if we can create a new culture that shifts the focus from aesthetics to health, that women's health and frankly, everybody's health could be transformed forever. Now, I'd like to be able to tell you that after college, I continued to train really hard in the gym, ate a perfect diet amidst a family and children, and a stressful career. But that is not what happened. What really happened is I went to medical school, I survived residency, I got married and had three children, and I woke up one day dealing with the same metabolic diseases that I was helping my own patients manage through medication.",
+        "chinese": "但在全世界眼中，她们美丽动人，备受追捧。年少时的我，也任由这种审美框定了对自己外貌的认知和自我评价。而这正是问题所在。尽管举重等力量训练已被科学证实对健康有诸多益处，但由于文化和社会对女性“该做什么、不该做什么”的偏见与迷思，给女性举重贴上的污名依然根深蒂固。我坚信，如果我们能塑造一种全新文化，把焦点从“外表审美”转移到“身体健康”上，女性的健康——坦白讲，是每个人的健康——都将迎来翻天覆地的改变。我很想告诉大家，大学毕业后，即便有了家庭、孩子和高压的事业，我依然在健身房刻苦训练，保持着完美的饮食。但现实并非如此。真实的经历是：我读了医学院，熬过了住院医师规培，结婚并生了三个孩子。直到有一天醒来，我发现自己也患上了代谢性疾病——而这正是我平时用药物帮患者控制的疾病。"
       },
       {
-        "id": 4,
-        "time": "03:07",
-        "seconds": 187.8,
-        "endSeconds": 257.8,
-        "title": "第 4 幕：I could see it, I could feel it, but ...",
-        "original": "I could see it, I could feel it, but I told myself that I would just take care of it when I had more time. And so many of us let ourselves believe that we have a lot of time. Now according to the CDC, the top three killers of women is heart disease, cancer, and stroke. The major contributing factor to these causes of death is what I call metabolic disease. And even though our modern, high fat, high carbohydrate, highly processed diets play a major role, there's one thing that women are not doing across their lifespan that could tremendously reduce their risk of death. And that is building muscle. The data is actually very clear when it comes to resistance training. So why aren't more women doing it? The answer lies in three primary myths that continue to exert a powerful force and prevent women from doing just that. Myth number one is that if we lift weights, we're going to get big and bulky.",
-        "translation": "我能看到它，我能感觉到它，但我告诉自己我会在有更多时间的时候处理它。我们中的许多人都让自己相信我们有很多时间。根据美国疾病控制与预防中心的数据，女性的三大杀手分别是心脏病、癌症和中风。导致这些死亡的主要因素是我所说的代谢性疾病。尽管我们现代的高脂肪，高碳水化合物，高度加工的饮食在其中起着重要作用，但有一件事是女性在一生中没有做的，而这件事可以极大地降低她们的死亡风险。那就是锻炼肌肉。当涉及到阻力训练时，数据实际上是非常清楚的。那么，为什么没有更多的女性这么做呢？答案在于三个主要的神话，它们继续发挥着强大的力量，并阻止女性这样做。误解一：如果我们举重，我们会变得又大又笨重。"
+        "scene": "第 4 幕",
+        "time": "03:05",
+        "original": "I could see it, I could feel it. But I told myself that I would just take care of it when I had more time. And so many of us let ourselves believe that we have a lot of time. Now, according to the CDC, the top three killers of women is heart disease, cancer and stroke. The major contributing factor to these causes of death is what I call metabolic disease. And even though our modern, high-fat, high-carbohydrate, highly processed diets play a major role, there's one thing that women are not doing across their lifespan that could tremendously reduce their risk of death, and that is building muscle. The data is actually very clear when it comes to resistance training. So why aren't more women doing it? The answer lies in three primary myths that continue to exert a powerful force and prevent women from doing just that. Myth number one is that if we lift weights, we're going to get big and bulky.",
+        "chinese": "我能看出来，也能感受得到身体的变化。但我告诉自己，等以后有空了再去解决吧。我们当中有太多人，都自欺欺人地以为自己还有大把时间。根据美国疾控中心（CDC）的数据，夺走女性生命的三大杀手是心脏病、癌症和中风。而导致这些死亡的主要诱因，正是被我称为代谢性疾病的元凶。尽管我们现代高脂、高碳水、高度加工的饮食结构起到了推波助澜的作用，但在女性的一生中，有一件能大幅降低死亡风险的事情却长期被忽略，那就是：增肌。在抗阻训练的益处方面，数据其实再明确不过了。那为什么没有更多女性参与进来呢？答案在于三大根深蒂固的迷思，它们仍在发挥着强大的阻碍作用，让女性望而却步。迷思一：如果我们举铁，就会练得五大三粗、身材魁梧。"
       },
       {
-        "id": 5,
-        "time": "04:17",
-        "seconds": 257.8,
-        "endSeconds": 324.8,
-        "title": "第 5 幕：Women think that if they pick up a 20...",
-        "original": "Women think that if they pick up a 20 pound dumbbell, that they will somehow look like Arnold Schwarzenegger. Now I can tell you that it takes years of very serious training and steroids to accumulate that kind of look. And if you take a look around the gym, you can see that achieving the physique of somebody like the Hulk is actually difficult even for most men. Now we're all born with a certain genetic potential when it comes to our muscle size and distribution. But beyond that, it takes years of very serious training and a concerted effort to build and maintain that lean tissue. Although women have a similar relative natural muscular potential to men, we're also prone to the same age related muscle loss. And the medical term for that is called sarcopenia. On average, after age 40, we lose about 1% of our muscle size. With these age related declines, we become weak, we become frail, and the risk of all chronic diseases starts to go up.",
-        "translation": "女人认为如果她们拿起一个20磅重的哑铃，她们就会看起来像阿诺德·施瓦辛格。现在我可以告诉你，这需要多年的严格训练和类固醇来积累这种外观。如果你环顾一下健身房，你会发现，即使对大多数男人来说，要达到绿巨人那样的体型也是很困难的。当涉及到我们的肌肉大小和分布时，我们生来就有一定的遗传潜力。但除此之外，它还需要多年非常认真的训练和协调一致的努力来建立和维持瘦肉组织。尽管女性与男性有着相似的相对天然的肌肉潜力，但我们也容易出现与年龄相关的肌肉损失。医学术语称之为肌肉减少症。平均来说，在40岁以后，我们会失去大约1%的肌肉。随着这些与年龄相关的衰退，我们变得虚弱，我们变得虚弱，所有慢性疾病的风险开始上升。"
+        "scene": "第 5 幕",
+        "time": "04:15",
+        "original": "Women think that if they pick up a 20-pound dumbbell, that they will somehow look like Arnold Schwarzenegger. Now, I can tell you that it takes years of very serious training -- and steroids -- to accumulate that kind of look. And if you take a look around the gym, you can see that achieving the physique of somebody like the Hulk is actually difficult, even for most men. Now we're all born with a certain genetic potential when it comes to our muscle size and distribution. But beyond that, it takes years of very serious training and a concerted effort to build and maintain that lean tissue. Although women have a similar relative natural muscular potential to men, we're also prone to the same age-related muscle loss. And the medical term for that is called sarcopenia. On average, after age 40, we lose about one percent of our muscle size. With these age-related declines, we become weak, we become frail, and the risk of all chronic diseases starts to go up.",
+        "chinese": "很多女性以为，自己只要拿起一个20磅（约9公斤）的哑铃，不知怎么就会练成阿诺德·施瓦辛格。但我可以负责任地告诉你，要练成那种体型，需要多年极高强度的严苛训练——还得加上类固醇。只要看看健身房里的人，你就会发现，哪怕是对绝大多数男性来说，要练成绿巨人浩克那样的身材都难如登天。诚然，我们每个人在肌肉维度和分布上都受到先天的基因限制；但在此之外，想要增长并维持瘦体重（肌肉组织），需要常年刻苦的训练和持续不懈的努力。尽管女性在自然状态下相对的增肌潜力和男性相当，但我们同样会面临随年龄增长而导致的肌肉流失——医学上称之为“肌少症”（sarcopenia）。平均而言，40岁之后，我们的肌肉量每年会流失大约1%。随着年龄带来的衰退，我们逐渐变得虚弱无力、弱不禁风，各种慢性病的患病风险也随之节节攀升。"
       },
       {
-        "id": 6,
-        "time": "05:25",
-        "seconds": 325.8,
-        "endSeconds": 386.2,
-        "title": "第 6 幕：In a study, they found the more days ...",
-        "original": "In a study, they found the more days time and effort that women devote to strength training, the better their body composition is. Myth number two is that weightlifting is hard or maybe too hard on our bodies. Even as women, if we make a decision to go work out, we're more likely to choose the cardio equipment. But let me dispel this myth. Strength training meets you where you're at. The first day you're in the gym, you're not going to be doing a 500 pound back squat. It's about being stronger today than you were yesterday. But we don't have the same role models when we walk into the gym. Because when we walk in and we see this man with multiple plates on the bar and he's making crazy faces, and even crazier sounds, ah! It's not very inviting to most women. But you see, women actually have an advantage over men in certain parts of our life.",
-        "translation": "在一项研究中，他们发现女性花在力量训练上的时间和精力越多，她们的身体成分就越好。误解二是举重很难，或者对我们的身体来说太难了。即使作为女性，如果我们决定去锻炼，我们也更有可能选择有氧运动器材。但让我来破除这个迷思。力量训练能满足你的需要。在健身房的第一天，你不会做一个500磅的后蹲。重要的是今天要比昨天更坚强。但是当我们走进健身房的时候，我们没有同样的榜样。因为当我们走进健身房的时候，我们看到这个男人在吧台上拿着多个盘子，他做着疯狂的表情，甚至发出更疯狂的声音，啊！这对大多数女人来说不是很有吸引力。但是你看，在我们生活的某些方面，女人实际上比男人有优势。"
+        "scene": "第 6 幕",
+        "time": "05:22",
+        "original": "In a study, they found the more days, time and effort that women devote to strength training, the better their body composition is. Myth number two is that weightlifting is hard or maybe too hard on our bodies. You see, even as women, if we make a decision to go work out, we're more likely to choose the cardio equipment. But let me dispel this myth. Strength training meets you where you're at. The first day you're in the gym, you're not going to be doing a 500-pound back squat. It's about being stronger today than you were yesterday. But we don't have the same role models when we walk into the gym, because when we walk in and we see this man with multiple plates on the bar and he's making crazy faces -- And even crazier sounds -- Arrgh! It's not very inviting to most women. But you see, women actually have an advantage over men in certain parts of our life.",
+        "chinese": "一项研究发现，女性在力量训练上投入的天数、时间和精力越多，她们的身体成分就越理想。迷思二：举铁太难，或者对我们的身体负担太重。你看，女性哪怕下定决心去健身，也往往更倾向于选择有氧器械。但我要打破这个迷思：力量训练从来都是因人而异、顺应你的起点的。进健身房的第一天，绝不会有人让你去深蹲500磅。它的真谛在于：今天的你比昨天的你更强一点。但我们走进健身房时，往往缺少同性的榜样。因为一走进去，我们看到的往往是杠铃上挂满铁片的壮汉，面目狰狞，还发出更吓人的咆哮声——“啊——！”这对绝大多数女性来说毫无吸引力，甚至令人望而却步。但大家要知道，在生命周期的某些方面，女性其实比男性更有优势。"
       },
       {
-        "id": 7,
-        "time": "06:26",
-        "seconds": 386.2,
-        "endSeconds": 456.5,
-        "title": "第 7 幕：We make more estrogen than men",
-        "original": "We make more estrogen than men. And estrogen means that we don't fatigue us fast and we actually recover faster. Which means that we can handle more volume in weight training without over-training. Myth number three is that weightlifting is for the boys and aerobics is for the girls. You've seen it when you walk into the gym, this big room of treadmills, the lifticles and stair climbers filled with women. But in the Journal of Exercise Science, they found for every woman that was using the free weight section of the gym. There was 27 men. This disparity continues to make it difficult to foster health for women across their lifespan. Resistance training happens to be the only non-pharmacological intervention that has been consistently shown to offset these age-related declines in skeletal muscle mass, strength and power. This cannot be achieved on a treadmill. The male bias in gym culture is literally everywhere and it's time for us to counter it.",
-        "translation": "We make more estrogen than men. And estrogen means that we don't fatigue us fast and we actually recover faster. Which means that we can handle more volume in weight training without over-training. Myth number three is that weightlifting is for the boys and aerobics is for the girls. You've seen it when you walk into the gym, this big room of treadmills, the lifticles and stair climbers filled with women. But in the Journal of Exercise Science, they found for every woman that was using the free weight section of the gym. There was 27 men. This disparity continues to make it difficult to foster health for women across their lifespan. Resistance training happens to be the only non-pharmacological intervention that has been consistently shown to offset these age-related declines in skeletal muscle mass, strength and power. This cannot be achieved on a treadmill. The male bias in gym culture is literally everywhere and it's time for us to counter it."
+        "scene": "第 7 幕",
+        "time": "06:25",
+        "original": "We make more estrogen than men, and estrogen means that we don't fatigue as fast and we actually recover faster. Which means that we can handle more volume in weight training without overtraining. Myth number three is that weightlifting is for the boys and aerobics is for the girls. You've seen it when you walk into the gym, this big room of treadmills, ellipticals and stair climbers filled with women. But in the “Journal of Exercise Science,” they found for every woman that was using the free-weight section of the gym, there was 27 men. This disparity continues to make it difficult to foster health for women across their lifespan. Resistance training happens to be the only non-pharmacological intervention that has been consistently shown to offset these age-related declines in skeletal muscle mass, strength and power. This cannot be achieved on a treadmill. The male bias in gym culture is literally everywhere, and it's time for us to counter it.",
+        "chinese": "我们的雌激素分泌量高于男性，而雌激素能让我们不易疲劳，而且恢复得更快。这意味着在力量训练中，我们可以承受更大的训练容量，而不会轻易陷入过度训练。迷思三：举铁是男人的事，有氧才是女人的专属。大家都见过这种场景：一走进健身房，大厅里排满跑步机、椭圆机和爬楼机，上面清一色全都是女性。但《运动科学杂志》的一项研究发现，在健身房的自由重量区，男女比例竟然高达27比1。这种悬殊的差距，持续阻碍着女性在一生中建立并维持健康的体魄。而抗阻训练恰恰是目前被一致证实、能够抵消因衰老导致骨骼肌质量、力量和爆发力下降的“唯一非药物干预手段”。这是你在跑步机上永远无法获得的。健身房文化中的男性偏见无处不在，现在是时候去打破它了。"
       },
       {
-        "id": 8,
-        "time": "07:36",
-        "seconds": 456.5,
-        "endSeconds": 523.6,
-        "title": "第 8 幕：All humans have muscles",
-        "original": "All humans have muscles. Muscles make us healthy. Muscles combat the top three killers of women. Resistance training meets you where you're at. We think that we need these fancy machines and free weights to build muscle. But in a 2021 study, they examined a population of women 65 and older. They put these women through body weight and resistance band training, three times per week for 16 weeks. And do you know what they found? In the treatment group, these women improved their strength, improved their functional fitness, improved their grip strength, and even improved their gait speed. The amount of work required to see benefit is actually quite small. You can lift weights. You can lift your groceries. You can lift your children. Or when you're first starting, you can even just lift your own body weight. It's my mission to make sure that women live a long and healthy life. And that means building and maintaining their muscle.",
-        "translation": "All humans have muscles. Muscles make us healthy. Muscles combat the top three killers of women. Resistance training meets you where you're at. We think that we need these fancy machines and free weights to build muscle. But in a 2021 study, they examined a population of women 65 and older. They put these women through body weight and resistance band training, three times per week for 16 weeks. And do you know what they found? In the treatment group, these women improved their strength, improved their functional fitness, improved their grip strength, and even improved their gait speed. The amount of work required to see benefit is actually quite small. You can lift weights. You can lift your groceries. You can lift your children. Or when you're first starting, you can even just lift your own body weight. It's my mission to make sure that women live a long and healthy life. And that means building and maintaining their muscle."
+        "scene": "第 8 幕",
+        "time": "07:34",
+        "original": "All humans have muscles. Muscles make us healthy. Muscles combat the top three killers of women. Resistance training meets you where you're at. We think that we need these fancy machines and free weights to build muscle. But in a 2021 study, they examined a population of women 65 and older. They put these women through body weight and resistance band training three times per week for 16 weeks. And do you know what they found? In the treatment group, these women improved their strength, improved their functional fitness, improved their grip strength and even improved their gait speed. The amount of work required to see benefit is actually quite small. You can lift weights, you can lift your groceries, you can lift your children, or when you're first starting, you can even just lift your own body weight. It's my mission to make sure that women live a long and healthy life, and that means building and maintaining their muscle.",
+        "chinese": "每个人都有肌肉。肌肉让我们保持健康。肌肉能抗击威胁女性生命的三大头号杀手。力量训练因人而异，完全顺应你的基础。我们总以为增肌需要那些花哨的器械和自由重量。但在2021年的一项研究中，研究人员对一组65岁及以上的女性进行了追踪。他们让这些女性每周进行3次徒手自重和弹力带训练，持续16周。你们猜发现了什么？在干预组中，这些女性的力量增强了，日常身体功能改善了，握力提高了，甚至连走路的步速都加快了。想要从中获益，所需的运动量其实非常少。你可以举杠铃哑铃，可以提采购的生活杂物，可以抱起你的孩子；而在刚起步时，你甚至只需要支撑起自己的体重。让女性活得健康长寿是我的使命，而这意味着：我们要建立并维持自己的肌肉。"
       },
       {
-        "id": 9,
-        "time": "08:44",
-        "seconds": 524.9,
-        "endSeconds": 634.5,
-        "title": "第 9 幕：What made me realize the urgency of m...",
-        "original": "What made me realize the urgency of my own health problems is when I lost one of my best friends very suddenly at the age of 29. And there I stood face to face with my own mortality. I was weak. I was tired. What was missing? Something that I had literally wished away after college. Muscle. I knew I had to get back into the gym and start training again. But I had to get over the fact that through my formative years, society told me that muscles were for boys. Two years after I set out to regain my health, I competed on a show called Titan Games with Real Everyday Heroes. And in that same year, I competed at the Mrs. America pageant. Doing both of these things in the same year was my attempt to shatter the cultural stereotypes that continue to tell us that muscles are just for men. So let me leave you with a very clear call to action. Start lifting heavy things now. Nobody can do it for you, literally. Your older self will thank you. Or if you are your older self, it's never too late. This is not about aesthetics. This is about health. And physically strong women are healthy women. Thank you. That was Jamie Seaman at TEDx Greenhouse Road in Texas in 2023. This talk was originally published in August 2025. If you're curious about TED's curation, visit TED.com slash curation guidelines.",
-        "translation": "What made me realize the urgency of my own health problems is when I lost one of my best friends very suddenly at the age of 29. And there I stood face to face with my own mortality. I was weak. I was tired. What was missing? Something that I had literally wished away after college. Muscle. I knew I had to get back into the gym and start training again. But I had to get over the fact that through my formative years, society told me that muscles were for boys. Two years after I set out to regain my health, I competed on a show called Titan Games with Real Everyday Heroes. And in that same year, I competed at the Mrs. America pageant. Doing both of these things in the same year was my attempt to shatter the cultural stereotypes that continue to tell us that muscles are just for men. So let me leave you with a very clear call to action. Start lifting heavy things now. Nobody can do it for you, literally. Your older self will thank you. Or if you are your older self, it's never too late. This is not about aesthetics. This is about health. And physically strong women are healthy women. Thank you. That was Jamie Seaman at TEDx Greenhouse Road in Texas in 2023. This talk was originally published in August 2025. If you're curious about TED's curation, visit TED.com slash curation guidelines."
+        "scene": "第 9 幕",
+        "time": "08:41",
+        "original": "What made me realize the urgency of my own health problems is when I lost one of my best friends very suddenly, at the age of 29. And there I stood, face-to-face with my own mortality. I was weak. I was tired. What was missing? Something that I had literally wished away after college. Muscle. I knew I had to get back into the gym and start training again, but I had to get over the fact that through my formative years, society told me that muscles were for boys. Two years after I set out to regain my health, I competed on a show called “Titan Games” with real, everyday heroes. And in that same year, I competed at the Mrs. America pageant. Doing both of these things in the same year was my attempt to shatter the cultural stereotypes that continue to tell us that muscles are just for men. So let me leave you with a very clear call to action. Start lifting heavy things now. Nobody can do it for you. Literally. Your older self will thank you. Or if you are your older self, it's never too late. This is not about aesthetics. This is about health. And physically strong women are healthy women. Thank you.",
+        "chinese": "真正让我意识到自身健康问题迫在眉睫的，是29岁那年，我一位挚友的突然离世。那一刻，我不得不直面自己的脆弱与生命的有期。我很虚弱，我很疲惫。我究竟丢失了什么？丢失了大学毕业后我巴不得彻底摆脱的东西——肌肉。我知道自己必须重返健身房，重新开始训练；但我必须先克服成长岁月里社会灌输给我的偏见——肌肉只属于男人。在下定决心重获健康的两年后，我参加了一档名为《泰坦游戏》（Titan Games）的节目，与现实中的平凡英雄们同台竞技。同一年，我还参加了“全美夫人”（Mrs. America）选美大赛。在同一年完成这两件事，是我试图打破那种“肌肉只属于男性”的文化刻板印象。因此，我想给各位留下一个非常明确的行动倡议：从现在开始，去举起重物吧。没有任何人能替你流汗，真的是字面意思上的“只能靠自己”。未来的你会感谢现在的你；而如果你现在已经上了年纪，也永远为时不晚。这关乎的不是外表审美，而是生命健康。身体强健的女性，才是真正健康的女性。谢谢大家。"
       }
     ],
     "spoken": [],
@@ -999,139 +827,141 @@
     ],
     "cet4Vocab": [
       {
-        "word": "training",
-        "phonetic": "[ˈtreɪnɪŋ]",
-        "meaning": "n. 训练，培训；体育训练，锻炼；v. 锻炼，培养（某一素质或能力）；培训，训练；（为准备体育赛事而）操练（train的现在分词形式）",
-        "context": "The data is actually very clear when it comes to resistance training.",
-        "time": "03:07"
+        "word": "pivotal",
+        "phonetic": "[ˈpɪvət(ə)l]",
+        "meaning": "adj. 中枢的，关键的；有枢轴的，像枢轴的",
+        "context": "A pivotal moment came for me when I was a sophomore in high school.",
+        "time": "00:01"
       },
       {
-        "word": "health",
-        "phonetic": "[helθ]",
-        "meaning": "n. 身体状况；健康；医疗，卫生；（组织或系统的）运行状况，运作状况；发达，兴旺",
-        "context": "Even though something like weightlifting has a multitude of proven health benefits, there continues to be a stigma for women based on cultural and societal myths about what women shouldn't do.",
-        "time": "02:04"
+        "word": "instilled",
+        "phonetic": "[ɪnˈstɪld]",
+        "meaning": "v. 徐徐滴入；逐渐灌输（instill 的过去式和过去分词）",
+        "context": "what I really loved the most was the confidence that my physical strength instilled in me.",
+        "time": "00:55"
       },
       {
-        "word": "muscle",
-        "phonetic": "[ˈmʌs(ə)l]",
-        "meaning": "n. 肌肉；体力，力气；权力，影响力；<非正式>身强力壮的男子（们）；v.  用力搬动；挤；<美，非正式> 以经济（或政治）压力迫使；加强",
-        "context": "And that is building muscle.",
-        "time": "03:07"
+        "word": "frail",
+        "phonetic": "[freɪl]",
+        "meaning": "adj. （人）脆弱的，虚弱的；易碎的，易坏的；（性格、道德方面）脆弱的，意志薄弱的; n. （装无...",
+        "context": "Frankly, they looked kind of frail, somewhat unhealthy.",
+        "time": "00:55"
       },
       {
-        "word": "strength",
-        "phonetic": "[streŋθ]",
-        "meaning": "n. 体力，力量；实力，影响力；长处，优势；意志力，毅力；（情感或意见的）强烈程度；（物体或物质的）强度；（食物、药等的）浓度，（酒的）烈度；（风等的）速度，力度；人数，人力；（货币的）价值，坚挺程度；球队的板凳深度，替补队员的水平；<文>力量源泉；（手中所持好牌数目和花色的）牌力",
-        "context": "I loved being in the gym, and I loved throwing those heavy weights around, but what I really loved the most was the confidence that my physical strength instilled in me.",
-        "time": "00:58"
+        "word": "stigma",
+        "phonetic": "[ˈstɪɡmə]",
+        "meaning": "n. 耻辱，污名；（植物花朵的）柱头；（病的）外在特征（或特点）；（皮肤上的）斑点，小斑；（基督教传...",
+        "context": "there continues to be a stigma for women based on cultural and societal myths about what women should and shouldn't do.",
+        "time": "01:58"
       },
       {
-        "word": "muscles",
-        "phonetic": "[ˈmʌs(ə)lz]",
-        "meaning": "n. 肌肉（muscle 的复数）",
-        "context": "And those Cosmo cover girls, well, they didn't have a lot of muscles.",
-        "time": "00:58"
+        "word": "aesthetics",
+        "phonetic": "[esˈθetɪks]",
+        "meaning": "n. 美学；美学理论；艺术美",
+        "context": "I believe that if we can create a new culture that shifts the focus from aesthetics to health, that women's health and frankly, everybody's health could be transformed forever.",
+        "time": "01:58"
       },
       {
-        "word": "actually",
-        "phonetic": "[ˈæktʃuəli]",
-        "meaning": "adv. 实际上，事实上；（用于开始新话题）其实；竟然，居然",
-        "context": "The data is actually very clear when it comes to resistance training.",
-        "time": "03:07"
+        "word": "metabolic",
+        "phonetic": "[ˌmetəˈbɑːlɪk]",
+        "meaning": "adj. 新陈代谢的",
+        "context": "I woke up one day dealing with the same metabolic diseases that I was helping my own patients manage through medication.",
+        "time": "01:58"
       },
       {
-        "word": "loved",
-        "phonetic": "[lʌvd]",
-        "meaning": "v. 爱，热爱（love 的过去式和过去分词）；adj. 受珍爱的，被爱的，心爱的（常作定语，如 loved ones 亲人）",
-        "context": "A little girl, I loved playing sports.",
-        "time": "00:00"
+        "word": "tremendously",
+        "phonetic": "[trəˈmendəsli]",
+        "meaning": "adv. 非常地；可怕地；惊人地",
+        "context": "there's one thing that women are not doing across their lifespan that could tremendously reduce their risk of death, and that is building muscle.",
+        "time": "03:05"
       },
       {
-        "word": "lift",
-        "phonetic": "[lɪft]",
-        "meaning": "v. 提起，举起；抬起（身体某一部位）；空运；解除，撤销；高兴起来，使更愉快；消散，消失；偷盗，盗窃；剽窃，抄袭；挖出，拔起（蔬菜或植物）；提高（嗓音）；提高，增加；使更有趣；（个人、运动队的）晋级；赢得（奖品或比赛）；n. 电梯，升降机；免费搭车，搭便车；鼓舞，振奋；抬，提；（空气的）升力，提升力；（飞机的）最大提升重量；高飞（投出的球触地反弹时急速上升）；后跟垫，插跟",
-        "context": "Myth number one is that if we lift weights, we're going to get big and bulky.",
-        "time": "03:07"
+        "word": "accumulate",
+        "phonetic": "[əˈkjuːmjəleɪt]",
+        "meaning": "v. 积累，积攒",
+        "context": "it takes years of very serious training -- and steroids -- to accumulate that kind of look.",
+        "time": "04:15"
       },
       {
-        "word": "resistance",
-        "phonetic": "[rɪˈzɪstəns]",
-        "meaning": "n. 反对，抵制；抵抗，反抗；抵抗力，免疫力；阻力；电阻；（敌占区的）秘密抵抗组织",
-        "context": "The data is actually very clear when it comes to resistance training.",
-        "time": "03:07"
+        "word": "physique",
+        "phonetic": "[fɪˈziːk]",
+        "meaning": "n. 体格，体形",
+        "context": "achieving the physique of somebody like the Hulk is actually difficult, even for most men.",
+        "time": "04:15"
       },
       {
-        "word": "improved",
-        "phonetic": "[ɪmˈpruːvd]",
-        "meaning": "adj. 改良的，改进过的，改善的；（土地等）已开发整理并具备设施的；v. improve 的过去式和过去分词：改进，改善，提高；增加；变得更好",
-        "context": "In the treatment group, these women improved their strength, improved their functional fitness, improved their grip strength, and even improved their gait speed.",
-        "time": "07:36"
+        "word": "dispel",
+        "phonetic": "[dɪˈspel]",
+        "meaning": "v. 驱散，消除（尤指感觉或信仰）",
+        "context": "But let me dispel this myth.",
+        "time": "05:22"
       },
       {
-        "word": "weights",
-        "phonetic": "[weɪts]",
-        "meaning": "n. 重量（weight 的复数）；哑铃、杠铃片等力量训练器械；砝码（weight 的复数）；重物（尤指需举起或搬动的）；权重（在统计、金融、计算机等模型中按重要性分配的系数或比例）；度量衡（weights and measures）；v. 加重量于（weight 的第三人称单数形式）",
-        "context": "I loved being in the gym, and I loved throwing those heavy weights around, but what I really loved the most was the confidence that my physical strength instilled in me.",
-        "time": "00:58"
+        "word": "disparity",
+        "phonetic": "[dɪˈspærəti]",
+        "meaning": "n. 明显差异",
+        "context": "This disparity continues to make it difficult to foster health for women across their lifespan.",
+        "time": "06:25"
       },
       {
-        "word": "years",
-        "phonetic": "",
-        "meaning": "n. 年，日历年，一年时间（year 的复数）；年龄，岁数（用于 years old、years of age）；很久，多年（常用于 for years）；岁月，年华，人生中的时期（如 teenage years、formative years）；老年，老态（如 show one's years）",
-        "context": "Now I can tell you that it takes years of very serious training and steroids to accumulate that kind of look.",
-        "time": "04:17"
+        "word": "intervention",
+        "phonetic": "[ˌɪntərˈvenʃ(ə)n]",
+        "meaning": "n. 干预，介入；调停，斡旋；（为改善情况尤指病痛采取的）措施，做法",
+        "context": "Resistance training happens to be the only non-pharmacological intervention that has been consistently shown to offset these age-related declines in skeletal muscle mass, strength and power.",
+        "time": "06:25"
       },
       {
-        "word": "myth",
-        "phonetic": "[mɪθ]",
-        "meaning": "n. 错误的观点，荒诞的说法；神话，神话故事；虚构的人（或事），想象中的人（或事）",
-        "context": "Myth number one is that if we lift weights, we're going to get big and bulky.",
-        "time": "03:07"
+        "word": "offset",
+        "phonetic": "[ˈɔːfset]",
+        "meaning": "v. 补偿，抵销，抵消；衬托出；使偏离直线方向，使与……不在一条直线上；（墨水，刚印好的页面）转印下...",
+        "context": "Resistance training happens to be the only non-pharmacological intervention that has been consistently shown to offset these age-related declines in skeletal muscle mass, strength and power.",
+        "time": "06:25"
       },
       {
-        "word": "weightlifting",
-        "phonetic": "[ˈweɪtlɪftɪŋ]",
-        "meaning": "n. 举重，举重运动",
-        "context": "Even though something like weightlifting has a multitude of proven health benefits, there continues to be a stigma for women based on cultural and societal myths about what women shouldn't do.",
-        "time": "02:04"
+        "word": "formative",
+        "phonetic": "[ˈfɔːrmətɪv]",
+        "meaning": "adj. 发展的，形成的；有助于形成的，对成长有深远影响的；（语言学）（与）构形成分（有关）的；造型...",
+        "context": "I had to get over the fact that through my formative years, society told me that muscles were for boys.",
+        "time": "08:41"
       },
       {
-        "word": "literally",
-        "phonetic": "[ˈlɪtərəli]",
-        "meaning": "adv. 按照字面意义地，逐字地；真正地，确实地；（用于夸张地强调）简直",
-        "context": "The male bias in gym culture is literally everywhere and it's time for us to counter it.",
-        "time": "06:26"
-      },
-      {
-        "word": "college",
-        "phonetic": "[ˈkɒlɪdʒ]",
-        "meaning": "n. 大学，专科学校；学院，分院；公学；学会，社团；学院的全体师生",
-        "context": "So I turned down their offer, and I went on to play NCAA College Softball, where I was a weightlifter of the year, twice.",
-        "time": "00:58"
+        "word": "shatter",
+        "phonetic": "[ˈʃætər]",
+        "meaning": "v. （使）破碎，碎裂；破坏，摧毁（抽象物）；使极为惊愕难过，给予极大打击; n. 碎片；受到极大打...",
+        "context": "Doing both of these things in the same year was my attempt to shatter the cultural stereotypes that continue to tell us that muscles are just for men.",
+        "time": "08:41"
       }
     ],
     "keySentences": [
       {
-        "pattern": "强让步条件句 (Even though / Even if...)",
-        "sentence": "Even though something like weightlifting has a multitude of proven health benefits, there continues to be a stigma for women based on cultural and societal myths about what women shouldn't do.",
-        "note": "承认不利前提或现实反差，凸显主旨的坚定与韧性。",
-        "time": "02:04",
-        "scene": "第 3 幕：And as a young girl, I let that frame..."
+        "pattern": "让步转折对比句 (Even though..., there continues to be...)",
+        "sentence": "Even though something like weightlifting has a multitude of proven health benefits, there continues to be a stigma for women based on cultural and societal myths about what women should and shouldn't do.",
+        "time": "01:58",
+        "note": "用让步状语从句摆出客观事实与科学证据，主句顺势揭露社会偏见的根深蒂固，形成强烈认知反差，常用于写作中指出理想与现实脱节的社会痛点。"
       },
       {
-        "pattern": "程度结果因果句 (So... that...)",
-        "sentence": "And so many of us let ourselves believe that we have a lot of time.",
-        "note": "由极端程度直接推导出震撼结果，极具戏剧张力。",
-        "time": "03:07",
-        "scene": "第 4 幕：I could see it, I could feel it, but ..."
+        "pattern": "条件假设与焦点转换句 (If we can... shift the focus from A to B, that...)",
+        "sentence": "I believe that if we can create a new culture that shifts the focus from aesthetics to health, that women's health and frankly, everybody's health could be transformed forever.",
+        "time": "01:58",
+        "note": "使用“shift the focus from A to B”精准描绘思维范式的重构，并由小及大推进结论（从女性健康延伸至全民健康），极具号召力，适合用在解决方案和愿景展望段落。"
       },
       {
-        "pattern": "强让步条件句 (Even though / Even if...)",
-        "sentence": "And even though our modern, high fat, high carbohydrate, highly processed diets play a major role, there's one thing that women are not doing across their lifespan that could tremendously reduce their risk of death.",
-        "note": "承认不利前提或现实反差，凸显主旨的坚定与韧性。",
-        "time": "03:07",
-        "scene": "第 4 幕：I could see it, I could feel it, but ..."
+        "pattern": "设问承接与归因分析句 (Why aren't...? The answer lies in...)",
+        "sentence": "So why aren't more women doing it? The answer lies in three primary myths that continue to exert a powerful force and prevent women from doing just that.",
+        "time": "03:05",
+        "note": "通过自问自答自然过渡到核心论述，搭配“the answer lies in...”与后置定语从句，结构紧凑且行文逻辑清晰，是论文或演讲中引出分论点的极佳模板。"
+      },
+      {
+        "pattern": "双重比较级实证句 (The more..., the better...)",
+        "sentence": "In a study, they found the more days, time and effort that women devote to strength training, the better their body composition is.",
+        "time": "05:22",
+        "note": "以实证研究引入（In a study, they found...），结合“the more..., the better...”结构呈现明确的正相关因果关系，语言简练精准，非常适合学术或议论文中援引数据证明论点。"
+      },
+      {
+        "pattern": "破立对照与定调呼吁句 (This is not about... This is about...)",
+        "sentence": "This is not about aesthetics. This is about health. And physically strong women are healthy women.",
+        "time": "08:41",
+        "note": "运用短小有力的排比否定与肯定对照，迅速剥离表象、回归事物本质，结尾以有力判断句收尾，节奏感强烈，是结语处锚定核心价值观的高段位表达。"
       }
     ]
   },
@@ -1144,7 +974,7 @@
     "speakerTitle": "TED演讲嘉宾",
     "category": "个人成长与心理",
     "subCategory": "核心精选",
-    "duration": "12:41",
+    "duration": "12:29",
     "durationSeconds": 761.0,
     "audioUrl": "https://audio.louisyu.top/eli-j-finkel-clean.mp3",
     "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190162/d04294fa-1e97-438f-92df-314a3bd30b36/EliJFinkel_2026-stageshot.jpg",
@@ -1154,85 +984,58 @@
     "quoteTranslation": "找不到合适的人，一起建立你们的私人世界。",
     "segments": [
       {
-        "id": 1,
+        "scene": "第 1 幕",
         "time": "00:00",
-        "seconds": 0.0,
-        "endSeconds": 79.4,
-        "title": "第 1 幕：Imagine you just died",
-        "original": "Imagine you just died. You need to get your spouse a message that could save their life. Here's the problem. The only person who can hear you is Whoopi Goldberg? Yes, it's true. This is the plot of the movie ghost. Patrick Swayze is trying to communicate with Demi Moore through a psychic. But imagine that's you. What could you say in just a few urgent seconds that would convince your spouse it's really you? Patrick's first attempt fails, tell her I love her. Too obvious. Too generic. But then he knows it's just one word, ditto. Because ditto was their secret code for I love you. Something that only made sense inside the private world the two of them had built together. I think of that private world as a relationships love motif. Just as a light motif is a recurring musical theme that identifies a character, a love motif is a recurring set of shared experiences and meanings that uniquely define a relationship.",
-        "translation": "想象你刚刚死了。你需要给你的配偶传达一个可以挽救他们生命的信息。问题来了。唯一能听到你说话的人是乌比·金伯格？是的，这是真的。这是电影《鬼》的情节。帕特里克·斯威兹试图通过灵媒与黛米·摩尔交流。但想象一下那是你。在紧急的几秒钟内，你能说些什么让你的配偶相信那真的是你？帕特里克第一次尝试失败了，告诉她我爱她。太明显了。太一般。但他知道这只是一个词，同上。因为同上是他们表达“我爱你”的暗号。只有在他们俩共同建立的私人世界里才有意义。我把这个私人世界看作是爱情的主题。就像一个轻快的主题是一个反复出现的音乐主题，它可以识别一个角色，一个爱的主题是一组反复出现的共同经历和意义，它独特地定义了一段关系。"
+        "original": "Imagine you just died. You need to get your spouse a message that could save their life. Here's the problem. The only person who can hear you is Whoopi Goldberg. Yes. It's true, this is the plot of the movie \"Ghost.\" Patrick Swayze is trying to communicate with Demi Moore through a psychic. But imagine that's you. What could you say in just a few urgent seconds that would convince your spouse it's really you? Patrick's first attempt fails. \"Tell her I love her.\" Too obvious, too generic. But then he knows, it’s just one word. \"Ditto.\" Because “ditto” was their secret code for “I love you.” Something that only made sense inside the private world the two of them had built together. I think of that private world as a relationship's lovemotif. Just as a leitmotif is a recurring musical theme that identifies a character, a lovemotif is a recurring set of shared experiences and meanings that uniquely define a relationship.",
+        "chinese": "想象一下，你刚刚意外离世。你必须立刻给伴侣传达一条能救他们性命的信息。但问题来了：唯一能听见你说话的人是乌比·戈德堡。没错，这正是电影《人鬼情未了》里的情节。帕特里克·斯威兹正试图通过一位通灵灵媒，与黛米·摩尔取得联系。但请设想一下，换作是你，在短短几秒的生死关头，你会说什么来让伴侣确信真的是你？帕特里克的第一次尝试失败了——“告诉她我爱她。”太普通了，太泛泛了。但随后他想到了，只需一个词：“Ditto”（我也一样）。因为“Ditto”正是他们之间代表“我爱你”的专属暗号，是只有在他们携手构筑的私密世界里，才能被听懂的语言。我把那个私密世界，称作亲密关系中的“爱的主导动机”（lovemotif）。正如在音乐中，“主导动机”是标识特定角色的标志性旋律；在爱情中，“爱的主导动机”就是一套反复出现的共享体验与专属意义，独一无二地定义着你们的关系。"
       },
       {
-        "id": 2,
-        "time": "01:19",
-        "seconds": 79.4,
-        "endSeconds": 157.7,
-        "title": "第 2 幕：Your love motif includes the words th...",
-        "original": "Your love motif includes the words that would pass your own version of the ditto test. But also your weird in-jokes, your distinctive moral code, it turns out love motifs matter a lot. I'm a psychological scientist who studied love for nearly 30 years. I wrote a book, The All or Nothing Marriage, to explain how the best relationships work. I co-host a podcast that analyzes romantic movies from the perspective of relationship science. It's called Love Factually. But it was only recently that I discovered just how important love motifs are. In fact, they matter more today than ever before, because a love motif isn't just something you do. It helps to define who you are. These days around much of the world, we feel increasingly responsible, obligated, to be true to ourselves. And in almost any long-term relationship, you'll have moments where it feels like that pursuit of authenticity is at odds with your relationship commitment. How should we think about those moments?",
-        "translation": "你的爱的主题包括那些可以通过你自己版本的同音测试的单词。还有你奇怪的笑话，你独特的道德准则，原来爱情主题很重要。我是一名研究爱情近30年的心理科学家。我写了一本书，《孤注一掷的婚姻》，来解释最好的婚姻关系是如何运作的。我和别人共同主持了一个播客，从关系科学的角度分析爱情电影。它叫做真实的爱。但直到最近，我才发现爱的主题是多么重要。事实上，它们比以往任何时候都更重要，因为爱的主题不仅仅是你做的事情。它有助于定义你是谁。如今，在世界上的许多地方，我们越来越感到有责任、有义务忠于自己。在几乎任何一段长期的关系中，你都会有这样的时刻，感觉追求真实与你的关系承诺不一致。我们应该如何看待这些时刻？"
+        "scene": "第 2 幕",
+        "time": "01:16",
+        "original": "Your lovemotif includes the words that would pass your own version of the “ditto test,” but also your weird in-jokes, your distinctive moral code. It turns out lovemotifs matter a lot. I’m a psychological scientist who [has] studied love for nearly 30 years. I wrote a book, \"The All-or-Nothing Marriage,\" to explain how the best relationships work. I cohost a podcast that analyzes romantic movies from the perspective of relationship science. It's called \"Love Factually.\" But it was only recently that I discovered just how important lovemotifs are. In fact, they matter more today than ever before. Because a lovemotif isn't just something you do. It helps to define who you are. These days, around much of the world, we feel increasingly responsible -- obligated -- to be true to ourselves. And in almost any long-term relationship, you'll have moments where it feels like that pursuit of authenticity is at odds with your relationship commitment. How should we think about those moments?",
+        "chinese": "你专属的“爱的主导动机”，不仅包含能通过你个人版“Ditto测试”的暗号，还包括你们稀奇古怪的内部梗，以及独树一帜的处事默契。事实证明，这些主导动机至关重要。我是一名研究爱情近30年的心理学家，曾写过一本名为《全有或全无的婚姻》的书，探讨最优质的亲密关系是如何维系的；我还共同主持了一档播客，从关系科学的角度解读爱情电影，名叫《真爱事实》。但直到最近，我才真正意识到爱的主导动机有多么重要。事实上，它们在今天比以往任何时候都更加关键。因为主导动机不仅仅是你们在做的事，它更在定义你们是谁。如今在世界许多地方，人们越来越觉得有责任、有义务去忠于真实的自我。然而在几乎所有长期关系中，你总会遇到这样的时刻：追寻自我与坚守亲密承诺似乎产生了不可调和的冲突。面对这样的时刻，我们该如何理解？"
       },
       {
-        "id": 3,
-        "time": "02:37",
-        "seconds": 157.7,
-        "endSeconds": 240.0,
-        "title": "第 3 幕：In the past, couples who got divorced...",
-        "original": "In the past, couples who got divorced felt ashamed for getting divorced. These days, it's increasingly the opposite. We feel shame for staying if it makes us feel like we're not authentic. But there's an assumption lurking here that in those moments, we struggle to be true to ourselves and true to our relationship at the same time. We see this assumption in the movie La La Land. Ryan Gosling and Emma Stone have a sparkling connection. And yet, the relationship fails. Not because there's no love. Not because they don't understand or support each other. But because in those me versus us moments, the relationship never gets a voice. Emma has this exciting opportunity overseas. And Ryan says, you've got to give this everything you've got. It's your dream. But he tells her, I've got to follow my own plan. Stay here. This logic, as irrefutable as they find it, is flawed. That's not how authenticity actually works. Before we unpack that, I'd like to call your attention to something kind of amazing that we often overlook.",
-        "translation": "过去，离婚的夫妇会因为离婚而感到羞耻。如今，情况越来越相反。如果留下来让我们觉得自己不真实，我们就会感到羞耻。但这里潜伏着一个假设，即在那些时刻，我们很难同时忠于自己和忠于我们的关系。我们在电影《爱乐之城》中看到了这个假设。瑞恩·高斯林和艾玛·斯通有着闪闪发光的联系。然而，这种关系还是失败了。不是因为没有爱。并不是因为他们不理解或不支持彼此。但因为在那些我与我们对抗的时刻，这种关系永远不会发出声音。艾玛在海外有这个令人兴奋的机会。瑞安说，你必须全力以赴。这是你的梦想。但他告诉她，我必须遵循我自己的计划。留在这里。尽管他们发现这一逻辑无可辩驳，但它是有缺陷的。真实性实际上并不是这样运作的。在我们解开这个谜团之前，我想提请您注意一些我们经常忽视的令人惊奇的事情。"
+        "scene": "第 3 幕",
+        "time": "02:36",
+        "original": "In the past, couples who got divorced felt ashamed for getting divorced. These days, it's increasingly the opposite. We feel shame for staying if it makes us feel like we're not authentic. But there's an assumption lurking here that in those moments, we struggle to be true to ourselves and true to our relationship at the same time. We see this assumption in the movie \"La La Land.\" Ryan Gosling and Emma Stone have a sparkling connection. And yet, the relationship fails. Not because there's no love, not because they don't understand or support each other, but because in those me-versus-us moments, the relationship never gets a voice. Emma has this exciting opportunity overseas and Ryan says, “You’ve got to give this everything you’ve got. It's your dream.\" But he tells her, \"I've got to follow my own plan. Stay here.\" This logic, as irrefutable as they find it, is flawed. That's not how authenticity actually works. Before we unpack that, I'd like to call your attention to something kind of amazing that we often overlook.",
+        "chinese": "过去，人们如果离婚，会为离婚本身感到羞耻；而如今，情况却往往相反——如果继续维系一段关系让我们觉得自己违背了内心，我们反而会为“没有放手”感到羞耻。但这背后潜藏着一个预设：在那些关头，我们无法在忠于自我的同时，又忠于彼此的关系。电影《爱乐之城》就生动地展现了这种预设。瑞恩·高斯林和艾玛·斯通之间火花四射，然而这段感情最终还是走向了破裂。不是因为不爱，也不是因为彼此不懂得或不支持对方，而是在“我”与“我们”的抉择时刻，这段关系本身从未拥有发声的机会。艾玛迎来了去海外发展的绝佳机会，瑞恩对她说：“你必须全力以赴，这是你的梦想。”但他接着说：“而我必须坚持自己的规划，留在这里。”这种看似无懈可击的逻辑，其实存在致命漏洞。真实的自我表达绝非如此。在深入剖析这一点之前，我想请大家关注一个我们常常忽略的奇妙现象。"
       },
       {
-        "id": 4,
-        "time": "03:59",
-        "seconds": 240.0,
-        "endSeconds": 311.4,
-        "title": "第 4 幕：At the end of a dinner party with oth...",
-        "original": "At the end of a dinner party with other couples, most of us feel lucky that the person we go home with is our own partner. Where does that sense of compatibility come from? We're told it comes from finding the right person. The idea is that we possess a constellation of attributes, our personality, our habits, our preferences. And we need to find somebody whose attributes fit with our own. It's as if we're a gear, and we need to keep shopping until we find a gear that's the right shape and size for us, one that will minimize friction as we rotate through life together. We can even find one on our phone. My love factually co-host, Paul Eastwick and I, has spent decades studying this issue across tens of thousands of couples. Here's the surprise. Compatibility is not something that you find. In some of our studies, including at speed dating events that I am seed, we asked singles to tell us about the attributes they were seeking, things like physical attractiveness or sense of humor or kindness.",
-        "translation": "在与其他情侣的晚宴结束时，我们大多数人都会感到幸运，因为和我们一起回家的人是我们自己的伴侣。这种契合感从何而来？我们被告知这来自于找到合适的人。这个想法是，我们拥有一系列属性，我们的个性，我们的习惯，我们的偏好。我们需要找到一个与我们的特质相符的人。这就好像我们是一个齿轮，我们需要不断地购物，直到找到一个形状和尺寸适合我们的齿轮，一个可以在我们一起旋转的生活中最大限度地减少摩擦的齿轮。我们甚至可以在手机上找到一个。事实上，我爱的共同主持人保罗·伊斯特威克和我花了几十年的时间在数万对夫妇中研究这个问题。惊喜就在这里。兼容性不是你能找到的东西。在我们的一些研究中，包括在“我是种子”的快速约会活动中，我们要求单身人士告诉我们他们正在寻求的特质，例如外表吸引力或幽默感或善良感。"
+        "scene": "第 4 幕",
+        "time": "03:56",
+        "original": "At the end of a dinner party with other couples, most of us feel lucky that the person we go home with is our own partner. Where does that sense of compatibility come from? We're told it comes from finding the right person. The idea is that we possess a constellation of attributes -- our personality, our habits, our preferences -- and we need to find somebody whose attributes fit with our own. It’s as if we’re a gear, and we need to keep shopping until we find a gear that's the right shape and size for us, one that will minimize friction as we rotate through life together. We can even find one on our phone. My “Love Factually” cohost, Paul Eastwick, and I have spent decades studying this issue across tens of thousands of couples. Here’s the surprise: compatibility is not something that you find. In some of our studies, including at speed-dating events that I emceed, we asked singles to tell us about the attributes they were seeking.",
+        "chinese": "在参加完有其他情侣出席的晚宴后，大部分人回到家都会暗自庆幸：幸好与我共度一生的是身边的这个人。这种契合感究竟源自何处？人们常说，它来自于找到了那个“对的人”。这种观念认为，我们每个人都拥有一套特定的特质集合——我们的性格、习惯与偏好——而我们要做的是寻找到某个人，其特质恰好与我们严丝合缝。这就好比我们是一枚齿轮，需要不断在人海中淘选，直到找到另一枚尺寸形状完全契合的齿轮，好让我们在共同的生活运转中摩擦最小。如今，我们甚至在手机上滑一滑就能寻找。我和《真爱事实》的搭档保罗·伊斯特威克花了数十年时间，追踪研究了数万对情侣。而令人惊讶的研究结论是：契合度从来都不是“找”来的。在我们的一些研究中，包括由我主持的快速约会实验里，我们让单身人士列出他们寻觅伴侣时看重的特质。"
       },
       {
-        "id": 5,
-        "time": "05:11",
-        "seconds": 311.4,
-        "endSeconds": 395.3,
-        "title": "第 5 幕：And then we introduced them to a bunc...",
-        "original": "And then we introduced them to a bunch of potential partners who varied on those attributes. Some of them were hotter or funnier or kinder than others. You'd expect that those people who told us, they cared a lot about how, say, physically attractive a partner was, would be more attracted to hotter partners than people who said they didn't care as much. You'd be wrong. The attributes that we think we're looking for cease to matter once we meet a live flesh and blood partner. Same thing with similarity. It feels like we should be especially compatible with people who are more similar to us. We aren't. What actually matters is something smaller and more profound. A phrase gets repeated. A joke sticks. A ritual forms. And a private world takes shape. Two people across countless tiny interactions building something that never existed before. That's compatibility. Not finding the right person, building your private world together. I'll give you an example from my own relationship.",
-        "translation": "然后我们把他们介绍给一群在这些特质上各不相同的潜在伴侣。他们中的一些人比其他人更性感、更有趣或更善良。你可以预料，那些告诉我们，他们非常关心，比如说，一个伴侣的外表有多吸引人的人，会比那些说他们不太关心的人更容易被更性感的伴侣吸引。你错了。一旦遇到一个有血有肉的伴侣，我们所追求的品质就不再重要了。相似性也是一样。感觉我们应该和和我们更相似的人相处。我们没有。真正重要的是一些更小更深刻的东西。一个短语被重复。笑话经久不衰。一种仪式形式。一个私人世界就此成形。两个人通过无数微小的互动创造出前所未有的东西。这是兼容性。找不到合适的人，一起建立你们的私人世界。我给你们举一个我自己的例子。"
+        "scene": "第 5 幕",
+        "time": "05:03",
+        "original": "Things like physical attractiveness or sense of humor or kindness. And then we introduced them to a bunch of potential partners who varied on those attributes. Some of them were hotter or funnier or kinder than others. You'd expect that those people who told us they cared a lot about how, say, physically attractive a partner was would be more attracted to hotter partners than people who said they didn't care as much. You'd be wrong. The attributes that we think we're looking for cease to matter once we meet a live flesh-and-blood partner. Same thing with similarity. It feels like we should be especially compatible with people who are more similar to us. We aren't. What actually matters is something smaller and more profound. A phrase gets repeated. A joke sticks. A ritual forms, and a private world takes shape. Two people across countless tiny interactions, building something that never existed before. That's compatibility. Not finding the right person. Building your private world together.",
+        "chinese": "比如外貌吸引力、幽默感或善良体贴。随后，我们安排他们见了一批在这些特质上各不相同的潜在对象。有些人更具魅力，有些人更有趣，有些人更善良。你或许会以为，那些自称非常看重外貌的人，比起不在意的人，一定会显著被更具吸引力的对象所打动。然而事实并非如此。一旦我们面对一个活生生、有血有肉的人，那些我们自以为在寻觅的特质瞬间就变得无足轻重。相似度也是如此：直觉上我们认为越相似的人越契合，但数据表明并非如此。真正起决定作用的，是更细微、却也更深刻的东西：一句被反复提及的话语，一个历久弥新的笑梗，一种逐渐形成的默契仪式，以及一个慢慢成型的私密世界。两个人通过无数次微小的互动，携手创造出此前从未存在过的全新天地。这才是契合。它不是找到一个对的人，而是一起构筑专属于你们的私密世界。"
       },
       {
-        "id": 6,
-        "time": "06:35",
-        "seconds": 395.3,
-        "endSeconds": 469.3,
-        "title": "第 6 幕：It dates back to our earliest months ...",
-        "original": "It dates back to our earliest months together. Our ditto was Belly Full of Wine. That's a line from a Beatles song called Her Majesty, which includes that couplet. I want to tell her that I love her a lot, but I got to get a belly full of wine. Whenever I wanted to tell Alison that I loved her or was grateful for her, Belly Full of Wine delivered. And as couples repeat and riff on these tiny moments, they cease to be random moments. They become a love motif. They become who we are. That's pretty cool because it offers a happy answer to that question from earlier about whether we can be true to ourselves and true to our relationship. And once our relationship becomes part of our identity, being true to it stops feeling like self-denial. It starts feeling like authenticity, which is why we need to find our love motif. And why once we've found it, we need to nurture and protect it.",
-        "translation": "从我们刚在一起的时候就开始了。我们的同桌是《满肚子的酒》。这是披头士乐队歌曲《女王陛下》中的一句，其中就有这句对句。我想告诉她我很爱她，但我得喝一肚子酒。每当我想告诉艾莉森我爱她或感激她的时候，“酒肚”总会帮我。当情侣们不断重复这些微小的时刻时，它们就不再是随机的时刻了。它们变成了爱的主题。他们成为了我们。这很酷，因为它为之前的问题提供了一个愉快的答案，即我们是否可以忠于自己，忠于我们的关系。一旦我们的关系成为我们身份的一部分，忠于它就不再像自我否定。它开始让人感觉真实，这就是为什么我们需要找到我们的爱的主题。以及为什么一旦我们发现了它，我们就需要培育和保护它。"
+        "scene": "第 6 幕",
+        "time": "06:31",
+        "original": "I'll give you an example from my own relationship. It dates back to our earliest months together. Our \"ditto\" was \"belly full of wine.\" That's a line from a Beatles song called \"Her Majesty,\" which includes the couplet \"I want to tell her that I love her a lot, but I got to get a belly full of wine.\" Whenever I wanted to tell Alison that I loved her, or was grateful for her, \"belly full of wine\" delivered. And as couples repeat and riff on these tiny moments, they cease to be random moments. They become a lovemotif. They become who we are. That's pretty cool, because it offers a happy answer to that question from earlier about whether we can be true to ourselves and true to our relationship. And once our relationship becomes part of our identity, being true to it stops feeling like self-denial. It starts feeling like authenticity. Which is why we need to find our lovemotif.",
+        "chinese": "以我自己的感情为例，这可以追溯到我们刚在一起的头几个月。我们之间的“Ditto”是“灌满一肚子的酒”。这是披头士乐队《女王陛下》里的一句歌词：“我想对她说我深爱着她，可我得先灌满一肚子的酒。”每当我想向艾莉森表达爱意或感激时，一句“灌满一肚子的酒”就能将心意精准传达。当伴侣之间不断重复、演化这些微小的瞬间，它们就不再是偶然的吉光片羽。它们凝聚成了爱的主导动机，构成了我们认同的自我。这极其美妙，因为它给出了一个令人欣喜的答案，回应了之前那个问题：我们能否在忠于自我的同时忠于关系？当这段关系融入你的自我认同之中，忠于它就不再是自我的牺牲与压抑，而正是忠于自我的真实体现。这正是为什么，我们必须去寻找属于自己的主导动机。"
       },
       {
-        "id": 7,
-        "time": "07:49",
-        "seconds": 469.3,
-        "endSeconds": 539.7,
-        "title": "第 7 幕：If our partner starts pulling away fr...",
-        "original": "If our partner starts pulling away from our private world, it's not just disappointing. It's devastating because what we're losing, what's being rejected, isn't just an overture. It's an identity. Maybe you've seen the movie Five Hundred Days of Summer. In one scene, Joseph Gordon Levitt and Zoe Deshenel are play-acting domestic life at IKEA. She jokingly says, the kitchen sink is broken. He says, well, that's OK because, and he runs over to the next display, that's why we bought a home with two kitchens. They race over to the IKEA betting department, and they have sort of a romantic moment until they discover that they're being watched. It's playful. It's romantic. It's theirs. But later, when Joseph reaches out for that ritual on a subsequent shopping trip, she won't meet him there. What breaks your heart for him isn't just the rejection. It's the loss of a private world that no longer exists. And now we can see what went wrong with Emma and Ryan in La La Land.",
-        "translation": "如果我们的伴侣开始远离我们的私人世界，那不仅仅是令人失望。这是毁灭性的，因为我们失去的、被拒绝的不仅仅是一个提议。这是一个身份。也许你看过电影《夏日五百日》。在一个场景中，约瑟夫·高登·莱维特和佐伊·德谢内尔在宜家扮演家庭生活。她开玩笑说，厨房的水槽坏了。他说，好吧，没关系，因为他跑到下一个展示处，这就是我们买一套有两个厨房的房子的原因。他们跑到宜家投注部门，度过了一段浪漫的时刻，直到他们发现自己正在被监视。很好玩。很浪漫。这是他们的。但后来，当约瑟夫在随后的购物之旅中进行这种仪式时，她不会在那里见到他。让他心碎的不仅仅是被拒绝。这是一个不再存在的私人世界的丧失。现在我们可以看到《爱乐之城》中艾玛和瑞安出了什么问题。"
+        "scene": "第 7 幕",
+        "time": "07:39",
+        "original": "And why, once we've found it, we need to nurture and protect it. If our partner starts pulling away from our private world, it’s not just disappointing -- it's devastating. Because what we're losing, what’s being rejected isn’t just an overture -- it's an identity. Maybe you've seen the movie \"(500) Days of Summer.\" In one scene, Joseph Gordon-Levitt and Zooey Deschanel are play-acting domestic life at IKEA. She jokingly says, “The kitchen sink is broken.” He says, \"Well, that's OK because --\" and he runs over to the next display -- \"That's why we bought a home with two kitchens.\" They race over to the IKEA bedding department, and they have sort of a romantic moment until they discover that they're being watched. It's playful, it's romantic, it's theirs. But later, when Joseph reaches out for that ritual on a subsequent shopping trip, she won't meet him there. What breaks your heart for him isn’t just the rejection -- it's the loss of a private world that no longer exists.",
+        "chinese": "同时也是为什么，一旦找到了它，我们就必须用心呵护与捍卫。如果伴侣开始从你们的私密世界中抽离，带来的绝不仅仅是失望，而是毁灭性的打击。因为此时被推开、被拒绝的，不仅仅是一次示好，更是一种自我认同。或许你看过电影《和莎莫的500天》。其中有一幕，约瑟夫·高登-莱维特和佐伊·丹斯切尔在宜家假装过起了居家过日子的生活。她开玩笑说：“厨房水槽坏了。”他接话道：“没关系——”然后快步跑到下一个样板间，“这就是为什么我们买了一套有两个厨房的房子。”他们一路嬉笑着跑到床上用品区，沉浸在浪漫的气氛里，直到发现有人在看他们。那是充满戏谑的、浪漫的、独属于他们的时刻。可后来，在又一次逛街时，当约瑟夫试图重温这一默契仪式，她却冷淡回避了。最让人为他心碎的，不是表面的被拒，而是一个曾真实存在的私密世界，已然分崩离析。"
       },
       {
-        "id": 8,
-        "time": "08:59",
-        "seconds": 539.7,
-        "endSeconds": 609.1,
-        "title": "第 8 幕：They realized too late that loyalty t...",
-        "original": "They realized too late that loyalty to their private world, to their playful banter, to their dancing, wouldn't have been a betrayal of authenticity. It would have been an expression of it. They have that final haunting glance in the jazz club. And we see the Parisian life they might have lived, the apartment, the child, the ordinary Tuesdays. There wasn't a failure of love. It was a failure to protect the world. And a beautiful relationship became a wistful memory. In one study, we asked couples to tell us about their own love motif. They told us about their October long horror movie calendar. They told us about the special song they sing to their baby daughter, every Shabbat. And this one is my favorite. They told us about surfing on a shrimp sandwich. My colleague Lydia, Emory, and I kept tabs on these couples every day for weeks. We're still finalizing the article, but the results are clear.",
-        "translation": "他们意识到，对自己的私人世界、对俏皮的玩笑、对舞蹈的忠诚，并不会背叛真实性，但为时已晚。这本来就是它的一种表达。他们在爵士乐俱乐部里最后看了一眼，令人难以忘怀。我们看到了他们可能过的巴黎生活：公寓、孩子、平凡的星期二。爱情并没有失败。这是保护世界的失败。一段美好的关系变成了一段令人渴望的回忆。在一项研究中，我们要求夫妻告诉我们他们自己的爱情主题。他们告诉我们他们十月份的恐怖电影日历。他们告诉我们每个安息日他们都会给小女儿唱一首特别的歌曲。这是我最喜欢的。他们告诉我们关于吃虾三明治冲浪的事。我和埃默里大学的同事莉迪亚 (Lydia) 和我连续几周每天都在密切关注这些夫妇。我们仍在敲定这篇文章，但结果已经很明确了。"
+        "scene": "第 8 幕",
+        "time": "08:50",
+        "original": "And now we can see what went wrong with Emma and Ryan in “La La Land.” They realized too late that loyalty to their private world, to their playful banter, to their dancing, wouldn't have been a betrayal of authenticity. It would have been an expression of it. They have that final, haunting glance in the jazz club, and we see the Parisian life they might have lived. The apartment, the child, the ordinary Tuesdays. Theirs wasn't a failure of love. It was a failure to protect a world. And a beautiful relationship became a wistful memory. In one study, we asked couples to tell us about their own lovemotif. They told us about their October-long horror movie calendar. They told us about the special song they sing to their baby daughter every Shabbat. And this one is my favorite: they told us about surfing on a shrimp sandwich. My colleague Lydia Emery and I kept tabs on these couples every day for weeks.",
+        "chinese": "现在我们终于明白，《爱乐之城》中的艾玛和瑞恩究竟错在了哪里。他们太晚才意识到：坚守他们那片私密天地，坚守那些俏皮的斗嘴、起舞的瞬间，绝不是对自我的背叛，反而正是真实自我的至高展现。在爵士酒吧里那最后一次令人心碎的凝眸对视中，我们看到了他们原本可以共同度过的巴黎生活：那间公寓、那个孩子、那些平凡的周二。他们的结局不是爱的溃败，而是未能守护好属于他们的世界，最终让一段美好的爱情沦为怅然的回忆。在一项研究中，我们让多对伴侣讲述属于他们自己的主导动机。有人分享了他们贯穿整个十月的恐怖电影观影日历；有人讲起每个安息日都会给小女儿唱的那首专属歌曲；而我最喜欢的一个故事，是关于他们如何“在虾仁三明治上冲浪”。我和同事莉迪亚·埃默里对这些伴侣进行了长达数周的每日追踪记录。"
       },
       {
-        "id": 9,
-        "time": "10:09",
-        "seconds": 609.1,
-        "endSeconds": 753.9,
-        "title": "第 9 幕：Couples who leaned more strongly into...",
-        "original": "Couples who leaned more strongly into their love motif were happier. In fact, those who leaned more strongly into their love motif on a given day were happier than on days when they didn't lean as much into it. Turns out it's not just about date nights. It's about savoring your private world together. Alison left me this post-it note a decade ago. The reason I can show it to you today is that it still lives in my cabinet where I see it all the time. The post-it note on the screen Eli is referring to reads, Belly full of wine. Have a great day teaching. I've moved offices since then. This post-it note moved with me. That's the thing about a love motif. To the outside world looks trivial. From the inside, it's sacred. We're often told that relationships lose something over time. The novelty, the excitement, the passion. It's true. Some of that stuff goes. But something deeper grows. That shared history. That private world. That means nothing to anyone else. And everything to you. That world matters. So how do we build it? We've already seen the three moves. First, find it. Pay attention to those moments when something uniquely us is starting to emerge. Next, feed it. Revisit those moments. Nurture them into rituals, into inside jokes, and finally fight for it. Against distraction. Against drift. Against the delusion that that tiny stuff can't really matter. That's how those shared symbols. Something as small as a post-it note become protectors of your private realm. Someday, one of you will be gone. And the other will be left holding a hundred tiny symbols that mean nothing to anyone else and everything to you. Please. While there's still time. Build your love motif. So when it matters most, one word will be enough. Thank you.",
-        "translation": "更加坚定爱情主题的夫妻会更加幸福。事实上，那些在某一天更强烈地倾向于自己的爱情主题的人比那些不那么倾向于爱情的日子更快乐。事实证明，这不仅仅是约会之夜。这是关于一起品味你们的私人世界。十年前，艾莉森给我留下了这张便利贴。我今天能向你们展示它的原因是它仍然存在于我的柜子里，我一直都能看到它。屏幕上的便利贴上伊莱指的是“肚子里装满了酒”。祝您教学有美好的一天。从那时起我就搬了办公室。这张便利贴一直伴随着我。这就是爱情主题的事情。在外界看来微不足道。从内部看，它是神圣的。我们经常被告知，随着时间的推移，人际关系会失去一些东西。新奇、兴奋、激情。这是真的。其中一些东西消失了。但更深层次的东西在生长。那段共同的历史。那个私人世界。这对其他人来说毫无意义。以及一切给你。那个世界很重要。那么我们如何构建它呢？我们已经看到了这三个动作。首先，找到它。注意那些我们独特的东西开始出现的时刻。接下来，喂它。重温那些时刻。把它们培养成仪式，变成内部笑话，最后为之奋斗。反对分心。反对漂移。反对那种认为那些小事并不重要的错觉。这就是那些共享符号的方式。像便利贴一样小的东西可以成为您私人领域的保护者。有一天，你们中的一个人将会离开。另一个将留下一百个小符号，这些符号对其他人毫无意义，但对你来说却毫无意义。请。趁还有时间。建立你的爱情主题。所以当最重要的时候，一个词就足够了。谢谢。"
+        "scene": "第 9 幕",
+        "time": "10:03",
+        "original": "We're still finalizing the article, but the results are clear. Couples who leaned more strongly into their lovemotif were happier. And in fact, those who leaned more strongly into their lovemotif on a given day were happier than on days when they didn't lean as much into it. Turns out it's not just about date nights. It's about savoring your private world together. Alison left me this Post-it note a decade ago. The reason I can show it to you today is that it still lives in my cabinet, where I see it all the time. I've moved offices since then. This Post-it note moved with me. That's the thing about a lovemotif. To the outside world, looks trivial. From the inside, it's sacred. We’re often told that relationships lose something over time: the novelty, the excitement, the passion. It's true. Some of that stuff goes. But something deeper grows. That shared history, that private world that means nothing to anyone else and everything to you. That world matters. So how do we build it? We've already seen the three moves. First, find it. Pay attention to those moments when something uniquely \"us\" is starting to emerge. Next, feed it. Revisit those moments, nurture them into rituals, into inside jokes. And finally, fight for it. Against distraction, against drift, against the delusion that the tiny stuff can’t really matter. That's how those shared symbols, something as small as a Post-it note, become protectors of your private realm. Someday, one of you will be gone. And the other will be left holding a hundred tiny symbols that mean nothing to anyone else and everything to you. Please, while there's still time, build your lovemotif. So when it matters most, one word will be enough. Thank you.",
+        "chinese": "虽然研究论文还在润色定稿中，但结论已经无比清晰：越是深度沉浸于自身爱情主导动机的伴侣，幸福感就越强。事实上，在他们更频繁调动这一动机的日子里，幸福指数明显高于其他日子。原来，长久的关系不只是靠精心安排的约会之夜，更在于共同细细品味你们两人的私密世界。十年前，艾莉森给我留了这张便签。我今天之所以能展示给你们看，是因为它一直贴在我的办公室柜子上，随时抬头可见。这些年我换过几次办公室，而这张便签始终伴我同行。这正是爱的主导动机的奇妙之处：在外界看来，它微不足道；但在局内人眼中，它神圣不可侵犯。人们常说，随着时光流逝，爱情总会失去一些东西：新鲜感、刺激感、激情。确实如此，有些东西终会褪去。但更深刻的东西却在悄然生长——那是共同书写的岁月，是外人视若无物、对你们却重于泰山的私密天地。那个世界无比珍贵。那么，我们要如何构建它？答案正是刚才提到的三步：第一，去发现它。敏锐捕捉那些独属于“我们”的特质何时开始萌芽；第二，去滋养它。重温那些瞬间，将它们培育成独特的仪式与默契暗号；最后，去捍卫它。抵御外界的纷扰，抵御彼此的疏离，打破“琐碎小事无足轻重”的盲目妄念。唯有如此，那些共享的象征符号——哪怕只是一张薄薄的便签——才会成为守护你们私密天地的坚固堡垒。终有一天，你们中的一人会先离开这个世界。留下的另一人，将紧握着上百个在外人看来毫无意义、对你们却意味着整个世界的微小印记。请在来得及的时候，用心谱写属于你们的爱的主导动机吧。这样，在最生死攸关的时刻，仅仅一个词，就已胜过千言万语。谢谢大家。"
       }
     ],
     "spoken": [],
@@ -1262,146 +1065,134 @@
     ],
     "cet4Vocab": [
       {
-        "word": "motif",
-        "phonetic": "[məʊˈtiːf]",
-        "meaning": "n. 主题，主旨，意念（文学、艺术作品中反复出现的母题）；图形，图案，花纹（用作装饰或艺术图案组成部分的反复出现的式样）；音乐动机，音型（构成乐曲主题的短小旋律或节奏片段）；基序，模体（生物化学、分子生物学中指生物大分子中反复出现的保守序列或结构模式）",
-        "context": "I think of that private world as a relationships love motif.",
-        "time": "00:00"
-      },
-      {
-        "word": "relationship",
-        "phonetic": "[rɪˈleɪʃ(ə)nʃɪp]",
-        "meaning": "n. （人、团体、国家等相互间的）关系；（人或事物之间的）关联，关系；恋人关系，性爱关系；血缘关系，姻亲关系",
-        "context": "Just as a light motif is a recurring musical theme that identifies a character, a love motif is a recurring set of shared experiences and meanings that uniquely define a relationship.",
-        "time": "00:00"
-      },
-      {
-        "word": "private",
-        "phonetic": "[ˈpraɪvət]",
-        "meaning": "adj. 私有的，自用的；（服务，行业）私营的，民营的；没有股票上市的；私下的，秘密的；（交易未涉及商业机构的）私下里的；（想法、感觉）私密的；未担任公职的，无官职的；与官职（或工作）无关的；安静的，不受打扰的；（人）内敛的，不喜欢谈论私事的；（尤指两人）单独的；私下辅导的；（教育，医疗）私立的；只有自己人明白的；n. （美、英陆军或美国海军陆战队）二等兵；<非正式> 私处，阴部（privates）",
-        "context": "Something that only made sense inside the private world the two of them had built together.",
-        "time": "00:00"
-      },
-      {
-        "word": "those",
-        "phonetic": "[ðəʊz]",
-        "meaning": "det. 那些（that 的复数；用于复数可数名词前，指已提及、双方共知或较远的人或事物）；pron. 那些（that 的复数；单独指代已提及或语境中明确的人或事物）",
-        "context": "How should we think about those moments?",
-        "time": "01:19"
-      },
-      {
-        "word": "moments",
-        "phonetic": "[ˈmomənts]",
-        "meaning": "n. moment 的复数形式：片刻，瞬间；时刻，时候；（用于 have one's moments）有精彩、得意的时候",
-        "context": "And in almost any long-term relationship, you'll have moments where it feels like that pursuit of authenticity is at odds with your relationship commitment.",
-        "time": "01:19"
-      },
-      {
-        "word": "couples",
-        "phonetic": "[ˈkʌplz]",
-        "meaning": "n. 夫妻；一对，一双；[数][力]力偶（couple 的复数）；v. 连接；交配（couple 的第三人称单数形式）",
-        "context": "In the past, couples who got divorced felt ashamed for getting divorced.",
-        "time": "02:37"
-      },
-      {
-        "word": "attributes",
-        "phonetic": "[əˈtrɪbjuːts]",
-        "meaning": "n. 属性，特性，特质（attribute 的复数）；v. 把……归因于（或归咎于）；认为……具有（某种品质或特点）；认为（作品、言论等）出自；确定……产生的时间（attribute 的第三人称单数）",
-        "context": "The idea is that we possess a constellation of attributes, our personality, our habits, our preferences.",
-        "time": "03:59"
+        "word": "recurring",
+        "phonetic": "[rɪˈkɜːrɪŋ]",
+        "meaning": "adj. 反复出现，再次发生；循环小数的；经常性的; v. 再发生，反复出现；（思考或讲话时）重新回...",
+        "context": "Just as a leitmotif is a recurring musical theme that identifies a character, a lovemotif is a recurring set of shared experiences and meanings that uniquely define a relationship.",
+        "time": "[00:00]"
       },
       {
         "word": "authenticity",
         "phonetic": "[ˌɔːθenˈtɪsəti]",
         "meaning": "n. 真实性，可靠性",
         "context": "And in almost any long-term relationship, you'll have moments where it feels like that pursuit of authenticity is at odds with your relationship commitment.",
-        "time": "01:19"
+        "time": "[01:16]"
       },
       {
-        "word": "ditto",
-        "phonetic": "[ˈdɪtəʊ]",
-        "meaning": "n. 同上；同样或很相似的人或物；同上符号；（Ditto）人名；（法）迪托；adv. 同样地；如前所述",
-        "context": "But then he knows it's just one word, ditto.",
-        "time": "00:00"
-      },
-      {
-        "word": "belly",
-        "phonetic": "[ˈbeli]",
-        "meaning": "n. （人或动物的）腹部，肚子；胃，胃口；（物体的）腹状部分；腹部猪肉切；（弦乐器的）面板；v. 鼓起，张满",
-        "context": "Our ditto was Belly Full of Wine.",
-        "time": "06:35"
-      },
-      {
-        "word": "days",
-        "phonetic": "[deɪz]",
-        "meaning": "n. 天，日（day 的复数形式）；时期，时代，岁月；adv. 每天；在白天",
-        "context": "These days around much of the world, we feel increasingly responsible, obligated, to be true to ourselves.",
-        "time": "01:19"
-      },
-      {
-        "word": "tiny",
-        "phonetic": "[ˈtaɪni]",
-        "meaning": "adj. 极小的，微小的；n. <非正式>幼童",
-        "context": "Two people across countless tiny interactions building something that never existed before.",
-        "time": "05:11"
-      },
-      {
-        "word": "wine",
-        "phonetic": "[waɪn]",
-        "meaning": "n. 葡萄酒，果蔬酒；深紫红色；v. 喝酒；设酒宴款待（某人）；<西印度>跳摆臀舞",
-        "context": "Our ditto was Belly Full of Wine.",
-        "time": "06:35"
-      },
-      {
-        "word": "relationships",
-        "phonetic": "[rɪˈleʃənˈʃɪp]",
-        "meaning": "n. relationship 的复数（人际关系；情侣关系；事物间的联系；亲属关系；生物间的关系）",
-        "context": "I think of that private world as a relationships love motif.",
-        "time": "00:00"
+        "word": "irrefutable",
+        "phonetic": "[ˌɪrɪˈfjuːtəb(ə)l]",
+        "meaning": "adj. 无可辩驳的",
+        "context": "This logic, as irrefutable as they find it, is flawed.",
+        "time": "[02:36]"
       },
       {
         "word": "compatibility",
         "phonetic": "[kəmˌpætəˈbɪləti]",
         "meaning": "n. 共存；和睦相处；（计算机设备的）兼容性",
         "context": "Where does that sense of compatibility come from?",
-        "time": "03:59"
+        "time": "[03:56]"
       },
       {
-        "word": "ourselves",
-        "phonetic": "[ɑːˈselvz]",
-        "meaning": "pron. 用作反身代词，作动词或介词宾语，指包括说话者在内的一组人自身，也可泛指人们；作强调用法时表示“我们亲自”，正式英语中有时代替 us 作宾语；固定搭配 by ourselves 意为“独自地；靠我们自己”，between ourselves 意为“只限于咱们之间；秘密地”。",
-        "context": "These days around much of the world, we feel increasingly responsible, obligated, to be true to ourselves.",
-        "time": "01:19"
+        "word": "constellation",
+        "phonetic": "[ˌkɑːnstəˈleɪʃ(ə)n]",
+        "meaning": "n. 星座；一群（相似的人），一系列（相似的事物）；群英荟萃，人才济济",
+        "context": "The idea is that we possess a constellation of attributes -- our personality, our habits, our preferences -- and we need to find somebody whose attributes fit with our own.",
+        "time": "[03:56]"
+      },
+      {
+        "word": "friction",
+        "phonetic": "[ˈfrɪkʃ(ə)n]",
+        "meaning": "n. 不和，分歧；摩擦；摩擦力",
+        "context": "It’s as if we’re a gear, and we need to keep shopping until we find a gear that's the right shape and size for us, one that will minimize friction as we rotate through life together.",
+        "time": "[03:56]"
+      },
+      {
+        "word": "profound",
+        "phonetic": "[prəˈfaʊnd]",
+        "meaning": "adj. （影响）深刻的，极大的；（感情）强烈的，深切的；（思想）深邃的，（见解）深刻的；<文>深的...",
+        "context": "What actually matters is something smaller and more profound.",
+        "time": "[05:03]"
+      },
+      {
+        "word": "self-denial",
+        "phonetic": "[ˌself dɪˈnaɪəl]",
+        "meaning": "n. （宗教）克己；自我否定；自我牺牲",
+        "context": "And once our relationship becomes part of our identity, being true to it stops feeling like self-denial.",
+        "time": "[06:31]"
+      },
+      {
+        "word": "devastating",
+        "phonetic": "[ˈdevəsteɪtɪŋ]",
+        "meaning": "adj. 毁灭性的，极具破坏力的；令人极为震惊的；令人印象深刻的，吸引人的；极有效的，强有力的; v...",
+        "context": "If our partner starts pulling away from our private world, it’s not just disappointing -- it's devastating.",
+        "time": "[07:39]"
+      },
+      {
+        "word": "overture",
+        "phonetic": "[ˈoʊvərtʃər]",
+        "meaning": "n. 前奏曲；提案；序幕; vt. 提议；为……奏前奏曲",
+        "context": "Because what we're losing, what’s being rejected isn’t just an overture -- it's an identity.",
+        "time": "[07:39]"
+      },
+      {
+        "word": "subsequent",
+        "phonetic": "[ˈsʌbsɪkwənt]",
+        "meaning": "adj. 随后的，接着的；（河，谷）后成的",
+        "context": "But later, when Joseph reaches out for that ritual on a subsequent shopping trip, she won't meet him there.",
+        "time": "[07:39]"
+      },
+      {
+        "word": "wistful",
+        "phonetic": "[ˈwɪstf(ə)l]",
+        "meaning": "adj. （因求而不得）失意的，伤感的；思念的，怀旧的",
+        "context": "And a beautiful relationship became a wistful memory.",
+        "time": "[08:50]"
+      },
+      {
+        "word": "savoring",
+        "phonetic": "[ˈseɪvərɪŋ]",
+        "meaning": "n. 尽情享受；仔细品味; v. 尝到（savor 的 ing 形式）",
+        "context": "It's about savoring your private world together.",
+        "time": "[10:03]"
+      },
+      {
+        "word": "delusion",
+        "phonetic": "[dɪˈluːʒn]",
+        "meaning": "n. 错觉；妄想",
+        "context": "Against distraction, against drift, against the delusion that the tiny stuff can’t really matter.",
+        "time": "[10:03]"
       }
     ],
     "keySentences": [
       {
-        "pattern": "核心长难句精析 (Advanced Discourse Structure)",
-        "sentence": "You need to get your spouse a message that could save their life.",
-        "note": "层层递进的篇章骨架，融合经典口语修辞与深度思辨。",
-        "time": "00:00",
-        "scene": "第 1 幕：Imagine you just died"
+        "pattern": "双重否定排比与转折归因句 (Not because..., not because..., but because...)",
+        "sentence": "Not because there's no love, not because they don't understand or support each other, but because in those me-versus-us moments, the relationship never gets a voice.",
+        "time": "[02:36]",
+        "note": "通过先排比排除两个看似合乎常理的表层假设，再引出核心深层根源，能极大增强论证的穿透力与戏剧张力；写作中常用于纠正读者常见认知误区。"
       },
       {
-        "pattern": "核心长难句精析 (Advanced Discourse Structure)",
-        "sentence": "Patrick Swayze is trying to communicate with Demi Moore through a psychic.",
-        "note": "层层递进的篇章骨架，融合经典口语修辞与深度思辨。",
-        "time": "00:00",
-        "scene": "第 1 幕：Imagine you just died"
+        "pattern": "形容词让步倒装插入结构 (Adj. + as + subject + verb, ...)",
+        "sentence": "This logic, as irrefutable as they find it, is flawed.",
+        "time": "[02:36]",
+        "note": "采用“形容词 + as + 主谓”的倒装结构作插入语，先承认对方逻辑看似严密，再迅速转折指出其致命缺陷，是议论文中极具力量的反驳句式。"
       },
       {
-        "pattern": "核心长难句精析 (Advanced Discourse Structure)",
-        "sentence": "What could you say in just a few urgent seconds that would convince your spouse it's really you?",
-        "note": "层层递进的篇章骨架，融合经典口语修辞与深度思辨。",
-        "time": "00:00",
-        "scene": "第 1 幕：Imagine you just died"
+        "pattern": "短句排比与层进建构句 (Parallel short clauses showing progression)",
+        "sentence": "A phrase gets repeated. A joke sticks. A ritual forms, and a private world takes shape.",
+        "time": "[05:03]",
+        "note": "由四个简短的主谓短句递进排列，从细微动作逐渐累积成宏大概念，节奏明快且极具画面感，适合描写由量变到质变的动态过程。"
       },
       {
-        "pattern": "核心长难句精析 (Advanced Discourse Structure)",
-        "sentence": "Something that only made sense inside the private world the two of them had built together.",
-        "note": "层层递进的篇章骨架，融合经典口语修辞与深度思辨。",
-        "time": "00:00",
-        "scene": "第 1 幕：Imagine you just died"
+        "pattern": "主语同位重叠与递进否定句 (What..., what... isn't just... it's...)",
+        "sentence": "Because what we're losing, what’s being rejected isn’t just an overture -- it's an identity.",
+        "time": "[07:39]",
+        "note": "利用名词性从句重叠加强语气，再通过“not just... it's...”从表层行为骤升到核心本质，常用于拔高事物重要性与论点立意。"
+      },
+      {
+        "pattern": "极性反差对仗修辞 (Antithesis: means nothing to... and everything to...)",
+        "sentence": "That shared history, that private world that means nothing to anyone else and everything to you.",
+        "time": "[10:03]",
+        "note": "通过“nothing to A”与“everything to B”的强烈极性对比，制造出私人领域与外部世界的断层感，语言精练，情感共鸣极为强烈。"
       }
     ]
   },
