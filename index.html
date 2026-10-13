@@ -1236,67 +1236,71 @@
 
     @media (max-width: 768px) {
       .site-header {
-        padding: 12px 16px;
+        padding: 10px 14px;
       }
       .brand-sub {
         display: none;
       }
       .brand-title {
-        font-size: 1.1rem;
+        font-size: 1.05rem;
       }
       .container {
-        padding: 16px 14px 40px;
+        padding: 10px 10px 36px;
       }
 
-      /* Hero Banner Mobile */
+      /* Hero Banner Mobile: 精致收敛，不抢占首屏瀑布流空间 */
       .hero-banner {
         flex-direction: column;
-        align-items: flex-start;
-        padding: 20px 18px;
-        gap: 16px;
+        align-items: stretch;
+        padding: 12px 14px;
+        margin-bottom: 12px;
+        gap: 8px;
+        border-radius: 12px;
       }
       .hero-content h1 {
-        font-size: 1.35rem;
+        font-size: 1.05rem;
+        margin-bottom: 0;
       }
       .hero-content p {
-        font-size: 0.82rem;
-        line-height: 1.45;
+        display: none; /* 移动端隐藏大段说明文本，确保瀑布流在首屏即时可见 */
       }
       .hero-stats {
         width: 100%;
         display: grid;
         grid-template-columns: repeat(3, 1fr);
-        gap: 8px;
+        gap: 6px;
       }
       .stat-box {
         min-width: 0;
-        padding: 8px 6px;
+        padding: 4px 6px;
+        border-radius: 8px;
       }
       .stat-val {
-        font-size: 1.15rem;
+        font-size: 0.95rem;
       }
       .stat-label {
-        font-size: 0.65rem;
+        font-size: 0.6rem;
       }
 
-      /* Filter & Search Mobile */
+      /* Filter & Search Mobile: 紧凑横滑与输入栏 */
       .filter-wrapper {
-        padding: 12px;
-        margin-bottom: 20px;
-        gap: 10px;
+        padding: 8px 10px;
+        margin-bottom: 12px;
+        gap: 6px;
+        border-radius: 12px;
         overflow: hidden;
       }
       .filter-primary-row {
         flex-direction: column;
         align-items: stretch;
-        gap: 10px;
+        gap: 6px;
       }
       .filter-tabs {
         display: flex;
         overflow-x: auto;
         flex-wrap: nowrap;
-        gap: 6px;
-        padding: 2px 2px 4px;
+        gap: 5px;
+        padding: 2px 2px 3px;
         -webkit-overflow-scrolling: touch;
         scrollbar-width: none;
       }
@@ -1306,22 +1310,27 @@
       .filter-btn {
         flex: 0 0 auto;
         white-space: nowrap;
-        font-size: 0.78rem;
-        padding: 6px 13px;
+        font-size: 0.72rem;
+        padding: 4px 10px;
+        border-radius: 16px;
       }
       .search-box {
         width: 100%;
         min-width: 0;
       }
+      .search-box input {
+        padding: 6px 10px 6px 30px;
+        font-size: 0.75rem;
+      }
       .filter-sub-row {
         flex-direction: column;
         align-items: flex-start;
-        gap: 8px;
-        padding-top: 10px;
+        gap: 6px;
+        padding-top: 6px;
         border-top: 1px dashed var(--border);
       }
       .sub-filter-label {
-        font-size: 0.72rem;
+        font-size: 0.68rem;
         color: var(--text-muted);
       }
       #subCategoryTabs {
@@ -1329,8 +1338,8 @@
         display: flex;
         overflow-x: auto;
         flex-wrap: nowrap;
-        gap: 6px;
-        padding: 2px 2px 4px;
+        gap: 5px;
+        padding: 2px 2px 3px;
         -webkit-overflow-scrolling: touch;
         scrollbar-width: none;
       }
@@ -1340,20 +1349,84 @@
       .sub-filter-btn {
         flex: 0 0 auto;
         white-space: nowrap;
-        font-size: 0.72rem;
-        padding: 4px 10px;
+        font-size: 0.68rem;
+        padding: 3px 8px;
       }
 
-      /* Waterfall Grid Mobile */
+      /* Waterfall Grid Mobile: 真正的现代双列高颜值瀑布流 */
       .waterfall-grid {
-        grid-template-columns: 1fr;
-        gap: 18px;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 10px;
+      }
+      .waterfall-card {
+        border-radius: 10px;
+      }
+      .card-cover-wrap {
+        padding-top: 56.25%; /* 16:9 比例 */
+      }
+      .card-badge-dur {
+        font-size: 0.58rem;
+        padding: 1px 4px;
+        bottom: 4px;
+        right: 4px;
+        border-radius: 4px;
       }
       .card-body {
-        padding: 16px 14px;
+        padding: 8px 8px 10px;
+        display: flex;
+        flex-direction: column;
+        gap: 2px;
+      }
+      .card-tag-row {
+        gap: 4px;
+        margin-bottom: 2px;
+      }
+      .card-category, .card-subcat {
+        font-size: 0.58rem;
+        padding: 1px 4px;
+        border-radius: 3px;
       }
       .card-title-en {
-        font-size: 1.05rem;
+        font-size: 0.8rem;
+        line-height: 1.3;
+        margin: 2px 0 0;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+      .card-title-cn {
+        font-size: 0.7rem;
+        line-height: 1.25;
+        margin: 1px 0 0;
+        color: var(--text-muted);
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+      .card-quote-box {
+        display: none; /* 移动端卡片隐藏冗长金句，保持紧凑轻盈 */
+      }
+      .card-meta-foot {
+        margin-top: 4px;
+        padding-top: 4px;
+        border-top: 1px solid rgba(255, 255, 255, 0.05);
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+      .speaker-name {
+        font-size: 0.65rem;
+        max-width: 60%;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+      .btn-enter-study {
+        font-size: 0.6rem;
+        padding: 2px 5px;
+        border-radius: 4px;
       }
 
       /* Study View Mobile */
@@ -2369,12 +2442,18 @@
       renderGallery(list);
     }
 
+    function safeAttr(str) {
+      if (!str) return '';
+      return String(str).replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+    }
+
     // =====================================
     // Waterfall Gallery Render (With CSS/SVG Art Fallback & Zero Broken Images)
     // =====================================
     function renderGallery(items) {
+      if (!waterfallGrid) return;
       waterfallGrid.innerHTML = '';
-      if (items.length === 0) {
+      if (!items || items.length === 0) {
         waterfallGrid.innerHTML = `
           <div style="grid-column: 1/-1; text-align: center; padding: 60px 20px; color: var(--text-muted);">
             <div style="font-size: 2rem; margin-bottom: 12px;">🔍</div>
@@ -2385,52 +2464,57 @@
       }
 
       items.forEach(ep => {
-        const card = document.createElement('div');
-        card.className = 'waterfall-card';
-        card.setAttribute('data-episode-id', ep.id);
-        card.onclick = (e) => {
-          e.preventDefault();
-          openStudyView(ep, true);
-        };
+        try {
+          const card = document.createElement('div');
+          card.className = 'waterfall-card';
+          card.setAttribute('data-episode-id', ep.id);
+          card.onclick = (e) => {
+            e.preventDefault();
+            openStudyView(ep, true);
+          };
 
-        const catGrad = getCategoryGradient(ep.category);
-        const coverSrc = ep.cover || ep.coverUrl || ep.coverImage || '';
+          const catGrad = getCategoryGradient(ep.category);
+          const coverSrc = ep.cover || ep.coverUrl || ep.coverImage || '';
+          const safeTitle = safeAttr(ep.title);
 
-        card.innerHTML = `
-          <div class="card-cover-wrap" style="background: ${catGrad};">
-            <!-- Modern Art Fallback (Always displayed if CDN image fails or loading) -->
-            <div class="card-art-fallback">
-              <div class="art-top-row">
-                <span class="art-ted-logo"><span class="ted-red">TED</span> Talks</span>
-                <span class="art-cat-pill">${ep.category}</span>
+          card.innerHTML = `
+            <div class="card-cover-wrap" style="background: ${catGrad};">
+              <!-- Modern Art Fallback (Always displayed if CDN image fails or loading) -->
+              <div class="card-art-fallback">
+                <div class="art-top-row">
+                  <span class="art-ted-logo"><span class="ted-red">TED</span> Talks</span>
+                  <span class="art-cat-pill">${ep.category || '精选'}</span>
+                </div>
+                <div class="art-center-content">
+                  <div class="art-talk-title">${ep.title}</div>
+                </div>
+                <div class="art-bottom-speaker">🎙️ ${ep.speaker}</div>
               </div>
-              <div class="art-center-content">
-                <div class="art-talk-title">${ep.title}</div>
+              ${coverSrc ? `<img src="${coverSrc}" alt="${safeTitle}" class="card-cover-img" loading="lazy" onload="this.style.opacity='1';" onerror="this.style.opacity='0'; this.style.pointerEvents='none';" />` : ''}
+              <span class="card-badge-dur">⏱️ ${ep.duration}</span>
+            </div>
+            <div class="card-body">
+              <div class="card-tag-row">
+                <span class="card-category">${ep.category || '精选'}</span>
+                <span class="card-subcat">${ep.subCategory || '核心精选'}</span>
               </div>
-              <div class="art-bottom-speaker">🎙️ ${ep.speaker}</div>
+              <h3 class="card-title-en">${ep.title}</h3>
+              <div class="card-title-cn">${ep.chineseTitle || ''}</div>
+              <div class="card-quote-box">
+                “${ep.quote || ''}”
+              </div>
+              <div class="card-meta-foot">
+                <span class="speaker-name">${ep.speaker}</span>
+                <button class="btn-enter-study">
+                  进入精学舱 ▶
+                </button>
+              </div>
             </div>
-            ${coverSrc ? `<img src="${coverSrc}" alt="${ep.title}" class="card-cover-img" loading="lazy" onload="this.style.opacity='1';" onerror="this.style.opacity='0'; this.style.pointerEvents='none';" />` : ''}
-            <span class="card-badge-dur">⏱️ ${ep.duration}</span>
-          </div>
-          <div class="card-body">
-            <div class="card-tag-row">
-              <span class="card-category">${ep.category}</span>
-              <span class="card-subcat">${ep.subCategory || '精选'}</span>
-            </div>
-            <h3 class="card-title-en">${ep.title}</h3>
-            <div class="card-title-cn">${ep.chineseTitle || ''}</div>
-            <div class="card-quote-box">
-              “${ep.quote || ''}”
-            </div>
-            <div class="card-meta-foot">
-              <span class="speaker-name">${ep.speaker}</span>
-              <button class="btn-enter-study">
-                进入精学舱 ▶
-              </button>
-            </div>
-          </div>
-        `;
-        waterfallGrid.appendChild(card);
+          `;
+          waterfallGrid.appendChild(card);
+        } catch (err) {
+          console.error('Error rendering waterfall card:', ep?.id, err);
+        }
       });
     }
 
@@ -3082,10 +3166,45 @@
       }
     }
 
-    updateHeroStats();
-    renderSubCategories();
-    applyFilters();
-    handleHashChange();
+    function initApp() {
+      try {
+        updateHeroStats();
+      } catch (e) {
+        console.warn('init hero stats error:', e);
+      }
+
+      try {
+        renderSubCategories();
+      } catch (e) {
+        console.warn('init subcategories error:', e);
+      }
+
+      try {
+        applyFilters();
+      } catch (e) {
+        console.warn('init filters error:', e);
+      }
+
+      try {
+        handleHashChange();
+      } catch (e) {
+        console.warn('init hash error:', e);
+      }
+
+      // 移动端/微信环境首屏双重安全保障：若网格意外为空，执行保底渲染
+      setTimeout(() => {
+        if (waterfallGrid && waterfallGrid.children.length === 0 && Array.isArray(episodes) && episodes.length > 0) {
+          console.warn('Fallback triggering renderGallery due to empty grid');
+          renderGallery(episodes);
+        }
+      }, 100);
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initApp);
+    } else {
+      initApp();
+    }
   </script>
 </body>
 </html>
