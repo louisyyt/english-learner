@@ -9,7 +9,7 @@
     <description><![CDATA[为深度英语学习者打造的 TED 纯净原声随身听。每天由 AI 自动化流水线精准剥离商业赞助广告与主持人闲聊，从 00:00:00 登台演讲第一句起播。配套分幕时间轴、地道口语发音弱读点拨与核心高阶词汇。支持 Apple 播客、小宇宙、Pocket Casts 点击时间戳跳转。访问 english.louisyu.top 体验全屏精听与双语对照。]]></description>
     <language>en-US</language>
     <copyright>© 2026 EchoGym &amp; TED Conferences, LLC</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:00:00 +0000</lastBuildDate>
     <atom:link href="https://english.louisyu.top/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:type>episodic</itunes:type>
     <itunes:author><![CDATA[Louis Yu & EchoGym]]></itunes:author>
@@ -25,6 +25,53 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title><![CDATA[面对异见，倾听为何如此艰难 · Why it's so hard to listen when you disagree · Emily Kasriel]]></title>
+      <itunes:title><![CDATA[面对异见，倾听为何如此艰难 · Why it's so hard to listen when you disagree · Emily Kasriel]]></itunes:title>
+      <itunes:author><![CDATA[Emily Kasriel]]></itunes:author>
+      <itunes:episode>63</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">echogym-ted-emily-kasriel</guid>
+      <pubDate>Wed, 14 Oct 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://audio.louisyu.top/emily-kasriel-clean.mp3" length="15000000" type="audio/mpeg"/>
+      <itunes:duration>10:59</itunes:duration>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188522/4aa6f4cf-7715-4fed-b5d3-f76232e3244b/EmilyKasriel_2026-stageshot.jpg"/>
+      <description><![CDATA[【Emily Kasriel】面对异见，倾听为何如此艰难 · Why it's so hard to listen when you disagree
+金句：Because after all we see the world, not as it is, but as we are. (因为毕竟我们看到的世界不是它的样子，而是我们自己的样子。)
+
+【节目时间轴】
+00:00 第 1 幕：You know, there's something quite str...
+01:11 第 2 幕：I was so proud
+02:26 第 3 幕：Because the standard way we so often ...
+03:34 第 4 幕：Will I lose myself? Will I be forced ...
+04:45 第 5 幕：But how can you listen when your feel...
+05:54 第 6 幕：Slowly Ilona learnt to put her own st...
+07:03 第 7 幕：What Ilona discovered isn't unique to...
+08:15 第 8 幕：I got to know Herar while training co...
+09:25 第 9 幕：So I'd like to offer you a small, sli...
+
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
+网页端：https://english.louisyu.top]]></description>
+      <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Emily Kasriel（TED演讲嘉宾）</p>
+<p><strong>【核心主题】</strong>个人成长与心理 · 核心精选</p>
+<blockquote><p><strong>💡 核心金句：</strong><br/>“Because after all we see the world, not as it is, but as we are.”<br/><em>因为毕竟我们看到的世界不是它的样子，而是我们自己的样子。</em></p></blockquote>
+<hr/>
+<h3>⏱️ 分幕时间轴与导航</h3>
+<p><em>提示：在支持时间轴的客户端中，点击下方时间戳即可直接跳转收听。</em></p>
+<p><strong>00:00</strong> 第 1 幕：You know, there's something quite str...</p>
+<p><strong>01:11</strong> 第 2 幕：I was so proud</p>
+<p><strong>02:26</strong> 第 3 幕：Because the standard way we so often ...</p>
+<p><strong>03:34</strong> 第 4 幕：Will I lose myself? Will I be forced ...</p>
+<p><strong>04:45</strong> 第 5 幕：But how can you listen when your feel...</p>
+<p><strong>05:54</strong> 第 6 幕：Slowly Ilona learnt to put her own st...</p>
+<p><strong>07:03</strong> 第 7 幕：What Ilona discovered isn't unique to...</p>
+<p><strong>08:15</strong> 第 8 幕：I got to know Herar while training co...</p>
+<p><strong>09:25</strong> 第 9 幕：So I'd like to offer you a small, sli...</p>
+<hr/>
+<p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title><![CDATA[那三个字救了我的命 · The three words that saved my life · Blake Mycoskie]]></title>
       <itunes:title><![CDATA[那三个字救了我的命 · The three words that saved my life · Blake Mycoskie]]></itunes:title>
       <itunes:author><![CDATA[Blake Mycoskie]]></itunes:author>
@@ -34,22 +81,21 @@
       <guid isPermaLink="false">echogym-ted-blake-mycoskie</guid>
       <pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/blake-mycoskie-clean.mp3" length="15000000" type="audio/mpeg"/>
-      <itunes:duration>15:28</itunes:duration>
+      <itunes:duration>15:30</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188521/d21467c1-72b9-4f37-933c-e1521f1f350c/BlakeMycoskie_2026-stageshot.jpg"/>
       <description><![CDATA[【Blake Mycoskie】那三个字救了我的命 · The three words that saved my life
 金句：And I'm telling you that silence is deadly. (我告诉你，沉默是致命的。)
 
 【节目时间轴】
-00:00 第 1 幕：When I started Tom's shoes, I lived o...
-01:30 第 2 幕：Knowing that I was going to say that ...
-03:03 第 3 幕：A very, very old one
-04:41 第 4 幕：A strategy to earn worth
-06:21 第 5 幕：After three weeks, I didn't feel any ...
-07:39 第 6 幕：And I stopped performing
-09:19 第 7 幕：Which is interesting because that's w...
-10:46 第 8 幕：Greatly reduces suicide risk
-12:21 第 9 幕：And I'd like you to think of the one ...
-13:36 第 10 幕：And almost every spiritual teacher th...
+00:00 
+01:33 
+03:27 
+05:23 
+07:03 
+08:39 
+10:13 
+11:55 
+13:33 
 
 纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
@@ -59,16 +105,15 @@
 <hr/>
 <h3>⏱️ 分幕时间轴与导航</h3>
 <p><em>提示：在支持时间轴的客户端中，点击下方时间戳即可直接跳转收听。</em></p>
-<p><strong>00:00</strong> 第 1 幕：When I started Tom's shoes, I lived o...</p>
-<p><strong>01:30</strong> 第 2 幕：Knowing that I was going to say that ...</p>
-<p><strong>03:03</strong> 第 3 幕：A very, very old one</p>
-<p><strong>04:41</strong> 第 4 幕：A strategy to earn worth</p>
-<p><strong>06:21</strong> 第 5 幕：After three weeks, I didn't feel any ...</p>
-<p><strong>07:39</strong> 第 6 幕：And I stopped performing</p>
-<p><strong>09:19</strong> 第 7 幕：Which is interesting because that's w...</p>
-<p><strong>10:46</strong> 第 8 幕：Greatly reduces suicide risk</p>
-<p><strong>12:21</strong> 第 9 幕：And I'd like you to think of the one ...</p>
-<p><strong>13:36</strong> 第 10 幕：And almost every spiritual teacher th...</p>
+<p><strong>00:00</strong> 第  幕</p>
+<p><strong>01:33</strong> 第  幕</p>
+<p><strong>03:27</strong> 第  幕</p>
+<p><strong>05:23</strong> 第  幕</p>
+<p><strong>07:03</strong> 第  幕</p>
+<p><strong>08:39</strong> 第  幕</p>
+<p><strong>10:13</strong> 第  幕</p>
+<p><strong>11:55</strong> 第  幕</p>
+<p><strong>13:33</strong> 第  幕</p>
 <hr/>
 <p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
       <itunes:explicit>false</itunes:explicit>
@@ -83,25 +128,25 @@
       <guid isPermaLink="false">echogym-ted-anna-rainio</guid>
       <pubDate>Mon, 12 Oct 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/anna-rainio-clean.mp3" length="15000000" type="audio/mpeg"/>
-      <itunes:duration>14:57</itunes:duration>
+      <itunes:duration>14:34</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190490/5e78dac3-4558-4242-a67b-57f41cc734c1/AnnaRainio_2026SS-stageshot.jpg"/>
       <description><![CDATA[【Anna Rainio】想象世界如何帮助孩子学习 · How imaginary worlds help kids learn
 金句：And in play world, the children, not the adults, are the experts. (在游戏世界里，孩子才是专家，而不是大人。)
 
 【节目时间轴】
-00:00 第 1 幕：I'd love for you to think about a cla...
-01:16 第 2 幕：This makes many children and adults a...
-02:36 第 3 幕：We have seen how playwords can change...
-03:42 第 4 幕：And that is Baba Yaga's trap in which...
-04:44 第 5 幕：But this is a play world
-05:53 第 6 幕：Now here's why I find this example so...
-07:10 第 7 幕：Here is another example I love and th...
-08:21 第 8 幕：There was Alma for whom it was diffic...
-09:29 第 9 幕：Perhaps you can see best how Ruben he...
-10:40 第 10 幕：If this happens, templates can help u...
-11:53 第 11 幕：She was talking about neurodivergent ...
-12:48 第 12 幕：It makes so much sense that children ...
-13:34 第 13 幕：You may have noticed that in her talk...
+00:00 
+01:16 
+02:36 
+03:42 
+04:44 
+05:53 
+07:10 
+08:21 
+09:29 
+10:40 
+11:53 
+12:48 
+13:34 
 
 纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
@@ -111,19 +156,19 @@
 <hr/>
 <h3>⏱️ 分幕时间轴与导航</h3>
 <p><em>提示：在支持时间轴的客户端中，点击下方时间戳即可直接跳转收听。</em></p>
-<p><strong>00:00</strong> 第 1 幕：I'd love for you to think about a cla...</p>
-<p><strong>01:16</strong> 第 2 幕：This makes many children and adults a...</p>
-<p><strong>02:36</strong> 第 3 幕：We have seen how playwords can change...</p>
-<p><strong>03:42</strong> 第 4 幕：And that is Baba Yaga's trap in which...</p>
-<p><strong>04:44</strong> 第 5 幕：But this is a play world</p>
-<p><strong>05:53</strong> 第 6 幕：Now here's why I find this example so...</p>
-<p><strong>07:10</strong> 第 7 幕：Here is another example I love and th...</p>
-<p><strong>08:21</strong> 第 8 幕：There was Alma for whom it was diffic...</p>
-<p><strong>09:29</strong> 第 9 幕：Perhaps you can see best how Ruben he...</p>
-<p><strong>10:40</strong> 第 10 幕：If this happens, templates can help u...</p>
-<p><strong>11:53</strong> 第 11 幕：She was talking about neurodivergent ...</p>
-<p><strong>12:48</strong> 第 12 幕：It makes so much sense that children ...</p>
-<p><strong>13:34</strong> 第 13 幕：You may have noticed that in her talk...</p>
+<p><strong>00:00</strong> 第  幕</p>
+<p><strong>01:16</strong> 第  幕</p>
+<p><strong>02:36</strong> 第  幕</p>
+<p><strong>03:42</strong> 第  幕</p>
+<p><strong>04:44</strong> 第  幕</p>
+<p><strong>05:53</strong> 第  幕</p>
+<p><strong>07:10</strong> 第  幕</p>
+<p><strong>08:21</strong> 第  幕</p>
+<p><strong>09:29</strong> 第  幕</p>
+<p><strong>10:40</strong> 第  幕</p>
+<p><strong>11:53</strong> 第  幕</p>
+<p><strong>12:48</strong> 第  幕</p>
+<p><strong>13:34</strong> 第  幕</p>
 <hr/>
 <p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
       <itunes:explicit>false</itunes:explicit>
@@ -138,21 +183,21 @@
       <guid isPermaLink="false">echogym-ted-tami-pyfer</guid>
       <pubDate>Sun, 11 Oct 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/tami-pyfer-clean.mp3" length="15000000" type="audio/mpeg"/>
-      <itunes:duration>11:48</itunes:duration>
+      <itunes:duration>10:58</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190163/16c5c6f9-4c33-4bd7-9a1e-f5738e03c237/TamiPyfer_2026S-stageshot.jpg"/>
       <description><![CDATA[【Tami Pyfer】这是我政治上分裂的家庭教给我的 · What my politically divided family teaches me
 金句：And if contempt says, I see myself above you, dignity says, I see myself in you. (如果轻蔑说，我认为自己高于你，那么尊严说，我在你身上看到了自己。)
 
 【节目时间轴】
-00:00 第 1 幕：policy advisor for the governor of Ut...
-01:07 第 2 幕：How fantastic is this, right? The blu...
-02:19 第 3 幕：And it just might be the key to stren...
-03:36 第 4 幕：Slowly, I recognize something else co...
-04:54 第 5 幕：In our families, our communities, and...
-06:03 第 6 幕：Let's give it a try
-07:27 第 7 幕：Where you're going to work with peopl...
-08:36 第 8 幕：That shift can change a political con...
-09:50 第 9 幕：The speeches were fiery
+00:00 
+01:00 
+02:17 
+03:31 
+04:42 
+05:44 
+06:54 
+07:56 
+09:12 
 
 纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
@@ -162,15 +207,15 @@
 <hr/>
 <h3>⏱️ 分幕时间轴与导航</h3>
 <p><em>提示：在支持时间轴的客户端中，点击下方时间戳即可直接跳转收听。</em></p>
-<p><strong>00:00</strong> 第 1 幕：policy advisor for the governor of Ut...</p>
-<p><strong>01:07</strong> 第 2 幕：How fantastic is this, right? The blu...</p>
-<p><strong>02:19</strong> 第 3 幕：And it just might be the key to stren...</p>
-<p><strong>03:36</strong> 第 4 幕：Slowly, I recognize something else co...</p>
-<p><strong>04:54</strong> 第 5 幕：In our families, our communities, and...</p>
-<p><strong>06:03</strong> 第 6 幕：Let's give it a try</p>
-<p><strong>07:27</strong> 第 7 幕：Where you're going to work with peopl...</p>
-<p><strong>08:36</strong> 第 8 幕：That shift can change a political con...</p>
-<p><strong>09:50</strong> 第 9 幕：The speeches were fiery</p>
+<p><strong>00:00</strong> 第  幕</p>
+<p><strong>01:00</strong> 第  幕</p>
+<p><strong>02:17</strong> 第  幕</p>
+<p><strong>03:31</strong> 第  幕</p>
+<p><strong>04:42</strong> 第  幕</p>
+<p><strong>05:44</strong> 第  幕</p>
+<p><strong>06:54</strong> 第  幕</p>
+<p><strong>07:56</strong> 第  幕</p>
+<p><strong>09:12</strong> 第  幕</p>
 <hr/>
 <p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
       <itunes:explicit>false</itunes:explicit>
@@ -185,21 +230,21 @@
       <guid isPermaLink="false">echogym-ted-jaime-seeman-re-release</guid>
       <pubDate>Sat, 10 Oct 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/jaime-seeman-re-release-clean.mp3" length="15000000" type="audio/mpeg"/>
-      <itunes:duration>10:34</itunes:duration>
+      <itunes:duration>10:14</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_158395/6aa4a7f3-4f0c-43c2-81bb-4e5e5a419aa4/JaimeSeeman_2023X-embed.jpg?quality=82&amp;w=1200"/>
       <description><![CDATA[【Jaime Seeman (re-release)】举重的奇迹 · The wonder of weightlifting
 金句：I believe that if we can create a new culture that shifts the focus from aesthetics to health, that women's health, and frankly everybody's health, could be transformed forever. (我相信，如果我们能创造一种新的文化，把关注的焦点从美学转移到健康上，那么女性的健康，坦率地说，每个人的健康，都将永远改变。)
 
 【节目时间轴】
-00:00 第 1 幕：A little girl, I loved playing sports
-00:58 第 2 幕：You were built for bigger and better ...
-02:04 第 3 幕：And as a young girl, I let that frame...
-03:07 第 4 幕：I could see it, I could feel it, but ...
-04:17 第 5 幕：Women think that if they pick up a 20...
-05:25 第 6 幕：In a study, they found the more days ...
-06:26 第 7 幕：We make more estrogen than men
-07:36 第 8 幕：All humans have muscles
-08:44 第 9 幕：What made me realize the urgency of m...
+00:01 
+00:55 
+01:58 
+03:05 
+04:15 
+05:22 
+06:25 
+07:34 
+08:41 
 
 纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
@@ -209,15 +254,15 @@
 <hr/>
 <h3>⏱️ 分幕时间轴与导航</h3>
 <p><em>提示：在支持时间轴的客户端中，点击下方时间戳即可直接跳转收听。</em></p>
-<p><strong>00:00</strong> 第 1 幕：A little girl, I loved playing sports</p>
-<p><strong>00:58</strong> 第 2 幕：You were built for bigger and better ...</p>
-<p><strong>02:04</strong> 第 3 幕：And as a young girl, I let that frame...</p>
-<p><strong>03:07</strong> 第 4 幕：I could see it, I could feel it, but ...</p>
-<p><strong>04:17</strong> 第 5 幕：Women think that if they pick up a 20...</p>
-<p><strong>05:25</strong> 第 6 幕：In a study, they found the more days ...</p>
-<p><strong>06:26</strong> 第 7 幕：We make more estrogen than men</p>
-<p><strong>07:36</strong> 第 8 幕：All humans have muscles</p>
-<p><strong>08:44</strong> 第 9 幕：What made me realize the urgency of m...</p>
+<p><strong>00:01</strong> 第  幕</p>
+<p><strong>00:55</strong> 第  幕</p>
+<p><strong>01:58</strong> 第  幕</p>
+<p><strong>03:05</strong> 第  幕</p>
+<p><strong>04:15</strong> 第  幕</p>
+<p><strong>05:22</strong> 第  幕</p>
+<p><strong>06:25</strong> 第  幕</p>
+<p><strong>07:34</strong> 第  幕</p>
+<p><strong>08:41</strong> 第  幕</p>
 <hr/>
 <p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
       <itunes:explicit>false</itunes:explicit>
@@ -232,21 +277,21 @@
       <guid isPermaLink="false">echogym-ted-eli-j-finkel</guid>
       <pubDate>Fri, 09 Oct 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://audio.louisyu.top/eli-j-finkel-clean.mp3" length="15000000" type="audio/mpeg"/>
-      <itunes:duration>12:41</itunes:duration>
+      <itunes:duration>12:29</itunes:duration>
       <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190162/d04294fa-1e97-438f-92df-314a3bd30b36/EliJFinkel_2026-stageshot.jpg"/>
       <description><![CDATA[【Eli J Finkel】爱情持久的秘诀 · The secret to lasting love
 金句：Not finding the right person, building your private world together. (找不到合适的人，一起建立你们的私人世界。)
 
 【节目时间轴】
-00:00 第 1 幕：Imagine you just died
-01:19 第 2 幕：Your love motif includes the words th...
-02:37 第 3 幕：In the past, couples who got divorced...
-03:59 第 4 幕：At the end of a dinner party with oth...
-05:11 第 5 幕：And then we introduced them to a bunc...
-06:35 第 6 幕：It dates back to our earliest months ...
-07:49 第 7 幕：If our partner starts pulling away fr...
-08:59 第 8 幕：They realized too late that loyalty t...
-10:09 第 9 幕：Couples who leaned more strongly into...
+00:00 
+01:16 
+02:36 
+03:56 
+05:03 
+06:31 
+07:39 
+08:50 
+10:03 
 
 纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
@@ -256,15 +301,15 @@
 <hr/>
 <h3>⏱️ 分幕时间轴与导航</h3>
 <p><em>提示：在支持时间轴的客户端中，点击下方时间戳即可直接跳转收听。</em></p>
-<p><strong>00:00</strong> 第 1 幕：Imagine you just died</p>
-<p><strong>01:19</strong> 第 2 幕：Your love motif includes the words th...</p>
-<p><strong>02:37</strong> 第 3 幕：In the past, couples who got divorced...</p>
-<p><strong>03:59</strong> 第 4 幕：At the end of a dinner party with oth...</p>
-<p><strong>05:11</strong> 第 5 幕：And then we introduced them to a bunc...</p>
-<p><strong>06:35</strong> 第 6 幕：It dates back to our earliest months ...</p>
-<p><strong>07:49</strong> 第 7 幕：If our partner starts pulling away fr...</p>
-<p><strong>08:59</strong> 第 8 幕：They realized too late that loyalty t...</p>
-<p><strong>10:09</strong> 第 9 幕：Couples who leaned more strongly into...</p>
+<p><strong>00:00</strong> 第  幕</p>
+<p><strong>01:16</strong> 第  幕</p>
+<p><strong>02:36</strong> 第  幕</p>
+<p><strong>03:56</strong> 第  幕</p>
+<p><strong>05:03</strong> 第  幕</p>
+<p><strong>06:31</strong> 第  幕</p>
+<p><strong>07:39</strong> 第  幕</p>
+<p><strong>08:50</strong> 第  幕</p>
+<p><strong>10:03</strong> 第  幕</p>
 <hr/>
 <p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
       <itunes:explicit>false</itunes:explicit>
