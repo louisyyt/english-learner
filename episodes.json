@@ -1,5 +1,117 @@
 [
   {
+    "id": "julie-bedard",
+    "slug": "julie-bedard",
+    "title": "AI brain fry is real. Here’s what’s causing it",
+    "chineseTitle": "人工智能大脑是真实存在的。原因是这样的 · AI brain fry is real. Here’s what’s causing it",
+    "speaker": "Julie Bedard",
+    "speakerTitle": "TED演讲嘉宾",
+    "category": "科技与AI",
+    "subCategory": "核心精选",
+    "duration": "09:12",
+    "durationSeconds": 552.2,
+    "audioUrl": "https://audio.louisyu.top/julie-bedard-clean.mp3",
+    "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_189394/d72bc45d-e8e1-46d6-a164-870456721fc9/JulieBedard_2026S-stageshot.jpg",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_189394/d72bc45d-e8e1-46d6-a164-870456721fc9/JulieBedard_2026S-stageshot.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_189394/d72bc45d-e8e1-46d6-a164-870456721fc9/JulieBedard_2026S-stageshot.jpg",
+    "quote": "This is brain fry, not burn out something different.",
+    "quoteTranslation": "这是脑力消耗，而不是消耗其他东西。",
+    "segments": [
+      {
+        "id": 1,
+        "time": "00:00",
+        "seconds": 0.0,
+        "endSeconds": 68.0,
+        "title": "第 1 幕：Does anyone else feel no matter what ...",
+        "original": "Does anyone else feel no matter what you think about AI, it just feels a little bit wrong? You use it? You're afraid you're cutting corners. You don't use it. And you feel you're missing out. You're anxious, you get dismissed. You're optimistic. You get side-eye. Everything is just a little bit off. I've been advising executives and board leaders for the last several years on how to integrate AI into work. Sitting in room after room, company after company, I can tell you, it's not just you. This confusing feeling, it's a symptom of something bigger. AI is already redesigning work. Leadership teams, they're either frantic or frozen, spinning up too much change all at once in an uncoordinated way, or letting all of us do individual DIY of our own job redesign. This person-by-person job redesign, it can create individual productivity, but it doesn't scale.",
+        "translation": "大家是否也有同感：无论你怎么看待 AI，心里总觉得有点别扭？用它吧，怕别人觉得自己偷懒投机；不用吧，又怕自己落伍掉队。你焦虑，有人说你庸人自扰；你乐观，又难免遭人白眼。横竖都觉得不对劲。过去几年里，我一直在为企业高管和董事会提供咨询，探讨如何将 AI 融入工作流程。走过一家又一家公司，开过一场又一场会议，我可以负责任地告诉大家：绝不仅仅是你一个人有这种感觉。这种困惑与纠结，其实是一场更大变革的征兆：AI 正在重构我们的工作方式。而各家管理层呢？要么慌乱手足无措，要么彻底僵住不动；要么盲目推进过多缺乏协同的变革，要么干脆放任每个人各自摸索、搞工作“个人 DIY”。但这种各自为战的改造，或许能提升个体的效率，却根本无法实现规模化复制。"
+      },
+      {
+        "id": 2,
+        "time": "01:08",
+        "seconds": 68.0,
+        "endSeconds": 139.3,
+        "title": "第 2 幕：Let me give you an example",
+        "original": "Let me give you an example. One well-season manager I spoke to recently said, my team is producing 10x more output, 10x faster, yet my job feels 20x harder. This manager felt she was more lonely, not more collaborative. The output sometimes was better, sometimes was worse. I talked to lots of managers. It wasn't just this one manager. Lots of people feel this way. My key message to you, AI will dramatically reshape more than half of jobs in the coming years. So this was never a question of whether we redesign work. This was always a question of how, how we lead through that redesign. I'm going to take you through three areas today where I feel we particularly need leadership in the redesign. I'll walk through some examples of how we might address this. Attention, accountability, apprenticeship. First, attention. My colleagues and I have been studying the experience of working with AI.",
+        "translation": "让我举个例子。最近我和一位资深主管深聊过，她说：“我的团队现在产出多了十倍，速度快了十倍，可我的工作却难了二十倍。”她觉得工作并没有变得更协同，反而更孤独了；团队的产出品质有时更好，有时却更糟。我和很多管理者聊过，有这种感受的绝非仅此一人，许多人都有同感。今天我想传递的核心观点是：在未来几年内，AI 将深度重塑半数以上的工作岗位。因此，摆在我们面前的从来不是“要不要”重塑工作，而是“如何”重塑——我们该如何引领这场重塑。今天，我将从三个我认为最迫切需要领导力的维度展开，并结合具体案例探讨破局之道：注意力（Attention）、责任界定（Accountability）、以及学徒传帮带（Apprenticeship）。首先是注意力。我和同事们一直在深入研究人机协同的真实体验。"
+      },
+      {
+        "id": 3,
+        "time": "02:19",
+        "seconds": 139.3,
+        "endSeconds": 205.5,
+        "title": "第 3 幕：One senior engineering manager said, ...",
+        "original": "One senior engineering manager said, it's like having a dozen browser tabs open in my head, all fighting for attention. I was working harder to manage the tools than to solve the problem. This is brain fry, not burn out something different. It results from the acute oversight of AI tools. It's mental fog, slower decision making, more errors. Workers who experience brain fry report 39% more major errors. They're also 39% more likely to intend to leave. Your most active AI users are at risk of walking out. No one set up to create brain fry. It happened because we piled tool on top of tool on existing workflows without removing work or thinking about it as a team. The work we added was often cognitively more demanding. So what do we do about it? We need to redesign work and workflows as teams with outcomes in mind.",
+        "translation": "一位高级工程经理曾这样形容：“这感觉就像脑子里同时开着十几个浏览器标签页，全在争抢我的注意力。我花在摆弄工具上的精力，比解决问题本身还要多。”这就是“大脑干烧”（Brain Fry）——它与传统的职业倦怠截然不同。它源自对各种 AI 工具的高度紧绷与持续监管。随之而来的是大脑发懵、决策迟缓、错误频出。数据显示，饱受“大脑干烧”之苦的员工，犯下重大错误的概率高出 39%；离职倾向也高出 39%。这意味着，你团队中最积极使用 AI 的核心骨干，恰恰处于随时可能出走的危险边缘。没有人故意要制造“大脑干烧”。之所以会这样，是因为我们在没有删减旧工作、也没有进行团队统筹的前提下，把一个又一个新工具生硬地叠加入现有流程中。更要命的是，这些新增加的工作往往对认知负荷的要求更高。那么，我们该如何应对？我们必须以结果为导向，由团队协同，自上而下重新设计工作与流程。"
+      },
+      {
+        "id": 4,
+        "time": "03:25",
+        "seconds": 205.5,
+        "endSeconds": 282.8,
+        "title": "第 4 幕：We need to engage managers",
+        "original": "We need to engage managers. I know managers already have a lot on their plate. But when you have managers answering questions about AI for employees, mental fatigue scores are 15% lower. One company thought through this and started to redesign job descriptions naming the more strategic work. They took out handoffs that were no longer needed. They created a broad upskilling plan. All of this was done in concert, not individually, one by one. Second, accountability. Companies are putting AI agents on org charts. They're giving them names, job titles. We were curious. We ran an experiment. Same document, same errors. Only difference. Who we said the drafter was. In one group, an AI tool, and one group, an AI employee, and the third group, an actual employee. For managers who were already familiar with the concept of AI agents on org charts, personal accountability fell by 9 percentage points when they reviewed work done by an AI employee.",
+        "translation": "我们需要中层管理者的深度介入。我知道管理者们早已分身乏术，但研究表明，只要管理者能够为员工解答有关 AI 的疑问，团队的心理疲劳度就能降低 15%。有一家公司深思熟虑后付诸行动：他们重写了岗位职责，明确了更具战略价值的工作；砍掉了那些不再需要的交接环节；制定了全员技能进阶计划。这一切都是全盘协同推进，绝非让员工各自孤军奋战。第二点：责任界定。如今不少企业把 AI 智能体直接画进了组织架构图，给它们起名字、安头衔。出于好奇，我们做了一个实验：同一份文档，暗藏同样的错误，唯一的区别是标注的撰写人不同。一组标为“AI 工具”，一组标为“AI 员工”，第三组标为“真人员工”。结果发现，对于那些已经熟悉架构图上有“AI 员工”的管理者而言，在审核标为“AI 员工”的工作成果时，其个人责任心下降了整整 9 个百分点。"
+      },
+      {
+        "id": 5,
+        "time": "04:42",
+        "seconds": 282.8,
+        "endSeconds": 357.1,
+        "title": "第 5 幕：They found 18% fewer errors",
+        "original": "They found 18% fewer errors. Escalations were up by 44%. Effectively, they scrutinized the work less, found fewer errors, and gave their job to someone else more frequently. One company in our study even named their AI. Let's just call it Bob. When mistakes happened, Bob made the mistake. This has a real organizational cost. Leaders, we didn't mean to rewire accountability. We thought putting AI agents on org charts would make it more familiar. That small choice impacted the amount of accountability that was felt by those reviewing work. To overcome this, agent systems need a human overseer. We need a person with clear decision rights, an escalation path, and a career consequence if something goes wrong. We also need training for employees on how to review AI content. Do this before you name your AI. Third, apprenticeship. This is the one I think the most about.",
+        "translation": "他们发现的错误减少了 18%，向上级推卸汇报的频率却增加了 44%。换句话说，他们审核得更马虎，挑出的错误更少，而且更容易甩锅推卸。在我们研究的一家公司里，他们甚至给 AI 起了个名字，咱们暂且叫它“鲍勃”。一旦出了差错，大家就说：“哎呀，是鲍勃搞砸的。”这种甩锅文化对组织会造成不可估量的真金白银代价。作为领导者，我们并非故意要瓦解责任体系。我们本以为把 AI 智能体放进架构图会显得亲切自然，却未曾料到，这个小小的举动直接削弱了审核者身上的责任担当。要扭转这一局面，AI 智能体系统必须配备“人类监护人”——必须由具体的人拥有明确的决策权、问题上报路径，并在出差错时承担真实的职涯后果。同时，我们必须对员工进行严格培训，教他们如何专业地审核 AI 内容。记住，在给你的 AI 起好听的名字之前，先把这套机制建立起来。第三点：学徒传帮带。这是引发我最深思考的一个问题。"
+      },
+      {
+        "id": 6,
+        "time": "05:57",
+        "seconds": 357.1,
+        "endSeconds": 432.9,
+        "title": "第 6 幕：The entry level work, the drafting, a...",
+        "original": "The entry level work, the drafting, analysis, first cuts, research. Increasingly, that can be done by AI at least somewhat. This work was how people learned. It was the app bats that we all needed early in our career. Our research shows when juniors use AI for stretch assignments, they're able to produce good output. However, without expert support, they don't build the judgment underneath. It's output without learning. I get to ask this question every week at least five times from C-level executives. How do I build talent in the age of AI? Companies that are tackling this are rewriting job descriptions to make them more rotational, more project-based, they're pairing juniors with senior expert talent. They're even leaning on the natural AI fluency of more junior talent and putting them forth in the organization as a forward-deployed AI enabler. Even more importantly, they're taking the time to rewrite manager and leadership competencies.",
+        "translation": "初级岗位的基础工作——起草文案、做基础分析、初稿产出、资料调研——如今很大程度上都能被 AI 代劳。然而，正是这些看似基础的工作，构成了年轻人的成长基石；这是我们每个人在职业生涯早期不可或缺的“击球训练”。我们的研究表明，当下初级员工借助 AI 去完成挑战性任务时，确实能交出漂亮的成果。但是，如果缺乏资深专家的指引，他们根本无法内化建立底层的商业判断力。这成了“有产出、无长进”。每周我至少会被企业高管问到五次这个问题：“在 AI 时代，我们究竟该如何培养人才？”那些走在前面的企业，正在重构岗位职责：增加轮岗机制，转向项目制运作；让初级员工与资深专家结对；甚至顺应年轻一代对 AI 的天然熟悉度，把他们塑造成组织内的“前沿 AI 赋能官”。更关键的是，他们正在花心思重构管理层与领导力模型。"
+      },
+      {
+        "id": 7,
+        "time": "07:12",
+        "seconds": 432.9,
+        "endSeconds": 551.6,
+        "title": "第 7 幕：They're including coaching, upskillin...",
+        "original": "They're including coaching, upskilling on AI, rewiring work as a team. Perhaps this is our opportunity to invest in the development-focused managers we've always said we wanted. Attention, accountability, apprenticeship. These are three areas where the work redesign is happening to us, instead of being led by us if we're not careful. The core work of a leader right now is to optimize this work with good outcomes in mind and the best of human and machine intelligence. Companies that are getting the most from AI, they're already doing this. They're 12 times more likely to have executives and leadership teams engaged with AI. They're four times more likely to dedicate time to and structure AI learning. They're two and a half times more likely to reshape workflows. Those conflicting feelings I mentioned at the beginning, the shame, exposure, fear of missing out, it doesn't have to feel that way. It's what it feels like to be inside of this work transition. We need leaders to name what's changing. We need leaders to creatively problem-solve these types of challenges, to be thinking of them very actively. And the question of AI, this conversation about AI that we've been having over the last several years, which has been predominantly about the technology, it can finally become what we always knew it was going to be, a conversation about the humans, the change, and leadership. Thank you. That was Julie Baderd at TED at BCG in 2026. If you're curious about TED's curation, visit TED.com slash curation guidelines.",
+        "translation": "他们将辅导带教、AI 技能进阶、以及团队协作流程重塑纳入领导力考核。或许，这正是我们苦苦追寻的契机——去大力投资那些真正以员工成长为导向的管理者。注意力、责任界定、学徒传帮带。如果不加警惕，工作的重塑就会被动地碾压我们，而不是由我们主动引领。当前领导者的核心使命，是以卓越成果为指引，实现人机协同的最佳效能。那些充分释放 AI 价值的企业早已先行一步：高管与领导团队深度拥抱 AI 的概率高出 12 倍；投入时间构建体系化 AI 学习机制的概率高出 4 倍；重塑业务流程的概率高出 2.5 倍。我在开场时提到的那些纠结与矛盾——羞怯、暴露短板的担忧、被时代抛下的焦虑——其实不必如此沉重。这只不过是身处职场剧烈变革期时的真实阵痛。我们需要领导者正视并点明变革的本质；我们需要领导者以创造性的思维直面挑战、主动求变。过去几年，关于 AI 的探讨大多围绕技术本身展开；如今，这场对话终于能够回归它应有的本质——一场关于人、关于变革、关于领导力的深度对话。谢谢大家。以上是朱莉·贝达德在 2026 年 TED@BCG 的演讲。如果你想了解更多 TED 的策展理念，请访问 TED.com/curation-guidelines。"
+      }
+    ],
+    "cet4Vocab": [],
+    "keySentences": [],
+    "spoken": [],
+    "grammar": [],
+    "vocab": [],
+    "echoLoop": [
+      {
+        "step": 1,
+        "name": "盲听捕捉 (Blind Listening)",
+        "guide": "闭上双眼全篇盲听，记录第一遍捕捉到的核心脉络。"
+      },
+      {
+        "step": 2,
+        "name": "声学精听 (Acoustic Decoding)",
+        "guide": "对照中英双语分幕逐句精听，重点体会连读与语调起伏。"
+      },
+      {
+        "step": 3,
+        "name": "影子跟读 (Shadowing)",
+        "guide": "以 1.0x 正常语速跟随原声音频进行影子跟读练习。"
+      },
+      {
+        "step": 4,
+        "name": "自主复述 (Active Recall)",
+        "guide": "合上文本稿，尝试用英文复述演讲的核心观点。"
+      }
+    ],
+    "neteaseId": 3448362660,
+    "neteaseSongId": "3448362660"
+  },
+  {
     "id": "emily-kasriel",
     "slug": "emily-kasriel",
     "title": "Why it's so hard to listen when you disagree",
