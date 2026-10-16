@@ -698,13 +698,75 @@
       display: flex;
       flex-direction: column;
       height: 100%;
+      position: relative;
     }
 
     .audio-player-bar {
       background: #141c28;
       border-bottom: 1px solid var(--border);
-      padding: 16px 20px;
+      padding: 14px 20px;
       flex-shrink: 0;
+      position: sticky;
+      top: 0;
+      z-index: 40;
+      transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .audio-player-bar.is-playing {
+      background: rgba(17, 24, 38, 0.96);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border-bottom: 1px solid rgba(56, 189, 248, 0.35);
+      box-shadow: 0 4px 24px rgba(0, 0, 0, 0.5);
+    }
+
+    /* Mini Playing Title & Sound Wave inside Player Bar */
+    .player-mini-bar {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 8px;
+    }
+
+    .player-mini-title {
+      font-size: 0.85rem;
+      font-weight: 700;
+      color: #f1f5f9;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      flex: 1;
+      letter-spacing: 0.01em;
+    }
+
+    .player-playing-indicator {
+      display: inline-flex;
+      align-items: flex-end;
+      gap: 2.5px;
+      height: 14px;
+      width: 14px;
+      flex-shrink: 0;
+    }
+
+    .player-playing-indicator .bar {
+      width: 2.5px;
+      background: #38bdf8;
+      border-radius: 1px;
+      animation: soundWaveAnim 1.2s ease-in-out infinite alternate;
+    }
+    .player-playing-indicator .bar1 { height: 5px; animation-delay: 0.1s; }
+    .player-playing-indicator .bar2 { height: 13px; animation-delay: 0.35s; }
+    .player-playing-indicator .bar3 { height: 8px; animation-delay: 0.2s; }
+
+    @keyframes soundWaveAnim {
+      0% { height: 3px; }
+      100% { height: 14px; }
+    }
+
+    .audio-player-bar:not(.is-playing) .player-playing-indicator .bar {
+      animation: none;
+      height: 4px;
+      background: var(--text-muted);
     }
 
     #mainAudio {
@@ -758,9 +820,9 @@
       font-size: 0.75rem;
     }
 
-    /* Transcript Scroll Area */
+    /* Transcript Scroll Area: 具备上下居中安全缓冲垫，使首末行也能精确居中 */
     .transcript-scroll {
-      padding: 20px 24px;
+      padding: min(35vh, 240px) 24px min(45vh, 320px) 24px;
       flex: 1;
       min-height: 0;
       overflow-y: auto;
@@ -768,6 +830,38 @@
       display: flex;
       flex-direction: column;
       gap: 16px;
+      scroll-behavior: smooth;
+    }
+
+    /* Floating Resume Auto-Scroll Button */
+    .btn-resume-scroll {
+      position: absolute;
+      bottom: 24px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: linear-gradient(135deg, rgba(37, 99, 235, 0.95) 0%, rgba(14, 165, 233, 0.95) 100%);
+      color: #ffffff;
+      border: 1px solid rgba(125, 211, 252, 0.5);
+      border-radius: 30px;
+      padding: 7px 18px;
+      font-size: 0.8rem;
+      font-weight: 700;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.45), 0 0 16px rgba(56, 189, 248, 0.35);
+      cursor: pointer;
+      z-index: 60;
+      display: none;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      letter-spacing: 0.02em;
+    }
+
+    .btn-resume-scroll:hover {
+      transform: translateX(-50%) translateY(-2px);
+      box-shadow: 0 6px 24px rgba(37, 99, 235, 0.5), 0 0 20px rgba(56, 189, 248, 0.5);
+      border-color: #38bdf8;
     }
 
     .transcript-block {
@@ -1242,9 +1336,19 @@
       }
       .study-left {
         height: auto;
+        overflow: visible; /* 允许音频控制条在移动端粘性吸顶 */
+      }
+      .audio-player-bar {
+        position: sticky;
+        top: 50px; /* 紧贴顶部导航条下方 */
+        z-index: 50;
+        border-radius: 12px 12px 0 0;
+        box-shadow: 0 6px 24px rgba(0, 0, 0, 0.5);
       }
       .transcript-scroll {
-        max-height: 550px;
+        max-height: 580px;
+        padding-top: min(25vh, 180px);
+        padding-bottom: min(35vh, 240px);
       }
       .study-right {
         height: auto;
@@ -1475,8 +1579,16 @@
         padding: 5px 9px;
       }
 
+      .study-left {
+        height: auto;
+        overflow: visible;
+      }
       .audio-player-bar {
-        padding: 14px 14px;
+        position: sticky;
+        top: 46px; /* 移动端顶栏高度 */
+        z-index: 50;
+        padding: 10px 12px;
+        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5);
       }
       .player-controls {
         flex-direction: column;
@@ -2340,6 +2452,14 @@
       <!-- Left Column: Audio + Transcript -->
       <div class="study-left">
         <div class="audio-player-bar">
+          <div class="player-mini-bar" id="playerMiniBar">
+            <span class="player-playing-indicator">
+              <span class="bar bar1"></span>
+              <span class="bar bar2"></span>
+              <span class="bar bar3"></span>
+            </span>
+            <span class="player-mini-title" id="playerMiniTitle">TED Talk Daily</span>
+          </div>
           <audio id="mainAudio" controls preload="auto">
             <source src="" type="audio/mpeg" />
             您的浏览器不支持音频播放。
@@ -2359,6 +2479,11 @@
         <div class="transcript-scroll" id="transcriptContainer">
           <!-- Populated by JS -->
         </div>
+
+        <!-- Floating Return to Current Playing Position Button (回到当前播放进度) -->
+        <button class="btn-resume-scroll" id="btnResumeScroll" onclick="resumeAutoScroll()">
+          <span>📍 回到正在播放位置</span>
+        </button>
       </div>
 
       <!-- Right Column: Brand-New Deep Study Hub (全新的精学核心舱架构) -->
@@ -2791,10 +2916,137 @@
       return wordsData;
     }
 
+    // =====================================
+    // 🎧 Audio Docking & Subtitle Centering Engine
+    // =====================================
+    let isUserScrolling = false;
+    let userScrollTimeout = null;
+    let lastScrollTime = 0;
+    let lastCenteredWordId = null;
+
+    // 将音频播放端平滑置顶固定在视口顶部（紧贴站点头部导航栏下方）
+    function dockAudioPlayerToTop(smooth = true) {
+      const playerBar = document.querySelector('.audio-player-bar');
+      if (!playerBar) return;
+      
+      const siteHeader = document.querySelector('.site-header');
+      const headerH = siteHeader ? siteHeader.offsetHeight : 0;
+      const barRect = playerBar.getBoundingClientRect();
+      const currentScrollY = window.pageYOffset || document.documentElement.scrollTop;
+      
+      // 目标位置：将音频播放控制条顶部刚好停靠在导航栏下方（留出4px呼吸间距）
+      const targetY = currentScrollY + barRect.top - headerH - 4;
+      
+      // 如果当前尚未停靠到顶部，平滑滚动页面将音频端固定在顶端
+      if (Math.abs(currentScrollY - targetY) > 15) {
+        window.scrollTo({
+          top: Math.max(0, targetY),
+          behavior: smooth ? 'smooth' : 'auto'
+        });
+      }
+    }
+
+    // 无论音频播放到哪里，始终自动平滑居中显示当前字幕进度（处于视口/容器正中间）
+    function centerActiveSubtitle(force = false) {
+      if (!transcriptContainer) return;
+      if (isUserScrolling && !force) return;
+
+      // 获取当前正在发音的文字或段落元素
+      let targetEl = null;
+      if (ktvModeEnabled && lastActiveWordSpan) {
+        targetEl = lastActiveWordSpan;
+      } else if (activeSegmentIndex >= 0) {
+        targetEl = document.getElementById(`seg-block-${activeSegmentIndex}`);
+      }
+
+      if (!targetEl) return;
+
+      const containerRect = transcriptContainer.getBoundingClientRect();
+      const elRect = targetEl.getBoundingClientRect();
+
+      // 目标元素当前视口中心 vs 容器中心
+      const elCenter = elRect.top + (elRect.height / 2);
+      const containerCenter = containerRect.top + (containerRect.height / 2);
+      const diff = elCenter - containerCenter;
+
+      const now = performance.now();
+
+      // 1. 若字幕容器自身为滚动容器（桌面端与标准自适应容器）
+      if (transcriptContainer.scrollHeight > transcriptContainer.clientHeight + 10) {
+        if (force) {
+          transcriptContainer.scrollBy({ top: diff, behavior: 'smooth' });
+          lastScrollTime = now;
+          lastCenteredWordId = targetEl.id;
+        } else {
+          // 当单词换行或垂直偏差超过阈值（12px）时平滑滚动，并进行节流防抖
+          if (Math.abs(diff) >= 12 && (now - lastScrollTime > 150)) {
+            transcriptContainer.scrollBy({ top: diff, behavior: 'smooth' });
+            lastScrollTime = now;
+            lastCenteredWordId = targetEl.id;
+          }
+        }
+      } else {
+        // 2. 若移动端等环境下容器不自滚动，而是页面整体滚动
+        const windowCenter = (window.innerHeight - 80) / 2 + 80;
+        const winDiff = elCenter - windowCenter;
+        if (force) {
+          window.scrollBy({ top: winDiff, behavior: 'smooth' });
+          lastScrollTime = now;
+        } else if (Math.abs(winDiff) >= 12 && (now - lastScrollTime > 150)) {
+          window.scrollBy({ top: winDiff, behavior: 'smooth' });
+          lastScrollTime = now;
+        }
+      }
+    }
+
+    // 显示或隐藏“回到当前播放进度”悬浮按钮
+    function showResumeScrollButton(show) {
+      const btn = document.getElementById('btnResumeScroll');
+      if (!btn) return;
+      if (show && !mainAudio.paused) {
+        btn.style.display = 'flex';
+      } else {
+        btn.style.display = 'none';
+      }
+    }
+
+    // 用户点击悬浮按钮，立即恢复自动居中跟随
+    function resumeAutoScroll() {
+      isUserScrolling = false;
+      if (userScrollTimeout) clearTimeout(userScrollTimeout);
+      showResumeScrollButton(false);
+      centerActiveSubtitle(true);
+    }
+
+    // 监听用户手动滚动交互（允许用户自由上下滑动回看，3.5秒后优雅自动恢复居中跟随）
+    function setupTranscriptScrollListeners() {
+      if (!transcriptContainer) return;
+      
+      const onUserManualScroll = () => {
+        if (mainAudio.paused) return;
+        isUserScrolling = true;
+        showResumeScrollButton(true);
+        if (userScrollTimeout) clearTimeout(userScrollTimeout);
+        userScrollTimeout = setTimeout(() => {
+          isUserScrolling = false;
+          showResumeScrollButton(false);
+          if (!mainAudio.paused) {
+            centerActiveSubtitle(true);
+          }
+        }, 3500);
+      };
+
+      transcriptContainer.addEventListener('wheel', onUserManualScroll, { passive: true });
+      transcriptContainer.addEventListener('touchmove', onUserManualScroll, { passive: true });
+    }
+
     function jumpToKtvWord(startSec, e) {
       if (e) e.stopPropagation();
       mainAudio.currentTime = Math.max(0, startSec - 0.05);
       mainAudio.play();
+      dockAudioPlayerToTop(true);
+      isUserScrolling = false;
+      showResumeScrollButton(false);
       updateKtvSubtitles(mainAudio.currentTime, true);
     }
 
@@ -2806,11 +3058,12 @@
         // Fallback to standard block highlight
         const segs = currentEpisode.segments;
         for (let i = 0; i < segs.length; i++) {
-          const sSec = timeToSeconds(segs[i].time);
-          const nSec = i < segs.length - 1 ? timeToSeconds(segs[i + 1].time) : sSec + 300;
+          const sSec = (segs[i].seconds !== undefined) ? segs[i].seconds : timeToSeconds(segs[i].time);
+          const nSec = i < segs.length - 1 ? ((segs[i + 1].seconds !== undefined) ? segs[i + 1].seconds : timeToSeconds(segs[i + 1].time)) : sSec + 300;
           if (curTime >= sSec && curTime < nSec) {
             if (activeSegmentIndex !== i) {
-              highlightSegment(i, true);
+              highlightSegment(i, false);
+              centerActiveSubtitle(true);
             }
             break;
           }
@@ -2849,21 +3102,18 @@
         }
       }
 
-      // Highlight segment card
+      // Highlight segment card (without triggering window jump)
       if (activeSegIdx >= 0 && activeSegIdx !== activeSegmentIndex) {
-        highlightSegment(activeSegIdx, true);
+        highlightSegment(activeSegIdx, false);
       }
 
-      // Keep active word in focus
+      // 实时计算并将当前进度字幕精确平滑居中在视口正中间
       if (activeWord) {
-        const activeSpan = document.getElementById(activeWord.id);
-        if (activeSpan && (activeSpan !== lastActiveWordSpan || forceScroll)) {
+        const activeSpan = activeWord.el || document.getElementById(activeWord.id);
+        if (activeSpan) {
+          const wordChanged = (activeSpan !== lastActiveWordSpan);
           lastActiveWordSpan = activeSpan;
-          // Smooth center scrolling if segment block active
-          const block = document.getElementById(`seg-block-${activeWord.segIndex}`);
-          if (block && (forceScroll || activeSegIdx !== activeSegmentIndex)) {
-            block.scrollIntoView({ behavior: 'smooth', block: 'center' });
-          }
+          centerActiveSubtitle(forceScroll || wordChanged);
         }
       }
     }
@@ -2879,10 +3129,28 @@
       ktvAnimationId = requestAnimationFrame(frame);
     }
 
-    mainAudio.addEventListener('play', startKtvRafLoop);
+    mainAudio.addEventListener('play', () => {
+      // 1. 开始播放时将音频端置顶固定在顶端
+      dockAudioPlayerToTop(true);
+      const playerBar = document.querySelector('.audio-player-bar');
+      if (playerBar) playerBar.classList.add('is-playing');
+      
+      // 2. 启动 60fps 动态走字与平滑字幕居中循环
+      startKtvRafLoop();
+      
+      // 3. 初始首帧定位确保当前句子处于正中间
+      setTimeout(() => {
+        centerActiveSubtitle(true);
+      }, 100);
+    });
+
     mainAudio.addEventListener('pause', () => {
       if (ktvAnimationId) cancelAnimationFrame(ktvAnimationId);
+      const playerBar = document.querySelector('.audio-player-bar');
+      if (playerBar) playerBar.classList.remove('is-playing');
+      showResumeScrollButton(false);
     });
+
     mainAudio.addEventListener('timeupdate', () => {
       updateKtvSubtitles(mainAudio.currentTime);
     });
@@ -2952,6 +3220,13 @@
       document.getElementById('studyTitle').textContent = ep.title;
       document.getElementById('studyChineseTitle').textContent = ep.chineseTitle || '';
       document.getElementById('studySpeaker').textContent = ep.speaker;
+      
+      const miniTitleEl = document.getElementById('playerMiniTitle');
+      if (miniTitleEl) miniTitleEl.textContent = (ep.chineseTitle ? ep.chineseTitle + ' · ' : '') + ep.title;
+      isUserScrolling = false;
+      showResumeScrollButton(false);
+      lastActiveWordSpan = null;
+      lastCenteredWordId = null;
       document.getElementById('studySpeakerTitle').textContent = ep.speakerTitle || 'TED 演讲嘉宾';
       document.getElementById('studyCatBadge').textContent = ep.category;
       document.getElementById('studySubCatBadge').textContent = ep.subCategory || '深度精研';
@@ -3189,9 +3464,14 @@
         mainAudio.load();
       }
 
+      // 播放时确保音频端平滑置顶
+      dockAudioPlayerToTop(true);
+      isUserScrolling = false;
+      showResumeScrollButton(false);
+
       // Synchronize Left Transcript view
       if (idx !== undefined && idx >= 0) {
-        highlightSegment(idx, true);
+        highlightSegment(idx, false);
       } else if (currentEpisode && currentEpisode.segments && currentEpisode.segments.length > 0) {
         const segs = currentEpisode.segments;
         let targetIdx = 0;
@@ -3203,12 +3483,12 @@
             break;
           }
         }
-        highlightSegment(targetIdx, true);
+        highlightSegment(targetIdx, false);
       }
       updateKtvSubtitles(targetSec, true);
     }
 
-    function highlightSegment(idx, shouldScroll = true) {
+    function highlightSegment(idx, shouldScroll = false) {
       document.querySelectorAll('.transcript-block').forEach(b => {
         b.classList.remove('active-playing');
         const pill = b.querySelector('.seg-playing-pill');
@@ -3230,7 +3510,7 @@
           }
         }
         if (shouldScroll) {
-          activeBlock.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          centerActiveSubtitle(true);
         }
       }
       activeSegmentIndex = idx;
@@ -3492,6 +3772,12 @@ function triggerFileDownload(filename, text, mimeType) {
         handleHashChange();
       } catch (e) {
         console.warn('init hash error:', e);
+      }
+
+      try {
+        setupTranscriptScrollListeners();
+      } catch (e) {
+        console.warn('init scroll listeners error:', e);
       }
 
       // 移动端/微信环境首屏双重安全保障：若网格意外为空，执行保底渲染
