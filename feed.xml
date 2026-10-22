@@ -9,7 +9,7 @@
     <description><![CDATA[为深度英语学习者打造的 TED 纯净原声随身听。每天由 AI 自动化流水线精准剥离商业赞助广告与主持人闲聊，从 00:00:00 登台演讲第一句起播。配套分幕时间轴、地道口语发音弱读点拨与核心高阶词汇。支持 Apple 播客、小宇宙、Pocket Casts 点击时间戳跳转。访问 english.louisyu.top 体验全屏精听与双语对照。]]></description>
     <language>en-US</language>
     <copyright>© 2026 EchoGym &amp; TED Conferences, LLC</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 08:00:00 +0000</lastBuildDate>
     <atom:link href="https://english.louisyu.top/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:type>episodic</itunes:type>
     <itunes:author><![CDATA[Louis Yu & EchoGym]]></itunes:author>
@@ -24,6 +24,49 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title><![CDATA[我无法发声，却这样让世界倾听 · I can't speak. Here's how I get people to listen · Jessica Irwin]]></title>
+      <itunes:title><![CDATA[我无法发声，却这样让世界倾听 · I can't speak. Here's how I get people to listen · Jessica Irwin]]></itunes:title>
+      <itunes:author><![CDATA[Jessica Irwin]]></itunes:author>
+      <itunes:episode>70</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">echogym-ted-jessica-irwin</guid>
+      <pubDate>Thu, 22 Oct 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://audio.louisyu.top/jessica-irwin-clean.mp3" length="15000000" type="audio/mpeg"/>
+      <itunes:duration>06:27</itunes:duration>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190589/80b68ebd-aa6a-4076-abf5-266dcaa63b6f/JessicaIrwin_2026-stageshot.jpg"/>
+      <description><![CDATA[【Jessica Irwin】我无法发声，却这样让世界倾听 · I can't speak. Here's how I get people to listen
+金句：You hold the power to give someone back their voice. (你拥有这样的力量，能让一个人重新找回属于自己的声音。)
+
+【节目时间轴】
+00:02 第 1 幕：And now our TED Talk of the Day
+01:16 第 2 幕：The robotic voice outputs what I'm sa...
+02:04 第 3 幕：Imagine lying in a hospital bed with ...
+02:47 第 4 幕：This is not hypothetical, it has been...
+03:41 第 5 幕：Do you want me to call someone? Can I...
+04:23 第 6 幕：It's hilarious sometimes
+05:08 第 7 幕：There's no need to talk loudly or slowly
+
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
+网页端：https://english.louisyu.top]]></description>
+      <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Jessica Irwin（TED演讲嘉宾）</p>
+<p><strong>【核心主题】</strong>职场与沟通 · 核心精选</p>
+<blockquote><p><strong>💡 核心金句：</strong><br/>“You hold the power to give someone back their voice.”<br/><em>你拥有这样的力量，能让一个人重新找回属于自己的声音。</em></p></blockquote>
+<hr/>
+<h3>⏱️ 分幕时间轴与导航</h3>
+<p><em>提示：在支持时间轴的客户端中，点击下方时间戳即可直接跳转收听。</em></p>
+<p><strong>00:02</strong> 第 1 幕：And now our TED Talk of the Day</p>
+<p><strong>01:16</strong> 第 2 幕：The robotic voice outputs what I'm sa...</p>
+<p><strong>02:04</strong> 第 3 幕：Imagine lying in a hospital bed with ...</p>
+<p><strong>02:47</strong> 第 4 幕：This is not hypothetical, it has been...</p>
+<p><strong>03:41</strong> 第 5 幕：Do you want me to call someone? Can I...</p>
+<p><strong>04:23</strong> 第 6 幕：It's hilarious sometimes</p>
+<p><strong>05:08</strong> 第 7 幕：There's no need to talk loudly or slowly</p>
+<hr/>
+<p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title><![CDATA[如何构筑你心中的理想之城 · How would you design your dream city? · James Rojas]]></title>
       <itunes:title><![CDATA[如何构筑你心中的理想之城 · How would you design your dream city? · James Rojas]]></itunes:title>
