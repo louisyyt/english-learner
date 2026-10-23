@@ -9,7 +9,7 @@
     <description><![CDATA[为深度英语学习者打造的 TED 纯净原声随身听。每天由 AI 自动化流水线精准剥离商业赞助广告与主持人闲聊，从 00:00:00 登台演讲第一句起播。配套分幕时间轴、地道口语发音弱读点拨与核心高阶词汇。支持 Apple 播客、小宇宙、Pocket Casts 点击时间戳跳转。访问 english.louisyu.top 体验全屏精听与双语对照。]]></description>
     <language>en-US</language>
     <copyright>© 2026 EchoGym &amp; TED Conferences, LLC</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 08:00:00 +0000</lastBuildDate>
     <atom:link href="https://english.louisyu.top/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:type>episodic</itunes:type>
     <itunes:author><![CDATA[Louis Yu & EchoGym]]></itunes:author>
@@ -24,6 +24,51 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title><![CDATA[你能识破信息流中的谎言吗 · Can you spot the lies in your news feed? · Laura Smythe]]></title>
+      <itunes:title><![CDATA[你能识破信息流中的谎言吗 · Can you spot the lies in your news feed? · Laura Smythe]]></itunes:title>
+      <itunes:author><![CDATA[Laura Smythe]]></itunes:author>
+      <itunes:episode>71</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">echogym-ted-laura-smythe</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://audio.louisyu.top/laura-smythe-clean.mp3" length="15000000" type="audio/mpeg"/>
+      <itunes:duration>11:29</itunes:duration>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_189395/7cbcc1cf-a7d9-4f8b-b5f1-8bc2f612179f/LauraSmythe_2026S-stageshot.jpg"/>
+      <description><![CDATA[【Laura Smythe】你能识破信息流中的谎言吗 · Can you spot the lies in your news feed?
+金句：We have more access to information than any generation in history, yet in so many cases we're thinking less independently than ever before. (我们比历史上任何一代人都拥有更丰富的信息，却往往比以往任何时代都更缺乏独立思考。)
+
+【节目时间轴】
+00:02 第 1 幕：And now, our TED Talk of the day
+01:13 第 2 幕：Not a bad way to unwind for finals, r...
+02:39 第 3 幕：It wasn't until I later started worki...
+03:58 第 4 幕：That looks like gathering information...
+05:24 第 5 幕：86% of Gen Z are turning to social me...
+06:52 第 6 幕：The good news is people all over the ...
+08:14 第 7 幕：Then in math, they'll focus more on a...
+09:22 第 8 幕：You have the right to your own opinion
+
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
+网页端：https://english.louisyu.top]]></description>
+      <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Laura Smythe（TED演讲嘉宾）</p>
+<p><strong>【核心主题】</strong>社会与治理 · 核心精选</p>
+<blockquote><p><strong>💡 核心金句：</strong><br/>“We have more access to information than any generation in history, yet in so many cases we're thinking less independently than ever before.”<br/><em>我们比历史上任何一代人都拥有更丰富的信息，却往往比以往任何时代都更缺乏独立思考。</em></p></blockquote>
+<hr/>
+<h3>⏱️ 分幕时间轴与导航</h3>
+<p><em>提示：在支持时间轴的客户端中，点击下方时间戳即可直接跳转收听。</em></p>
+<p><strong>00:02</strong> 第 1 幕：And now, our TED Talk of the day</p>
+<p><strong>01:13</strong> 第 2 幕：Not a bad way to unwind for finals, r...</p>
+<p><strong>02:39</strong> 第 3 幕：It wasn't until I later started worki...</p>
+<p><strong>03:58</strong> 第 4 幕：That looks like gathering information...</p>
+<p><strong>05:24</strong> 第 5 幕：86% of Gen Z are turning to social me...</p>
+<p><strong>06:52</strong> 第 6 幕：The good news is people all over the ...</p>
+<p><strong>08:14</strong> 第 7 幕：Then in math, they'll focus more on a...</p>
+<p><strong>09:22</strong> 第 8 幕：You have the right to your own opinion</p>
+<hr/>
+<p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title><![CDATA[我无法发声，却这样让世界倾听 · I can't speak. Here's how I get people to listen · Jessica Irwin]]></title>
       <itunes:title><![CDATA[我无法发声，却这样让世界倾听 · I can't speak. Here's how I get people to listen · Jessica Irwin]]></itunes:title>

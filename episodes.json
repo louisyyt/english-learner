@@ -1,5 +1,7739 @@
 [
   {
+    "id": "laura-smythe",
+    "slug": "laura-smythe",
+    "title": "Can you spot the lies in your news feed?",
+    "chineseTitle": "你能识破信息流中的谎言吗 · Can you spot the lies in your news feed?",
+    "speaker": "Laura Smythe",
+    "speakerTitle": "TED演讲嘉宾",
+    "category": "社会与治理",
+    "subCategory": "核心精选",
+    "duration": "11:29",
+    "durationSeconds": 689.7,
+    "audioUrl": "https://audio.louisyu.top/laura-smythe-clean.mp3",
+    "cover": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_189395/7cbcc1cf-a7d9-4f8b-b5f1-8bc2f612179f/LauraSmythe_2026S-stageshot.jpg",
+    "coverUrl": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_189395/7cbcc1cf-a7d9-4f8b-b5f1-8bc2f612179f/LauraSmythe_2026S-stageshot.jpg",
+    "coverImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_189395/7cbcc1cf-a7d9-4f8b-b5f1-8bc2f612179f/LauraSmythe_2026S-stageshot.jpg",
+    "quote": "We have more access to information than any generation in history, yet in so many cases we're thinking less independently than ever before.",
+    "quoteTranslation": "我们比历史上任何一代人都拥有更丰富的信息，却往往比以往任何时代都更缺乏独立思考。",
+    "segments": [
+      {
+        "id": 1,
+        "time": "00:02",
+        "seconds": 2.6,
+        "endSeconds": 72.6,
+        "title": "第 1 幕：And now, our TED Talk of the day",
+        "original": "And now, our TED Talk of the day. Come back with me a moment to 2017. You're having a great time because none of us know what a pandemic is. Comfy mom jeans are back in style and the bitcoin you bought back in 2008, it's finally taking off. You're scrolling on Instagram and that's pretty cool because they only just started with their algorithmic feed. So you're still kind of seeing memes and photo dumps from people you actually know. What's up with all these orange squares? Influencers and famous faces from Kendall Jenner and Hayley Baldwin, Emily Radikowski and Ja Rule are posting about this high-end music festival coming to the Bahamas. White sand beaches, luxury accommodations, me ghosts, major laser, the cultural experience of a decade. Influencer and celebrity-driven marketing sells out 95% of tickets in 48 hours. Some folks are shelling out up to 100k for a spot and college students are also going for spring break.",
+        "translation": "欢迎收看今天的 TED 演讲。请跟我一起回到 2017 年。那时的日子无忧无虑，因为没人知道“全球疫情”为何物；舒服的复古老妈裤重新成为时尚潮流；你在 2008 年跟风买的那枚比特币，终于迎来了疯狂暴涨。你正刷着 Instagram，体验相当惬意，因为算法信息流才刚上线，满屏多半还是熟人发的搞笑梗图和生活碎影。但突然间，满屏的“纯橙色方块”是怎么回事？从肯豆·詹娜、海莉·鲍德温，到艾米丽·拉塔科夫斯基和饶舌歌手 Ja Rule，各路网红大咖都在宣传巴哈马的一场顶级音乐节：白沙滩、豪华别墅、Migos 和 Major Lazer 倾情助阵，号称“十年一遇的文化盛宴”。在网红与明星效应的狂轰滥炸下，48 小时内 95% 的门票被一抢而空。有人豪掷十万美元只求一席之位，大学生们也纷纷订票，准备去狂欢度春假。",
+        "words": [
+          {
+            "w": "And",
+            "s": 2.61,
+            "e": 3.33
+          },
+          {
+            "w": "now,",
+            "s": 3.33,
+            "e": 3.59
+          },
+          {
+            "w": "our",
+            "s": 3.83,
+            "e": 4.05
+          },
+          {
+            "w": "TED",
+            "s": 4.05,
+            "e": 4.25
+          },
+          {
+            "w": "Talk",
+            "s": 4.25,
+            "e": 4.57
+          },
+          {
+            "w": "of",
+            "s": 4.57,
+            "e": 4.91
+          },
+          {
+            "w": "the",
+            "s": 4.91,
+            "e": 5.05
+          },
+          {
+            "w": "day.",
+            "s": 5.05,
+            "e": 5.19
+          },
+          {
+            "w": "Come",
+            "s": 5.95,
+            "e": 6.25
+          },
+          {
+            "w": "back",
+            "s": 6.25,
+            "e": 6.51
+          },
+          {
+            "w": "with",
+            "s": 6.51,
+            "e": 6.69
+          },
+          {
+            "w": "me",
+            "s": 6.69,
+            "e": 6.85
+          },
+          {
+            "w": "a",
+            "s": 6.85,
+            "e": 6.95
+          },
+          {
+            "w": "moment",
+            "s": 6.95,
+            "e": 7.27
+          },
+          {
+            "w": "to",
+            "s": 7.27,
+            "e": 7.67
+          },
+          {
+            "w": "2017.",
+            "s": 7.67,
+            "e": 8.29
+          },
+          {
+            "w": "You're",
+            "s": 9.29,
+            "e": 9.61
+          },
+          {
+            "w": "having",
+            "s": 9.61,
+            "e": 9.81
+          },
+          {
+            "w": "a",
+            "s": 9.81,
+            "e": 10.01
+          },
+          {
+            "w": "great",
+            "s": 10.01,
+            "e": 10.19
+          },
+          {
+            "w": "time",
+            "s": 10.19,
+            "e": 10.55
+          },
+          {
+            "w": "because",
+            "s": 10.55,
+            "e": 10.91
+          },
+          {
+            "w": "none",
+            "s": 10.91,
+            "e": 11.45
+          },
+          {
+            "w": "of",
+            "s": 11.45,
+            "e": 11.65
+          },
+          {
+            "w": "us",
+            "s": 11.65,
+            "e": 11.77
+          },
+          {
+            "w": "know",
+            "s": 11.77,
+            "e": 11.99
+          },
+          {
+            "w": "what",
+            "s": 11.99,
+            "e": 12.15
+          },
+          {
+            "w": "a",
+            "s": 12.15,
+            "e": 12.21
+          },
+          {
+            "w": "pandemic",
+            "s": 12.21,
+            "e": 12.69
+          },
+          {
+            "w": "is.",
+            "s": 12.69,
+            "e": 13.09
+          },
+          {
+            "w": "Comfy",
+            "s": 13.99,
+            "e": 14.43
+          },
+          {
+            "w": "mom",
+            "s": 14.43,
+            "e": 14.61
+          },
+          {
+            "w": "jeans",
+            "s": 14.61,
+            "e": 14.93
+          },
+          {
+            "w": "are",
+            "s": 14.93,
+            "e": 15.25
+          },
+          {
+            "w": "back",
+            "s": 15.25,
+            "e": 15.49
+          },
+          {
+            "w": "in",
+            "s": 15.49,
+            "e": 15.67
+          },
+          {
+            "w": "style",
+            "s": 15.67,
+            "e": 15.97
+          },
+          {
+            "w": "and",
+            "s": 15.97,
+            "e": 16.51
+          },
+          {
+            "w": "the",
+            "s": 16.51,
+            "e": 16.65
+          },
+          {
+            "w": "bitcoin",
+            "s": 16.65,
+            "e": 16.85
+          },
+          {
+            "w": "you",
+            "s": 16.85,
+            "e": 17.27
+          },
+          {
+            "w": "bought",
+            "s": 17.27,
+            "e": 17.45
+          },
+          {
+            "w": "back",
+            "s": 17.45,
+            "e": 17.73
+          },
+          {
+            "w": "in",
+            "s": 17.73,
+            "e": 17.95
+          },
+          {
+            "w": "2008,",
+            "s": 17.95,
+            "e": 18.63
+          },
+          {
+            "w": "it's",
+            "s": 19.21,
+            "e": 19.51
+          },
+          {
+            "w": "finally",
+            "s": 19.51,
+            "e": 19.79
+          },
+          {
+            "w": "taking",
+            "s": 19.79,
+            "e": 20.17
+          },
+          {
+            "w": "off.",
+            "s": 20.17,
+            "e": 20.49
+          },
+          {
+            "w": "You're",
+            "s": 21.97,
+            "e": 22.27
+          },
+          {
+            "w": "scrolling",
+            "s": 22.27,
+            "e": 22.59
+          },
+          {
+            "w": "on",
+            "s": 22.59,
+            "e": 22.89
+          },
+          {
+            "w": "Instagram",
+            "s": 22.89,
+            "e": 23.31
+          },
+          {
+            "w": "and",
+            "s": 23.31,
+            "e": 23.79
+          },
+          {
+            "w": "that's",
+            "s": 23.79,
+            "e": 24.23
+          },
+          {
+            "w": "pretty",
+            "s": 24.23,
+            "e": 24.37
+          },
+          {
+            "w": "cool",
+            "s": 24.37,
+            "e": 24.67
+          },
+          {
+            "w": "because",
+            "s": 24.67,
+            "e": 24.99
+          },
+          {
+            "w": "they",
+            "s": 24.99,
+            "e": 25.17
+          },
+          {
+            "w": "only",
+            "s": 25.17,
+            "e": 25.35
+          },
+          {
+            "w": "just",
+            "s": 25.35,
+            "e": 25.69
+          },
+          {
+            "w": "started",
+            "s": 25.69,
+            "e": 26.07
+          },
+          {
+            "w": "with",
+            "s": 26.07,
+            "e": 26.39
+          },
+          {
+            "w": "their",
+            "s": 26.39,
+            "e": 26.55
+          },
+          {
+            "w": "algorithmic",
+            "s": 26.55,
+            "e": 27.25
+          },
+          {
+            "w": "feed.",
+            "s": 27.25,
+            "e": 27.47
+          },
+          {
+            "w": "So",
+            "s": 27.47,
+            "e": 27.99
+          },
+          {
+            "w": "you're",
+            "s": 27.99,
+            "e": 28.09
+          },
+          {
+            "w": "still",
+            "s": 28.09,
+            "e": 28.29
+          },
+          {
+            "w": "kind",
+            "s": 28.29,
+            "e": 28.61
+          },
+          {
+            "w": "of",
+            "s": 28.61,
+            "e": 28.75
+          },
+          {
+            "w": "seeing",
+            "s": 28.75,
+            "e": 28.99
+          },
+          {
+            "w": "memes",
+            "s": 28.99,
+            "e": 29.35
+          },
+          {
+            "w": "and",
+            "s": 29.35,
+            "e": 29.73
+          },
+          {
+            "w": "photo",
+            "s": 29.73,
+            "e": 29.95
+          },
+          {
+            "w": "dumps",
+            "s": 29.95,
+            "e": 30.29
+          },
+          {
+            "w": "from",
+            "s": 30.29,
+            "e": 30.63
+          },
+          {
+            "w": "people",
+            "s": 30.63,
+            "e": 31.05
+          },
+          {
+            "w": "you",
+            "s": 31.05,
+            "e": 31.33
+          },
+          {
+            "w": "actually",
+            "s": 31.33,
+            "e": 31.67
+          },
+          {
+            "w": "know.",
+            "s": 31.67,
+            "e": 32.07
+          },
+          {
+            "w": "What's",
+            "s": 33.55,
+            "e": 34.23
+          },
+          {
+            "w": "up",
+            "s": 34.23,
+            "e": 34.31
+          },
+          {
+            "w": "with",
+            "s": 34.31,
+            "e": 34.47
+          },
+          {
+            "w": "all",
+            "s": 34.47,
+            "e": 34.59
+          },
+          {
+            "w": "these",
+            "s": 34.59,
+            "e": 34.75
+          },
+          {
+            "w": "orange",
+            "s": 34.75,
+            "e": 35.11
+          },
+          {
+            "w": "squares?",
+            "s": 35.11,
+            "e": 35.67
+          },
+          {
+            "w": "Influencers",
+            "s": 36.85,
+            "e": 37.53
+          },
+          {
+            "w": "and",
+            "s": 37.53,
+            "e": 37.89
+          },
+          {
+            "w": "famous",
+            "s": 37.89,
+            "e": 38.21
+          },
+          {
+            "w": "faces",
+            "s": 38.21,
+            "e": 38.73
+          },
+          {
+            "w": "from",
+            "s": 38.73,
+            "e": 39.09
+          },
+          {
+            "w": "Kendall",
+            "s": 39.09,
+            "e": 39.33
+          },
+          {
+            "w": "Jenner",
+            "s": 39.33,
+            "e": 39.71
+          },
+          {
+            "w": "and",
+            "s": 39.71,
+            "e": 40.13
+          },
+          {
+            "w": "Hayley",
+            "s": 40.13,
+            "e": 40.47
+          },
+          {
+            "w": "Baldwin,",
+            "s": 40.47,
+            "e": 40.87
+          },
+          {
+            "w": "Emily",
+            "s": 41.51,
+            "e": 41.71
+          },
+          {
+            "w": "Radikowski",
+            "s": 41.71,
+            "e": 42.29
+          },
+          {
+            "w": "and",
+            "s": 42.29,
+            "e": 42.95
+          },
+          {
+            "w": "Ja",
+            "s": 42.95,
+            "e": 43.09
+          },
+          {
+            "w": "Rule",
+            "s": 43.09,
+            "e": 43.39
+          },
+          {
+            "w": "are",
+            "s": 43.39,
+            "e": 44.03
+          },
+          {
+            "w": "posting",
+            "s": 44.03,
+            "e": 44.35
+          },
+          {
+            "w": "about",
+            "s": 44.35,
+            "e": 44.67
+          },
+          {
+            "w": "this",
+            "s": 44.67,
+            "e": 44.89
+          },
+          {
+            "w": "high",
+            "s": 44.89,
+            "e": 45.25
+          },
+          {
+            "w": "-end",
+            "s": 45.25,
+            "e": 45.59
+          },
+          {
+            "w": "music",
+            "s": 45.59,
+            "e": 45.87
+          },
+          {
+            "w": "festival",
+            "s": 45.87,
+            "e": 46.29
+          },
+          {
+            "w": "coming",
+            "s": 46.29,
+            "e": 46.79
+          },
+          {
+            "w": "to",
+            "s": 46.79,
+            "e": 47.01
+          },
+          {
+            "w": "the",
+            "s": 47.01,
+            "e": 47.11
+          },
+          {
+            "w": "Bahamas.",
+            "s": 47.11,
+            "e": 47.41
+          },
+          {
+            "w": "White",
+            "s": 50.25,
+            "e": 50.49
+          },
+          {
+            "w": "sand",
+            "s": 50.49,
+            "e": 50.75
+          },
+          {
+            "w": "beaches,",
+            "s": 50.75,
+            "e": 51.27
+          },
+          {
+            "w": "luxury",
+            "s": 52.09,
+            "e": 52.23
+          },
+          {
+            "w": "accommodations,",
+            "s": 52.23,
+            "e": 52.79
+          },
+          {
+            "w": "me",
+            "s": 54.29,
+            "e": 54.29
+          },
+          {
+            "w": "ghosts,",
+            "s": 54.29,
+            "e": 54.63
+          },
+          {
+            "w": "major",
+            "s": 55.17,
+            "e": 55.23
+          },
+          {
+            "w": "laser,",
+            "s": 55.23,
+            "e": 55.75
+          },
+          {
+            "w": "the",
+            "s": 56.35,
+            "e": 56.55
+          },
+          {
+            "w": "cultural",
+            "s": 56.55,
+            "e": 56.85
+          },
+          {
+            "w": "experience",
+            "s": 56.85,
+            "e": 57.65
+          },
+          {
+            "w": "of",
+            "s": 57.65,
+            "e": 58.21
+          },
+          {
+            "w": "a",
+            "s": 58.21,
+            "e": 58.29
+          },
+          {
+            "w": "decade.",
+            "s": 58.29,
+            "e": 58.59
+          },
+          {
+            "w": "Influencer",
+            "s": 60.03,
+            "e": 60.63
+          },
+          {
+            "w": "and",
+            "s": 60.63,
+            "e": 60.79
+          },
+          {
+            "w": "celebrity",
+            "s": 60.79,
+            "e": 61.09
+          },
+          {
+            "w": "-driven",
+            "s": 61.09,
+            "e": 61.65
+          },
+          {
+            "w": "marketing",
+            "s": 61.65,
+            "e": 62.15
+          },
+          {
+            "w": "sells",
+            "s": 62.15,
+            "e": 62.51
+          },
+          {
+            "w": "out",
+            "s": 62.51,
+            "e": 62.79
+          },
+          {
+            "w": "95",
+            "s": 62.79,
+            "e": 63.17
+          },
+          {
+            "w": "%",
+            "s": 63.17,
+            "e": 63.85
+          },
+          {
+            "w": "of",
+            "s": 63.85,
+            "e": 64.01
+          },
+          {
+            "w": "tickets",
+            "s": 64.01,
+            "e": 64.31
+          },
+          {
+            "w": "in",
+            "s": 64.31,
+            "e": 64.55
+          },
+          {
+            "w": "48",
+            "s": 64.55,
+            "e": 64.89
+          },
+          {
+            "w": "hours.",
+            "s": 64.89,
+            "e": 65.41
+          },
+          {
+            "w": "Some",
+            "s": 66.19,
+            "e": 66.47
+          },
+          {
+            "w": "folks",
+            "s": 66.47,
+            "e": 66.87
+          },
+          {
+            "w": "are",
+            "s": 66.87,
+            "e": 67.07
+          },
+          {
+            "w": "shelling",
+            "s": 67.07,
+            "e": 67.33
+          },
+          {
+            "w": "out",
+            "s": 67.33,
+            "e": 67.69
+          },
+          {
+            "w": "up",
+            "s": 67.69,
+            "e": 67.91
+          },
+          {
+            "w": "to",
+            "s": 67.91,
+            "e": 68.11
+          },
+          {
+            "w": "100k",
+            "s": 68.11,
+            "e": 69.03
+          },
+          {
+            "w": "for",
+            "s": 69.03,
+            "e": 69.31
+          },
+          {
+            "w": "a",
+            "s": 69.31,
+            "e": 69.43
+          },
+          {
+            "w": "spot",
+            "s": 69.43,
+            "e": 69.67
+          },
+          {
+            "w": "and",
+            "s": 69.67,
+            "e": 70.09
+          },
+          {
+            "w": "college",
+            "s": 70.09,
+            "e": 70.33
+          },
+          {
+            "w": "students",
+            "s": 70.33,
+            "e": 70.91
+          },
+          {
+            "w": "are",
+            "s": 70.91,
+            "e": 71.31
+          },
+          {
+            "w": "also",
+            "s": 71.31,
+            "e": 71.55
+          },
+          {
+            "w": "going",
+            "s": 71.55,
+            "e": 71.93
+          },
+          {
+            "w": "for",
+            "s": 71.93,
+            "e": 72.09
+          },
+          {
+            "w": "spring",
+            "s": 72.09,
+            "e": 72.31
+          },
+          {
+            "w": "break.",
+            "s": 72.31,
+            "e": 72.57
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "time": "01:13",
+        "seconds": 73.4,
+        "endSeconds": 159.4,
+        "title": "第 2 幕：Not a bad way to unwind for finals, r...",
+        "original": "Not a bad way to unwind for finals, right? Except it never took place. Fire Festival has gone down in history as the greatest party that never happened. Ticket holders expecting five-star service showed up to bread and cheese sandwiches and femotents. None of the promised artists performed and the main organizer ended up in federal prison. While so much of this was shocking, what really resonated with me was how this was really a story about trust. A lot of people here were left disappointed. Netflix and Hulu got some great fodder. But hundreds, not even thousands of smart, well-off people saw this glamorous curated content online and collectively decided. This is real and it's worth the cost. Humans gravitate to people that we like. When someone feels relatable, we instinctively trust them more. But relatability and credibility are two very different things. After years working in legacy newsrooms, I thought I understood how people interact with news to inform our worldviews.",
+        "translation": "在期末考前去海岛彻底放松，听起来棒极了对吧？然而，这场音乐节压根就没办成。“斐尔音乐节”（Fyre Festival）名垂青史，成了历史上“从未发生过的最伟大派对”。满心期待五星级服务的购票者赶到现场，迎面而来的却是冰冷的起司面包和救灾应急帐篷。承诺的明星大咖无一登台，主创发起人最终锒铛入狱。这一切固然令人震惊，但真正引发我深思的，是它背后折射出的“信任危机”。无数人满怀期待却被坑得血本无归，网飞（Netflix）和 Hulu 倒是捡了个大便宜，拍成了爆款纪录片。可为什么成百上千聪颖过人、家境优渥的人，仅仅因为在网上看到了包装精美的内容，就集体深信不疑：这是真的，而且物超所值？人类本能地容易被自己喜欢的人吸引；当一个人让我们感到亲近、有共鸣，我们便会不假思索地予以信任。然而，“亲和力”与“可信度”完全是两码事。在传统新闻编辑室摸爬滚打多年后，我本以为自己十分清楚公众是如何通过新闻来构建世界观的。",
+        "words": [
+          {
+            "w": "Not",
+            "s": 73.41,
+            "e": 73.63
+          },
+          {
+            "w": "a",
+            "s": 73.63,
+            "e": 73.73
+          },
+          {
+            "w": "bad",
+            "s": 73.73,
+            "e": 73.87
+          },
+          {
+            "w": "way",
+            "s": 73.87,
+            "e": 74.11
+          },
+          {
+            "w": "to",
+            "s": 74.11,
+            "e": 74.41
+          },
+          {
+            "w": "unwind",
+            "s": 74.41,
+            "e": 74.83
+          },
+          {
+            "w": "for",
+            "s": 74.83,
+            "e": 74.99
+          },
+          {
+            "w": "finals,",
+            "s": 74.99,
+            "e": 75.29
+          },
+          {
+            "w": "right?",
+            "s": 75.29,
+            "e": 75.83
+          },
+          {
+            "w": "Except",
+            "s": 77.63,
+            "e": 78.23
+          },
+          {
+            "w": "it",
+            "s": 78.23,
+            "e": 78.63
+          },
+          {
+            "w": "never",
+            "s": 78.63,
+            "e": 78.87
+          },
+          {
+            "w": "took",
+            "s": 78.87,
+            "e": 79.21
+          },
+          {
+            "w": "place.",
+            "s": 79.21,
+            "e": 79.55
+          },
+          {
+            "w": "Fire",
+            "s": 81.11,
+            "e": 81.91
+          },
+          {
+            "w": "Festival",
+            "s": 81.91,
+            "e": 82.41
+          },
+          {
+            "w": "has",
+            "s": 82.41,
+            "e": 83.35
+          },
+          {
+            "w": "gone",
+            "s": 83.35,
+            "e": 83.61
+          },
+          {
+            "w": "down",
+            "s": 83.61,
+            "e": 83.87
+          },
+          {
+            "w": "in",
+            "s": 83.87,
+            "e": 84.01
+          },
+          {
+            "w": "history",
+            "s": 84.01,
+            "e": 84.39
+          },
+          {
+            "w": "as",
+            "s": 84.39,
+            "e": 85.05
+          },
+          {
+            "w": "the",
+            "s": 85.05,
+            "e": 85.23
+          },
+          {
+            "w": "greatest",
+            "s": 85.23,
+            "e": 85.49
+          },
+          {
+            "w": "party",
+            "s": 85.49,
+            "e": 85.99
+          },
+          {
+            "w": "that",
+            "s": 85.99,
+            "e": 86.57
+          },
+          {
+            "w": "never",
+            "s": 86.57,
+            "e": 87.01
+          },
+          {
+            "w": "happened.",
+            "s": 87.01,
+            "e": 87.53
+          },
+          {
+            "w": "Ticket",
+            "s": 88.69,
+            "e": 89.49
+          },
+          {
+            "w": "holders",
+            "s": 89.49,
+            "e": 89.89
+          },
+          {
+            "w": "expecting",
+            "s": 89.89,
+            "e": 90.51
+          },
+          {
+            "w": "five",
+            "s": 90.51,
+            "e": 91.01
+          },
+          {
+            "w": "-star",
+            "s": 91.01,
+            "e": 91.33
+          },
+          {
+            "w": "service",
+            "s": 91.33,
+            "e": 91.73
+          },
+          {
+            "w": "showed",
+            "s": 91.73,
+            "e": 92.33
+          },
+          {
+            "w": "up",
+            "s": 92.33,
+            "e": 92.53
+          },
+          {
+            "w": "to",
+            "s": 92.53,
+            "e": 92.75
+          },
+          {
+            "w": "bread",
+            "s": 92.75,
+            "e": 93.25
+          },
+          {
+            "w": "and",
+            "s": 93.25,
+            "e": 93.45
+          },
+          {
+            "w": "cheese",
+            "s": 93.45,
+            "e": 93.63
+          },
+          {
+            "w": "sandwiches",
+            "s": 93.63,
+            "e": 94.23
+          },
+          {
+            "w": "and",
+            "s": 94.23,
+            "e": 94.77
+          },
+          {
+            "w": "femotents.",
+            "s": 94.77,
+            "e": 95.69
+          },
+          {
+            "w": "None",
+            "s": 96.37,
+            "e": 96.75
+          },
+          {
+            "w": "of",
+            "s": 96.75,
+            "e": 96.91
+          },
+          {
+            "w": "the",
+            "s": 96.91,
+            "e": 96.99
+          },
+          {
+            "w": "promised",
+            "s": 96.99,
+            "e": 97.29
+          },
+          {
+            "w": "artists",
+            "s": 97.29,
+            "e": 97.81
+          },
+          {
+            "w": "performed",
+            "s": 97.81,
+            "e": 98.21
+          },
+          {
+            "w": "and",
+            "s": 98.21,
+            "e": 98.97
+          },
+          {
+            "w": "the",
+            "s": 98.97,
+            "e": 99.25
+          },
+          {
+            "w": "main",
+            "s": 99.25,
+            "e": 99.41
+          },
+          {
+            "w": "organizer",
+            "s": 99.41,
+            "e": 99.89
+          },
+          {
+            "w": "ended",
+            "s": 99.89,
+            "e": 100.69
+          },
+          {
+            "w": "up",
+            "s": 100.69,
+            "e": 100.99
+          },
+          {
+            "w": "in",
+            "s": 100.99,
+            "e": 101.13
+          },
+          {
+            "w": "federal",
+            "s": 101.13,
+            "e": 101.45
+          },
+          {
+            "w": "prison.",
+            "s": 101.45,
+            "e": 101.83
+          },
+          {
+            "w": "While",
+            "s": 101.83,
+            "e": 103.07
+          },
+          {
+            "w": "so",
+            "s": 104.73,
+            "e": 104.97
+          },
+          {
+            "w": "much",
+            "s": 104.97,
+            "e": 105.33
+          },
+          {
+            "w": "of",
+            "s": 105.33,
+            "e": 105.57
+          },
+          {
+            "w": "this",
+            "s": 105.57,
+            "e": 105.79
+          },
+          {
+            "w": "was",
+            "s": 105.79,
+            "e": 106.05
+          },
+          {
+            "w": "shocking,",
+            "s": 106.05,
+            "e": 106.69
+          },
+          {
+            "w": "what",
+            "s": 108.55,
+            "e": 108.77
+          },
+          {
+            "w": "really",
+            "s": 108.77,
+            "e": 109.05
+          },
+          {
+            "w": "resonated",
+            "s": 109.05,
+            "e": 109.69
+          },
+          {
+            "w": "with",
+            "s": 109.69,
+            "e": 109.93
+          },
+          {
+            "w": "me",
+            "s": 109.93,
+            "e": 110.19
+          },
+          {
+            "w": "was",
+            "s": 110.19,
+            "e": 110.97
+          },
+          {
+            "w": "how",
+            "s": 110.97,
+            "e": 111.45
+          },
+          {
+            "w": "this",
+            "s": 111.45,
+            "e": 111.67
+          },
+          {
+            "w": "was",
+            "s": 111.67,
+            "e": 111.81
+          },
+          {
+            "w": "really",
+            "s": 111.81,
+            "e": 112.19
+          },
+          {
+            "w": "a",
+            "s": 112.19,
+            "e": 112.31
+          },
+          {
+            "w": "story",
+            "s": 112.31,
+            "e": 112.75
+          },
+          {
+            "w": "about",
+            "s": 112.75,
+            "e": 113.33
+          },
+          {
+            "w": "trust.",
+            "s": 113.33,
+            "e": 113.77
+          },
+          {
+            "w": "A",
+            "s": 114.75,
+            "e": 114.89
+          },
+          {
+            "w": "lot",
+            "s": 114.89,
+            "e": 115.05
+          },
+          {
+            "w": "of",
+            "s": 115.05,
+            "e": 115.17
+          },
+          {
+            "w": "people",
+            "s": 115.17,
+            "e": 115.45
+          },
+          {
+            "w": "here",
+            "s": 115.45,
+            "e": 115.77
+          },
+          {
+            "w": "were",
+            "s": 115.77,
+            "e": 116.17
+          },
+          {
+            "w": "left",
+            "s": 116.17,
+            "e": 116.35
+          },
+          {
+            "w": "disappointed.",
+            "s": 116.35,
+            "e": 116.87
+          },
+          {
+            "w": "Netflix",
+            "s": 117.89,
+            "e": 118.09
+          },
+          {
+            "w": "and",
+            "s": 118.09,
+            "e": 118.41
+          },
+          {
+            "w": "Hulu",
+            "s": 118.41,
+            "e": 118.63
+          },
+          {
+            "w": "got",
+            "s": 118.63,
+            "e": 119.43
+          },
+          {
+            "w": "some",
+            "s": 119.43,
+            "e": 119.79
+          },
+          {
+            "w": "great",
+            "s": 119.79,
+            "e": 120.03
+          },
+          {
+            "w": "fodder.",
+            "s": 120.03,
+            "e": 120.35
+          },
+          {
+            "w": "But",
+            "s": 121.91,
+            "e": 121.91
+          },
+          {
+            "w": "hundreds,",
+            "s": 121.91,
+            "e": 122.51
+          },
+          {
+            "w": "not",
+            "s": 123.13,
+            "e": 123.73
+          },
+          {
+            "w": "even",
+            "s": 123.73,
+            "e": 123.97
+          },
+          {
+            "w": "thousands",
+            "s": 123.97,
+            "e": 124.77
+          },
+          {
+            "w": "of",
+            "s": 124.77,
+            "e": 125.29
+          },
+          {
+            "w": "smart,",
+            "s": 125.29,
+            "e": 125.69
+          },
+          {
+            "w": "well",
+            "s": 125.69,
+            "e": 126.37
+          },
+          {
+            "w": "-off",
+            "s": 126.37,
+            "e": 126.67
+          },
+          {
+            "w": "people",
+            "s": 126.67,
+            "e": 127.15
+          },
+          {
+            "w": "saw",
+            "s": 127.15,
+            "e": 127.81
+          },
+          {
+            "w": "this",
+            "s": 127.81,
+            "e": 127.99
+          },
+          {
+            "w": "glamorous",
+            "s": 127.99,
+            "e": 128.59
+          },
+          {
+            "w": "curated",
+            "s": 128.59,
+            "e": 129.17
+          },
+          {
+            "w": "content",
+            "s": 129.17,
+            "e": 129.87
+          },
+          {
+            "w": "online",
+            "s": 129.87,
+            "e": 130.43
+          },
+          {
+            "w": "and",
+            "s": 130.43,
+            "e": 131.21
+          },
+          {
+            "w": "collectively",
+            "s": 131.21,
+            "e": 131.55
+          },
+          {
+            "w": "decided.",
+            "s": 131.55,
+            "e": 132.45
+          },
+          {
+            "w": "This",
+            "s": 132.45,
+            "e": 133.35
+          },
+          {
+            "w": "is",
+            "s": 133.35,
+            "e": 133.57
+          },
+          {
+            "w": "real",
+            "s": 133.57,
+            "e": 133.85
+          },
+          {
+            "w": "and",
+            "s": 133.85,
+            "e": 134.79
+          },
+          {
+            "w": "it's",
+            "s": 134.79,
+            "e": 135.03
+          },
+          {
+            "w": "worth",
+            "s": 135.03,
+            "e": 135.15
+          },
+          {
+            "w": "the",
+            "s": 135.15,
+            "e": 135.37
+          },
+          {
+            "w": "cost.",
+            "s": 135.37,
+            "e": 135.67
+          },
+          {
+            "w": "Humans",
+            "s": 137.31,
+            "e": 137.73
+          },
+          {
+            "w": "gravitate",
+            "s": 137.73,
+            "e": 138.45
+          },
+          {
+            "w": "to",
+            "s": 138.45,
+            "e": 138.75
+          },
+          {
+            "w": "people",
+            "s": 138.75,
+            "e": 139.01
+          },
+          {
+            "w": "that",
+            "s": 139.01,
+            "e": 139.53
+          },
+          {
+            "w": "we",
+            "s": 139.53,
+            "e": 139.67
+          },
+          {
+            "w": "like.",
+            "s": 139.67,
+            "e": 139.85
+          },
+          {
+            "w": "When",
+            "s": 140.45,
+            "e": 140.67
+          },
+          {
+            "w": "someone",
+            "s": 140.67,
+            "e": 140.93
+          },
+          {
+            "w": "feels",
+            "s": 140.93,
+            "e": 141.27
+          },
+          {
+            "w": "relatable,",
+            "s": 141.27,
+            "e": 141.95
+          },
+          {
+            "w": "we",
+            "s": 142.37,
+            "e": 142.53
+          },
+          {
+            "w": "instinctively",
+            "s": 142.53,
+            "e": 142.91
+          },
+          {
+            "w": "trust",
+            "s": 142.91,
+            "e": 143.57
+          },
+          {
+            "w": "them",
+            "s": 143.57,
+            "e": 143.87
+          },
+          {
+            "w": "more.",
+            "s": 143.87,
+            "e": 144.15
+          },
+          {
+            "w": "But",
+            "s": 145.05,
+            "e": 145.07
+          },
+          {
+            "w": "relatability",
+            "s": 145.07,
+            "e": 145.87
+          },
+          {
+            "w": "and",
+            "s": 145.87,
+            "e": 146.17
+          },
+          {
+            "w": "credibility",
+            "s": 146.17,
+            "e": 146.63
+          },
+          {
+            "w": "are",
+            "s": 146.63,
+            "e": 147.33
+          },
+          {
+            "w": "two",
+            "s": 147.33,
+            "e": 147.57
+          },
+          {
+            "w": "very",
+            "s": 147.57,
+            "e": 147.95
+          },
+          {
+            "w": "different",
+            "s": 147.95,
+            "e": 148.35
+          },
+          {
+            "w": "things.",
+            "s": 148.35,
+            "e": 148.77
+          },
+          {
+            "w": "After",
+            "s": 151.44,
+            "e": 151.94
+          },
+          {
+            "w": "years",
+            "s": 151.94,
+            "e": 152.18
+          },
+          {
+            "w": "working",
+            "s": 152.18,
+            "e": 152.6
+          },
+          {
+            "w": "in",
+            "s": 152.6,
+            "e": 152.94
+          },
+          {
+            "w": "legacy",
+            "s": 152.94,
+            "e": 153.26
+          },
+          {
+            "w": "newsrooms,",
+            "s": 153.26,
+            "e": 154.02
+          },
+          {
+            "w": "I",
+            "s": 154.28,
+            "e": 154.38
+          },
+          {
+            "w": "thought",
+            "s": 154.38,
+            "e": 154.58
+          },
+          {
+            "w": "I",
+            "s": 154.58,
+            "e": 154.8
+          },
+          {
+            "w": "understood",
+            "s": 154.8,
+            "e": 155.14
+          },
+          {
+            "w": "how",
+            "s": 155.14,
+            "e": 155.74
+          },
+          {
+            "w": "people",
+            "s": 155.74,
+            "e": 156.04
+          },
+          {
+            "w": "interact",
+            "s": 156.04,
+            "e": 156.48
+          },
+          {
+            "w": "with",
+            "s": 156.48,
+            "e": 156.92
+          },
+          {
+            "w": "news",
+            "s": 156.92,
+            "e": 157.22
+          },
+          {
+            "w": "to",
+            "s": 157.22,
+            "e": 157.68
+          },
+          {
+            "w": "inform",
+            "s": 157.68,
+            "e": 158.16
+          },
+          {
+            "w": "our",
+            "s": 158.16,
+            "e": 158.56
+          },
+          {
+            "w": "worldviews.",
+            "s": 158.56,
+            "e": 159.38
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "time": "02:39",
+        "seconds": 159.4,
+        "endSeconds": 237.8,
+        "title": "第 3 幕：It wasn't until I later started worki...",
+        "original": "It wasn't until I later started working with new media creators that I realized just to what extent we are not all dissecting information using the same framework. Throughout my career in communications, I've had this front row seat to the ways that our evolving media landscape is shaping our democracy. The habits journalists use to verify information shouldn't be trade secrets. They're not difficult or unattainable, but they're not taught outside of newsrooms or journalism schools. And in today's social media, AI-powered information environment, that skill gap might be the biggest civic problem we have. Journalists spend years learning a professional discipline of interrogating information in pursuit of the truth. It's a craft rooted in ethics and moral reasoning. There's so much that happens inside of a newsroom to ensure accuracy that not everybody realizes simply because we've never been in that environment. Facts don't just materialize. Reporters, editors, fact checkers, and legal teams are all working together to parse out truth.",
+        "translation": "直到后来我开始与新媒体创作者合作，才恍然大悟：原来我们每个人在拆解、吸收信息时，所用的逻辑框架竟然天差地别。在我的传播学生涯中，我始终身处前排，亲眼见证着不断演变的媒体生态如何重塑我们的民主。记者核实信息的方法本不该是什么行业秘诀。它们既不复杂，也不高深，但除了新闻编辑室或新闻学院，外界几乎从未传授过。而在如今这个由社交媒体和人工智能主导的信息环境中，这种技能的断层，或许正是我们面临的最严峻的公民素养危机。记者需要历经数年受训，恪守严谨的专业准则，层层拷问信息以探求真相。这是一门深深植根于伦理操守与道德思辨的技艺。为了确保事实准确，新闻编辑室背后付出了常人难以想象的努力，而绝大多数人对此一无所知，仅仅是因为他们从未涉足那个环境。事实不会凭空显现——它是记者、编辑、事实核查员以及法务团队通力协作、抽丝剥茧提炼出来的结晶。",
+        "words": [
+          {
+            "w": "It",
+            "s": 159.38,
+            "e": 160.0
+          },
+          {
+            "w": "wasn't",
+            "s": 160.0,
+            "e": 160.54
+          },
+          {
+            "w": "until",
+            "s": 160.54,
+            "e": 160.86
+          },
+          {
+            "w": "I",
+            "s": 160.86,
+            "e": 161.1
+          },
+          {
+            "w": "later",
+            "s": 161.1,
+            "e": 161.36
+          },
+          {
+            "w": "started",
+            "s": 161.36,
+            "e": 161.82
+          },
+          {
+            "w": "working",
+            "s": 161.82,
+            "e": 162.22
+          },
+          {
+            "w": "with",
+            "s": 162.22,
+            "e": 163.12
+          },
+          {
+            "w": "new",
+            "s": 163.12,
+            "e": 163.5
+          },
+          {
+            "w": "media",
+            "s": 163.5,
+            "e": 163.86
+          },
+          {
+            "w": "creators",
+            "s": 163.86,
+            "e": 164.42
+          },
+          {
+            "w": "that",
+            "s": 164.42,
+            "e": 165.2
+          },
+          {
+            "w": "I",
+            "s": 165.2,
+            "e": 165.32
+          },
+          {
+            "w": "realized",
+            "s": 165.32,
+            "e": 165.64
+          },
+          {
+            "w": "just",
+            "s": 165.64,
+            "e": 166.22
+          },
+          {
+            "w": "to",
+            "s": 166.22,
+            "e": 166.52
+          },
+          {
+            "w": "what",
+            "s": 166.52,
+            "e": 166.88
+          },
+          {
+            "w": "extent",
+            "s": 166.88,
+            "e": 167.26
+          },
+          {
+            "w": "we",
+            "s": 167.26,
+            "e": 167.62
+          },
+          {
+            "w": "are",
+            "s": 167.62,
+            "e": 167.74
+          },
+          {
+            "w": "not",
+            "s": 167.74,
+            "e": 167.92
+          },
+          {
+            "w": "all",
+            "s": 167.92,
+            "e": 168.12
+          },
+          {
+            "w": "dissecting",
+            "s": 168.12,
+            "e": 168.8
+          },
+          {
+            "w": "information",
+            "s": 168.8,
+            "e": 169.06
+          },
+          {
+            "w": "using",
+            "s": 169.06,
+            "e": 170.12
+          },
+          {
+            "w": "the",
+            "s": 170.12,
+            "e": 170.4
+          },
+          {
+            "w": "same",
+            "s": 170.4,
+            "e": 170.64
+          },
+          {
+            "w": "framework.",
+            "s": 170.64,
+            "e": 171.18
+          },
+          {
+            "w": "Throughout",
+            "s": 172.14,
+            "e": 172.86
+          },
+          {
+            "w": "my",
+            "s": 172.86,
+            "e": 173.1
+          },
+          {
+            "w": "career",
+            "s": 173.1,
+            "e": 173.38
+          },
+          {
+            "w": "in",
+            "s": 173.38,
+            "e": 173.62
+          },
+          {
+            "w": "communications,",
+            "s": 173.62,
+            "e": 174.1
+          },
+          {
+            "w": "I've",
+            "s": 174.64,
+            "e": 174.7
+          },
+          {
+            "w": "had",
+            "s": 174.7,
+            "e": 174.92
+          },
+          {
+            "w": "this",
+            "s": 174.92,
+            "e": 175.1
+          },
+          {
+            "w": "front",
+            "s": 175.1,
+            "e": 175.36
+          },
+          {
+            "w": "row",
+            "s": 175.36,
+            "e": 175.58
+          },
+          {
+            "w": "seat",
+            "s": 175.58,
+            "e": 175.92
+          },
+          {
+            "w": "to",
+            "s": 175.92,
+            "e": 176.22
+          },
+          {
+            "w": "the",
+            "s": 176.22,
+            "e": 176.58
+          },
+          {
+            "w": "ways",
+            "s": 176.58,
+            "e": 176.92
+          },
+          {
+            "w": "that",
+            "s": 176.92,
+            "e": 177.3
+          },
+          {
+            "w": "our",
+            "s": 177.3,
+            "e": 177.88
+          },
+          {
+            "w": "evolving",
+            "s": 177.88,
+            "e": 178.44
+          },
+          {
+            "w": "media",
+            "s": 178.44,
+            "e": 178.78
+          },
+          {
+            "w": "landscape",
+            "s": 178.78,
+            "e": 179.42
+          },
+          {
+            "w": "is",
+            "s": 179.42,
+            "e": 179.8
+          },
+          {
+            "w": "shaping",
+            "s": 179.8,
+            "e": 180.16
+          },
+          {
+            "w": "our",
+            "s": 180.16,
+            "e": 180.42
+          },
+          {
+            "w": "democracy.",
+            "s": 180.42,
+            "e": 180.9
+          },
+          {
+            "w": "The",
+            "s": 181.98,
+            "e": 182.06
+          },
+          {
+            "w": "habits",
+            "s": 182.06,
+            "e": 182.36
+          },
+          {
+            "w": "journalists",
+            "s": 182.36,
+            "e": 182.84
+          },
+          {
+            "w": "use",
+            "s": 182.84,
+            "e": 183.26
+          },
+          {
+            "w": "to",
+            "s": 183.26,
+            "e": 183.58
+          },
+          {
+            "w": "verify",
+            "s": 183.58,
+            "e": 183.9
+          },
+          {
+            "w": "information",
+            "s": 183.9,
+            "e": 184.78
+          },
+          {
+            "w": "shouldn't",
+            "s": 184.78,
+            "e": 185.4
+          },
+          {
+            "w": "be",
+            "s": 185.4,
+            "e": 185.64
+          },
+          {
+            "w": "trade",
+            "s": 185.64,
+            "e": 185.96
+          },
+          {
+            "w": "secrets.",
+            "s": 185.96,
+            "e": 186.46
+          },
+          {
+            "w": "They're",
+            "s": 187.12,
+            "e": 187.58
+          },
+          {
+            "w": "not",
+            "s": 187.58,
+            "e": 187.68
+          },
+          {
+            "w": "difficult",
+            "s": 187.68,
+            "e": 188.08
+          },
+          {
+            "w": "or",
+            "s": 188.08,
+            "e": 188.8
+          },
+          {
+            "w": "unattainable,",
+            "s": 188.8,
+            "e": 189.78
+          },
+          {
+            "w": "but",
+            "s": 190.42,
+            "e": 190.44
+          },
+          {
+            "w": "they're",
+            "s": 190.44,
+            "e": 190.58
+          },
+          {
+            "w": "not",
+            "s": 190.58,
+            "e": 190.74
+          },
+          {
+            "w": "taught",
+            "s": 190.74,
+            "e": 191.02
+          },
+          {
+            "w": "outside",
+            "s": 191.02,
+            "e": 191.62
+          },
+          {
+            "w": "of",
+            "s": 191.62,
+            "e": 191.8
+          },
+          {
+            "w": "newsrooms",
+            "s": 191.8,
+            "e": 192.32
+          },
+          {
+            "w": "or",
+            "s": 192.32,
+            "e": 192.62
+          },
+          {
+            "w": "journalism",
+            "s": 192.62,
+            "e": 192.96
+          },
+          {
+            "w": "schools.",
+            "s": 192.96,
+            "e": 193.46
+          },
+          {
+            "w": "And",
+            "s": 194.24,
+            "e": 194.34
+          },
+          {
+            "w": "in",
+            "s": 194.34,
+            "e": 194.42
+          },
+          {
+            "w": "today's",
+            "s": 194.42,
+            "e": 194.98
+          },
+          {
+            "w": "social",
+            "s": 194.98,
+            "e": 195.5
+          },
+          {
+            "w": "media,",
+            "s": 195.5,
+            "e": 195.98
+          },
+          {
+            "w": "AI",
+            "s": 196.4,
+            "e": 196.58
+          },
+          {
+            "w": "-powered",
+            "s": 196.58,
+            "e": 197.22
+          },
+          {
+            "w": "information",
+            "s": 197.22,
+            "e": 197.76
+          },
+          {
+            "w": "environment,",
+            "s": 197.76,
+            "e": 198.3
+          },
+          {
+            "w": "that",
+            "s": 199.68,
+            "e": 199.82
+          },
+          {
+            "w": "skill",
+            "s": 199.82,
+            "e": 200.2
+          },
+          {
+            "w": "gap",
+            "s": 200.2,
+            "e": 200.54
+          },
+          {
+            "w": "might",
+            "s": 200.54,
+            "e": 201.16
+          },
+          {
+            "w": "be",
+            "s": 201.16,
+            "e": 201.4
+          },
+          {
+            "w": "the",
+            "s": 201.4,
+            "e": 201.58
+          },
+          {
+            "w": "biggest",
+            "s": 201.58,
+            "e": 202.26
+          },
+          {
+            "w": "civic",
+            "s": 202.26,
+            "e": 202.72
+          },
+          {
+            "w": "problem",
+            "s": 202.72,
+            "e": 203.26
+          },
+          {
+            "w": "we",
+            "s": 203.26,
+            "e": 203.72
+          },
+          {
+            "w": "have.",
+            "s": 203.72,
+            "e": 204.06
+          },
+          {
+            "w": "Journalists",
+            "s": 206.69,
+            "e": 207.21
+          },
+          {
+            "w": "spend",
+            "s": 207.21,
+            "e": 207.77
+          },
+          {
+            "w": "years",
+            "s": 207.77,
+            "e": 208.19
+          },
+          {
+            "w": "learning",
+            "s": 208.19,
+            "e": 208.71
+          },
+          {
+            "w": "a",
+            "s": 208.71,
+            "e": 209.13
+          },
+          {
+            "w": "professional",
+            "s": 209.13,
+            "e": 209.77
+          },
+          {
+            "w": "discipline",
+            "s": 209.77,
+            "e": 210.73
+          },
+          {
+            "w": "of",
+            "s": 210.73,
+            "e": 210.93
+          },
+          {
+            "w": "interrogating",
+            "s": 210.93,
+            "e": 211.71
+          },
+          {
+            "w": "information",
+            "s": 211.71,
+            "e": 212.05
+          },
+          {
+            "w": "in",
+            "s": 212.05,
+            "e": 212.73
+          },
+          {
+            "w": "pursuit",
+            "s": 212.73,
+            "e": 213.05
+          },
+          {
+            "w": "of",
+            "s": 213.05,
+            "e": 213.45
+          },
+          {
+            "w": "the",
+            "s": 213.45,
+            "e": 213.59
+          },
+          {
+            "w": "truth.",
+            "s": 213.59,
+            "e": 213.81
+          },
+          {
+            "w": "It's",
+            "s": 214.69,
+            "e": 215.07
+          },
+          {
+            "w": "a",
+            "s": 215.07,
+            "e": 215.11
+          },
+          {
+            "w": "craft",
+            "s": 215.11,
+            "e": 215.29
+          },
+          {
+            "w": "rooted",
+            "s": 215.29,
+            "e": 215.85
+          },
+          {
+            "w": "in",
+            "s": 215.85,
+            "e": 216.35
+          },
+          {
+            "w": "ethics",
+            "s": 216.35,
+            "e": 216.99
+          },
+          {
+            "w": "and",
+            "s": 216.99,
+            "e": 217.51
+          },
+          {
+            "w": "moral",
+            "s": 217.51,
+            "e": 217.75
+          },
+          {
+            "w": "reasoning.",
+            "s": 217.75,
+            "e": 218.25
+          },
+          {
+            "w": "There's",
+            "s": 219.41,
+            "e": 219.69
+          },
+          {
+            "w": "so",
+            "s": 219.69,
+            "e": 219.89
+          },
+          {
+            "w": "much",
+            "s": 219.89,
+            "e": 220.11
+          },
+          {
+            "w": "that",
+            "s": 220.11,
+            "e": 220.43
+          },
+          {
+            "w": "happens",
+            "s": 220.43,
+            "e": 220.97
+          },
+          {
+            "w": "inside",
+            "s": 220.97,
+            "e": 221.77
+          },
+          {
+            "w": "of",
+            "s": 221.77,
+            "e": 221.99
+          },
+          {
+            "w": "a",
+            "s": 221.99,
+            "e": 222.07
+          },
+          {
+            "w": "newsroom",
+            "s": 222.07,
+            "e": 222.55
+          },
+          {
+            "w": "to",
+            "s": 222.55,
+            "e": 223.03
+          },
+          {
+            "w": "ensure",
+            "s": 223.03,
+            "e": 223.37
+          },
+          {
+            "w": "accuracy",
+            "s": 223.37,
+            "e": 223.89
+          },
+          {
+            "w": "that",
+            "s": 223.89,
+            "e": 224.45
+          },
+          {
+            "w": "not",
+            "s": 224.45,
+            "e": 224.61
+          },
+          {
+            "w": "everybody",
+            "s": 224.61,
+            "e": 225.01
+          },
+          {
+            "w": "realizes",
+            "s": 225.01,
+            "e": 225.73
+          },
+          {
+            "w": "simply",
+            "s": 225.73,
+            "e": 226.05
+          },
+          {
+            "w": "because",
+            "s": 226.05,
+            "e": 226.43
+          },
+          {
+            "w": "we've",
+            "s": 226.43,
+            "e": 226.61
+          },
+          {
+            "w": "never",
+            "s": 226.61,
+            "e": 226.83
+          },
+          {
+            "w": "been",
+            "s": 226.83,
+            "e": 227.03
+          },
+          {
+            "w": "in",
+            "s": 227.03,
+            "e": 227.17
+          },
+          {
+            "w": "that",
+            "s": 227.17,
+            "e": 227.31
+          },
+          {
+            "w": "environment.",
+            "s": 227.31,
+            "e": 227.83
+          },
+          {
+            "w": "Facts",
+            "s": 228.83,
+            "e": 229.39
+          },
+          {
+            "w": "don't",
+            "s": 229.39,
+            "e": 229.93
+          },
+          {
+            "w": "just",
+            "s": 229.93,
+            "e": 230.13
+          },
+          {
+            "w": "materialize.",
+            "s": 230.13,
+            "e": 231.11
+          },
+          {
+            "w": "Reporters,",
+            "s": 231.59,
+            "e": 232.05
+          },
+          {
+            "w": "editors,",
+            "s": 232.17,
+            "e": 232.73
+          },
+          {
+            "w": "fact",
+            "s": 233.47,
+            "e": 233.55
+          },
+          {
+            "w": "checkers,",
+            "s": 233.55,
+            "e": 234.07
+          },
+          {
+            "w": "and",
+            "s": 234.29,
+            "e": 234.31
+          },
+          {
+            "w": "legal",
+            "s": 234.31,
+            "e": 234.53
+          },
+          {
+            "w": "teams",
+            "s": 234.53,
+            "e": 234.93
+          },
+          {
+            "w": "are",
+            "s": 234.93,
+            "e": 235.29
+          },
+          {
+            "w": "all",
+            "s": 235.29,
+            "e": 235.45
+          },
+          {
+            "w": "working",
+            "s": 235.45,
+            "e": 235.81
+          },
+          {
+            "w": "together",
+            "s": 235.81,
+            "e": 236.27
+          },
+          {
+            "w": "to",
+            "s": 236.27,
+            "e": 237.01
+          },
+          {
+            "w": "parse",
+            "s": 237.01,
+            "e": 237.25
+          },
+          {
+            "w": "out",
+            "s": 237.25,
+            "e": 237.49
+          },
+          {
+            "w": "truth.",
+            "s": 237.49,
+            "e": 237.81
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "time": "03:58",
+        "seconds": 238.8,
+        "endSeconds": 323.1,
+        "title": "第 4 幕：That looks like gathering information...",
+        "original": "That looks like gathering information, verifying facts, vetting sources, checking for bias, and overall maintaining objectivity to ensure trustworthiness. We have more access to information than any generation in history, yet in so many cases we're thinking less independently than ever before. Social media and AI algorithms push trending content to the top, but that doesn't guarantee accuracy or that we're getting all of the relevant facts that we need to make our own informed opinions. That disconnect is affecting our media literacy. And it's happening right when democracy needs that the most. The backbone of a strong democracy is an equal part of free press and an informed, engaged public. But in the U.S. right now, there are no national media literacy education standards. It's almost like our media ecosystem has evolved faster than our civic education system. A kid that's born today won't default to thinking in terms of the New York Times, Fox News, or PBS, but they're thinking in terms of Instagram and TikTok and YouTube.",
+        "translation": "这包括搜集信息、核实事实、审查信源、排查偏见，并从始至终保持客观，以确保信息的真实可靠。我们这一代人拥有的信息获取途径远超历史上的任何时期，然而在很多情况下，我们的独立思考能力却跌入了前所未有的低谷。社交媒体和 AI 算法将爆款内容推上热搜，但这绝不代表内容真实准确，更不意味着我们获得了足以形成独立判断的完整事实。这种脱节正在严重侵蚀我们的媒介素养——而在当下，恰恰是民主制度最迫切需要这一素养的关键时刻。健康民主的基石，一边是自由的新闻媒体，另一边则是明辨是非、积极参与的公众。然而在当今美国，竟然还没有统一的国家级媒介素养教育标准。我们的媒体生态演进得太快，公民教育体系已经被远远甩在了身后。今天出生的孩子，脑海中默认的第一信息源绝不会是《纽约时报》、福克斯新闻或公共电视网，而是 Instagram、TikTok 和 YouTube。",
+        "words": [
+          {
+            "w": "That",
+            "s": 238.77,
+            "e": 239.17
+          },
+          {
+            "w": "looks",
+            "s": 239.17,
+            "e": 239.39
+          },
+          {
+            "w": "like",
+            "s": 239.39,
+            "e": 239.71
+          },
+          {
+            "w": "gathering",
+            "s": 239.71,
+            "e": 240.41
+          },
+          {
+            "w": "information,",
+            "s": 240.41,
+            "e": 240.97
+          },
+          {
+            "w": "verifying",
+            "s": 241.71,
+            "e": 242.09
+          },
+          {
+            "w": "facts,",
+            "s": 242.09,
+            "e": 242.81
+          },
+          {
+            "w": "vetting",
+            "s": 243.35,
+            "e": 243.61
+          },
+          {
+            "w": "sources,",
+            "s": 243.61,
+            "e": 244.01
+          },
+          {
+            "w": "checking",
+            "s": 244.75,
+            "e": 244.99
+          },
+          {
+            "w": "for",
+            "s": 244.99,
+            "e": 245.35
+          },
+          {
+            "w": "bias,",
+            "s": 245.35,
+            "e": 245.73
+          },
+          {
+            "w": "and",
+            "s": 246.47,
+            "e": 246.73
+          },
+          {
+            "w": "overall",
+            "s": 246.73,
+            "e": 247.13
+          },
+          {
+            "w": "maintaining",
+            "s": 247.13,
+            "e": 248.07
+          },
+          {
+            "w": "objectivity",
+            "s": 248.07,
+            "e": 249.21
+          },
+          {
+            "w": "to",
+            "s": 249.21,
+            "e": 249.67
+          },
+          {
+            "w": "ensure",
+            "s": 249.67,
+            "e": 249.93
+          },
+          {
+            "w": "trustworthiness.",
+            "s": 249.93,
+            "e": 250.93
+          },
+          {
+            "w": "We",
+            "s": 252.51,
+            "e": 252.91
+          },
+          {
+            "w": "have",
+            "s": 252.91,
+            "e": 253.21
+          },
+          {
+            "w": "more",
+            "s": 253.21,
+            "e": 253.69
+          },
+          {
+            "w": "access",
+            "s": 253.69,
+            "e": 254.27
+          },
+          {
+            "w": "to",
+            "s": 254.27,
+            "e": 254.63
+          },
+          {
+            "w": "information",
+            "s": 254.63,
+            "e": 254.97
+          },
+          {
+            "w": "than",
+            "s": 254.97,
+            "e": 255.51
+          },
+          {
+            "w": "any",
+            "s": 255.51,
+            "e": 255.81
+          },
+          {
+            "w": "generation",
+            "s": 255.81,
+            "e": 256.51
+          },
+          {
+            "w": "in",
+            "s": 256.51,
+            "e": 256.83
+          },
+          {
+            "w": "history,",
+            "s": 256.83,
+            "e": 257.23
+          },
+          {
+            "w": "yet",
+            "s": 257.73,
+            "e": 258.21
+          },
+          {
+            "w": "in",
+            "s": 258.21,
+            "e": 258.43
+          },
+          {
+            "w": "so",
+            "s": 258.43,
+            "e": 258.67
+          },
+          {
+            "w": "many",
+            "s": 258.67,
+            "e": 258.85
+          },
+          {
+            "w": "cases",
+            "s": 258.85,
+            "e": 259.25
+          },
+          {
+            "w": "we're",
+            "s": 259.25,
+            "e": 259.61
+          },
+          {
+            "w": "thinking",
+            "s": 259.61,
+            "e": 259.85
+          },
+          {
+            "w": "less",
+            "s": 259.85,
+            "e": 260.21
+          },
+          {
+            "w": "independently",
+            "s": 260.21,
+            "e": 260.47
+          },
+          {
+            "w": "than",
+            "s": 260.47,
+            "e": 261.35
+          },
+          {
+            "w": "ever",
+            "s": 261.35,
+            "e": 261.59
+          },
+          {
+            "w": "before.",
+            "s": 261.59,
+            "e": 261.95
+          },
+          {
+            "w": "Social",
+            "s": 262.75,
+            "e": 263.47
+          },
+          {
+            "w": "media",
+            "s": 263.47,
+            "e": 263.71
+          },
+          {
+            "w": "and",
+            "s": 263.71,
+            "e": 264.07
+          },
+          {
+            "w": "AI",
+            "s": 264.07,
+            "e": 264.31
+          },
+          {
+            "w": "algorithms",
+            "s": 264.31,
+            "e": 265.01
+          },
+          {
+            "w": "push",
+            "s": 265.01,
+            "e": 265.73
+          },
+          {
+            "w": "trending",
+            "s": 265.73,
+            "e": 266.07
+          },
+          {
+            "w": "content",
+            "s": 266.07,
+            "e": 266.47
+          },
+          {
+            "w": "to",
+            "s": 266.47,
+            "e": 266.79
+          },
+          {
+            "w": "the",
+            "s": 266.79,
+            "e": 266.89
+          },
+          {
+            "w": "top,",
+            "s": 266.89,
+            "e": 267.11
+          },
+          {
+            "w": "but",
+            "s": 267.85,
+            "e": 268.01
+          },
+          {
+            "w": "that",
+            "s": 268.01,
+            "e": 268.13
+          },
+          {
+            "w": "doesn't",
+            "s": 268.13,
+            "e": 268.43
+          },
+          {
+            "w": "guarantee",
+            "s": 268.43,
+            "e": 268.93
+          },
+          {
+            "w": "accuracy",
+            "s": 268.93,
+            "e": 269.69
+          },
+          {
+            "w": "or",
+            "s": 269.69,
+            "e": 270.49
+          },
+          {
+            "w": "that",
+            "s": 270.49,
+            "e": 270.63
+          },
+          {
+            "w": "we're",
+            "s": 270.63,
+            "e": 270.79
+          },
+          {
+            "w": "getting",
+            "s": 270.79,
+            "e": 271.03
+          },
+          {
+            "w": "all",
+            "s": 271.03,
+            "e": 271.47
+          },
+          {
+            "w": "of",
+            "s": 271.47,
+            "e": 271.67
+          },
+          {
+            "w": "the",
+            "s": 271.67,
+            "e": 271.75
+          },
+          {
+            "w": "relevant",
+            "s": 271.75,
+            "e": 271.99
+          },
+          {
+            "w": "facts",
+            "s": 271.99,
+            "e": 272.41
+          },
+          {
+            "w": "that",
+            "s": 272.41,
+            "e": 272.79
+          },
+          {
+            "w": "we",
+            "s": 272.79,
+            "e": 272.93
+          },
+          {
+            "w": "need",
+            "s": 272.93,
+            "e": 273.15
+          },
+          {
+            "w": "to",
+            "s": 273.15,
+            "e": 273.53
+          },
+          {
+            "w": "make",
+            "s": 273.53,
+            "e": 273.65
+          },
+          {
+            "w": "our",
+            "s": 273.65,
+            "e": 273.83
+          },
+          {
+            "w": "own",
+            "s": 273.83,
+            "e": 274.21
+          },
+          {
+            "w": "informed",
+            "s": 274.21,
+            "e": 274.63
+          },
+          {
+            "w": "opinions.",
+            "s": 274.63,
+            "e": 275.41
+          },
+          {
+            "w": "That",
+            "s": 278.08,
+            "e": 278.32
+          },
+          {
+            "w": "disconnect",
+            "s": 278.32,
+            "e": 278.7
+          },
+          {
+            "w": "is",
+            "s": 278.7,
+            "e": 279.78
+          },
+          {
+            "w": "affecting",
+            "s": 279.78,
+            "e": 280.28
+          },
+          {
+            "w": "our",
+            "s": 280.28,
+            "e": 280.78
+          },
+          {
+            "w": "media",
+            "s": 280.78,
+            "e": 281.12
+          },
+          {
+            "w": "literacy.",
+            "s": 281.12,
+            "e": 281.62
+          },
+          {
+            "w": "And",
+            "s": 282.52,
+            "e": 282.88
+          },
+          {
+            "w": "it's",
+            "s": 282.88,
+            "e": 282.98
+          },
+          {
+            "w": "happening",
+            "s": 282.98,
+            "e": 283.34
+          },
+          {
+            "w": "right",
+            "s": 283.34,
+            "e": 284.02
+          },
+          {
+            "w": "when",
+            "s": 284.02,
+            "e": 284.26
+          },
+          {
+            "w": "democracy",
+            "s": 284.26,
+            "e": 284.6
+          },
+          {
+            "w": "needs",
+            "s": 284.6,
+            "e": 285.36
+          },
+          {
+            "w": "that",
+            "s": 285.36,
+            "e": 285.6
+          },
+          {
+            "w": "the",
+            "s": 285.6,
+            "e": 285.78
+          },
+          {
+            "w": "most.",
+            "s": 285.78,
+            "e": 285.98
+          },
+          {
+            "w": "The",
+            "s": 286.84,
+            "e": 287.26
+          },
+          {
+            "w": "backbone",
+            "s": 287.26,
+            "e": 288.42
+          },
+          {
+            "w": "of",
+            "s": 288.42,
+            "e": 289.16
+          },
+          {
+            "w": "a",
+            "s": 289.16,
+            "e": 289.26
+          },
+          {
+            "w": "strong",
+            "s": 289.26,
+            "e": 289.52
+          },
+          {
+            "w": "democracy",
+            "s": 289.52,
+            "e": 290.14
+          },
+          {
+            "w": "is",
+            "s": 290.14,
+            "e": 290.96
+          },
+          {
+            "w": "an",
+            "s": 290.96,
+            "e": 291.06
+          },
+          {
+            "w": "equal",
+            "s": 291.06,
+            "e": 291.38
+          },
+          {
+            "w": "part",
+            "s": 291.38,
+            "e": 291.7
+          },
+          {
+            "w": "of",
+            "s": 291.7,
+            "e": 292.04
+          },
+          {
+            "w": "free",
+            "s": 292.04,
+            "e": 292.3
+          },
+          {
+            "w": "press",
+            "s": 292.3,
+            "e": 292.62
+          },
+          {
+            "w": "and",
+            "s": 292.62,
+            "e": 293.32
+          },
+          {
+            "w": "an",
+            "s": 293.32,
+            "e": 293.52
+          },
+          {
+            "w": "informed,",
+            "s": 293.52,
+            "e": 294.02
+          },
+          {
+            "w": "engaged",
+            "s": 294.34,
+            "e": 294.66
+          },
+          {
+            "w": "public.",
+            "s": 294.66,
+            "e": 295.22
+          },
+          {
+            "w": "But",
+            "s": 296.22,
+            "e": 297.06
+          },
+          {
+            "w": "in",
+            "s": 297.06,
+            "e": 297.18
+          },
+          {
+            "w": "the",
+            "s": 297.18,
+            "e": 297.28
+          },
+          {
+            "w": "U",
+            "s": 297.28,
+            "e": 297.42
+          },
+          {
+            "w": ".S.",
+            "s": 297.42,
+            "e": 297.56
+          },
+          {
+            "w": "right",
+            "s": 297.64,
+            "e": 297.78
+          },
+          {
+            "w": "now,",
+            "s": 297.78,
+            "e": 298.04
+          },
+          {
+            "w": "there",
+            "s": 298.52,
+            "e": 298.7
+          },
+          {
+            "w": "are",
+            "s": 298.7,
+            "e": 298.92
+          },
+          {
+            "w": "no",
+            "s": 298.92,
+            "e": 299.24
+          },
+          {
+            "w": "national",
+            "s": 299.24,
+            "e": 299.88
+          },
+          {
+            "w": "media",
+            "s": 299.88,
+            "e": 300.34
+          },
+          {
+            "w": "literacy",
+            "s": 300.34,
+            "e": 300.84
+          },
+          {
+            "w": "education",
+            "s": 300.84,
+            "e": 301.42
+          },
+          {
+            "w": "standards.",
+            "s": 301.42,
+            "e": 302.3
+          },
+          {
+            "w": "It's",
+            "s": 303.1,
+            "e": 303.3
+          },
+          {
+            "w": "almost",
+            "s": 303.3,
+            "e": 303.56
+          },
+          {
+            "w": "like",
+            "s": 303.56,
+            "e": 304.04
+          },
+          {
+            "w": "our",
+            "s": 304.04,
+            "e": 305.24
+          },
+          {
+            "w": "media",
+            "s": 305.24,
+            "e": 305.58
+          },
+          {
+            "w": "ecosystem",
+            "s": 305.58,
+            "e": 306.28
+          },
+          {
+            "w": "has",
+            "s": 306.28,
+            "e": 306.86
+          },
+          {
+            "w": "evolved",
+            "s": 306.86,
+            "e": 307.28
+          },
+          {
+            "w": "faster",
+            "s": 307.28,
+            "e": 307.94
+          },
+          {
+            "w": "than",
+            "s": 307.94,
+            "e": 308.76
+          },
+          {
+            "w": "our",
+            "s": 308.76,
+            "e": 308.9
+          },
+          {
+            "w": "civic",
+            "s": 308.9,
+            "e": 309.22
+          },
+          {
+            "w": "education",
+            "s": 309.22,
+            "e": 309.86
+          },
+          {
+            "w": "system.",
+            "s": 309.86,
+            "e": 310.38
+          },
+          {
+            "w": "A",
+            "s": 311.12,
+            "e": 311.4
+          },
+          {
+            "w": "kid",
+            "s": 311.4,
+            "e": 312.36
+          },
+          {
+            "w": "that's",
+            "s": 312.36,
+            "e": 312.72
+          },
+          {
+            "w": "born",
+            "s": 312.72,
+            "e": 312.98
+          },
+          {
+            "w": "today",
+            "s": 312.98,
+            "e": 313.34
+          },
+          {
+            "w": "won't",
+            "s": 313.34,
+            "e": 314.26
+          },
+          {
+            "w": "default",
+            "s": 314.26,
+            "e": 314.5
+          },
+          {
+            "w": "to",
+            "s": 314.5,
+            "e": 314.88
+          },
+          {
+            "w": "thinking",
+            "s": 314.88,
+            "e": 315.12
+          },
+          {
+            "w": "in",
+            "s": 315.12,
+            "e": 315.62
+          },
+          {
+            "w": "terms",
+            "s": 315.62,
+            "e": 315.84
+          },
+          {
+            "w": "of",
+            "s": 315.84,
+            "e": 316.12
+          },
+          {
+            "w": "the",
+            "s": 316.12,
+            "e": 316.32
+          },
+          {
+            "w": "New",
+            "s": 316.32,
+            "e": 316.46
+          },
+          {
+            "w": "York",
+            "s": 316.46,
+            "e": 316.66
+          },
+          {
+            "w": "Times,",
+            "s": 316.66,
+            "e": 317.14
+          },
+          {
+            "w": "Fox",
+            "s": 317.6,
+            "e": 317.74
+          },
+          {
+            "w": "News,",
+            "s": 317.74,
+            "e": 318.2
+          },
+          {
+            "w": "or",
+            "s": 318.76,
+            "e": 318.76
+          },
+          {
+            "w": "PBS,",
+            "s": 318.76,
+            "e": 319.08
+          },
+          {
+            "w": "but",
+            "s": 319.98,
+            "e": 320.08
+          },
+          {
+            "w": "they're",
+            "s": 320.08,
+            "e": 320.2
+          },
+          {
+            "w": "thinking",
+            "s": 320.2,
+            "e": 320.44
+          },
+          {
+            "w": "in",
+            "s": 320.44,
+            "e": 320.7
+          },
+          {
+            "w": "terms",
+            "s": 320.7,
+            "e": 320.9
+          },
+          {
+            "w": "of",
+            "s": 320.9,
+            "e": 321.16
+          },
+          {
+            "w": "Instagram",
+            "s": 321.16,
+            "e": 321.78
+          },
+          {
+            "w": "and",
+            "s": 321.78,
+            "e": 322.06
+          },
+          {
+            "w": "TikTok",
+            "s": 322.06,
+            "e": 322.5
+          },
+          {
+            "w": "and",
+            "s": 322.5,
+            "e": 322.78
+          },
+          {
+            "w": "YouTube.",
+            "s": 322.78,
+            "e": 323.06
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "time": "05:24",
+        "seconds": 324.4,
+        "endSeconds": 409.7,
+        "title": "第 5 幕：86% of Gen Z are turning to social me...",
+        "original": "86% of Gen Z are turning to social media to get their news. So when we're living with information bombarding us from the moment we open our eyeballs in the morning, we all deserve access to the knowledge and techniques journalists use to interpret the world. Media literacy is what enables us to identify AI, deep fakes, and unverified news. It's also recognizing bias in articles or influencer content that could affect story framing. It's understanding the role that entertainment plays in broadcast news and it's unpacking the reasoning behind headlines and visuals. It's thinking critically about tone and word choice and asking how does funding influence this information as well as what's missing from the story and why? I'm not saying that journalism is perfect. And I'm not saying that AI and social media and influencer should all be left in the dust. I actually think that traditional newsrooms and new media should learn from one another to ultimately build a faster, more accurate news infrastructure that better meets the needs of today's audience.",
+        "translation": "高达 86% 的 Z 世代依靠社交媒体获取新闻。当我们每天清晨睁开双眼就被海量信息狂轰滥炸时，每个人都理应掌握记者用来解读世界的认知与技巧。媒介素养，就是让我们有能力识破 AI、深度伪造和未经证实的新闻；它让我们察觉文章或网红内容中可能暗藏的偏见与叙事定势；它让我们看清娱乐化在电视新闻中扮演的戏码，洞悉标题和配图背后的深层意图；它让我们批判性地审视言辞语调，主动追问：“背后的资助方对信息产生了何种影响？报道遗漏了什么关键事实？为什么被遗漏？”我并非断言传统新闻学完美无瑕，也不是要全盘否定 AI、社交媒体和网红博主。相反，我认为传统编辑室与新媒体应当取长补短、互为借鉴，从而构建起一个更敏捷、更精准的新闻生态，更好地契合当代受众的需求。",
+        "words": [
+          {
+            "w": "86",
+            "s": 324.36,
+            "e": 324.92
+          },
+          {
+            "w": "%",
+            "s": 324.92,
+            "e": 325.48
+          },
+          {
+            "w": "of",
+            "s": 325.48,
+            "e": 325.98
+          },
+          {
+            "w": "Gen",
+            "s": 325.98,
+            "e": 326.14
+          },
+          {
+            "w": "Z",
+            "s": 326.14,
+            "e": 326.42
+          },
+          {
+            "w": "are",
+            "s": 326.42,
+            "e": 326.7
+          },
+          {
+            "w": "turning",
+            "s": 326.7,
+            "e": 327.04
+          },
+          {
+            "w": "to",
+            "s": 327.04,
+            "e": 327.32
+          },
+          {
+            "w": "social",
+            "s": 327.32,
+            "e": 327.54
+          },
+          {
+            "w": "media",
+            "s": 327.54,
+            "e": 327.9
+          },
+          {
+            "w": "to",
+            "s": 327.9,
+            "e": 328.18
+          },
+          {
+            "w": "get",
+            "s": 328.18,
+            "e": 328.34
+          },
+          {
+            "w": "their",
+            "s": 328.34,
+            "e": 328.56
+          },
+          {
+            "w": "news.",
+            "s": 328.56,
+            "e": 328.74
+          },
+          {
+            "w": "So",
+            "s": 329.76,
+            "e": 329.94
+          },
+          {
+            "w": "when",
+            "s": 329.94,
+            "e": 330.1
+          },
+          {
+            "w": "we're",
+            "s": 330.1,
+            "e": 330.28
+          },
+          {
+            "w": "living",
+            "s": 330.28,
+            "e": 330.5
+          },
+          {
+            "w": "with",
+            "s": 330.5,
+            "e": 330.74
+          },
+          {
+            "w": "information",
+            "s": 330.74,
+            "e": 331.12
+          },
+          {
+            "w": "bombarding",
+            "s": 331.12,
+            "e": 332.4
+          },
+          {
+            "w": "us",
+            "s": 332.4,
+            "e": 332.66
+          },
+          {
+            "w": "from",
+            "s": 332.66,
+            "e": 333.06
+          },
+          {
+            "w": "the",
+            "s": 333.06,
+            "e": 333.2
+          },
+          {
+            "w": "moment",
+            "s": 333.2,
+            "e": 333.46
+          },
+          {
+            "w": "we",
+            "s": 333.46,
+            "e": 333.66
+          },
+          {
+            "w": "open",
+            "s": 333.66,
+            "e": 333.84
+          },
+          {
+            "w": "our",
+            "s": 333.84,
+            "e": 334.04
+          },
+          {
+            "w": "eyeballs",
+            "s": 334.04,
+            "e": 334.66
+          },
+          {
+            "w": "in",
+            "s": 334.66,
+            "e": 334.84
+          },
+          {
+            "w": "the",
+            "s": 334.84,
+            "e": 334.94
+          },
+          {
+            "w": "morning,",
+            "s": 334.94,
+            "e": 335.14
+          },
+          {
+            "w": "we",
+            "s": 336.22,
+            "e": 336.44
+          },
+          {
+            "w": "all",
+            "s": 336.44,
+            "e": 336.74
+          },
+          {
+            "w": "deserve",
+            "s": 336.74,
+            "e": 337.26
+          },
+          {
+            "w": "access",
+            "s": 337.26,
+            "e": 337.88
+          },
+          {
+            "w": "to",
+            "s": 337.88,
+            "e": 338.36
+          },
+          {
+            "w": "the",
+            "s": 338.36,
+            "e": 338.46
+          },
+          {
+            "w": "knowledge",
+            "s": 338.46,
+            "e": 338.96
+          },
+          {
+            "w": "and",
+            "s": 338.96,
+            "e": 339.34
+          },
+          {
+            "w": "techniques",
+            "s": 339.34,
+            "e": 339.86
+          },
+          {
+            "w": "journalists",
+            "s": 339.86,
+            "e": 340.5
+          },
+          {
+            "w": "use",
+            "s": 340.5,
+            "e": 340.94
+          },
+          {
+            "w": "to",
+            "s": 340.94,
+            "e": 341.38
+          },
+          {
+            "w": "interpret",
+            "s": 341.38,
+            "e": 341.74
+          },
+          {
+            "w": "the",
+            "s": 341.74,
+            "e": 342.02
+          },
+          {
+            "w": "world.",
+            "s": 342.02,
+            "e": 342.24
+          },
+          {
+            "w": "Media",
+            "s": 343.92,
+            "e": 344.34
+          },
+          {
+            "w": "literacy",
+            "s": 344.34,
+            "e": 344.7
+          },
+          {
+            "w": "is",
+            "s": 344.7,
+            "e": 345.08
+          },
+          {
+            "w": "what",
+            "s": 345.08,
+            "e": 345.26
+          },
+          {
+            "w": "enables",
+            "s": 345.26,
+            "e": 345.82
+          },
+          {
+            "w": "us",
+            "s": 345.82,
+            "e": 346.12
+          },
+          {
+            "w": "to",
+            "s": 346.12,
+            "e": 346.7
+          },
+          {
+            "w": "identify",
+            "s": 346.7,
+            "e": 347.18
+          },
+          {
+            "w": "AI,",
+            "s": 347.18,
+            "e": 347.7
+          },
+          {
+            "w": "deep",
+            "s": 348.66,
+            "e": 348.76
+          },
+          {
+            "w": "fakes,",
+            "s": 348.76,
+            "e": 349.16
+          },
+          {
+            "w": "and",
+            "s": 349.54,
+            "e": 349.54
+          },
+          {
+            "w": "unverified",
+            "s": 349.54,
+            "e": 350.08
+          },
+          {
+            "w": "news.",
+            "s": 350.08,
+            "e": 350.52
+          },
+          {
+            "w": "It's",
+            "s": 352.12,
+            "e": 352.32
+          },
+          {
+            "w": "also",
+            "s": 352.32,
+            "e": 352.7
+          },
+          {
+            "w": "recognizing",
+            "s": 352.7,
+            "e": 353.36
+          },
+          {
+            "w": "bias",
+            "s": 353.36,
+            "e": 354.26
+          },
+          {
+            "w": "in",
+            "s": 354.26,
+            "e": 354.78
+          },
+          {
+            "w": "articles",
+            "s": 354.78,
+            "e": 355.22
+          },
+          {
+            "w": "or",
+            "s": 355.22,
+            "e": 355.74
+          },
+          {
+            "w": "influencer",
+            "s": 355.74,
+            "e": 356.32
+          },
+          {
+            "w": "content",
+            "s": 356.32,
+            "e": 356.78
+          },
+          {
+            "w": "that",
+            "s": 356.78,
+            "e": 357.2
+          },
+          {
+            "w": "could",
+            "s": 357.2,
+            "e": 357.48
+          },
+          {
+            "w": "affect",
+            "s": 357.48,
+            "e": 357.76
+          },
+          {
+            "w": "story",
+            "s": 357.76,
+            "e": 358.28
+          },
+          {
+            "w": "framing.",
+            "s": 358.28,
+            "e": 358.78
+          },
+          {
+            "w": "It's",
+            "s": 360.22,
+            "e": 360.98
+          },
+          {
+            "w": "understanding",
+            "s": 360.98,
+            "e": 361.18
+          },
+          {
+            "w": "the",
+            "s": 361.18,
+            "e": 361.72
+          },
+          {
+            "w": "role",
+            "s": 361.72,
+            "e": 361.94
+          },
+          {
+            "w": "that",
+            "s": 361.94,
+            "e": 362.18
+          },
+          {
+            "w": "entertainment",
+            "s": 362.18,
+            "e": 362.88
+          },
+          {
+            "w": "plays",
+            "s": 362.88,
+            "e": 363.6
+          },
+          {
+            "w": "in",
+            "s": 363.6,
+            "e": 363.9
+          },
+          {
+            "w": "broadcast",
+            "s": 363.9,
+            "e": 364.14
+          },
+          {
+            "w": "news",
+            "s": 364.14,
+            "e": 364.76
+          },
+          {
+            "w": "and",
+            "s": 364.76,
+            "e": 365.22
+          },
+          {
+            "w": "it's",
+            "s": 365.22,
+            "e": 365.4
+          },
+          {
+            "w": "unpacking",
+            "s": 365.4,
+            "e": 365.88
+          },
+          {
+            "w": "the",
+            "s": 365.88,
+            "e": 366.2
+          },
+          {
+            "w": "reasoning",
+            "s": 366.2,
+            "e": 366.58
+          },
+          {
+            "w": "behind",
+            "s": 366.58,
+            "e": 366.96
+          },
+          {
+            "w": "headlines",
+            "s": 366.96,
+            "e": 367.48
+          },
+          {
+            "w": "and",
+            "s": 367.48,
+            "e": 367.88
+          },
+          {
+            "w": "visuals.",
+            "s": 367.88,
+            "e": 368.26
+          },
+          {
+            "w": "It's",
+            "s": 369.62,
+            "e": 370.0
+          },
+          {
+            "w": "thinking",
+            "s": 370.0,
+            "e": 370.18
+          },
+          {
+            "w": "critically",
+            "s": 370.18,
+            "e": 370.56
+          },
+          {
+            "w": "about",
+            "s": 370.56,
+            "e": 371.24
+          },
+          {
+            "w": "tone",
+            "s": 371.24,
+            "e": 371.62
+          },
+          {
+            "w": "and",
+            "s": 371.62,
+            "e": 372.1
+          },
+          {
+            "w": "word",
+            "s": 372.1,
+            "e": 372.32
+          },
+          {
+            "w": "choice",
+            "s": 372.32,
+            "e": 372.68
+          },
+          {
+            "w": "and",
+            "s": 372.68,
+            "e": 373.42
+          },
+          {
+            "w": "asking",
+            "s": 373.42,
+            "e": 373.76
+          },
+          {
+            "w": "how",
+            "s": 373.76,
+            "e": 374.44
+          },
+          {
+            "w": "does",
+            "s": 374.44,
+            "e": 374.6
+          },
+          {
+            "w": "funding",
+            "s": 374.6,
+            "e": 374.9
+          },
+          {
+            "w": "influence",
+            "s": 374.9,
+            "e": 375.68
+          },
+          {
+            "w": "this",
+            "s": 375.68,
+            "e": 376.06
+          },
+          {
+            "w": "information",
+            "s": 376.06,
+            "e": 376.42
+          },
+          {
+            "w": "as",
+            "s": 376.42,
+            "e": 377.58
+          },
+          {
+            "w": "well",
+            "s": 377.58,
+            "e": 377.76
+          },
+          {
+            "w": "as",
+            "s": 377.76,
+            "e": 378.08
+          },
+          {
+            "w": "what's",
+            "s": 378.08,
+            "e": 378.7
+          },
+          {
+            "w": "missing",
+            "s": 378.7,
+            "e": 378.96
+          },
+          {
+            "w": "from",
+            "s": 378.96,
+            "e": 379.3
+          },
+          {
+            "w": "the",
+            "s": 379.3,
+            "e": 379.46
+          },
+          {
+            "w": "story",
+            "s": 379.46,
+            "e": 379.78
+          },
+          {
+            "w": "and",
+            "s": 379.78,
+            "e": 380.22
+          },
+          {
+            "w": "why?",
+            "s": 380.22,
+            "e": 380.46
+          },
+          {
+            "w": "I'm",
+            "s": 383.02,
+            "e": 383.38
+          },
+          {
+            "w": "not",
+            "s": 383.38,
+            "e": 383.48
+          },
+          {
+            "w": "saying",
+            "s": 383.48,
+            "e": 383.82
+          },
+          {
+            "w": "that",
+            "s": 383.82,
+            "e": 384.08
+          },
+          {
+            "w": "journalism",
+            "s": 384.08,
+            "e": 384.3
+          },
+          {
+            "w": "is",
+            "s": 384.3,
+            "e": 390.46
+          },
+          {
+            "w": "perfect.",
+            "s": 390.46,
+            "e": 390.46
+          },
+          {
+            "w": "And",
+            "s": 390.46,
+            "e": 390.54
+          },
+          {
+            "w": "I'm",
+            "s": 390.54,
+            "e": 390.66
+          },
+          {
+            "w": "not",
+            "s": 390.66,
+            "e": 390.8
+          },
+          {
+            "w": "saying",
+            "s": 390.8,
+            "e": 391.1
+          },
+          {
+            "w": "that",
+            "s": 391.1,
+            "e": 391.36
+          },
+          {
+            "w": "AI",
+            "s": 391.36,
+            "e": 391.7
+          },
+          {
+            "w": "and",
+            "s": 391.7,
+            "e": 392.24
+          },
+          {
+            "w": "social",
+            "s": 392.24,
+            "e": 392.46
+          },
+          {
+            "w": "media",
+            "s": 392.46,
+            "e": 392.92
+          },
+          {
+            "w": "and",
+            "s": 392.92,
+            "e": 393.18
+          },
+          {
+            "w": "influencer",
+            "s": 393.18,
+            "e": 393.78
+          },
+          {
+            "w": "should",
+            "s": 393.78,
+            "e": 394.08
+          },
+          {
+            "w": "all",
+            "s": 394.08,
+            "e": 394.26
+          },
+          {
+            "w": "be",
+            "s": 394.26,
+            "e": 394.46
+          },
+          {
+            "w": "left",
+            "s": 394.46,
+            "e": 394.74
+          },
+          {
+            "w": "in",
+            "s": 394.74,
+            "e": 395.02
+          },
+          {
+            "w": "the",
+            "s": 395.02,
+            "e": 395.12
+          },
+          {
+            "w": "dust.",
+            "s": 395.12,
+            "e": 395.3
+          },
+          {
+            "w": "I",
+            "s": 396.34,
+            "e": 396.94
+          },
+          {
+            "w": "actually",
+            "s": 396.94,
+            "e": 397.18
+          },
+          {
+            "w": "think",
+            "s": 397.18,
+            "e": 397.62
+          },
+          {
+            "w": "that",
+            "s": 397.62,
+            "e": 397.82
+          },
+          {
+            "w": "traditional",
+            "s": 397.82,
+            "e": 398.02
+          },
+          {
+            "w": "newsrooms",
+            "s": 398.02,
+            "e": 398.94
+          },
+          {
+            "w": "and",
+            "s": 398.94,
+            "e": 399.34
+          },
+          {
+            "w": "new",
+            "s": 399.34,
+            "e": 399.64
+          },
+          {
+            "w": "media",
+            "s": 399.64,
+            "e": 399.98
+          },
+          {
+            "w": "should",
+            "s": 399.98,
+            "e": 400.42
+          },
+          {
+            "w": "learn",
+            "s": 400.42,
+            "e": 401.02
+          },
+          {
+            "w": "from",
+            "s": 401.02,
+            "e": 401.24
+          },
+          {
+            "w": "one",
+            "s": 401.24,
+            "e": 401.4
+          },
+          {
+            "w": "another",
+            "s": 401.4,
+            "e": 401.72
+          },
+          {
+            "w": "to",
+            "s": 401.72,
+            "e": 402.16
+          },
+          {
+            "w": "ultimately",
+            "s": 402.16,
+            "e": 402.54
+          },
+          {
+            "w": "build",
+            "s": 402.54,
+            "e": 403.2
+          },
+          {
+            "w": "a",
+            "s": 403.2,
+            "e": 403.8
+          },
+          {
+            "w": "faster,",
+            "s": 403.8,
+            "e": 404.22
+          },
+          {
+            "w": "more",
+            "s": 404.22,
+            "e": 405.02
+          },
+          {
+            "w": "accurate",
+            "s": 405.02,
+            "e": 405.48
+          },
+          {
+            "w": "news",
+            "s": 405.48,
+            "e": 405.96
+          },
+          {
+            "w": "infrastructure",
+            "s": 405.96,
+            "e": 406.7
+          },
+          {
+            "w": "that",
+            "s": 406.7,
+            "e": 407.56
+          },
+          {
+            "w": "better",
+            "s": 407.56,
+            "e": 407.9
+          },
+          {
+            "w": "meets",
+            "s": 407.9,
+            "e": 408.1
+          },
+          {
+            "w": "the",
+            "s": 408.1,
+            "e": 408.36
+          },
+          {
+            "w": "needs",
+            "s": 408.36,
+            "e": 408.56
+          },
+          {
+            "w": "of",
+            "s": 408.56,
+            "e": 408.92
+          },
+          {
+            "w": "today's",
+            "s": 408.92,
+            "e": 409.46
+          },
+          {
+            "w": "audience.",
+            "s": 409.46,
+            "e": 409.7
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "time": "06:52",
+        "seconds": 412.2,
+        "endSeconds": 493.6,
+        "title": "第 6 幕：The good news is people all over the ...",
+        "original": "The good news is people all over the world are working on solutions to all of this. Australia banned social media for kids 16 and under and Denmark is following their lead. Germany begins media literacy education in primary school. Some classrooms will even invite journalists in to the class to help teach students how to vet sources, recognize state-backed disinformation, and also just to pause and take a beat whenever news stokes an emotional reaction before sharing it out. Finland is another incredible example of standardized media literacy education. Identifying propaganda and questioning information have been part of Finnish culture ever since the country gained independence from Russia more than a century ago. So today, media literacy is a core pillar of the national curriculum beginning K through 12 and carrying through college and adult learning. Educators in Helsinki have been on CBS and Al Jazeera describing how media literacy is integrated across all subjects. So in literature classes, students will learn the basics of verifying news, vetting sources, and critiquing media.",
+        "translation": "令人欣慰的是，全球各地都在积极寻求应对良方。澳大利亚已立法禁止 16 岁以下未成年人使用社交媒体，丹麦也紧随其后；德国从小学阶段便普及媒介素养教育，有些课堂甚至会邀请资深记者走进教室，教孩子们如何核查信源、识别受国家操纵的虚假宣传，并教导他们在新闻引发强烈情绪共鸣时，先冷静停顿三秒，切勿盲目转发。芬兰则是体系化媒介素养教育的另一座典范灯塔。自一个多世纪前脱离俄国独立以来，识别政治宣传与质疑未经证实的信息，就早已融入芬兰的文化血脉。如今，媒介素养更是成为芬兰国家课程的核心支柱，从幼儿园一路贯穿至高中、大学乃至成人教育。赫尔辛基的教育学者在接受 CBS 和半岛电视台采访时，曾生动介绍过媒介素养是如何无缝渗透到各学科之中的：在语文课上，学生们学习新闻核实、信源考证与媒体批评的基本法则；",
+        "words": [
+          {
+            "w": "The",
+            "s": 412.2,
+            "e": 412.32
+          },
+          {
+            "w": "good",
+            "s": 412.32,
+            "e": 412.46
+          },
+          {
+            "w": "news",
+            "s": 412.46,
+            "e": 412.7
+          },
+          {
+            "w": "is",
+            "s": 412.7,
+            "e": 413.14
+          },
+          {
+            "w": "people",
+            "s": 413.14,
+            "e": 413.96
+          },
+          {
+            "w": "all",
+            "s": 413.96,
+            "e": 414.3
+          },
+          {
+            "w": "over",
+            "s": 414.3,
+            "e": 414.52
+          },
+          {
+            "w": "the",
+            "s": 414.52,
+            "e": 414.7
+          },
+          {
+            "w": "world",
+            "s": 414.7,
+            "e": 414.96
+          },
+          {
+            "w": "are",
+            "s": 414.96,
+            "e": 415.18
+          },
+          {
+            "w": "working",
+            "s": 415.18,
+            "e": 415.44
+          },
+          {
+            "w": "on",
+            "s": 415.44,
+            "e": 415.72
+          },
+          {
+            "w": "solutions",
+            "s": 415.72,
+            "e": 416.16
+          },
+          {
+            "w": "to",
+            "s": 416.16,
+            "e": 416.58
+          },
+          {
+            "w": "all",
+            "s": 416.58,
+            "e": 416.7
+          },
+          {
+            "w": "of",
+            "s": 416.7,
+            "e": 416.84
+          },
+          {
+            "w": "this.",
+            "s": 416.84,
+            "e": 416.98
+          },
+          {
+            "w": "Australia",
+            "s": 417.88,
+            "e": 418.7
+          },
+          {
+            "w": "banned",
+            "s": 418.7,
+            "e": 419.16
+          },
+          {
+            "w": "social",
+            "s": 419.16,
+            "e": 419.8
+          },
+          {
+            "w": "media",
+            "s": 419.8,
+            "e": 420.22
+          },
+          {
+            "w": "for",
+            "s": 420.22,
+            "e": 420.58
+          },
+          {
+            "w": "kids",
+            "s": 420.58,
+            "e": 420.82
+          },
+          {
+            "w": "16",
+            "s": 420.82,
+            "e": 421.16
+          },
+          {
+            "w": "and",
+            "s": 421.16,
+            "e": 421.54
+          },
+          {
+            "w": "under",
+            "s": 421.54,
+            "e": 421.84
+          },
+          {
+            "w": "and",
+            "s": 421.84,
+            "e": 422.44
+          },
+          {
+            "w": "Denmark",
+            "s": 422.44,
+            "e": 422.78
+          },
+          {
+            "w": "is",
+            "s": 422.78,
+            "e": 423.14
+          },
+          {
+            "w": "following",
+            "s": 423.14,
+            "e": 423.6
+          },
+          {
+            "w": "their",
+            "s": 423.6,
+            "e": 423.88
+          },
+          {
+            "w": "lead.",
+            "s": 423.88,
+            "e": 424.16
+          },
+          {
+            "w": "Germany",
+            "s": 425.51,
+            "e": 425.92
+          },
+          {
+            "w": "begins",
+            "s": 425.92,
+            "e": 426.5
+          },
+          {
+            "w": "media",
+            "s": 426.5,
+            "e": 427.18
+          },
+          {
+            "w": "literacy",
+            "s": 427.18,
+            "e": 427.62
+          },
+          {
+            "w": "education",
+            "s": 427.62,
+            "e": 428.24
+          },
+          {
+            "w": "in",
+            "s": 428.24,
+            "e": 428.96
+          },
+          {
+            "w": "primary",
+            "s": 428.96,
+            "e": 429.26
+          },
+          {
+            "w": "school.",
+            "s": 429.26,
+            "e": 429.84
+          },
+          {
+            "w": "Some",
+            "s": 430.6,
+            "e": 430.9
+          },
+          {
+            "w": "classrooms",
+            "s": 430.9,
+            "e": 431.32
+          },
+          {
+            "w": "will",
+            "s": 431.32,
+            "e": 431.72
+          },
+          {
+            "w": "even",
+            "s": 431.72,
+            "e": 431.92
+          },
+          {
+            "w": "invite",
+            "s": 431.92,
+            "e": 432.32
+          },
+          {
+            "w": "journalists",
+            "s": 432.32,
+            "e": 432.78
+          },
+          {
+            "w": "in",
+            "s": 432.78,
+            "e": 433.36
+          },
+          {
+            "w": "to",
+            "s": 433.36,
+            "e": 433.8
+          },
+          {
+            "w": "the",
+            "s": 433.8,
+            "e": 433.9
+          },
+          {
+            "w": "class",
+            "s": 433.9,
+            "e": 434.14
+          },
+          {
+            "w": "to",
+            "s": 434.14,
+            "e": 434.48
+          },
+          {
+            "w": "help",
+            "s": 434.48,
+            "e": 434.7
+          },
+          {
+            "w": "teach",
+            "s": 434.7,
+            "e": 434.98
+          },
+          {
+            "w": "students",
+            "s": 434.98,
+            "e": 435.42
+          },
+          {
+            "w": "how",
+            "s": 435.42,
+            "e": 435.68
+          },
+          {
+            "w": "to",
+            "s": 435.68,
+            "e": 436.0
+          },
+          {
+            "w": "vet",
+            "s": 436.0,
+            "e": 436.76
+          },
+          {
+            "w": "sources,",
+            "s": 436.76,
+            "e": 437.28
+          },
+          {
+            "w": "recognize",
+            "s": 437.28,
+            "e": 438.44
+          },
+          {
+            "w": "state",
+            "s": 438.44,
+            "e": 439.32
+          },
+          {
+            "w": "-backed",
+            "s": 439.32,
+            "e": 439.76
+          },
+          {
+            "w": "disinformation,",
+            "s": 439.76,
+            "e": 440.3
+          },
+          {
+            "w": "and",
+            "s": 441.42,
+            "e": 441.5
+          },
+          {
+            "w": "also",
+            "s": 441.5,
+            "e": 441.76
+          },
+          {
+            "w": "just",
+            "s": 441.76,
+            "e": 442.0
+          },
+          {
+            "w": "to",
+            "s": 442.0,
+            "e": 442.24
+          },
+          {
+            "w": "pause",
+            "s": 442.24,
+            "e": 442.72
+          },
+          {
+            "w": "and",
+            "s": 442.72,
+            "e": 443.14
+          },
+          {
+            "w": "take",
+            "s": 443.14,
+            "e": 443.38
+          },
+          {
+            "w": "a",
+            "s": 443.38,
+            "e": 443.56
+          },
+          {
+            "w": "beat",
+            "s": 443.56,
+            "e": 443.76
+          },
+          {
+            "w": "whenever",
+            "s": 443.76,
+            "e": 444.1
+          },
+          {
+            "w": "news",
+            "s": 444.1,
+            "e": 444.56
+          },
+          {
+            "w": "stokes",
+            "s": 444.56,
+            "e": 445.58
+          },
+          {
+            "w": "an",
+            "s": 445.58,
+            "e": 445.76
+          },
+          {
+            "w": "emotional",
+            "s": 445.76,
+            "e": 445.86
+          },
+          {
+            "w": "reaction",
+            "s": 445.86,
+            "e": 446.66
+          },
+          {
+            "w": "before",
+            "s": 446.66,
+            "e": 447.34
+          },
+          {
+            "w": "sharing",
+            "s": 447.34,
+            "e": 447.9
+          },
+          {
+            "w": "it",
+            "s": 447.9,
+            "e": 448.08
+          },
+          {
+            "w": "out.",
+            "s": 448.08,
+            "e": 448.24
+          },
+          {
+            "w": "Finland",
+            "s": 449.16,
+            "e": 449.44
+          },
+          {
+            "w": "is",
+            "s": 449.44,
+            "e": 449.76
+          },
+          {
+            "w": "another",
+            "s": 449.76,
+            "e": 450.02
+          },
+          {
+            "w": "incredible",
+            "s": 450.02,
+            "e": 450.64
+          },
+          {
+            "w": "example",
+            "s": 450.64,
+            "e": 451.44
+          },
+          {
+            "w": "of",
+            "s": 451.44,
+            "e": 451.92
+          },
+          {
+            "w": "standardized",
+            "s": 451.92,
+            "e": 452.28
+          },
+          {
+            "w": "media",
+            "s": 452.28,
+            "e": 452.96
+          },
+          {
+            "w": "literacy",
+            "s": 452.96,
+            "e": 453.42
+          },
+          {
+            "w": "education.",
+            "s": 453.42,
+            "e": 454.16
+          },
+          {
+            "w": "Identifying",
+            "s": 455.71,
+            "e": 456.08
+          },
+          {
+            "w": "propaganda",
+            "s": 456.08,
+            "e": 456.54
+          },
+          {
+            "w": "and",
+            "s": 456.54,
+            "e": 457.18
+          },
+          {
+            "w": "questioning",
+            "s": 457.18,
+            "e": 457.58
+          },
+          {
+            "w": "information",
+            "s": 457.58,
+            "e": 458.2
+          },
+          {
+            "w": "have",
+            "s": 458.2,
+            "e": 458.56
+          },
+          {
+            "w": "been",
+            "s": 458.56,
+            "e": 458.72
+          },
+          {
+            "w": "part",
+            "s": 458.72,
+            "e": 459.0
+          },
+          {
+            "w": "of",
+            "s": 459.0,
+            "e": 459.22
+          },
+          {
+            "w": "Finnish",
+            "s": 459.22,
+            "e": 459.44
+          },
+          {
+            "w": "culture",
+            "s": 459.44,
+            "e": 459.78
+          },
+          {
+            "w": "ever",
+            "s": 459.78,
+            "e": 460.28
+          },
+          {
+            "w": "since",
+            "s": 460.28,
+            "e": 460.56
+          },
+          {
+            "w": "the",
+            "s": 460.56,
+            "e": 460.74
+          },
+          {
+            "w": "country",
+            "s": 460.74,
+            "e": 461.02
+          },
+          {
+            "w": "gained",
+            "s": 461.02,
+            "e": 461.28
+          },
+          {
+            "w": "independence",
+            "s": 461.28,
+            "e": 461.76
+          },
+          {
+            "w": "from",
+            "s": 461.76,
+            "e": 462.2
+          },
+          {
+            "w": "Russia",
+            "s": 462.2,
+            "e": 462.48
+          },
+          {
+            "w": "more",
+            "s": 462.48,
+            "e": 463.4
+          },
+          {
+            "w": "than",
+            "s": 463.4,
+            "e": 463.58
+          },
+          {
+            "w": "a",
+            "s": 463.58,
+            "e": 463.66
+          },
+          {
+            "w": "century",
+            "s": 463.66,
+            "e": 464.0
+          },
+          {
+            "w": "ago.",
+            "s": 464.0,
+            "e": 464.38
+          },
+          {
+            "w": "So",
+            "s": 464.98,
+            "e": 465.28
+          },
+          {
+            "w": "today,",
+            "s": 465.28,
+            "e": 465.7
+          },
+          {
+            "w": "media",
+            "s": 466.2,
+            "e": 466.52
+          },
+          {
+            "w": "literacy",
+            "s": 466.52,
+            "e": 466.9
+          },
+          {
+            "w": "is",
+            "s": 466.9,
+            "e": 467.4
+          },
+          {
+            "w": "a",
+            "s": 467.4,
+            "e": 467.58
+          },
+          {
+            "w": "core",
+            "s": 467.58,
+            "e": 467.84
+          },
+          {
+            "w": "pillar",
+            "s": 467.84,
+            "e": 468.18
+          },
+          {
+            "w": "of",
+            "s": 468.18,
+            "e": 468.58
+          },
+          {
+            "w": "the",
+            "s": 468.58,
+            "e": 468.68
+          },
+          {
+            "w": "national",
+            "s": 468.68,
+            "e": 468.9
+          },
+          {
+            "w": "curriculum",
+            "s": 468.9,
+            "e": 469.34
+          },
+          {
+            "w": "beginning",
+            "s": 469.34,
+            "e": 470.36
+          },
+          {
+            "w": "K",
+            "s": 470.36,
+            "e": 470.72
+          },
+          {
+            "w": "through",
+            "s": 470.72,
+            "e": 471.0
+          },
+          {
+            "w": "12",
+            "s": 471.0,
+            "e": 471.28
+          },
+          {
+            "w": "and",
+            "s": 471.28,
+            "e": 471.74
+          },
+          {
+            "w": "carrying",
+            "s": 471.74,
+            "e": 471.96
+          },
+          {
+            "w": "through",
+            "s": 471.96,
+            "e": 472.46
+          },
+          {
+            "w": "college",
+            "s": 472.46,
+            "e": 472.74
+          },
+          {
+            "w": "and",
+            "s": 472.74,
+            "e": 473.38
+          },
+          {
+            "w": "adult",
+            "s": 473.38,
+            "e": 473.58
+          },
+          {
+            "w": "learning.",
+            "s": 473.58,
+            "e": 473.94
+          },
+          {
+            "w": "Educators",
+            "s": 475.94,
+            "e": 476.66
+          },
+          {
+            "w": "in",
+            "s": 476.66,
+            "e": 476.9
+          },
+          {
+            "w": "Helsinki",
+            "s": 476.9,
+            "e": 477.12
+          },
+          {
+            "w": "have",
+            "s": 477.12,
+            "e": 477.72
+          },
+          {
+            "w": "been",
+            "s": 477.72,
+            "e": 477.92
+          },
+          {
+            "w": "on",
+            "s": 477.92,
+            "e": 478.16
+          },
+          {
+            "w": "CBS",
+            "s": 478.16,
+            "e": 478.5
+          },
+          {
+            "w": "and",
+            "s": 478.5,
+            "e": 479.2
+          },
+          {
+            "w": "Al",
+            "s": 479.2,
+            "e": 479.4
+          },
+          {
+            "w": "Jazeera",
+            "s": 479.4,
+            "e": 479.7
+          },
+          {
+            "w": "describing",
+            "s": 479.7,
+            "e": 480.64
+          },
+          {
+            "w": "how",
+            "s": 480.64,
+            "e": 481.24
+          },
+          {
+            "w": "media",
+            "s": 481.24,
+            "e": 481.58
+          },
+          {
+            "w": "literacy",
+            "s": 481.58,
+            "e": 482.12
+          },
+          {
+            "w": "is",
+            "s": 482.12,
+            "e": 482.5
+          },
+          {
+            "w": "integrated",
+            "s": 482.5,
+            "e": 482.94
+          },
+          {
+            "w": "across",
+            "s": 482.94,
+            "e": 483.48
+          },
+          {
+            "w": "all",
+            "s": 483.48,
+            "e": 483.92
+          },
+          {
+            "w": "subjects.",
+            "s": 483.92,
+            "e": 484.4
+          },
+          {
+            "w": "So",
+            "s": 485.28,
+            "e": 485.32
+          },
+          {
+            "w": "in",
+            "s": 485.32,
+            "e": 485.6
+          },
+          {
+            "w": "literature",
+            "s": 485.6,
+            "e": 485.86
+          },
+          {
+            "w": "classes,",
+            "s": 485.86,
+            "e": 486.4
+          },
+          {
+            "w": "students",
+            "s": 486.4,
+            "e": 487.52
+          },
+          {
+            "w": "will",
+            "s": 487.52,
+            "e": 487.82
+          },
+          {
+            "w": "learn",
+            "s": 487.82,
+            "e": 488.16
+          },
+          {
+            "w": "the",
+            "s": 488.16,
+            "e": 488.48
+          },
+          {
+            "w": "basics",
+            "s": 488.48,
+            "e": 488.88
+          },
+          {
+            "w": "of",
+            "s": 488.88,
+            "e": 489.28
+          },
+          {
+            "w": "verifying",
+            "s": 489.28,
+            "e": 490.28
+          },
+          {
+            "w": "news,",
+            "s": 490.28,
+            "e": 490.9
+          },
+          {
+            "w": "vetting",
+            "s": 491.66,
+            "e": 491.68
+          },
+          {
+            "w": "sources,",
+            "s": 491.68,
+            "e": 492.12
+          },
+          {
+            "w": "and",
+            "s": 492.78,
+            "e": 492.8
+          },
+          {
+            "w": "critiquing",
+            "s": 492.8,
+            "e": 493.36
+          },
+          {
+            "w": "media.",
+            "s": 493.36,
+            "e": 493.56
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "time": "08:14",
+        "seconds": 494.6,
+        "endSeconds": 562.3,
+        "title": "第 7 幕：Then in math, they'll focus more on a...",
+        "original": "Then in math, they'll focus more on algorithms and statistics. In art, they'll take a look at images and learn how they can be edited. And then in history, it might be taking a look at an air raid that happened during World War II and considering how it could be taught differently depending which side of the war a country fought on. Some Finnish students have even played this computer game troll factory where they spend a week on this platform intentionally acting as an internet troll to spread as much disinformation as they can with the goal of gaining as much visibility for the account as possible. One student summed this up as, you gain a lot of followers when you spread a lot of unpleasant things. Finnish education officials say that the curriculum helps protect democracy, that if we can't tell what's true from what isn't, then we can be deceived and we're left vulnerable. It roots back to this popular thing.",
+        "translation": "在数学课上，他们深入剖析算法逻辑与统计学陷阱；在美术课上，他们仔细鉴别图像，探究照片如何被篡改伪造；而在历史课上，他们可能会剖析二战中的某次空袭行动，探讨交战双方因立场不同而导致的截然不同的叙述版本。有些芬兰学生甚至玩过一款名为《水军工厂》（Troll Factory）的电脑游戏，在平台里当上一整周的“职业键盘侠”，绞尽脑汁炮制并扩散假消息，只为博取最高的账号曝光率。一名学生一针见血地总结道：“当你散播足够多令人不适的言论时，涨粉就会飞快。”芬兰教育官员强调，这门课程是在为民主筑起防护堤——如果我们连真伪都无法分辨，就会任人摆布，沦为任由宰割的弱者。这正印证了那句广为流传的名言：",
+        "words": [
+          {
+            "w": "Then",
+            "s": 494.56,
+            "e": 494.68
+          },
+          {
+            "w": "in",
+            "s": 494.68,
+            "e": 494.98
+          },
+          {
+            "w": "math,",
+            "s": 494.98,
+            "e": 495.28
+          },
+          {
+            "w": "they'll",
+            "s": 495.48,
+            "e": 495.6
+          },
+          {
+            "w": "focus",
+            "s": 495.6,
+            "e": 495.86
+          },
+          {
+            "w": "more",
+            "s": 495.86,
+            "e": 496.14
+          },
+          {
+            "w": "on",
+            "s": 496.14,
+            "e": 496.46
+          },
+          {
+            "w": "algorithms",
+            "s": 496.46,
+            "e": 496.86
+          },
+          {
+            "w": "and",
+            "s": 496.86,
+            "e": 497.34
+          },
+          {
+            "w": "statistics.",
+            "s": 497.34,
+            "e": 497.66
+          },
+          {
+            "w": "In",
+            "s": 498.48,
+            "e": 499.08
+          },
+          {
+            "w": "art,",
+            "s": 499.08,
+            "e": 499.4
+          },
+          {
+            "w": "they'll",
+            "s": 499.7,
+            "e": 499.74
+          },
+          {
+            "w": "take",
+            "s": 499.74,
+            "e": 499.96
+          },
+          {
+            "w": "a",
+            "s": 499.96,
+            "e": 500.06
+          },
+          {
+            "w": "look",
+            "s": 500.06,
+            "e": 500.24
+          },
+          {
+            "w": "at",
+            "s": 500.24,
+            "e": 500.52
+          },
+          {
+            "w": "images",
+            "s": 500.52,
+            "e": 500.92
+          },
+          {
+            "w": "and",
+            "s": 500.92,
+            "e": 501.56
+          },
+          {
+            "w": "learn",
+            "s": 501.56,
+            "e": 501.98
+          },
+          {
+            "w": "how",
+            "s": 501.98,
+            "e": 502.26
+          },
+          {
+            "w": "they",
+            "s": 502.26,
+            "e": 502.38
+          },
+          {
+            "w": "can",
+            "s": 502.38,
+            "e": 502.52
+          },
+          {
+            "w": "be",
+            "s": 502.52,
+            "e": 502.76
+          },
+          {
+            "w": "edited.",
+            "s": 502.76,
+            "e": 503.24
+          },
+          {
+            "w": "And",
+            "s": 504.12,
+            "e": 504.16
+          },
+          {
+            "w": "then",
+            "s": 504.16,
+            "e": 504.32
+          },
+          {
+            "w": "in",
+            "s": 504.32,
+            "e": 504.48
+          },
+          {
+            "w": "history,",
+            "s": 504.48,
+            "e": 504.82
+          },
+          {
+            "w": "it",
+            "s": 505.24,
+            "e": 505.38
+          },
+          {
+            "w": "might",
+            "s": 505.38,
+            "e": 505.52
+          },
+          {
+            "w": "be",
+            "s": 505.52,
+            "e": 505.78
+          },
+          {
+            "w": "taking",
+            "s": 505.78,
+            "e": 506.3
+          },
+          {
+            "w": "a",
+            "s": 506.3,
+            "e": 506.54
+          },
+          {
+            "w": "look",
+            "s": 506.54,
+            "e": 506.74
+          },
+          {
+            "w": "at",
+            "s": 506.74,
+            "e": 507.06
+          },
+          {
+            "w": "an",
+            "s": 507.06,
+            "e": 507.2
+          },
+          {
+            "w": "air",
+            "s": 507.2,
+            "e": 507.44
+          },
+          {
+            "w": "raid",
+            "s": 507.44,
+            "e": 507.78
+          },
+          {
+            "w": "that",
+            "s": 507.78,
+            "e": 508.14
+          },
+          {
+            "w": "happened",
+            "s": 508.14,
+            "e": 508.44
+          },
+          {
+            "w": "during",
+            "s": 508.44,
+            "e": 508.72
+          },
+          {
+            "w": "World",
+            "s": 508.72,
+            "e": 508.96
+          },
+          {
+            "w": "War",
+            "s": 508.96,
+            "e": 509.22
+          },
+          {
+            "w": "II",
+            "s": 509.22,
+            "e": 509.56
+          },
+          {
+            "w": "and",
+            "s": 509.56,
+            "e": 510.3
+          },
+          {
+            "w": "considering",
+            "s": 510.3,
+            "e": 510.66
+          },
+          {
+            "w": "how",
+            "s": 510.66,
+            "e": 511.28
+          },
+          {
+            "w": "it",
+            "s": 511.28,
+            "e": 511.46
+          },
+          {
+            "w": "could",
+            "s": 511.46,
+            "e": 511.6
+          },
+          {
+            "w": "be",
+            "s": 511.6,
+            "e": 511.82
+          },
+          {
+            "w": "taught",
+            "s": 511.82,
+            "e": 512.18
+          },
+          {
+            "w": "differently",
+            "s": 512.18,
+            "e": 512.74
+          },
+          {
+            "w": "depending",
+            "s": 512.74,
+            "e": 513.7
+          },
+          {
+            "w": "which",
+            "s": 513.7,
+            "e": 514.1
+          },
+          {
+            "w": "side",
+            "s": 514.1,
+            "e": 514.36
+          },
+          {
+            "w": "of",
+            "s": 514.36,
+            "e": 514.48
+          },
+          {
+            "w": "the",
+            "s": 514.48,
+            "e": 514.58
+          },
+          {
+            "w": "war",
+            "s": 514.58,
+            "e": 514.86
+          },
+          {
+            "w": "a",
+            "s": 514.86,
+            "e": 515.16
+          },
+          {
+            "w": "country",
+            "s": 515.16,
+            "e": 515.44
+          },
+          {
+            "w": "fought",
+            "s": 515.44,
+            "e": 515.78
+          },
+          {
+            "w": "on.",
+            "s": 515.78,
+            "e": 516.16
+          },
+          {
+            "w": "Some",
+            "s": 517.84,
+            "e": 518.44
+          },
+          {
+            "w": "Finnish",
+            "s": 518.44,
+            "e": 518.78
+          },
+          {
+            "w": "students",
+            "s": 518.78,
+            "e": 519.48
+          },
+          {
+            "w": "have",
+            "s": 519.48,
+            "e": 519.64
+          },
+          {
+            "w": "even",
+            "s": 519.64,
+            "e": 519.86
+          },
+          {
+            "w": "played",
+            "s": 519.86,
+            "e": 520.18
+          },
+          {
+            "w": "this",
+            "s": 520.18,
+            "e": 520.44
+          },
+          {
+            "w": "computer",
+            "s": 520.44,
+            "e": 520.86
+          },
+          {
+            "w": "game",
+            "s": 520.86,
+            "e": 521.28
+          },
+          {
+            "w": "troll",
+            "s": 521.28,
+            "e": 521.72
+          },
+          {
+            "w": "factory",
+            "s": 521.72,
+            "e": 522.1
+          },
+          {
+            "w": "where",
+            "s": 522.1,
+            "e": 523.66
+          },
+          {
+            "w": "they",
+            "s": 523.66,
+            "e": 523.86
+          },
+          {
+            "w": "spend",
+            "s": 523.86,
+            "e": 524.1
+          },
+          {
+            "w": "a",
+            "s": 524.1,
+            "e": 524.44
+          },
+          {
+            "w": "week",
+            "s": 524.44,
+            "e": 524.66
+          },
+          {
+            "w": "on",
+            "s": 524.66,
+            "e": 524.96
+          },
+          {
+            "w": "this",
+            "s": 524.96,
+            "e": 525.16
+          },
+          {
+            "w": "platform",
+            "s": 525.16,
+            "e": 525.48
+          },
+          {
+            "w": "intentionally",
+            "s": 525.48,
+            "e": 526.48
+          },
+          {
+            "w": "acting",
+            "s": 526.48,
+            "e": 527.02
+          },
+          {
+            "w": "as",
+            "s": 527.02,
+            "e": 527.46
+          },
+          {
+            "w": "an",
+            "s": 527.46,
+            "e": 527.56
+          },
+          {
+            "w": "internet",
+            "s": 527.56,
+            "e": 527.92
+          },
+          {
+            "w": "troll",
+            "s": 527.92,
+            "e": 528.26
+          },
+          {
+            "w": "to",
+            "s": 528.26,
+            "e": 529.3
+          },
+          {
+            "w": "spread",
+            "s": 529.3,
+            "e": 529.76
+          },
+          {
+            "w": "as",
+            "s": 529.76,
+            "e": 530.06
+          },
+          {
+            "w": "much",
+            "s": 530.06,
+            "e": 530.26
+          },
+          {
+            "w": "disinformation",
+            "s": 530.26,
+            "e": 530.66
+          },
+          {
+            "w": "as",
+            "s": 531.0,
+            "e": 531.32
+          },
+          {
+            "w": "they",
+            "s": 531.32,
+            "e": 531.44
+          },
+          {
+            "w": "can",
+            "s": 531.44,
+            "e": 531.7
+          },
+          {
+            "w": "with",
+            "s": 531.7,
+            "e": 532.14
+          },
+          {
+            "w": "the",
+            "s": 532.14,
+            "e": 532.3
+          },
+          {
+            "w": "goal",
+            "s": 532.3,
+            "e": 532.56
+          },
+          {
+            "w": "of",
+            "s": 532.56,
+            "e": 532.86
+          },
+          {
+            "w": "gaining",
+            "s": 532.86,
+            "e": 533.08
+          },
+          {
+            "w": "as",
+            "s": 533.08,
+            "e": 533.48
+          },
+          {
+            "w": "much",
+            "s": 533.48,
+            "e": 533.64
+          },
+          {
+            "w": "visibility",
+            "s": 533.64,
+            "e": 534.08
+          },
+          {
+            "w": "for",
+            "s": 534.08,
+            "e": 534.7
+          },
+          {
+            "w": "the",
+            "s": 534.7,
+            "e": 534.82
+          },
+          {
+            "w": "account",
+            "s": 534.82,
+            "e": 535.04
+          },
+          {
+            "w": "as",
+            "s": 535.04,
+            "e": 535.62
+          },
+          {
+            "w": "possible.",
+            "s": 535.62,
+            "e": 536.04
+          },
+          {
+            "w": "One",
+            "s": 537.0,
+            "e": 537.64
+          },
+          {
+            "w": "student",
+            "s": 537.64,
+            "e": 538.04
+          },
+          {
+            "w": "summed",
+            "s": 538.04,
+            "e": 538.36
+          },
+          {
+            "w": "this",
+            "s": 538.36,
+            "e": 538.78
+          },
+          {
+            "w": "up",
+            "s": 538.78,
+            "e": 538.94
+          },
+          {
+            "w": "as,",
+            "s": 538.94,
+            "e": 539.26
+          },
+          {
+            "w": "you",
+            "s": 539.58,
+            "e": 539.82
+          },
+          {
+            "w": "gain",
+            "s": 539.82,
+            "e": 539.96
+          },
+          {
+            "w": "a",
+            "s": 539.96,
+            "e": 540.08
+          },
+          {
+            "w": "lot",
+            "s": 540.08,
+            "e": 540.24
+          },
+          {
+            "w": "of",
+            "s": 540.24,
+            "e": 540.32
+          },
+          {
+            "w": "followers",
+            "s": 540.32,
+            "e": 540.74
+          },
+          {
+            "w": "when",
+            "s": 540.74,
+            "e": 541.18
+          },
+          {
+            "w": "you",
+            "s": 541.18,
+            "e": 541.3
+          },
+          {
+            "w": "spread",
+            "s": 541.3,
+            "e": 541.48
+          },
+          {
+            "w": "a",
+            "s": 541.48,
+            "e": 541.64
+          },
+          {
+            "w": "lot",
+            "s": 541.64,
+            "e": 541.8
+          },
+          {
+            "w": "of",
+            "s": 541.8,
+            "e": 541.9
+          },
+          {
+            "w": "unpleasant",
+            "s": 541.9,
+            "e": 542.3
+          },
+          {
+            "w": "things.",
+            "s": 542.68,
+            "e": 543.0
+          },
+          {
+            "w": "Finnish",
+            "s": 546.36,
+            "e": 546.74
+          },
+          {
+            "w": "education",
+            "s": 546.74,
+            "e": 547.34
+          },
+          {
+            "w": "officials",
+            "s": 547.34,
+            "e": 547.78
+          },
+          {
+            "w": "say",
+            "s": 547.78,
+            "e": 548.56
+          },
+          {
+            "w": "that",
+            "s": 548.56,
+            "e": 548.72
+          },
+          {
+            "w": "the",
+            "s": 548.72,
+            "e": 548.82
+          },
+          {
+            "w": "curriculum",
+            "s": 548.82,
+            "e": 549.1
+          },
+          {
+            "w": "helps",
+            "s": 549.1,
+            "e": 549.72
+          },
+          {
+            "w": "protect",
+            "s": 549.72,
+            "e": 550.16
+          },
+          {
+            "w": "democracy,",
+            "s": 550.16,
+            "e": 550.6
+          },
+          {
+            "w": "that",
+            "s": 551.22,
+            "e": 551.78
+          },
+          {
+            "w": "if",
+            "s": 551.78,
+            "e": 552.02
+          },
+          {
+            "w": "we",
+            "s": 552.02,
+            "e": 552.2
+          },
+          {
+            "w": "can't",
+            "s": 552.2,
+            "e": 552.58
+          },
+          {
+            "w": "tell",
+            "s": 552.58,
+            "e": 552.82
+          },
+          {
+            "w": "what's",
+            "s": 552.82,
+            "e": 553.5
+          },
+          {
+            "w": "true",
+            "s": 553.5,
+            "e": 554.06
+          },
+          {
+            "w": "from",
+            "s": 554.06,
+            "e": 554.56
+          },
+          {
+            "w": "what",
+            "s": 554.56,
+            "e": 554.72
+          },
+          {
+            "w": "isn't,",
+            "s": 554.72,
+            "e": 555.22
+          },
+          {
+            "w": "then",
+            "s": 555.38,
+            "e": 555.8
+          },
+          {
+            "w": "we",
+            "s": 555.8,
+            "e": 556.02
+          },
+          {
+            "w": "can",
+            "s": 556.02,
+            "e": 556.16
+          },
+          {
+            "w": "be",
+            "s": 556.16,
+            "e": 556.32
+          },
+          {
+            "w": "deceived",
+            "s": 556.32,
+            "e": 556.72
+          },
+          {
+            "w": "and",
+            "s": 556.72,
+            "e": 557.22
+          },
+          {
+            "w": "we're",
+            "s": 557.22,
+            "e": 557.38
+          },
+          {
+            "w": "left",
+            "s": 557.38,
+            "e": 557.56
+          },
+          {
+            "w": "vulnerable.",
+            "s": 557.56,
+            "e": 557.96
+          },
+          {
+            "w": "It",
+            "s": 560.06,
+            "e": 560.24
+          },
+          {
+            "w": "roots",
+            "s": 560.24,
+            "e": 560.46
+          },
+          {
+            "w": "back",
+            "s": 560.46,
+            "e": 560.8
+          },
+          {
+            "w": "to",
+            "s": 560.8,
+            "e": 561.1
+          },
+          {
+            "w": "this",
+            "s": 561.1,
+            "e": 561.24
+          },
+          {
+            "w": "popular",
+            "s": 561.24,
+            "e": 561.58
+          },
+          {
+            "w": "thing.",
+            "s": 561.58,
+            "e": 562.26
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "time": "09:22",
+        "seconds": 562.9,
+        "endSeconds": 689.4,
+        "title": "第 8 幕：You have the right to your own opinion",
+        "original": "You have the right to your own opinion. But you do not have the right to your own facts. Data shows this standardized approach works. Finland has ranked at the top of Open Society Foundations Annual Media Literacy Index every year since it started in 2017, which we all can now recognize as the Orange Square era here in the US. I can't help thinking a little bit more about Fire Festival and wondering how things could have been different if the folks on those social media teams were asking the same questions that Finnish elementary schoolers ask every day. And that's where we come in. We have the power to ask our elected officials to enact national media literacy education standards. We can practice thinking journalistically in our day to day and call out misinformation when we see it, whether that's pushing back on something that our friends said or posting the link to a verified news article on a social media post that isn't accurate. We can subscribe to our local newspapers. And when we do get our information from social media, we can make sure it's coming from creators who are trained in a journalistic process. We can share this toolkit with our children and the others in our lives. So, when we leave here today, let's remember to ask questions. Even if people we tend to agree with, let's stay curious, check our sources, and speak up in the name of truth, even when it's hard, because that ability to think for ourselves might just be the most important civic skill we have left. Thank you. That was Laura Smythe at Ted Democracy Philadelphia in 20.",
+        "translation": "“你可以拥有自己的观点，但你无权拥有自己的‘事实’。”数据证明，这种体系化教育切实有效。自 2017 年设立年度媒介素养指数以来，芬兰年年蝉联榜首——而大家现在都知道，2017 年正是美国遭遇“纯橙方块骗局”的那一年。我不禁再次联想到斐尔音乐节，如果当初那些社交媒体团队能像芬兰小学生那样，每天带着批判性思维多问几个为什么，结局又会是怎样？而这，正是我们每个人大有可为之处。我们有力量推动民选代表确立国家级的媒介素养教育标准；我们可以在日常生活中践行记者的思辨习惯，一旦发现虚假信息就果断指正——无论是委婉反驳朋友口中未经证实的传言，还是在不实网帖下贴出权威核实的报道链接；我们可以订阅本地报纸；当我们从社交平台获取信息时，可以主动关注那些恪守新闻专业准则的创作者；我们还可以将这套思维工具箱传授给孩子和身边的每一个人。所以，走出今天的会场后，请时刻保持质疑——哪怕面对的是我们倾向于认同的人。请始终抱持好奇，仔细核验信源，哪怕阻力重重，也要勇敢为真相发声。因为这种独立思考的能力，或许正是我们在这个时代所能保有的、最关键的公民力量。谢谢大家！以上是劳拉·史密斯在 2024 年 TED 民主大会费城现场的演讲。",
+        "words": [
+          {
+            "w": "You",
+            "s": 562.88,
+            "e": 563.04
+          },
+          {
+            "w": "have",
+            "s": 563.04,
+            "e": 563.32
+          },
+          {
+            "w": "the",
+            "s": 563.32,
+            "e": 563.48
+          },
+          {
+            "w": "right",
+            "s": 563.48,
+            "e": 563.74
+          },
+          {
+            "w": "to",
+            "s": 563.74,
+            "e": 564.42
+          },
+          {
+            "w": "your",
+            "s": 564.42,
+            "e": 564.6
+          },
+          {
+            "w": "own",
+            "s": 564.6,
+            "e": 564.88
+          },
+          {
+            "w": "opinion.",
+            "s": 564.88,
+            "e": 565.22
+          },
+          {
+            "w": "But",
+            "s": 566.52,
+            "e": 566.7
+          },
+          {
+            "w": "you",
+            "s": 566.7,
+            "e": 566.8
+          },
+          {
+            "w": "do",
+            "s": 566.8,
+            "e": 566.94
+          },
+          {
+            "w": "not",
+            "s": 566.94,
+            "e": 567.14
+          },
+          {
+            "w": "have",
+            "s": 567.14,
+            "e": 567.36
+          },
+          {
+            "w": "the",
+            "s": 567.36,
+            "e": 567.46
+          },
+          {
+            "w": "right",
+            "s": 567.46,
+            "e": 567.68
+          },
+          {
+            "w": "to",
+            "s": 567.68,
+            "e": 567.9
+          },
+          {
+            "w": "your",
+            "s": 567.9,
+            "e": 568.04
+          },
+          {
+            "w": "own",
+            "s": 568.04,
+            "e": 568.24
+          },
+          {
+            "w": "facts.",
+            "s": 568.24,
+            "e": 568.54
+          },
+          {
+            "w": "Data",
+            "s": 572.5,
+            "e": 572.78
+          },
+          {
+            "w": "shows",
+            "s": 572.78,
+            "e": 573.1
+          },
+          {
+            "w": "this",
+            "s": 573.1,
+            "e": 573.52
+          },
+          {
+            "w": "standardized",
+            "s": 573.52,
+            "e": 574.24
+          },
+          {
+            "w": "approach",
+            "s": 574.24,
+            "e": 574.82
+          },
+          {
+            "w": "works.",
+            "s": 574.82,
+            "e": 575.38
+          },
+          {
+            "w": "Finland",
+            "s": 576.44,
+            "e": 576.74
+          },
+          {
+            "w": "has",
+            "s": 576.74,
+            "e": 577.06
+          },
+          {
+            "w": "ranked",
+            "s": 577.06,
+            "e": 577.24
+          },
+          {
+            "w": "at",
+            "s": 577.24,
+            "e": 577.48
+          },
+          {
+            "w": "the",
+            "s": 577.48,
+            "e": 577.58
+          },
+          {
+            "w": "top",
+            "s": 577.58,
+            "e": 577.84
+          },
+          {
+            "w": "of",
+            "s": 577.84,
+            "e": 578.08
+          },
+          {
+            "w": "Open",
+            "s": 578.08,
+            "e": 578.42
+          },
+          {
+            "w": "Society",
+            "s": 578.42,
+            "e": 579.16
+          },
+          {
+            "w": "Foundations",
+            "s": 579.16,
+            "e": 580.04
+          },
+          {
+            "w": "Annual",
+            "s": 580.04,
+            "e": 580.58
+          },
+          {
+            "w": "Media",
+            "s": 580.58,
+            "e": 580.88
+          },
+          {
+            "w": "Literacy",
+            "s": 580.88,
+            "e": 581.5
+          },
+          {
+            "w": "Index",
+            "s": 581.5,
+            "e": 581.9
+          },
+          {
+            "w": "every",
+            "s": 581.9,
+            "e": 582.62
+          },
+          {
+            "w": "year",
+            "s": 582.62,
+            "e": 582.9
+          },
+          {
+            "w": "since",
+            "s": 582.9,
+            "e": 583.14
+          },
+          {
+            "w": "it",
+            "s": 583.14,
+            "e": 583.4
+          },
+          {
+            "w": "started",
+            "s": 583.4,
+            "e": 583.76
+          },
+          {
+            "w": "in",
+            "s": 583.76,
+            "e": 584.08
+          },
+          {
+            "w": "2017,",
+            "s": 584.08,
+            "e": 584.62
+          },
+          {
+            "w": "which",
+            "s": 585.62,
+            "e": 585.94
+          },
+          {
+            "w": "we",
+            "s": 585.94,
+            "e": 586.32
+          },
+          {
+            "w": "all",
+            "s": 586.32,
+            "e": 586.6
+          },
+          {
+            "w": "can",
+            "s": 586.6,
+            "e": 586.9
+          },
+          {
+            "w": "now",
+            "s": 586.9,
+            "e": 587.12
+          },
+          {
+            "w": "recognize",
+            "s": 587.12,
+            "e": 587.5
+          },
+          {
+            "w": "as",
+            "s": 587.5,
+            "e": 587.96
+          },
+          {
+            "w": "the",
+            "s": 587.96,
+            "e": 588.12
+          },
+          {
+            "w": "Orange",
+            "s": 588.12,
+            "e": 588.4
+          },
+          {
+            "w": "Square",
+            "s": 588.4,
+            "e": 588.8
+          },
+          {
+            "w": "era",
+            "s": 588.8,
+            "e": 589.36
+          },
+          {
+            "w": "here",
+            "s": 589.36,
+            "e": 589.84
+          },
+          {
+            "w": "in",
+            "s": 589.84,
+            "e": 590.04
+          },
+          {
+            "w": "the",
+            "s": 590.04,
+            "e": 590.16
+          },
+          {
+            "w": "US.",
+            "s": 590.16,
+            "e": 590.38
+          },
+          {
+            "w": "I",
+            "s": 592.1,
+            "e": 592.7
+          },
+          {
+            "w": "can't",
+            "s": 592.7,
+            "e": 592.98
+          },
+          {
+            "w": "help",
+            "s": 592.98,
+            "e": 593.16
+          },
+          {
+            "w": "thinking",
+            "s": 593.16,
+            "e": 593.44
+          },
+          {
+            "w": "a",
+            "s": 593.44,
+            "e": 593.7
+          },
+          {
+            "w": "little",
+            "s": 593.7,
+            "e": 593.84
+          },
+          {
+            "w": "bit",
+            "s": 593.84,
+            "e": 594.02
+          },
+          {
+            "w": "more",
+            "s": 594.02,
+            "e": 594.24
+          },
+          {
+            "w": "about",
+            "s": 594.24,
+            "e": 594.48
+          },
+          {
+            "w": "Fire",
+            "s": 594.48,
+            "e": 594.8
+          },
+          {
+            "w": "Festival",
+            "s": 594.8,
+            "e": 595.28
+          },
+          {
+            "w": "and",
+            "s": 595.28,
+            "e": 595.98
+          },
+          {
+            "w": "wondering",
+            "s": 595.98,
+            "e": 596.52
+          },
+          {
+            "w": "how",
+            "s": 596.52,
+            "e": 596.94
+          },
+          {
+            "w": "things",
+            "s": 596.94,
+            "e": 597.2
+          },
+          {
+            "w": "could",
+            "s": 597.2,
+            "e": 597.5
+          },
+          {
+            "w": "have",
+            "s": 597.5,
+            "e": 597.64
+          },
+          {
+            "w": "been",
+            "s": 597.64,
+            "e": 597.8
+          },
+          {
+            "w": "different",
+            "s": 597.8,
+            "e": 598.12
+          },
+          {
+            "w": "if",
+            "s": 598.12,
+            "e": 598.86
+          },
+          {
+            "w": "the",
+            "s": 598.86,
+            "e": 599.0
+          },
+          {
+            "w": "folks",
+            "s": 599.0,
+            "e": 599.2
+          },
+          {
+            "w": "on",
+            "s": 599.2,
+            "e": 599.42
+          },
+          {
+            "w": "those",
+            "s": 599.42,
+            "e": 599.54
+          },
+          {
+            "w": "social",
+            "s": 599.54,
+            "e": 599.88
+          },
+          {
+            "w": "media",
+            "s": 599.88,
+            "e": 600.18
+          },
+          {
+            "w": "teams",
+            "s": 600.18,
+            "e": 600.68
+          },
+          {
+            "w": "were",
+            "s": 600.68,
+            "e": 600.94
+          },
+          {
+            "w": "asking",
+            "s": 600.94,
+            "e": 601.4
+          },
+          {
+            "w": "the",
+            "s": 601.4,
+            "e": 601.64
+          },
+          {
+            "w": "same",
+            "s": 601.64,
+            "e": 601.86
+          },
+          {
+            "w": "questions",
+            "s": 601.86,
+            "e": 602.34
+          },
+          {
+            "w": "that",
+            "s": 602.34,
+            "e": 602.74
+          },
+          {
+            "w": "Finnish",
+            "s": 602.74,
+            "e": 603.14
+          },
+          {
+            "w": "elementary",
+            "s": 603.14,
+            "e": 603.5
+          },
+          {
+            "w": "schoolers",
+            "s": 603.5,
+            "e": 604.3
+          },
+          {
+            "w": "ask",
+            "s": 604.3,
+            "e": 604.84
+          },
+          {
+            "w": "every",
+            "s": 604.84,
+            "e": 605.08
+          },
+          {
+            "w": "day.",
+            "s": 605.08,
+            "e": 605.3
+          },
+          {
+            "w": "And",
+            "s": 607.92,
+            "e": 608.16
+          },
+          {
+            "w": "that's",
+            "s": 608.16,
+            "e": 608.46
+          },
+          {
+            "w": "where",
+            "s": 608.46,
+            "e": 608.64
+          },
+          {
+            "w": "we",
+            "s": 608.64,
+            "e": 608.8
+          },
+          {
+            "w": "come",
+            "s": 608.8,
+            "e": 608.98
+          },
+          {
+            "w": "in.",
+            "s": 608.98,
+            "e": 609.28
+          },
+          {
+            "w": "We",
+            "s": 609.77,
+            "e": 610.1
+          },
+          {
+            "w": "have",
+            "s": 610.1,
+            "e": 610.32
+          },
+          {
+            "w": "the",
+            "s": 610.32,
+            "e": 610.56
+          },
+          {
+            "w": "power",
+            "s": 610.56,
+            "e": 610.88
+          },
+          {
+            "w": "to",
+            "s": 610.88,
+            "e": 611.24
+          },
+          {
+            "w": "ask",
+            "s": 611.24,
+            "e": 611.78
+          },
+          {
+            "w": "our",
+            "s": 611.78,
+            "e": 612.02
+          },
+          {
+            "w": "elected",
+            "s": 612.02,
+            "e": 612.4
+          },
+          {
+            "w": "officials",
+            "s": 612.4,
+            "e": 612.86
+          },
+          {
+            "w": "to",
+            "s": 612.86,
+            "e": 613.26
+          },
+          {
+            "w": "enact",
+            "s": 613.26,
+            "e": 613.58
+          },
+          {
+            "w": "national",
+            "s": 613.58,
+            "e": 614.68
+          },
+          {
+            "w": "media",
+            "s": 614.68,
+            "e": 615.2
+          },
+          {
+            "w": "literacy",
+            "s": 615.2,
+            "e": 615.74
+          },
+          {
+            "w": "education",
+            "s": 615.74,
+            "e": 616.28
+          },
+          {
+            "w": "standards.",
+            "s": 616.28,
+            "e": 616.92
+          },
+          {
+            "w": "We",
+            "s": 618.0,
+            "e": 618.16
+          },
+          {
+            "w": "can",
+            "s": 618.16,
+            "e": 618.28
+          },
+          {
+            "w": "practice",
+            "s": 618.28,
+            "e": 618.7
+          },
+          {
+            "w": "thinking",
+            "s": 618.7,
+            "e": 619.1
+          },
+          {
+            "w": "journalistically",
+            "s": 619.1,
+            "e": 620.16
+          },
+          {
+            "w": "in",
+            "s": 620.16,
+            "e": 620.4
+          },
+          {
+            "w": "our",
+            "s": 620.4,
+            "e": 620.52
+          },
+          {
+            "w": "day",
+            "s": 620.52,
+            "e": 620.72
+          },
+          {
+            "w": "to",
+            "s": 620.72,
+            "e": 620.9
+          },
+          {
+            "w": "day",
+            "s": 620.9,
+            "e": 621.1
+          },
+          {
+            "w": "and",
+            "s": 621.1,
+            "e": 621.84
+          },
+          {
+            "w": "call",
+            "s": 621.84,
+            "e": 622.06
+          },
+          {
+            "w": "out",
+            "s": 622.06,
+            "e": 622.36
+          },
+          {
+            "w": "misinformation",
+            "s": 622.36,
+            "e": 622.66
+          },
+          {
+            "w": "when",
+            "s": 623.05,
+            "e": 623.38
+          },
+          {
+            "w": "we",
+            "s": 623.38,
+            "e": 623.54
+          },
+          {
+            "w": "see",
+            "s": 623.54,
+            "e": 623.74
+          },
+          {
+            "w": "it,",
+            "s": 623.74,
+            "e": 623.94
+          },
+          {
+            "w": "whether",
+            "s": 624.38,
+            "e": 624.52
+          },
+          {
+            "w": "that's",
+            "s": 624.52,
+            "e": 624.92
+          },
+          {
+            "w": "pushing",
+            "s": 624.92,
+            "e": 625.08
+          },
+          {
+            "w": "back",
+            "s": 625.08,
+            "e": 625.5
+          },
+          {
+            "w": "on",
+            "s": 625.5,
+            "e": 625.82
+          },
+          {
+            "w": "something",
+            "s": 625.82,
+            "e": 626.08
+          },
+          {
+            "w": "that",
+            "s": 626.08,
+            "e": 626.3
+          },
+          {
+            "w": "our",
+            "s": 626.3,
+            "e": 626.42
+          },
+          {
+            "w": "friends",
+            "s": 626.42,
+            "e": 626.7
+          },
+          {
+            "w": "said",
+            "s": 626.7,
+            "e": 627.04
+          },
+          {
+            "w": "or",
+            "s": 627.04,
+            "e": 627.64
+          },
+          {
+            "w": "posting",
+            "s": 627.64,
+            "e": 627.98
+          },
+          {
+            "w": "the",
+            "s": 627.98,
+            "e": 628.16
+          },
+          {
+            "w": "link",
+            "s": 628.16,
+            "e": 628.32
+          },
+          {
+            "w": "to",
+            "s": 628.32,
+            "e": 628.6
+          },
+          {
+            "w": "a",
+            "s": 628.6,
+            "e": 628.86
+          },
+          {
+            "w": "verified",
+            "s": 628.86,
+            "e": 629.18
+          },
+          {
+            "w": "news",
+            "s": 629.18,
+            "e": 629.62
+          },
+          {
+            "w": "article",
+            "s": 629.62,
+            "e": 629.98
+          },
+          {
+            "w": "on",
+            "s": 629.98,
+            "e": 630.54
+          },
+          {
+            "w": "a",
+            "s": 630.54,
+            "e": 630.76
+          },
+          {
+            "w": "social",
+            "s": 630.76,
+            "e": 630.96
+          },
+          {
+            "w": "media",
+            "s": 630.96,
+            "e": 631.32
+          },
+          {
+            "w": "post",
+            "s": 631.32,
+            "e": 631.74
+          },
+          {
+            "w": "that",
+            "s": 631.74,
+            "e": 632.1
+          },
+          {
+            "w": "isn't",
+            "s": 632.1,
+            "e": 632.62
+          },
+          {
+            "w": "accurate.",
+            "s": 632.62,
+            "e": 632.98
+          },
+          {
+            "w": "We",
+            "s": 632.98,
+            "e": 634.1
+          },
+          {
+            "w": "can",
+            "s": 634.1,
+            "e": 635.42
+          },
+          {
+            "w": "subscribe",
+            "s": 635.42,
+            "e": 635.66
+          },
+          {
+            "w": "to",
+            "s": 635.66,
+            "e": 636.36
+          },
+          {
+            "w": "our",
+            "s": 636.36,
+            "e": 636.48
+          },
+          {
+            "w": "local",
+            "s": 636.48,
+            "e": 636.66
+          },
+          {
+            "w": "newspapers.",
+            "s": 636.66,
+            "e": 637.24
+          },
+          {
+            "w": "And",
+            "s": 638.1,
+            "e": 638.24
+          },
+          {
+            "w": "when",
+            "s": 638.24,
+            "e": 638.38
+          },
+          {
+            "w": "we",
+            "s": 638.38,
+            "e": 638.56
+          },
+          {
+            "w": "do",
+            "s": 638.56,
+            "e": 638.72
+          },
+          {
+            "w": "get",
+            "s": 638.72,
+            "e": 638.94
+          },
+          {
+            "w": "our",
+            "s": 638.94,
+            "e": 639.08
+          },
+          {
+            "w": "information",
+            "s": 639.08,
+            "e": 639.54
+          },
+          {
+            "w": "from",
+            "s": 639.54,
+            "e": 639.96
+          },
+          {
+            "w": "social",
+            "s": 639.96,
+            "e": 640.38
+          },
+          {
+            "w": "media,",
+            "s": 640.38,
+            "e": 640.68
+          },
+          {
+            "w": "we",
+            "s": 641.1,
+            "e": 641.18
+          },
+          {
+            "w": "can",
+            "s": 641.18,
+            "e": 641.3
+          },
+          {
+            "w": "make",
+            "s": 641.3,
+            "e": 641.46
+          },
+          {
+            "w": "sure",
+            "s": 641.46,
+            "e": 641.66
+          },
+          {
+            "w": "it's",
+            "s": 641.66,
+            "e": 641.86
+          },
+          {
+            "w": "coming",
+            "s": 641.86,
+            "e": 642.14
+          },
+          {
+            "w": "from",
+            "s": 642.14,
+            "e": 642.36
+          },
+          {
+            "w": "creators",
+            "s": 642.36,
+            "e": 642.82
+          },
+          {
+            "w": "who",
+            "s": 642.82,
+            "e": 643.46
+          },
+          {
+            "w": "are",
+            "s": 643.46,
+            "e": 643.58
+          },
+          {
+            "w": "trained",
+            "s": 643.58,
+            "e": 643.92
+          },
+          {
+            "w": "in",
+            "s": 643.92,
+            "e": 644.16
+          },
+          {
+            "w": "a",
+            "s": 644.16,
+            "e": 644.24
+          },
+          {
+            "w": "journalistic",
+            "s": 644.24,
+            "e": 644.54
+          },
+          {
+            "w": "process.",
+            "s": 644.54,
+            "e": 645.3
+          },
+          {
+            "w": "We",
+            "s": 646.6,
+            "e": 647.2
+          },
+          {
+            "w": "can",
+            "s": 647.2,
+            "e": 647.34
+          },
+          {
+            "w": "share",
+            "s": 647.34,
+            "e": 647.62
+          },
+          {
+            "w": "this",
+            "s": 647.62,
+            "e": 647.96
+          },
+          {
+            "w": "toolkit",
+            "s": 647.96,
+            "e": 648.54
+          },
+          {
+            "w": "with",
+            "s": 648.54,
+            "e": 648.82
+          },
+          {
+            "w": "our",
+            "s": 648.82,
+            "e": 649.2
+          },
+          {
+            "w": "children",
+            "s": 649.2,
+            "e": 649.52
+          },
+          {
+            "w": "and",
+            "s": 649.52,
+            "e": 650.1
+          },
+          {
+            "w": "the",
+            "s": 650.1,
+            "e": 650.22
+          },
+          {
+            "w": "others",
+            "s": 650.22,
+            "e": 650.46
+          },
+          {
+            "w": "in",
+            "s": 650.46,
+            "e": 650.72
+          },
+          {
+            "w": "our",
+            "s": 650.72,
+            "e": 650.84
+          },
+          {
+            "w": "lives.",
+            "s": 650.84,
+            "e": 651.2
+          },
+          {
+            "w": "So,",
+            "s": 652.58,
+            "e": 653.18
+          },
+          {
+            "w": "when",
+            "s": 653.18,
+            "e": 653.78
+          },
+          {
+            "w": "we",
+            "s": 653.78,
+            "e": 653.98
+          },
+          {
+            "w": "leave",
+            "s": 653.98,
+            "e": 654.28
+          },
+          {
+            "w": "here",
+            "s": 654.28,
+            "e": 654.46
+          },
+          {
+            "w": "today,",
+            "s": 654.46,
+            "e": 655.06
+          },
+          {
+            "w": "let's",
+            "s": 655.72,
+            "e": 656.14
+          },
+          {
+            "w": "remember",
+            "s": 656.14,
+            "e": 656.52
+          },
+          {
+            "w": "to",
+            "s": 656.52,
+            "e": 656.88
+          },
+          {
+            "w": "ask",
+            "s": 656.88,
+            "e": 657.12
+          },
+          {
+            "w": "questions.",
+            "s": 657.12,
+            "e": 657.52
+          },
+          {
+            "w": "Even",
+            "s": 658.28,
+            "e": 658.92
+          },
+          {
+            "w": "if",
+            "s": 658.92,
+            "e": 659.08
+          },
+          {
+            "w": "people",
+            "s": 659.08,
+            "e": 659.28
+          },
+          {
+            "w": "we",
+            "s": 659.28,
+            "e": 659.6
+          },
+          {
+            "w": "tend",
+            "s": 659.6,
+            "e": 659.82
+          },
+          {
+            "w": "to",
+            "s": 659.82,
+            "e": 660.08
+          },
+          {
+            "w": "agree",
+            "s": 660.08,
+            "e": 660.36
+          },
+          {
+            "w": "with,",
+            "s": 660.36,
+            "e": 660.58
+          },
+          {
+            "w": "let's",
+            "s": 661.06,
+            "e": 661.96
+          },
+          {
+            "w": "stay",
+            "s": 661.96,
+            "e": 662.12
+          },
+          {
+            "w": "curious,",
+            "s": 662.12,
+            "e": 662.52
+          },
+          {
+            "w": "check",
+            "s": 663.42,
+            "e": 663.7
+          },
+          {
+            "w": "our",
+            "s": 663.7,
+            "e": 663.9
+          },
+          {
+            "w": "sources,",
+            "s": 663.9,
+            "e": 664.3
+          },
+          {
+            "w": "and",
+            "s": 665.16,
+            "e": 665.38
+          },
+          {
+            "w": "speak",
+            "s": 665.38,
+            "e": 665.8
+          },
+          {
+            "w": "up",
+            "s": 665.8,
+            "e": 666.06
+          },
+          {
+            "w": "in",
+            "s": 666.06,
+            "e": 666.66
+          },
+          {
+            "w": "the",
+            "s": 666.66,
+            "e": 666.78
+          },
+          {
+            "w": "name",
+            "s": 666.78,
+            "e": 666.96
+          },
+          {
+            "w": "of",
+            "s": 666.96,
+            "e": 667.08
+          },
+          {
+            "w": "truth,",
+            "s": 667.08,
+            "e": 667.3
+          },
+          {
+            "w": "even",
+            "s": 668.08,
+            "e": 668.42
+          },
+          {
+            "w": "when",
+            "s": 668.42,
+            "e": 668.6
+          },
+          {
+            "w": "it's",
+            "s": 668.6,
+            "e": 668.82
+          },
+          {
+            "w": "hard,",
+            "s": 668.82,
+            "e": 669.04
+          },
+          {
+            "w": "because",
+            "s": 669.46,
+            "e": 670.78
+          },
+          {
+            "w": "that",
+            "s": 670.78,
+            "e": 671.32
+          },
+          {
+            "w": "ability",
+            "s": 671.32,
+            "e": 671.76
+          },
+          {
+            "w": "to",
+            "s": 671.76,
+            "e": 672.36
+          },
+          {
+            "w": "think",
+            "s": 672.36,
+            "e": 672.56
+          },
+          {
+            "w": "for",
+            "s": 672.56,
+            "e": 672.78
+          },
+          {
+            "w": "ourselves",
+            "s": 672.78,
+            "e": 673.26
+          },
+          {
+            "w": "might",
+            "s": 674.28,
+            "e": 674.6
+          },
+          {
+            "w": "just",
+            "s": 674.6,
+            "e": 674.82
+          },
+          {
+            "w": "be",
+            "s": 674.82,
+            "e": 675.0
+          },
+          {
+            "w": "the",
+            "s": 675.0,
+            "e": 675.14
+          },
+          {
+            "w": "most",
+            "s": 675.14,
+            "e": 675.48
+          },
+          {
+            "w": "important",
+            "s": 675.48,
+            "e": 676.18
+          },
+          {
+            "w": "civic",
+            "s": 676.18,
+            "e": 676.64
+          },
+          {
+            "w": "skill",
+            "s": 676.64,
+            "e": 677.16
+          },
+          {
+            "w": "we",
+            "s": 677.16,
+            "e": 677.52
+          },
+          {
+            "w": "have",
+            "s": 677.52,
+            "e": 677.76
+          },
+          {
+            "w": "left.",
+            "s": 677.76,
+            "e": 678.04
+          },
+          {
+            "w": "Thank",
+            "s": 679.02,
+            "e": 679.54
+          },
+          {
+            "w": "you.",
+            "s": 679.54,
+            "e": 679.76
+          },
+          {
+            "w": "That",
+            "s": 679.76,
+            "e": 680.76
+          },
+          {
+            "w": "was",
+            "s": 686.2,
+            "e": 686.34
+          },
+          {
+            "w": "Laura",
+            "s": 686.34,
+            "e": 686.56
+          },
+          {
+            "w": "Smythe",
+            "s": 686.56,
+            "e": 687.02
+          },
+          {
+            "w": "at",
+            "s": 687.02,
+            "e": 687.22
+          },
+          {
+            "w": "Ted",
+            "s": 687.22,
+            "e": 687.44
+          },
+          {
+            "w": "Democracy",
+            "s": 687.44,
+            "e": 687.74
+          },
+          {
+            "w": "Philadelphia",
+            "s": 687.74,
+            "e": 688.54
+          },
+          {
+            "w": "in",
+            "s": 688.54,
+            "e": 689.16
+          },
+          {
+            "w": "20.",
+            "s": 689.16,
+            "e": 689.4
+          }
+        ]
+      }
+    ],
+    "cet4Vocab": [
+      {
+        "word": "algorithmic",
+        "phonetic": "[ˌælɡəˈrɪðmɪk]",
+        "pos": "adj.",
+        "meaning": "算法的；按算法推送的",
+        "context": "So you're still kind of seeing memes and photo dumps from people you actually know. You're scrolling on Instagram and that's pretty cool because they only just started with their algorithmic feed.",
+        "time": "[00:02]"
+      },
+      {
+        "word": "fodder",
+        "phonetic": "[ˈfɑːdər]",
+        "pos": "n.",
+        "meaning": "素材；料资；供消遣/制作节目的材料",
+        "context": "Netflix and Hulu got some great fodder.",
+        "time": "[01:13]"
+      },
+      {
+        "word": "curated",
+        "phonetic": "[ˈkjʊreɪtɪd]",
+        "pos": "adj.",
+        "meaning": "精心策划的；精选整理的",
+        "context": "But hundreds, not even thousands of smart, well-off people saw this glamorous curated content online and collectively decided.",
+        "time": "[01:13]"
+      },
+      {
+        "word": "gravitate",
+        "phonetic": "[ˈɡrævɪteɪt]",
+        "pos": "v.",
+        "meaning": "自然被吸引；倾向于走向",
+        "context": "Humans gravitate to people that we like.",
+        "time": "[01:13]"
+      },
+      {
+        "word": "relatability",
+        "phonetic": "[rɪˌleɪtəˈbɪləti]",
+        "pos": "n.",
+        "meaning": "亲和力；引发共鸣的特质",
+        "context": "But relatability and credibility are two very different things.",
+        "time": "[01:13]"
+      },
+      {
+        "word": "credibility",
+        "phonetic": "[ˌkredəˈbɪləti]",
+        "pos": "n.",
+        "meaning": "可信度；可靠性",
+        "context": "But relatability and credibility are two very different things.",
+        "time": "[01:13]"
+      },
+      {
+        "word": "legacy",
+        "phonetic": "[ˈleɡəsi]",
+        "pos": "adj.",
+        "meaning": "传统的；旧体制的",
+        "context": "After years working in legacy newsrooms, I thought I understood how people interact with news to inform our worldviews.",
+        "time": "[01:13]"
+      },
+      {
+        "word": "dissect",
+        "phonetic": "[dɪˈsekt]",
+        "pos": "v.",
+        "meaning": "剖析；仔细分析；解构",
+        "context": "It wasn't until I later started working with new media creators that I realized just to what extent we are not all dissecting information using the same framework.",
+        "time": "[02:39]"
+      },
+      {
+        "word": "unattainable",
+        "phonetic": "[ˌʌnəˈteɪnəbl]",
+        "pos": "adj.",
+        "meaning": "难以企及的；无法达到的",
+        "context": "They're not difficult or unattainable, but they're not taught outside of newsrooms or journalism schools.",
+        "time": "[02:39]"
+      },
+      {
+        "word": "interrogate",
+        "phonetic": "[ɪnˈterəɡeɪt]",
+        "pos": "v.",
+        "meaning": "审视；审问；严密拷问",
+        "context": "Journalists spend years learning a professional discipline of interrogating information in pursuit of the truth.",
+        "time": "[02:39]"
+      },
+      {
+        "word": "materialize",
+        "phonetic": "[məˈtɪriəlaɪz]",
+        "pos": "v.",
+        "meaning": "凭空出现；具象化；实现",
+        "context": "Facts don't just materialize.",
+        "time": "[02:39]"
+      },
+      {
+        "word": "parse",
+        "phonetic": "[pɑːrs]",
+        "pos": "v.",
+        "meaning": "梳理；细致辨析；解析",
+        "context": "Reporters, editors, fact checkers, and legal teams are all working together to parse out truth.",
+        "time": "[02:39]"
+      },
+      {
+        "word": "vet",
+        "phonetic": "[vet]",
+        "pos": "v.",
+        "meaning": "审查；严格核查",
+        "context": "That looks like gathering information, verifying facts, vetting sources, checking for bias, and overall maintaining objectivity to ensure trustworthiness.",
+        "time": "[03:58]"
+      },
+      {
+        "word": "trustworthiness",
+        "phonetic": "[ˈtrʌstwɜːrðinəs]",
+        "pos": "n.",
+        "meaning": "可信度；值得信赖的品质",
+        "context": "That looks like gathering information, verifying facts, vetting sources, checking for bias, and overall maintaining objectivity to ensure trustworthiness.",
+        "time": "[03:58]"
+      },
+      {
+        "word": "disconnect",
+        "phonetic": "[ˈdɪskənekt]",
+        "pos": "n.",
+        "meaning": "脱节；认知裂隙",
+        "context": "That disconnect is affecting our media literacy.",
+        "time": "[03:58]"
+      },
+      {
+        "word": "literacy",
+        "phonetic": "[ˈlɪtərəsi]",
+        "pos": "n.",
+        "meaning": "素养；识读与辨析能力",
+        "context": "That disconnect is affecting our media literacy.",
+        "time": "[03:58]"
+      },
+      {
+        "word": "backbone",
+        "phonetic": "[ˈbækbəʊn]",
+        "pos": "n.",
+        "meaning": "支柱；中流砥柱；骨干",
+        "context": "The backbone of a strong democracy is an equal part of free press and an informed, engaged public.",
+        "time": "[03:58]"
+      },
+      {
+        "word": "default",
+        "phonetic": "[dɪˈfɔːlt]",
+        "pos": "v.",
+        "meaning": "默认采用；习惯性地转向",
+        "context": "A kid that's born today won't default to thinking in terms of the New York Times, Fox News, or PBS, but they're thinking in terms of Instagram and TikTok and YouTube.",
+        "time": "[03:58]"
+      },
+      {
+        "word": "bombard",
+        "phonetic": "[bɑːmˈbɑːrd]",
+        "pos": "v.",
+        "meaning": "轰炸；连续大量袭来",
+        "context": "So when we're living with information bombarding us from the moment we open our eyeballs in the morning, we all deserve access to the knowledge and techniques journalists use to interpret the world.",
+        "time": "[05:24]"
+      },
+      {
+        "word": "framing",
+        "phonetic": "[ˈfreɪmɪŋ]",
+        "pos": "n.",
+        "meaning": "叙事框架；框架设定",
+        "context": "It's also recognizing bias in articles or influencer content that could affect story framing.",
+        "time": "[05:24]"
+      },
+      {
+        "word": "unpack",
+        "phonetic": "[ˌʌnˈpæk]",
+        "pos": "v.",
+        "meaning": "剖析；拆解（逻辑/概念）",
+        "context": "It's understanding the role that entertainment plays in broadcast news and it's unpacking the reasoning behind headlines and visuals.",
+        "time": "[05:24]"
+      },
+      {
+        "word": "infrastructure",
+        "phonetic": "[ˈɪnfrəstrʌktʃər]",
+        "pos": "n.",
+        "meaning": "基础设施；底层架构",
+        "context": "I actually think that traditional newsrooms and new media should learn from one another to ultimately build a faster, more accurate news infrastructure that better meets the needs of today's audience.",
+        "time": "[05:24]"
+      },
+      {
+        "word": "disinformation",
+        "phonetic": "[ˌdɪsˌɪnfərˈmeɪʃn]",
+        "pos": "n.",
+        "meaning": "假信息；蓄意伪造的虚假资讯",
+        "context": "Some classrooms will even invite journalists in to the class to help teach students how to vet sources, recognize state-backed disinformation, and also just to pause and take a beat whenever news stokes an emotional reaction before sharing it out.",
+        "time": "[06:52]"
+      },
+      {
+        "word": "stoke",
+        "phonetic": "[stoʊk]",
+        "pos": "v.",
+        "meaning": "煽动；激发；激起",
+        "context": "Some classrooms will even invite journalists in to the class to help teach students how to vet sources, recognize state-backed disinformation, and also just to pause and take a beat whenever news stokes an emotional reaction before sharing it out.",
+        "time": "[06:52]"
+      },
+      {
+        "word": "propaganda",
+        "phonetic": "[ˌprɑːpəˈɡændə]",
+        "pos": "n.",
+        "meaning": "政治宣传；蛊惑性宣传",
+        "context": "Identifying propaganda and questioning information have been part of Finnish culture ever since the country gained independence from Russia more than a century ago.",
+        "time": "[06:52]"
+      },
+      {
+        "word": "pillar",
+        "phonetic": "[ˈpɪlər]",
+        "pos": "n.",
+        "meaning": "支柱；核心支架",
+        "context": "So today, media literacy is a core pillar of the national curriculum beginning K through 12 and carrying through college and adult learning.",
+        "time": "[06:52]"
+      },
+      {
+        "word": "critique",
+        "phonetic": "[krɪˈtiːk]",
+        "pos": "v.",
+        "meaning": "批判性评价；评判",
+        "context": "So in literature classes, students will learn the basics of verifying news, vetting sources, and critiquing media.",
+        "time": "[06:52]"
+      },
+      {
+        "word": "vulnerable",
+        "phonetic": "[ˈvʌlnərəbl]",
+        "pos": "adj.",
+        "meaning": "脆弱的；易受攻击/蒙骗的",
+        "context": "Finnish education officials say that the curriculum helps protect democracy, that if we can't tell what's true from what isn't, then we can be deceived and we're left vulnerable.",
+        "time": "[08:14]"
+      },
+      {
+        "word": "enact",
+        "phonetic": "[ɪnˈækt]",
+        "pos": "v.",
+        "meaning": "颁布；制定（法律/标准）",
+        "context": "We have the power to ask our elected officials to enact national media literacy education standards.",
+        "time": "[09:22]"
+      },
+      {
+        "word": "misinformation",
+        "phonetic": "[ˌmɪsˌɪnfərˈmeɪʃn]",
+        "pos": "n.",
+        "meaning": "错误信息；失实资讯",
+        "context": "We can practice thinking journalistically in our day to day and call out misinformation when we see it, whether that's pushing back on something that our friends said or posting the link to a verified news article on a social media post that isn't accurate.",
+        "time": "[09:22]"
+      }
+    ],
+    "keySentences": [
+      {
+        "name": "认知转折与溯源洞察句",
+        "structure": "It was not until [Subject] later [Action/Condition] that [Subject] realized just to what extent [Clause indicating structural reality].",
+        "usage": "用于学术论文破题或演讲中的认知转折点，打破前文先入为主的认知假定，用强有力的强调句型凸显深层矛盾的普遍性与严重程度，极具思想穿透力。",
+        "sentence": "It wasn't until I later started working with new media creators that I realized just to what extent we are not all dissecting information using the same framework.",
+        "translation": "直到后来我开始与新媒体创作者共事，我才真正意识到，我们每个人剖析信息所依托的思维框架竟存在着如此巨大的鸿沟。",
+        "time": "[02:39]",
+        "pattern": "认知转折与溯源洞察句",
+        "note": "用于学术论文破题或演讲中的认知转折点，打破前文先入为主的认知假定，用强有力的强调句型凸显深层矛盾的普遍性与严重程度，极具思想穿透力。"
+      },
+      {
+        "name": "两极背离之反讽归纳句",
+        "structure": "[Subject] have more access to [Resource/Entity] than any [Group] in history, yet in so many cases [Subject] are [Opposite Mental Action/State] than ever before.",
+        "usage": "常用于GRE大作文、社论或批判性论述中，构建物质丰裕与精神贫乏、技术发展与认知退化之间的巨大悖论（ironic contrast），为全文树立核心矛盾。",
+        "sentence": "We have more access to information than any generation in history, yet in so many cases we're thinking less independently than ever before.",
+        "translation": "我们所拥有的信息获取渠道远超历史上任何一个世代，然而在诸多情境下，我们独立思考的程度却比以往任何时候都要低下。",
+        "time": "[03:58]",
+        "pattern": "两极背离之反讽归纳句",
+        "note": "常用于GRE大作文、社论或批判性论述中，构建物质丰裕与精神贫乏、技术发展与认知退化之间的巨大悖论（ironic contrast），为全文树立核心矛盾。"
+      },
+      {
+        "name": "系统性错位归因句",
+        "structure": "It is almost like [System A] has evolved faster than [System B].",
+        "usage": "适用于宏观社会学、技术哲学分析。用看似通俗轻巧的比喻语气（It is almost like...），揭示底层制度、教育或伦理发展与技术爆炸之间结构性不同步（cultural lag）的深刻本质。",
+        "sentence": "It's almost like our media ecosystem has evolved faster than our civic education system.",
+        "translation": "这几乎就像是我们的媒体生态演进速度，已经远远甩开了我们的公民教育体系。",
+        "time": "[03:58]",
+        "pattern": "系统性错位归因句",
+        "note": "适用于宏观社会学、技术哲学分析。用看似通俗轻巧的比喻语气（It is almost like...），揭示底层制度、教育或伦理发展与技术爆炸之间结构性不同步（cultural lag）的深刻本质。"
+      },
+      {
+        "name": "多维并列界定排比句",
+        "structure": "[Core Concept] is what enables [Agent] to [Action A]. It is also [Action B/Gerund Phrase]. It is [Action C/Gerund Phrase] and it is [Action D/Gerund Phrase].",
+        "usage": "用于对论文核心概念（如素养、批判性思维、领导力）下多维定义或展开深度剖析。通过排比递进的动名词结构，层层解构概念的外延与操作化路径，增强论据的学术权威感。",
+        "sentence": "Media literacy is what enables us to identify AI, deep fakes, and unverified news. It's also recognizing bias in articles or influencer content that could affect story framing. It's understanding the role that entertainment plays in broadcast news and it's unpacking the reasoning behind headlines and visuals.",
+        "translation": "媒介素养不仅能赋能我们识别AI、深度伪造和未经验证的新闻，还能帮助我们洞察文章或网红内容中足以左右叙事框架的偏见，理解娱乐在广播新闻中所扮演的角色，并剖析标题与视觉表象背后的底层逻辑。",
+        "time": "[05:24]",
+        "pattern": "多维并列界定排比句",
+        "note": "用于对论文核心概念（如素养、批判性思维、领导力）下多维定义或展开深度剖析。通过排比递进的动名词结构，层层解构概念的外延与操作化路径，增强论据的学术权威感。"
+      },
+      {
+        "name": "辩证折中与双向协同倡议句",
+        "structure": "I am not saying that [Subject A] is [Adjective A], and I am not saying that [Subject B] should be [Action B/Discarded]. I actually think that [Subject A] and [Subject B] should learn from one another to ultimately [Achieve Goal].",
+        "usage": "极高阶的议论文折中调和（reconciliation）修辞句型。先连用两个“否定极端假设”（not saying that...），排除读者非黑即白的二元对立思维，随后顺理成章提出兼收并蓄的建设性解决方案。",
+        "sentence": "I'm not saying that journalism is perfect. And I'm not saying that AI and social media and influencer should all be left in the dust. I actually think that traditional newsrooms and new media should learn from one another to ultimately build a faster, more accurate news infrastructure that better meets the needs of today's audience.",
+        "translation": "我并不是说新闻业尽善尽美，也不是说人工智能、社交媒体和网红博主应当被全盘弃置。我实际上认为，传统新闻编辑部与新媒体应当相互借鉴学习，从而最终构建起一个更加敏捷、更为精确，且更能契合当今受众需求的新闻基础设施。",
+        "time": "[05:24]",
+        "pattern": "辩证折中与双向协同倡议句",
+        "note": "极高阶的议论文折中调和（reconciliation）修辞句型。先连用两个“否定极端假设”（not saying that...），排除读者非黑即白的二元对立思维，随后顺理成章提出兼收并蓄的建设性解决方案。"
+      },
+      {
+        "name": "假定反思设问句",
+        "structure": "[Subject] cannot help [Emotion/Thinking Action] and wondering how things could have been different if [Agent in Subject A] were [Action/State] that [Agent in Subject B] [Daily Habit].",
+        "usage": "用于通过虚拟语气与现实的强烈反差制造修辞回响。常放在演讲或论文尾声，通过将宏观的失败案例与微观的优秀范式并置对比，激发读者的紧迫感与行动意愿。",
+        "sentence": "I can't help thinking a little bit more about Fire Festival and wondering how things could have been different if the folks on those social media teams were asking the same questions that Finnish elementary schoolers ask every day.",
+        "translation": "我禁不住再次反思起那场声名狼藉的Fyre音乐节，并由衷遐想：如果当年那些社交媒体团队所提出的问题，能与芬兰小学生每天日常发出的追问别无二致，事情的结局又该是何等不同？",
+        "time": "[09:22]",
+        "pattern": "假定反思设问句",
+        "note": "用于通过虚拟语气与现实的强烈反差制造修辞回响。常放在演讲或论文尾声，通过将宏观的失败案例与微观的优秀范式并置对比，激发读者的紧迫感与行动意愿。"
+      }
+    ],
+    "spoken": [],
+    "grammar": [],
+    "vocab": [],
+    "echoLoop": [
+      {
+        "step": 1,
+        "name": "盲听捕捉 (Blind Listening)",
+        "guide": "闭上双眼全篇盲听，记录第一遍捕捉到的核心脉络。"
+      },
+      {
+        "step": 2,
+        "name": "声学精听 (Acoustic Decoding)",
+        "guide": "对照中英双语分幕逐句精听，重点体会连读与语调起伏。"
+      },
+      {
+        "step": 3,
+        "name": "影子跟读 (Shadowing)",
+        "guide": "以 1.0x 正常语速跟随原声音频进行影子跟读练习。"
+      },
+      {
+        "step": 4,
+        "name": "自主复述 (Active Recall)",
+        "guide": "合上文本稿，尝试用英文复述演讲的核心观点。"
+      }
+    ],
+    "neteaseId": 3453104142,
+    "neteaseSongId": "3453104142"
+  },
+  {
     "id": "jessica-irwin",
     "slug": "jessica-irwin",
     "title": "I can't speak. Here's how I get people to listen",
