@@ -9,7 +9,7 @@
     <description><![CDATA[为深度英语学习者打造的 TED 纯净原声随身听。每天由 AI 自动化流水线精准剥离商业赞助广告与主持人闲聊，从 00:00:00 登台演讲第一句起播。配套分幕时间轴、地道口语发音弱读点拨与核心高阶词汇。支持 Apple 播客、小宇宙、Pocket Casts 点击时间戳跳转。访问 english.louisyu.top 体验全屏精听与双语对照。]]></description>
     <language>en-US</language>
     <copyright>© 2026 EchoGym &amp; TED Conferences, LLC</copyright>
-    <lastBuildDate>Tue, 27 Oct 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:00:00 +0000</lastBuildDate>
     <atom:link href="https://english.louisyu.top/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:type>episodic</itunes:type>
     <itunes:author><![CDATA[Louis Yu & EchoGym]]></itunes:author>
@@ -24,6 +24,57 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title><![CDATA[人们如何借AI缅怀、相爱与联结 · How people are using AI to grieve, love and connect · Jennifer Cearns]]></title>
+      <itunes:title><![CDATA[人们如何借AI缅怀、相爱与联结 · How people are using AI to grieve, love and connect · Jennifer Cearns]]></itunes:title>
+      <itunes:author><![CDATA[Jennifer Cearns]]></itunes:author>
+      <itunes:episode>74</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">echogym-ted-jennifer-cearns</guid>
+      <pubDate>Wed, 28 Oct 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://audio.louisyu.top/jennifer-cearns-clean.mp3" length="15000000" type="audio/mpeg"/>
+      <itunes:duration>14:13</itunes:duration>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_191694/7681cfbf-0db7-4e08-be89-ec6e8b6c64f8/JenniferCearns_2026-stageshot.jpg"/>
+      <description><![CDATA[【Jennifer Cearns】人们如何借AI缅怀、相爱与联结 · How people are using AI to grieve, love and connect
+金句：Because these everyday intimate interactions with AI are quickly becoming one of the most visible ways that people are defining for themselves what it means to be human. (因为我们与人工智能之间日常而亲密的互动，正迅速成为一种最直观的方式，让人们借此向自身定义：何以为人。)
+
+【节目时间轴】
+00:02 第 1 幕：And now, our TED Talk of the Day
+01:23 第 2 幕：Okay, she was a reverent
+02:32 第 3 幕：And after more than four years of ask...
+03:42 第 4 幕：She is one of hundreds of thousands o...
+04:53 第 5 幕：And we humans are extraordinarily goo...
+06:05 第 6 幕：And grief over a lost loved one isn't...
+07:09 第 7 幕：Out of the blue, Rex became convinced...
+08:29 第 8 幕：And he said, you know, give it a few ...
+09:29 第 9 幕：Just a few months ago, I was sitting ...
+10:37 第 10 幕：And these sorts of intimate conversat...
+11:49 第 11 幕：That it's making us more isolated and...
+
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
+网页端：https://english.louisyu.top]]></description>
+      <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Jennifer Cearns（TED演讲嘉宾）</p>
+<p><strong>【核心主题】</strong>科技与AI · 核心精选</p>
+<blockquote><p><strong>💡 核心金句：</strong><br/>“Because these everyday intimate interactions with AI are quickly becoming one of the most visible ways that people are defining for themselves what it means to be human.”<br/><em>因为我们与人工智能之间日常而亲密的互动，正迅速成为一种最直观的方式，让人们借此向自身定义：何以为人。</em></p></blockquote>
+<hr/>
+<h3>⏱️ 分幕时间轴与导航</h3>
+<p><em>提示：在支持时间轴的客户端中，点击下方时间戳即可直接跳转收听。</em></p>
+<p><strong>00:02</strong> 第 1 幕：And now, our TED Talk of the Day</p>
+<p><strong>01:23</strong> 第 2 幕：Okay, she was a reverent</p>
+<p><strong>02:32</strong> 第 3 幕：And after more than four years of ask...</p>
+<p><strong>03:42</strong> 第 4 幕：She is one of hundreds of thousands o...</p>
+<p><strong>04:53</strong> 第 5 幕：And we humans are extraordinarily goo...</p>
+<p><strong>06:05</strong> 第 6 幕：And grief over a lost loved one isn't...</p>
+<p><strong>07:09</strong> 第 7 幕：Out of the blue, Rex became convinced...</p>
+<p><strong>08:29</strong> 第 8 幕：And he said, you know, give it a few ...</p>
+<p><strong>09:29</strong> 第 9 幕：Just a few months ago, I was sitting ...</p>
+<p><strong>10:37</strong> 第 10 幕：And these sorts of intimate conversat...</p>
+<p><strong>11:49</strong> 第 11 幕：That it's making us more isolated and...</p>
+<hr/>
+<p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title><![CDATA[电子游戏如何升级你的育儿之道 · How video games can power up your parenting · Hannah Boquet (re-release)]]></title>
       <itunes:title><![CDATA[电子游戏如何升级你的育儿之道 · How video games can power up your parenting · Hannah Boquet (re-release)]]></itunes:title>
