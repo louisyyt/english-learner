@@ -9,7 +9,7 @@
     <description><![CDATA[为深度英语学习者打造的 TED 纯净原声随身听。每天由 AI 自动化流水线精准剥离商业赞助广告与主持人闲聊，从 00:00:00 登台演讲第一句起播。配套分幕时间轴、地道口语发音弱读点拨与核心高阶词汇。支持 Apple 播客、小宇宙、Pocket Casts 点击时间戳跳转。访问 english.louisyu.top 体验全屏精听与双语对照。]]></description>
     <language>en-US</language>
     <copyright>© 2026 EchoGym &amp; TED Conferences, LLC</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 08:00:00 +0000</lastBuildDate>
     <atom:link href="https://english.louisyu.top/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:type>episodic</itunes:type>
     <itunes:author><![CDATA[Louis Yu & EchoGym]]></itunes:author>
@@ -24,6 +24,57 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title><![CDATA[如何结交朋友，更让友谊长存 · How to make friends (and keep them) · Sheridan Voysey]]></title>
+      <itunes:title><![CDATA[如何结交朋友，更让友谊长存 · How to make friends (and keep them) · Sheridan Voysey]]></itunes:title>
+      <itunes:author><![CDATA[Sheridan Voysey]]></itunes:author>
+      <itunes:episode>76</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">echogym-ted-sheridan-voysey</guid>
+      <pubDate>Fri, 30 Oct 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://audio.louisyu.top/sheridan-voysey-clean.mp3" length="15000000" type="audio/mpeg"/>
+      <itunes:duration>13:08</itunes:duration>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_191589/0ffc05bb-feca-432c-95ec-b390b3112a38/SheridanVoysey_2025X-stageshot.jpg"/>
+      <description><![CDATA[【Sheridan Voysey】如何结交朋友，更让友谊长存 · How to make friends (and keep them)
+金句：The revolution will begin when we treat friendship as a vocation. (当我们将友谊视作毕生的天职，变革就此开启。)
+
+【节目时间轴】
+00:02 第 1 幕：And now our TED Talk of the Day
+01:02 第 2 幕：She said, who could you call at 2 a
+02:03 第 3 幕：People with close friends are happier...
+03:06 第 4 幕：I'd recently moved cities
+04:10 第 5 幕：If you find that one song about frien...
+05:10 第 6 幕：Comedians have tried to step into the...
+06:22 第 7 幕：You know the kind where everybody die...
+07:39 第 8 幕：People
+08:50 第 9 幕：Putting people before pixels and frie...
+10:00 第 10 幕：And when we taste it for real, it can...
+10:57 第 11 幕：Down the list he went, sorting everyt...
+
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
+网页端：https://english.louisyu.top]]></description>
+      <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Sheridan Voysey（TED演讲嘉宾）</p>
+<p><strong>【核心主题】</strong>个人成长与心理 · 核心精选</p>
+<blockquote><p><strong>💡 核心金句：</strong><br/>“The revolution will begin when we treat friendship as a vocation.”<br/><em>当我们将友谊视作毕生的天职，变革就此开启。</em></p></blockquote>
+<hr/>
+<h3>⏱️ 分幕时间轴与导航</h3>
+<p><em>提示：在支持时间轴的客户端中，点击下方时间戳即可直接跳转收听。</em></p>
+<p><strong>00:02</strong> 第 1 幕：And now our TED Talk of the Day</p>
+<p><strong>01:02</strong> 第 2 幕：She said, who could you call at 2 a</p>
+<p><strong>02:03</strong> 第 3 幕：People with close friends are happier...</p>
+<p><strong>03:06</strong> 第 4 幕：I'd recently moved cities</p>
+<p><strong>04:10</strong> 第 5 幕：If you find that one song about frien...</p>
+<p><strong>05:10</strong> 第 6 幕：Comedians have tried to step into the...</p>
+<p><strong>06:22</strong> 第 7 幕：You know the kind where everybody die...</p>
+<p><strong>07:39</strong> 第 8 幕：People</p>
+<p><strong>08:50</strong> 第 9 幕：Putting people before pixels and frie...</p>
+<p><strong>10:00</strong> 第 10 幕：And when we taste it for real, it can...</p>
+<p><strong>10:57</strong> 第 11 幕：Down the list he went, sorting everyt...</p>
+<hr/>
+<p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title><![CDATA[化石能源巨头如何让你的能源账单居高不下 · How fossil fuel companies keep your energy costs high · Jon Powers]]></title>
       <itunes:title><![CDATA[化石能源巨头如何让你的能源账单居高不下 · How fossil fuel companies keep your energy costs high · Jon Powers]]></itunes:title>
