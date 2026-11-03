@@ -9,7 +9,7 @@
     <description><![CDATA[为深度英语学习者打造的 TED 纯净原声随身听。每天由 AI 自动化流水线精准剥离商业赞助广告与主持人闲聊，从 00:00:00 登台演讲第一句起播。配套分幕时间轴、地道口语发音弱读点拨与核心高阶词汇。支持 Apple 播客、小宇宙、Pocket Casts 点击时间戳跳转。访问 english.louisyu.top 体验全屏精听与双语对照。]]></description>
     <language>en-US</language>
     <copyright>© 2026 EchoGym &amp; TED Conferences, LLC</copyright>
-    <lastBuildDate>Mon, 02 Nov 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 08:00:00 +0000</lastBuildDate>
     <atom:link href="https://english.louisyu.top/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:type>episodic</itunes:type>
     <itunes:author><![CDATA[Louis Yu & EchoGym]]></itunes:author>
@@ -24,6 +24,49 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title><![CDATA[孩子最希望父母懂得的快乐真谛 · What kids wish their parents knew about fun · Mila Rojas]]></title>
+      <itunes:title><![CDATA[孩子最希望父母懂得的快乐真谛 · What kids wish their parents knew about fun · Mila Rojas]]></itunes:title>
+      <itunes:author><![CDATA[Mila Rojas]]></itunes:author>
+      <itunes:episode>78</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">echogym-ted-mila-rojas</guid>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://audio.louisyu.top/mila-rojas-clean.mp3" length="15000000" type="audio/mpeg"/>
+      <itunes:duration>05:45</itunes:duration>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_183606/93c36c22-9eed-4cfb-913a-99cfe1d71452/MilaRojas_2026S-stageshot.jpg"/>
+      <description><![CDATA[【Mila Rojas】孩子最希望父母懂得的快乐真谛 · What kids wish their parents knew about fun
+金句：Play isn't an escape from your life, it's a way into it. (玩耍并非逃离生活，而是真正走进生活的方式。)
+
+【节目时间轴】
+00:09 第 1 幕：And now, our Ted Talk of the Day
+00:50 第 2 幕：He was less happy and more tired, pro...
+01:40 第 3 幕：They rush to unpack
+02:21 第 4 幕：Parents should enjoy a play not becau...
+03:09 第 5 幕：Over time, that belief becomes automatic
+04:04 第 6 幕：What if the fourth dinner everyone lo...
+04:42 第 7 幕：I go and walk with my dad and my litt...
+
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
+网页端：https://english.louisyu.top]]></description>
+      <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Mila Rojas（TED演讲嘉宾）</p>
+<p><strong>【核心主题】</strong>个人成长与心理 · 核心精选</p>
+<blockquote><p><strong>💡 核心金句：</strong><br/>“Play isn't an escape from your life, it's a way into it.”<br/><em>玩耍并非逃离生活，而是真正走进生活的方式。</em></p></blockquote>
+<hr/>
+<h3>⏱️ 分幕时间轴与导航</h3>
+<p><em>提示：在支持时间轴的客户端中，点击下方时间戳即可直接跳转收听。</em></p>
+<p><strong>00:09</strong> 第 1 幕：And now, our Ted Talk of the Day</p>
+<p><strong>00:50</strong> 第 2 幕：He was less happy and more tired, pro...</p>
+<p><strong>01:40</strong> 第 3 幕：They rush to unpack</p>
+<p><strong>02:21</strong> 第 4 幕：Parents should enjoy a play not becau...</p>
+<p><strong>03:09</strong> 第 5 幕：Over time, that belief becomes automatic</p>
+<p><strong>04:04</strong> 第 6 幕：What if the fourth dinner everyone lo...</p>
+<p><strong>04:42</strong> 第 7 幕：I go and walk with my dad and my litt...</p>
+<hr/>
+<p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title><![CDATA[险些离婚的婚姻治疗师 · The couples therapists who nearly got divorced · Harville Hendrix]]></title>
       <itunes:title><![CDATA[险些离婚的婚姻治疗师 · The couples therapists who nearly got divorced · Harville Hendrix]]></itunes:title>
