@@ -9,7 +9,7 @@
     <description><![CDATA[为深度英语学习者打造的 TED 纯净原声随身听。每天由 AI 自动化流水线精准剥离商业赞助广告与主持人闲聊，从 00:00:00 登台演讲第一句起播。配套分幕时间轴、地道口语发音弱读点拨与核心高阶词汇。支持 Apple 播客、小宇宙、Pocket Casts 点击时间戳跳转。访问 english.louisyu.top 体验全屏精听与双语对照。]]></description>
     <language>en-US</language>
     <copyright>© 2026 EchoGym &amp; TED Conferences, LLC</copyright>
-    <lastBuildDate>Mon, 09 Nov 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 08:00:00 +0000</lastBuildDate>
     <atom:link href="https://english.louisyu.top/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:type>episodic</itunes:type>
     <itunes:author><![CDATA[Louis Yu & EchoGym]]></itunes:author>
@@ -24,6 +24,60 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title><![CDATA[你的手机有多脏：把它当作第三只手来清洁 · Lotti Tajouri]]></title>
+      <itunes:title><![CDATA[你的手机有多脏：把它当作第三只手来清洁 · Lotti Tajouri]]></itunes:title>
+      <itunes:author><![CDATA[Lotti Tajouri]]></itunes:author>
+      <itunes:episode>81</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">echogym-ted-lotti-tajouri</guid>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://audio.louisyu.top/lotti-tajouri-clean.mp3" length="15000000" type="audio/mpeg"/>
+      <itunes:duration>14:46</itunes:duration>
+      <itunes:image href="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_192773/6df8c8f2-9323-44c0-afb6-263b8d40743f/LottiTajouri_2026X-stageshot.jpg"/>
+      <description><![CDATA[【Lotti Tajouri】你的手机有多脏：把它当作第三只手来清洁
+金句：Remember, your phone is the third hand, and it is the dirtiest one you have. (记住，你的手机是你的第三只手，而且是你身上最脏的那只。)
+
+【节目时间轴】
+00:02 第 1 幕：See something you thought you knew
+01:16 第 2 幕：Smartphones glowing in a sterile theatre
+02:29 第 3 幕：Twice at risk, so it became personal
+04:07 第 4 幕：Your phone is effectively your third hand
+05:28 第 5 幕：A five-star hotel for microbes
+07:00 第 6 幕：Trojan horses in hospitals
+08:36 第 7 幕：Phones that cross borders
+09:59 第 8 幕：A very solvable problem
+11:23 第 9 幕：Make the safe choice the easy choice
+12:58 第 10 幕：Include the third hand in hygiene
+
+纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
+网页端：https://english.louisyu.top]]></description>
+      <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Lotti Tajouri（分子生物学家，研究智能手机的微生物污染与公共卫生安全（TEDx Brisbane 2026））</p>
+<p><strong>【核心主题】</strong>自然与科学 · 核心精选</p>
+<blockquote><p><strong>💡 核心金句：</strong><br/>“Remember, your phone is the third hand, and it is the dirtiest one you have.”<br/><em>记住，你的手机是你的第三只手，而且是你身上最脏的那只。</em></p></blockquote>
+<hr/>
+<h3>⏱️ 分幕时间轴与导航</h3>
+<p><em>提示：在支持时间轴的客户端中，点击下方时间戳即可直接跳转收听。</em></p>
+<p><strong>00:02</strong> 第 1 幕：See something you thought you knew</p>
+<p><strong>01:16</strong> 第 2 幕：Smartphones glowing in a sterile theatre</p>
+<p><strong>02:29</strong> 第 3 幕：Twice at risk, so it became personal</p>
+<p><strong>04:07</strong> 第 4 幕：Your phone is effectively your third hand</p>
+<p><strong>05:28</strong> 第 5 幕：A five-star hotel for microbes</p>
+<p><strong>07:00</strong> 第 6 幕：Trojan horses in hospitals</p>
+<p><strong>08:36</strong> 第 7 幕：Phones that cross borders</p>
+<p><strong>09:59</strong> 第 8 幕：A very solvable problem</p>
+<p><strong>11:23</strong> 第 9 幕：Make the safe choice the easy choice</p>
+<p><strong>12:58</strong> 第 10 幕：Include the third hand in hygiene</p>
+<hr/>
+<h3>🗣️ 地道口语表达与发音精析</h3>
+<p><strong>• [[01:00]] in the name of (keeping germs out)</strong> ()<br/>释义：<br/>发音要点：<em></em></p>
+<p><strong>• [[02:10]] it dropped out of my mind</strong> ()<br/>释义：<br/>发音要点：<em></em></p>
+<p><strong>• [[03:05]] that was it for me</strong> ()<br/>释义：<br/>发音要点：<em></em></p>
+<hr/>
+<p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title><![CDATA[如何重新连接你的大脑，并找到你的心流 · How to rewire your brain — and find your flow · Heather Berlin]]></title>
       <itunes:title><![CDATA[如何重新连接你的大脑，并找到你的心流 · How to rewire your brain — and find your flow · Heather Berlin]]></itunes:title>
@@ -53,7 +107,7 @@
 
 纯净原声 00:00:00 起播，已剥离所有片头片尾赞助广告与闲聊。
 网页端：https://english.louisyu.top]]></description>
-      <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Heather Berlin（TED演讲嘉宾）</p>
+      <content:encoded><![CDATA[<p><strong>【本期主讲】</strong>Heather Berlin（神经科学家与临床心理学家）</p>
 <p><strong>【核心主题】</strong>个人成长与心理 · 核心精选</p>
 <blockquote><p><strong>💡 核心金句：</strong><br/>“To truly gain control, you have to learn the fine art of losing it on purpose in the right moments.”<br/><em>为了真正获得控制权，你必须学会在适当的时候故意失去控制权的艺术。</em></p></blockquote>
 <hr/>
@@ -69,6 +123,11 @@
 <p><strong>08:53</strong> 第 8 幕：Flow is a measurable change in brain ...</p>
 <p><strong>10:05</strong> 第 9 幕：If I suddenly think, oh my God, I'm g...</p>
 <p><strong>11:15</strong> 第 10 幕：The worst thing you can do when you'r...</p>
+<hr/>
+<h3>🗣️ 地道口语表达与发音精析</h3>
+<p><strong>• [[10:05]] get out of your own way</strong> ()<br/>释义：<br/>发音要点：<em></em></p>
+<p><strong>• [[03:49]] we've all been there</strong> ()<br/>释义：<br/>发音要点：<em></em></p>
+<p><strong>• [[11:15]] second-guess</strong> ()<br/>释义：<br/>发音要点：<em></em></p>
 <hr/>
 <p>🎧 纯净原声由 EchoGym 自动化剪辑剥离广告制作。<br/>👉 完整逐字稿、中英分句对照与智能复读精听请访问：<a href='https://english.louisyu.top'>english.louisyu.top</a></p>]]></content:encoded>
       <itunes:explicit>false</itunes:explicit>
